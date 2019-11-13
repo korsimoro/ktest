@@ -1,0 +1,15 @@
+created:
+modified:
+title:LDAP
+type:text/vnd.tiddlywiki
+element.type:specification
+tags:[object Object]
+tmap.edges:{"8b100be3-a4f1-40c2-b294-7d38cb7a521f":{"to":"af5431be-4eb1-4c81-a492-cf09e50cc69e","type":"organization-for-group"}}
+tmap.id:b1c42458-812f-4bfa-a179-902a92373e1c
+
+This document describes the protocol elements, along with their
+   semantics and encodings, of the Lightweight Directory Access Protocol
+   (LDAP).  LDAP provides access to distributed directory services that
+   act in accordance with X.500 data and service models.  These protocol
+   elements are based on those described in the X.500 Directory Access
+   Protocol (DAP).

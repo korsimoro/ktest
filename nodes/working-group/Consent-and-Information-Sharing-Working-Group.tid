@@ -1,0 +1,10 @@
+created:
+modified:
+title:Consent and Information Sharing Working  Group
+type:text/vnd.tiddlywiki
+element.type:working-group
+tags:[object Object]
+tmap.edges:{"25b8d082-f49d-444c-b76b-cdee76e7386c":{"to":"f9953572-a387-4f8b-ab8e-d2599e5709e0","type":"organization-for-group"}}
+tmap.id:9bdb8621-8532-4306-9b46-51d4113a1857
+
+This group identifies and documents use cases and scenarios to illustrate the various sub-sets of user driven information, the benefits therein, and specify policy and technology enablers needed to enable this information to flow. Project VRM and other partner groups seek individual autonomy over personal information. Frameworks and tools enable personal data flow, to improve the relationship between demand and supply. When individuals are forced to sign organization-centric privacy policies / terms of use, limitations are naturally placed on personal information on both sides of the transaction. If these constraints were removed or rebalanced, individuals would more autonomous capabilities. We think this would lead to new, rich information flows - including actual demand data (as opposed to derived / predicted demand).

@@ -1,0 +1,20 @@
+created:
+modified:
+title:Thomas Hardjono
+type:text/vnd.tiddlywiki
+element.type:person
+tags:[object Object]
+tmap.edges:{"1891f8ab-236a-4318-9698-15729e2b6247":{"to":"a51c490c-4c5b-4db9-9f62-59d0052777ed","type":"vice-chair"},"1349d1ca-7d32-4698-af2e-56396d046a2e":{"to":"5f97acb3-3844-4d39-a06c-e0cc1ccfe4a3","type":"vice-chair"},"f2845407-d750-4f42-acab-879cda85e738":{"to":"0f75042e-1c23-491a-b63d-d985bc3b0d31","type":"vice-chair"},"2cf296e9-e0f0-4600-8bc9-30a8f1e3191f":{"to":"400a515a-984f-4608-9188-4ae7f48e54f3","type":"person-affiliated"},"08cb7348-ceff-4aa8-a5ac-60218a367cbe":{"to":"ae02228e-b625-408c-85b3-61ba9a743107","type":"employee"},"f70f1055-155e-450e-9fc0-41dfb7831b58":{"to":"ee0c083d-1647-4c90-83ee-010a8c61456f","type":"person-affiliated"},"10deabdb-ea47-432d-82f4-7994d9b284ed":{"to":"c8c11034-30a9-4711-9841-ec11c9218ccd","type":"vice-chair"},"33787b59-a2d6-4be2-96dd-3baecb950b94":{"to":"b4c6e4cf-3eb2-48f6-8d3e-ec5cd32adb06","type":"author"}}
+tmap.id:5428ddab-3ae0-4fb7-9e34-faf72a1742de
+
+Thomas acts as a liaison with key external stakeholders to increase awareness of, and engagement in, the Kerberos Consortium. He works closely with all our sponsors, to Thomas Hardjonoadvance our shared goal of establishing Kerberos as a universal authentication platform.
+
+Previous to this role he was Principal Scientist within the CTO Office at Wave Systems, where he worked on bringing trusted computing technologies, such as the TPM and FDE drives, into mainstream computing systems. Prior to this he was CTO at SignaCert, which is a startup company also focusing on trusted computing products.
+
+Throughout his 17 year career in the computer and IP network security industry Thomas has primarily been engaged in advanced technologies and engineering. This includes 5 years as Principal Scientist and Director within the CTO Office of VeriSign, and several years in Bay Networks (Nortel) and NTT/ATR in Japan.
+
+His area of interest includes network security, cryptography, multicast security, PKI, wireless security, digital rights management and trusted computing. Over the years Thomas has published over 50 technical papers in journals and conferences, and 3 books on security. Thomas holds 19 patents covering various security and networking technologies.
+
+Thomas is active in a number of technical communities and standards organizations, including the IETF, IEEE, TCG, Oasis and Kantara. In the IETF Thomas was chair of the Multicast Security (MSEC) working group and the Group Security Research Group. He is an author of RFC 3740 and RFC 3547. Thomas was also co-chair of the TCG Infrastructure Working Group. He is author and editor of a number of core TCG specifications focusing on thesecurity infrastructure supporting the TPM hardware. Currently he is co-chair of the Security Services TC (SSTC) in Oasis (home of the SAML2.0 standard), and active contributor to the UMA WG in the Kantara initiative. The UMA WG is developing interoperability specifications for a user-centric and consent-based resource sharing in the Internet based on the OAuth2.0 authorization paradigm. Thomas is the MIT representative to the NSTIC IDESG.
+
+He is an active speaker at various security forums, panels and events.

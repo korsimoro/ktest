@@ -1,0 +1,10 @@
+created:
+modified:
+title:Health Relationship Trust Profile for OpenID Connect 1.0
+type:text/vnd.tiddlywiki
+element.type:specification
+tags:[object Object]
+tmap.edges:{"3deca7b4-adde-4f09-acbf-9b2a7b25e7b5":{"to":"034a0da4-b1bf-49dc-af31-986f5734205b","type":"specification-of-group"}}
+tmap.id:0c0dc109-5fb6-437c-83f9-6eaa891d4dce
+
+This specification profiles the OpenID Connect protocol to increase baseline security, provide greater interoperability, and structure deployments in a manner specifically applicable to (but not limited to) the healthcare domain.

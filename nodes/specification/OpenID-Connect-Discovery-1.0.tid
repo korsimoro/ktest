@@ -1,0 +1,12 @@
+created:
+modified:
+title:OpenID Connect Discovery 1.0
+type:text/vnd.tiddlywiki
+element.type:specification
+tags:[object Object]
+tmap.edges:{"e375378a-5bc9-46be-9803-f96a2306eca5":{"to":"3c88e9e6-fb20-4445-a54f-23e9b62301ca","type":"specification-of-group"}}
+tmap.id:913171af-ca4a-4036-84f4-239d09230d41
+
+OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. It enables Clients to verify the identity of the End-User based on the authentication performed by an Authorization Server, as well as to obtain basic profile information about the End-User in an interoperable and REST-like manner.
+
+This specification defines a mechanism for an OpenID Connect Relying Party to discover the End-User's OpenID Provider and obtain information needed to interact with it, including its OAuth 2.0 endpoint locations.

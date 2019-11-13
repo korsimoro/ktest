@@ -1,0 +1,10 @@
+created:
+modified:
+title:Account Chooser
+type:text/vnd.tiddlywiki
+element.type:working-group
+tags:[object Object]
+tmap.edges:{"cbfc84fd-d508-4f08-b94a-f51b4981825a":{"to":"d6149b4f-6cf0-4632-ac28-56101807d6cc","type":"organization-for-group"}}
+tmap.id:0b21704c-7d25-4a85-81a3-d3b4681a18d4
+
+Account Chooser is an industry effort to standardize that approach on both mobile and the desktop. It also provides a way for applications to start supporting identity providers to improve security without requiring a large user experience change. That security improvement is becoming more important as hackers become more sophisticated.

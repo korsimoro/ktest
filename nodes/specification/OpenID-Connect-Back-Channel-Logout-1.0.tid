@@ -1,0 +1,12 @@
+created:
+modified:
+title:OpenID Connect Back-Channel Logout 1.0
+type:text/vnd.tiddlywiki
+element.type:specification
+tags:[object Object]
+tmap.edges:{}
+tmap.id:0c7682c6-35ca-4a02-9495-5ee77dbacb8e
+
+OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. It enables Clients to verify the identity of the End-User based on the authentication performed by an Authorization Server, as well as to obtain basic profile information about the End-User in an interoperable and REST-like manner.
+
+This specification defines a logout mechanism that uses direct back-channel communication between the OP and RPs being logged out; this differs from front-channel logout mechanisms, which communicate logout requests from the OP to RPs via the User Agent

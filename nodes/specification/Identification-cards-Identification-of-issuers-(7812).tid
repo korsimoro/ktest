@@ -1,0 +1,11 @@
+created:
+modified:
+title:Identification cards – Identification of issuers (7812)
+type:text/vnd.tiddlywiki
+element.type:specification
+tags:[object Object]
+tmap.edges:{"8997a6cd-3ee3-4953-8fb5-dc09ef34e946":{"to":"1cd170d4-1fe9-44e7-8157-bbfb17bad40a","type":"specification-of-group"}}
+tmap.id:83e24078-029f-4253-b0c1-de5ee1e35d41
+
+7812-1 This part of ISO/IEC 7812 specifies a numbering system for the identification of issuers of identification cards used in international and/or inter-industry interchange.
+7812-2 This part of ISO/IEC 7812 describes the application and registration procedures for numbers issued in accordance with ISO/IEC 7812-1.

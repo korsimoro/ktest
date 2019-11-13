@@ -1,0 +1,12 @@
+created:
+modified:
+title:Working Paper on Location Tracking from Communications of Mobile Devices
+type:text/vnd.tiddlywiki
+element.type:publication
+tags:[object Object]
+tmap.edges:{}
+tmap.id:d6281ab9-58ec-4723-a0fd-3a28d7545be9
+
+The Working Group has previously identified risks related to “the capture of location and other personal data about the network user”. The Working Group has also adopted a common position on privacy and location information in mobile communications services and discussed the use of deep packet inspection for marketing purposes.
+
+This Working Paper specifically examines the data protection and privacy risks associated with the collection of device-related information and deriving location data from communications data. An example would be the use of Wi-Fi probe requests originating from devices such as smart phones for the analysis of footfall and traffic routes within a retail environment.

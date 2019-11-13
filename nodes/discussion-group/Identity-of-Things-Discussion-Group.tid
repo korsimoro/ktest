@@ -1,0 +1,17 @@
+created:
+modified:
+title:Identity of Things Discussion Group
+type:text/vnd.tiddlywiki
+element.type:discussion-group
+tags:[object Object]
+tmap.edges:{"d06f93e0-8d3c-44ef-9eac-5d845f0b0311":{"to":"f9953572-a387-4f8b-ab8e-d2599e5709e0","type":"organization-for-group"}}
+tmap.id:bfa26e4f-b486-4118-a40f-2aeba10a47b6
+
+Object IdM addresses the handling of identities of things (IDoT), goods and objects. The Internet of Things (IoT) is beginning to evolve and early solutions are now being implemented. In the context of IoT, some Object Identities are managed with proprietary solutions or niche standards that have not been mapped to each other nor interoperate. As a consequence, there is no overall framework how to recognize and manage identities across different solutions.
+The purpose of the Identities of Things DG is to start the evolution of an overarching Identity Framework for the IoT.  
+The discussion group intends to deliver the following:
+* Deliver “Landscape document” / State-of-the-art analysis of the current Object IdM approaches
+* Describe the Object IdM problem with exemplary use-cases
+* Submit article proposal to IEEE about identities in the internet of things
+* Prepare the foundation for a working group to develop an Object IdM 
+* Framework for the IDoT, in support of IoT broader landscape.

@@ -1,0 +1,10 @@
+created:
+modified:
+title:Do Not Track: A Universal Third-Party Web Tracking Opt Out
+type:text/vnd.tiddlywiki
+element.type:specification
+tags:[object Object]
+tmap.edges:{}
+tmap.id:4f1690f6-f301-4ea1-80ed-aa79bfa498f8
+
+This document defines the syntax and semantics of Do Not Track, an HTTP header-based mechanism that enables users to express preferences about third-party web tracking. It also provides a standard for how web services should comply with such user preferences.

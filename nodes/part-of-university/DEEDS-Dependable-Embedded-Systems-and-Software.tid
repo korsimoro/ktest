@@ -1,0 +1,13 @@
+created:
+modified:
+title:DEEDS - Dependable, Embedded Systems and Software
+type:text/vnd.tiddlywiki
+element.type:part-of-university
+tags:[object Object]
+tmap.edges:{"2003f6e0-3358-4891-ae35-13464429f388":{"to":"74b14588-7eba-42a4-8f30-23eb372322dc","type":"organization-for-group"},"e5023fa6-c3b7-4098-8e06-f3ff66010753":{"to":"913503d5-0e43-47e2-9c87-aab35a8ec557","type":"general-member"}}
+tmap.id:491efe26-6249-424c-a39f-977237892ad0
+
+The DEEDS group conducts systems research focusing on "Trustworthiness" i.e., The provisioning of "Dependable & Secure" Distributed Middleware and Services. It has two emphasis areas of:
+
+Design & Analysis: Exploration of Middleware (Software/OS/Protocols) issues in distributed and networked systems such as Data Centers, Storage and the Cloud infrastructure.
+Assessment: Quantification of Trust (Security Metrics, Threat Profiling, SLAs) and Verification/Validation (experimental FI and formal model checking)

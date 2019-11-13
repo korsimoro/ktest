@@ -1,0 +1,22 @@
+created:
+modified:
+title:STORK
+type:text/vnd.tiddlywiki
+element.type:research-project
+tags:[object Object]
+tmap.edges:{"7420e9e2-ed7e-431e-bfa9-7663762d6403":{"to":"4c8ecad1-ecaa-4c14-8676-a879ddc7007f","type":"connection"}}
+tmap.id:70be5d95-7c86-4122-a430-bde0450fefb5
+
+The aim of the STORK project is to establish a European eID Interoperability Platform that will allow citizens to establish new e-relations across borders, just by presenting their national eID.
+
+Cross-border user authentication for such e-relations will be applied and tested by the project by means of five pilot projects that will use existing government services in EU Member States. In time however, additional service providers will also become connected to the platform thereby increasing the number of cross-border services available to European users. 
+
+Thus in the future, you should be able to start a company, get your tax refund, or obtain your university papers without physical presence; all you will need to access these services is to enter your personal data using your national eID, and the STORK platform will obtain the required guarantee (authentication) from your government.
+
+User-centric Approach = Privacy Guarantee
+
+The role of the STORK platform is to identify a user who is in a session with a service provider, and to send his data to this service. Whilst the service provider may request various data items, the user always controls the data to be sent. The explicit consent of the owner of the data, the user, is always required before his data can be sent to the service provider.
+
+The platform will not store any personal data, so no data can be lost.
+
+This user centric approach was not taken to satisfy some philosophical preferences, but in line with the legislative requirements of all the various countries involved that oblige concrete measures to be taken to guarantee that a citizen's fundamental rights, such as his privacy, are respected.

@@ -1,0 +1,16 @@
+created:
+modified:
+title:MODRNA Authentication Profile
+type:text/vnd.tiddlywiki
+element.type:specification
+tags:[object Object]
+tmap.edges:{"faab9ed4-9f45-4675-8e44-e4b6fcf2f90a":{"to":"f2b786ab-d958-4b34-bd99-4f7f41e33c3a","type":"specification-of-group"}}
+tmap.id:909c9463-b807-49c8-8fb3-38b6f790c929
+
+RPs are keen to use high quality authentication methods, which can be provided by Mobile Network Operators (MNO).  However a RP must be able to describe its demands for an authentication request and it must be able to do this in an interoperable way.
+
+The MODRNA Authentication Profile will specify how RP's request a certain level of assurance for the authentication.
+
+In addition, the profile will specify an encrypted login hint token to allow for the transport of user identifiers to the OP in a privacy preserving fashion.
+
+Lastly, the profile will specify an additional message parameter intended to serve as an interlock between the user's consumption device and authentication device.

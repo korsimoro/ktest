@@ -1,0 +1,11 @@
+created:
+modified:
+title:Consent Receipt Specification
+type:text/vnd.tiddlywiki
+element.type:specification
+tags:[object Object]
+tmap.edges:{"13fde68f-bbf6-446c-bf78-9e531c923801":{"to":"eec672d9-9b26-4a23-ae95-067f6638ec54","type":"author"},"a649c133-544c-439a-a783-a96d0148d6b8":{"to":"b03d1ebd-d840-46c9-9f09-3d0e003ca1d5","type":"author"},"50a6edc0-c283-4b46-9632-3346dd7608b9":{"to":"f628ef6c-e38b-4f14-8ce0-cb750d8df9e5","type":"author"},"6b9d70f4-254c-4ec3-8767-7fc1e524623f":{"to":"9bdb8621-8532-4306-9b46-51d4113a1857","type":"specification-of-group"}}
+tmap.id:6f929326-4ad4-44ef-b38d-c1be3398776a
+
+A consent receipt is a record of a consent provided to an individual at the point in a person agrees to the sharing of personal information.  It's purpose is to capture the privacy policy and its purpose for sharing personal information   so it can be  easily  used by people to communicate and manage consent and sharing of personal information once it is provided. 
+The working title of the specification has been, the Minimum Viable Consent Receipt.  (MVCR)

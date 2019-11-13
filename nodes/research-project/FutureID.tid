@@ -1,0 +1,14 @@
+created:
+modified:
+title:FutureID
+type:text/vnd.tiddlywiki
+element.type:research-project
+tags:[object Object]
+tmap.edges:{"703b3af7-20b7-4e6b-8b60-e005ab22776f":{"to":"3f001e95-181c-4792-9fad-885f056ff657","type":"connection"},"989ea888-d44c-48e0-983f-9f917210e1b3":{"to":"0c8593f4-9e60-4f0e-9f68-0034347b7f4e","type":"connection"},"76ef3a05-2aa2-4829-8267-72df9f2a49cf":{"to":"56eaa60e-af22-4429-8352-69fbdf181ab1","type":"author"}}
+tmap.id:0336f1fe-81dd-4a9a-8d54-852bad88d028
+
+The FutureID project builds a comprehensive, flexible, privacy-aware and ubiquitously usable identity management infrastructure for Europe, which integrates existing eID technology and trust infrastructures, emerging federated identity management services and modern credential technologies to provide a user-centric system for the trustworthy and accountable management of identity claims.
+
+The FutureID infrastructure will provide great benefits to all stakeholders involved in the eID value chain. Users will benefit from the availability of a ubiquitously usable open source eID client that is capable of running on arbitrary desktop PCs, tablets and modern smart phones. FutureID will allow application and service providers to easily integrate their existing services with the FutureID infrastructure, providing them with the benefits from the strong security offered by eIDs without requiring them to make substantial investments. This will enable service providers to offer this technology to users as an alternative to username/password based systems, providing them with a choice for a more trustworthy, usable and innovative technology.
+
+For existing and emerging trust service providers and card issuers FutureID will provide an integrative framework, which eases using their authentication and signature related products across Europe and beyond. To demonstrate the applicability of the developed technologies and the feasibility of the overall approach FutureID will develop two pilot applications and is open for additional application services who want to use the innovative FutureID technology.

@@ -1,0 +1,12 @@
+created:
+modified:
+title:CloudAuthZ Cloud Authorization TC
+type:text/vnd.tiddlywiki
+element.type:working-group
+tags:[object Object]
+tmap.edges:{"06449a74-af7f-49b3-9bf6-d44f0140fd81":{"to":"05acde2e-1612-477a-926c-9ddfe4220dec","type":"organization-for-group"}}
+tmap.id:3705da7b-7545-4a0c-be4b-b368a325e5fd
+
+The CloudAuthZ TC develops enhanced models for managing authorizations and entitlements in SaaS, PaaS, and IaaS contexts. CloudAuthZ enables contextual attributes and contextual entitlements sets to be delivered to Policy Enforcement Points in real time. With CloudAuthZ, authorization decisions can be informed by data such as where users are, what they are doing, which device they are using, etc.
+
+The TC welcomes contributions of relevant use cases for authorization and entitlements. Existing standards (e.g. XACML, OAuth, etc.) will be used wherever possible.

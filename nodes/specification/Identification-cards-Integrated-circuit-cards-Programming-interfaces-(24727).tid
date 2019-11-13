@@ -1,0 +1,13 @@
+created:
+modified:
+title:Identification cards-Integrated circuit cards-Programming interfaces (24727)
+type:text/vnd.tiddlywiki
+element.type:specification
+tags:[object Object]
+tmap.edges:{"a11f9032-acee-40b9-a3f2-9d518902dd4c":{"to":"94813aa4-623f-401c-8f53-152085e75be4","type":"specification-of-group"}}
+tmap.id:0191a1e3-7278-4466-8166-5731c0cf0a67
+
+This part of ISO/IEC 24727 specifies
+― system architecture and principles of operation,
+― a capabilities discovery mechanism,
+― security rationale

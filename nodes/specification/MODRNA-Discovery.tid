@@ -1,0 +1,14 @@
+created:
+modified:
+title:MODRNA Discovery
+type:text/vnd.tiddlywiki
+element.type:specification
+tags:[object Object]
+tmap.edges:{"b6f987df-26e2-4352-9ccb-7bd4f8e4897e":{"to":"f2b786ab-d958-4b34-bd99-4f7f41e33c3a","type":"specification-of-group"}}
+tmap.id:6b7e745d-3db3-4a29-b207-37d1c9935b14
+
+OpenID Connect Discovery 1.0 [OpenID.Discovery] section 2.1 specifies a way to normalize a user identifier to derive a resource and especially a host for OpenID Provider Issuer Discovery. While this works well for identifiers as email addresses and urls, it does not work for typical identifiers from the mobile network space. In a mobile environment, MSISDN's or ip-addresses are typical resources identifying a user or the respective mobile network operator (MNO). The structure of those identifiers does not allow for an algorithmic normalization. Thus it will be necessary to have a specific service to perform the normalization.
+
+The OpenID Connect Mobile Discovery Profile specifies the interface of this service. Part of the interface specification will be the identification of possible user input identifier types relevant in the Mobile Connect scenario. Remark: Some of those user input identifier types may not identify a single user/device but may be sufficient to identify the right mobile operator. An example for this is the MNC/MCC tuple (mobile network code/ mobile contry code) or the IP address range.
+
+This profile also specifies how a client registers with the MNO discovery service and how Account Chooser service [Account.Chooser] can be used to further improve user experience in the overall Mobile Connect flow.

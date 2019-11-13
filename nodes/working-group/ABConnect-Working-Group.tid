@@ -1,0 +1,10 @@
+created:
+modified:
+title:AB/Connect Working Group
+type:text/vnd.tiddlywiki
+element.type:working-group
+tags:[object Object]
+tmap.edges:{"672678c9-dbde-4034-85da-ee7f53bdd62b":{"to":"d6149b4f-6cf0-4632-ac28-56101807d6cc","type":"organization-for-group"}}
+tmap.id:3c88e9e6-fb20-4445-a54f-23e9b62301ca
+
+OpenID Connect WG is a combined WG of Artifact Binding (AB) WG and Connect WG

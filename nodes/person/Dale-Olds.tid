@@ -1,0 +1,12 @@
+created:
+modified:
+title:Dale Olds
+type:text/vnd.tiddlywiki
+element.type:person
+tags:[object Object]
+tmap.edges:{"4f6a33d7-174e-4374-bc53-389c715061b6":{"to":"1fa9679e-78ba-4e18-9298-cf47a98a0a00","type":"employee"},"cee60c00-3c3b-43ba-80a0-6544b79214e8":{"to":"c0ec7a81-dc3d-42d5-9939-f9ec16e30f3b","type":"employee"}}
+tmap.id:a70fe6d3-d8a1-4dd9-be51-9ad5518dee0c
+
+Dale led development of the identity system for VMware’s CloudFoundry PaaS and led the identity team for VMWare Workspace. As a Distinguished Engineer at Novell, Dale architected the Novell Cloud Security Service,and led the Bandit and Higgins open source identity system projects. Olds was the lead architect and implementer of Novell Directory Services (NDS) and eDirectory.
+
+He is listed as an inventor on numerous patents and has received Novell’s Edison, President’s, and Inventor Hall of Fame awards. Other industry experience focused on open standards, Linux, and Internet content delivery services. Olds has a BS in computer science from the University of Utah.

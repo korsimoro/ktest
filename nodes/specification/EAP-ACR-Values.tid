@@ -1,0 +1,10 @@
+created:
+modified:
+title:EAP ACR Values
+type:text/vnd.tiddlywiki
+element.type:specification
+tags:[object Object]
+tmap.edges:{"fa58636a-be31-4c33-8974-40e034998921":{"to":"c9de1d5b-2285-4f55-a854-8b705ccba10e","type":"specification-of-group"}}
+tmap.id:61fac3b6-4728-4365-8fc9-7964ae4985f2
+
+This specification enables OpenID Connect Relying Parties to request that specific authentication context classes be applied to authentications performed and for OpenID Providers to inform Relying Parties whether these requests were satisfied. Specifically, an authentication context class reference value is defined that requests that phishing-resistant authentication be performed and another is defined that requests that phishing-resistant authentication with a hardware-protected key be performed. These policies can be satisfied, for instance, by using W3C scoped credentials or FIDO authenticators.

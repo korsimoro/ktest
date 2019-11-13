@@ -1,0 +1,19 @@
+created:
+modified:
+title:SMTP
+type:text/vnd.tiddlywiki
+element.type:specification
+tags:[object Object]
+tmap.edges:{"f7c5ff80-0c5b-4769-9923-d4936bdcefb2":{"to":"af5431be-4eb1-4c81-a492-cf09e50cc69e","type":"organization-for-group"}}
+tmap.id:452359b2-6f23-4cb8-8b99-f5b51c9dd610
+
+This document is a specification of the basic protocol for Internet
+   electronic mail transport.  It consolidates, updates, and clarifies
+   several previous documents, making all or parts of most of them
+   obsolete.  It covers the SMTP extension mechanisms and best practices
+   for the contemporary Internet, but does not provide details about
+   particular extensions.  Although SMTP was designed as a mail
+   transport and delivery protocol, this specification also contains
+   information that is important to its use as a "mail submission"
+   protocol for "split-UA" (User Agent) mail reading systems and mobile
+   environments.

@@ -1,0 +1,10 @@
+created:
+modified:
+title:Eve Maler
+type:text/vnd.tiddlywiki
+element.type:person
+tags:[object Object]
+tmap.edges:{"6090bd5f-b78a-4559-9428-6f559e2ccfef":{"to":"92b17dec-a036-421a-bc9d-e6a68e3cd757","type":"employee"},"912e3e95-88ad-4670-a4ab-77c84a0d7eec":{"to":"a51c490c-4c5b-4db9-9f62-59d0052777ed","type":"person-affiliated"},"7b7dd887-4f9e-45df-9a11-391492bbc048":{"to":"b4c6e4cf-3eb2-48f6-8d3e-ec5cd32adb06","type":"author"},"12a9a535-f78e-4d14-b7ff-db9ba2d861a8":{"to":"b8344d92-6121-4444-a529-aeb0e2b1469a","type":"author"},"7bf8cb4a-a2eb-4937-a159-3f322d698c39":{"to":"400a515a-984f-4608-9188-4ae7f48e54f3","type":"vice-chair"}}
+tmap.id:bbb0f8de-6609-4311-b72f-407c707d6e11
+
+One way to get to know me is through the nicknames I’ve collected. I’ve had the pleasure of working on a crazy quilt of technologies, protocols, policies, and methodologies over the years, and various monikers related to them have stuck. The first was XMLgrrl, reflecting my part in the creation of the Extensible Markup Language (XML). The next was the SAML Lady, bestowed by a colleague based in Japan on the occasion of a trip to Tokyo to teach the Security Assertion Markup Language, the federated identity standard. More recently I became chief UMAnitarian, working on the User-Managed Access protocol and associated adoption.

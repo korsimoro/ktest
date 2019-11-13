@@ -1,0 +1,9 @@
+created:
+modified:
+title:United States Government
+type:text/vnd.tiddlywiki
+element.type:government
+tags:[object Object]
+tmap.edges:{"8128ee0a-367c-4be2-a087-e4eb8691dbfd":{"to":"3a6970a5-81b0-4ae4-9039-5f0af045b2f5","type":"executive-member"},"b467ed7d-2035-4e8a-9486-d3c5cce7fe59":{"to":"dedd1dc1-a716-4cfb-b4b9-a5429bf80283","type":"funding-flow"},"fdbe3c9e-0423-421b-b7f1-f3848e8d3f16":{"to":"edfc9e05-1c4f-48be-ab74-16f4cb529f6b","type":"government-connection"}}
+tmap.id:7c367ede-a227-42a4-8a8f-81f4b8064422
+

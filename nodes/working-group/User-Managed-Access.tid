@@ -1,0 +1,10 @@
+created:
+modified:
+title:User Managed Access
+type:text/vnd.tiddlywiki
+element.type:working-group
+tags:[object Object]
+tmap.edges:{"8359de50-5411-46b2-a30f-b1c854ab31f5":{"to":"f9953572-a387-4f8b-ab8e-d2599e5709e0","type":"organization-for-group"}}
+tmap.id:400a515a-984f-4608-9188-4ae7f48e54f3
+
+User-Managed Access (UMA) is an award-winning OAuth-based protocol designed to give a web user a unified control point for authorizing who and what can get access to their online personal data, content, and services, no matter where all those things live on the web.
