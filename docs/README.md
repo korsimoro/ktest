@@ -1,20 +1,48 @@
 
 
-## FROM THE PROPOSAL 
+# FROM THE PROPOSAL 
 
-identify what products and services are being provided by catalyst and support organizations working on privacy related iniatitives. 
+## Services by .orgs that relate to privacy needs of end users
+This map starts with products/projects subtype service that are created by organizations subtype NGO ()
 
-
-
-interdependencies between Me2B and external organizations:  what Me2B Alliance gives to and what it receives from a particular organization.
-
-
-connections with the right people and orgs in order to leverage and/or support specific products/services.
+## Products by .orgs that relate to privacy needs of end users
+This map starts with teh projects/products - subtype Products that are created by organizations sub-type NGO.  (an example here should be Privacy Badger by EFF)
 
 
-understand what organizations are working on particular aspects of promoting digital privacy, dignity and empowerment.  
 
- Trustable Technology enabler organizations are currently defined as follows but these should be vetted and validated in developing the final ontology: 
+## Understanding Me2B connection to other organizations
+
+This map starts with the column Me2B Relationship and then pulls in all the organizations listed as these types. 
+
+* member
+* affiliates
+* funder
+* potential collaborator
+
+Maybe a map for each...type - these maps could then also leverage the differnet fields of each of the organization to reflect if they are research labs, companies, ngos - and perhaps also draw on data about the various activities they are doing  
+
+_We don't have a field that captures this yet - what Me2B Alliance gives to and what it receives_
+
+
+
+## Understanding Products and Services
+
+This will have several maps to help understand the different products and services avaliable for different purposes. It will look at the various products along with different purposes. 
+
+
+## Understanding the range of activities organizations are working on relative to particular aspects of promoting digital privacy dignity and empowerment
+
+Differnet organizations are oriented to differnet types purposes and activities. These maps map will draw on various activities/purposes - it may draw on fields like location to see pockets of activity around the world. 
+
+
+
+
+
+
+
+ 
+
+Trustable Technology enabler organizations are currently defined as follows but these should be vetted and validated in developing the final ontology: 
 
 * Movements (Education, PR, Awareness)
 * Standards Bodies
@@ -28,6 +56,7 @@ understand what organizations are working on particular aspects of promoting dig
 
 
 ## From LISA's e-mails
+
 would be good to be able to filter on “Organization Principles”.  This seems hard and maybe not possible, but as I clarify how Me2B has a slightly different orientation than other orgs, it’s important to understand the “venn diagram” of how orgs share and differentiate based on principles
 
 biomedical and patient rights type orgs 
