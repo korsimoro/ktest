@@ -1,0 +1,4350 @@
+[
+    {
+        "From": "DoNotTrack.Us",
+        "To": "Cookie Clearinghouse",
+        "Type": "Similar Efforts/Projects/Work"
+    },
+    {
+        "From": "CEF Telecom",
+        "To": "CEF Building Blocks / CEF Digital Portal",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "ELSA",
+        "To": "STORK",
+        "Type": "Connection"
+    },
+    {
+        "From": "European Commission",
+        "To": "Horizon 2020",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "John Bradley",
+        "To": "OpenID Connect Discovery 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "T. Lodderstedt",
+        "To": "MODRNA Discovery",
+        "Type": "Author"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working Paper on Privacy and Wearable Computing Devices",
+        "Type": "Author"
+    },
+    {
+        "From": "ITU-T  International Telecommunication Union",
+        "To": "United Nations",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Justin Richer",
+        "To": "Health Relationship Trust Profile for Fast Healthcare Interoperability Resources (FHIR) OAuth 2.0 Scopes",
+        "Type": "Author"
+    },
+    {
+        "From": "World Bank",
+        "To": "Digital Identity: Towards Shared Principles for Public and Private Sector Cooperation A joint World Bank Group \u2013 GSMA \u2013 Secure Identity Alliance Discussion Paper",
+        "Type": "Author"
+    },
+    {
+        "From": "Dick Hardt",
+        "To": "Fast Federation",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "InternetNZ",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "Consent Receipt Specification",
+        "To": "Initial Open Notice Call for Collaboration",
+        "Type": "Author"
+    },
+    {
+        "From": "Department of Justice",
+        "To": "United States Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Privacy Commissioner of Canada (Commissariat \u00e0 la protection de la vie priv\u00e9e du Canada)",
+        "To": "Canadian Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "EEMA",
+        "To": "Vendorcom",
+        "Type": "Collaboration Partner / Affiliate"
+    },
+    {
+        "From": "American Bar Association: Identity Management Legal Taskforce",
+        "To": "International Identity Law and Policy Workshop",
+        "Type": "Sponsor"
+    },
+    {
+        "From": "Identity Metasystem Interoperability (IMI)",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "ESI European Software Institute",
+        "To": "European Trust Foundation",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Paul Simmonds",
+        "To": "\u201cIdentity\u201d Commandments",
+        "Type": "Author"
+    },
+    {
+        "From": "Privacy Considerations for Internet Protocols",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "University of Murcia",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "Thales Communications SA",
+        "To": "Thales",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences; National Research Council",
+        "To": "Privacy Research and Best Practices:  Summary of a Workshop for the Intelligence Community",
+        "Type": "Author"
+    },
+    {
+        "From": "WISER Wide-Impact cyber Security Risk framework",
+        "To": "Cyber secure, innovative smart energy products",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Health Relationship Trust Profile for OpenID Connect 1.0",
+        "To": "HEART Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "OpenID Connect Dynamic Client Registration 1.0",
+        "To": "AB/Connect Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "eIDAS",
+        "To": "Identity Law & Policy Workshop Amsterdam",
+        "Type": "Connection"
+    },
+    {
+        "From": "NMRG Network Management Research Group",
+        "To": "Internet Research Task Force IRTF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Financial API Working Group",
+        "To": "OpenID Foundation",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Experian",
+        "To": "OIX-UK",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Department of Homeland Security",
+        "To": "US National Information Exchange Model",
+        "Type": "Founder"
+    },
+    {
+        "From": "Truxtun Capital",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "Ian Henderson",
+        "To": "Consent and Information Sharing Working  Group",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "FutureID",
+        "To": "Future Trust",
+        "Type": "Connection"
+    },
+    {
+        "From": "Lucile Girollet",
+        "To": "Civil Registry Consolidation through Digital Identity Management",
+        "Type": "Author"
+    },
+    {
+        "From": "Mike Jones",
+        "To": "EAP ACR Values",
+        "Type": "Author"
+    },
+    {
+        "From": "Group Security Research Group",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "STORK",
+        "To": "STORK 2.0",
+        "Type": "Connection"
+    },
+    {
+        "From": "National Interoperability Framework Observatory (NIFO)",
+        "To": "eGov State of Play - Reports",
+        "Type": "Author"
+    },
+    {
+        "From": "United States Government",
+        "To": "World Bank",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences; National Research Council",
+        "To": "The Internet's Coming of Age",
+        "Type": "Author"
+    },
+    {
+        "From": "Western Hemisphere Travel Initiative",
+        "To": "Trusted Traveler Programs",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "IEEE Computer Society",
+        "To": "IEEE Cybersecurity Initiative",
+        "Type": "Founder"
+    },
+    {
+        "From": "CFRG Crypto Forum Research Group",
+        "To": "Internet Research Task Force IRTF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working Paper on privacy risks in the re-use of email accounts and similar information society services",
+        "Type": "Author"
+    },
+    {
+        "From": "Justin Richer",
+        "To": "OAuth Token Introspection (RFC7662)",
+        "Type": "Author"
+    },
+    {
+        "From": "EEMA",
+        "To": "Trust in Digital World",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Maciej Machulak",
+        "To": "UMA Developer",
+        "Type": "Person Affiliated"
+    },
+    {
+        "Description": "The Digital Single Market strategy aims to open up digital opportunities for people and business and enhance Europe's position as a world leader in the digital economy.\n\nThe Digital Single Market Strategy will maximise the growth potential of the European Digital Economy and of its society, so that every European can enjoy its full benefit.\n\nThe economy and society of Europe need to make the most of digital. 47% of EU population is not properly digitally skilled, yet in the near future, 90% of jobs will require some level of digital skills.",
+        "End Date": "2016-12-31",
+        "From": "Digital Single Market",
+        "Start Date": "2015-09-06",
+        "To": "Economy & Society",
+        "Type": "Government Connection",
+        "Website": "https://ec.europa.eu/digital-single-market/en/digital-single-market"
+    },
+    {
+        "From": "American Registry for Internet Numbers (ARIN)",
+        "To": "Number Resource Organization (NRO)",
+        "Type": "General Member"
+    },
+    {
+        "From": "Open Identity Exchange",
+        "To": "OIX-UK",
+        "Type": "Connection"
+    },
+    {
+        "From": "Future of Identity in the Information Society (FIDIS)",
+        "To": "Mobility and Identity",
+        "Type": "Author"
+    },
+    {
+        "From": "Federal Trade Commission",
+        "To": "The International Conference of Data Protection and Privacy Commissioners",
+        "Type": "General Member"
+    },
+    {
+        "From": "Graz University of Technology",
+        "To": "The Secure Information Technology Center \u2013 Austria (A-SIT)",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "The Institute for Law and the Web at the University of Southampton (ILAWS)",
+        "To": "University of Southampton",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "comsign",
+        "To": "Justice Ministry in Israel",
+        "Type": "Certified IdP"
+    },
+    {
+        "From": "IBM Research - Zurich",
+        "To": "IBM",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Center for Internet and Society",
+        "To": "Stanford",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "eIDAS",
+        "To": "International Identity Law and Policy Workshop"
+    },
+    {
+        "From": "T2TRG Thing-to-Thing Research Group",
+        "To": "Internet Research Task Force IRTF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "NFVRG Network Function Virtualization Research Group",
+        "To": "Service Function Chaining  (sfc)",
+        "Type": "Connection"
+    },
+    {
+        "From": "eIDAS",
+        "To": "FutureID",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs (DG GROWTH )",
+        "Label": "Implementation of the EU Policy",
+        "To": "eInvoicing",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "eSignature",
+        "To": "EU Trusted List Scheme Operators",
+        "Type": "Connection"
+    },
+    {
+        "From": "Cryptas",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "Chuck Mortimore",
+        "To": "OpenID Connect Profile for SCIM Services",
+        "Type": "Author"
+    },
+    {
+        "From": "OneTrust",
+        "To": "Annual Privacy Forum",
+        "Type": "Sponsor"
+    },
+    {
+        "From": "USCIS US Citizenship and Immigration Services - Department of Homeland Security",
+        "To": "Electronic Verification of Vital Events (EVVE)",
+        "Type": "Customer of Service / Company"
+    },
+    {
+        "From": "NEC Laboratories Europe",
+        "To": "NEC",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Thomas Hardjono",
+        "To": "Blockchain and Smart Contracts Discussion Group",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "Tracking Compliance and Scope",
+        "To": "The Tracking Protection Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Verification of Lawful Status (VLS)",
+        "To": "American Association of Motor Vehicle Administrators",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "UK  Cabinet Office",
+        "To": "OIX-UK",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Working Party on Communications and Infrastructure Services Policy (CISP)",
+        "To": "The Economics of Personal Data and Privacy: 30 Years after the OECD Privacy Guidelines",
+        "Type": "Convenor"
+    },
+    {
+        "From": "NASCIO",
+        "To": "US National Information Exchange Model",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Eurodocs",
+        "To": "ABC4Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "SSEDIC - Scoping the Single European Digital Identity Community",
+        "To": "SSEDIC.2020 - Scoping the Single European Digital Identity Community for the next decade",
+        "Type": "Connection"
+    },
+    {
+        "From": "IEEE Cybersecurity Initiative",
+        "To": "IEEE SecDev 2016",
+        "Type": "Sponsor"
+    },
+    {
+        "From": "eIDAS",
+        "To": "LIGHTEST",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Global Identity Foundation",
+        "To": "The Six Conundrums of Global Identity",
+        "Type": "Author"
+    },
+    {
+        "From": "White House - Office of Science and Technology Policy",
+        "To": "National Strategy for Trusted Identities in Cyberspace",
+        "Type": "Author"
+    },
+    {
+        "From": "Tim Bray",
+        "To": "AccountChooser Integration API Profile 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "OpenID Connect Discovery 1.0",
+        "To": "AB/Connect Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working Paper on Privacy and Aerial Surveillance",
+        "Type": "Author"
+    },
+    {
+        "From": "Identification cards \u2013 Machine readable travel documents \u2013 Part 1: Machine readable passport",
+        "To": "Machine Readable Travel Documents WG3",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "TSDSI  Telecommunications Standards Development Society, Indiia",
+        "To": "Global Standards Collaboration",
+        "Type": "General Member"
+    },
+    {
+        "From": "Internet Architecture Board (IAB)",
+        "To": "IESG -  Internet Engineering Steering Group",
+        "Type": "Connection"
+    },
+    {
+        "From": "Ku Leuven",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "Blockchain Working Group",
+        "To": "Blockchain: Perspectives on Research, Technology and Policy",
+        "Type": "Author"
+    },
+    {
+        "From": "WISER Wide-Impact cyber Security Risk framework",
+        "To": "Cyber secure assessment preferences of financial institutions",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Public Service Development Agency",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "eIDAS",
+        "To": "International Identity Law and Policy Workshop",
+        "Type": "Connection"
+    },
+    {
+        "From": "Privacy Engineering",
+        "To": "National Institute of Standards (NIST)",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "European Commission",
+        "To": "Connecting Europe Facility CEF  Telecom Expert Group",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "ISO/IEC JTC 1 / SC27 IT Security Techniques",
+        "To": "ISO/IEC",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Directorate-General for Informatics (DIGIT)",
+        "To": "eGov State of Play - Reports",
+        "Type": "Author"
+    },
+    {
+        "From": "Thales Communications SA",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "ABAC Attribute Based Access Control",
+        "To": "National Institute of Standards (NIST)",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "International Federation for Information Processing",
+        "To": "IFIP Summer School 2016",
+        "Type": "Convenor"
+    },
+    {
+        "From": "OpenID Connect Federation 1.0",
+        "To": "AB/Connect Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "EEMA",
+        "To": "OECD (The Organisation for Economic Co-operation and Development)",
+        "Type": "Collaboration Partner / Affiliate"
+    },
+    {
+        "From": "Open Web Platform",
+        "To": "W3C",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Physical Characteristics and Test Methods WG1",
+        "To": "ISO/IEC JTC1/SC17",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Trustseed",
+        "To": "Trust in Digital Life",
+        "Type": "General Member",
+        "Website": "http://www.trustseed.com/index.php/en/"
+    },
+    {
+        "From": "European Committee for Standardization (CEN)",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "DEEDS - Dependable, Embedded Systems and Software",
+        "To": "Technische Universit\u00e4t Darmstadt",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Justin Richer",
+        "To": "Health Relationship Trust Profile for OAuth 2.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Edmund Jay",
+        "To": "Illumila",
+        "Type": "Employee"
+    },
+    {
+        "From": "J. Connotte",
+        "To": "MODRNA Authentication Profile",
+        "Type": "Author"
+    },
+    {
+        "From": "European Data Protection Supervisor (Contr\u00f4leur europ\u00e9en de la protection des donn\u00e9es)",
+        "To": "ipen Internet Privacy Engineering Network"
+    },
+    {
+        "From": "ELSA",
+        "To": "e-CODEX",
+        "Type": "Connection"
+    },
+    {
+        "From": "Thomas J. Smedinghoff",
+        "To": "American Bar Association: Identity Management Legal Taskforce",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "mobile Ecosystem Forum",
+        "To": "mef trust working group",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "7th Framework Programme",
+        "To": "epSOS",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "\u201dRome Memorandum\u201d - Report and Guidance on Privacy in Social Network Services",
+        "Type": "Author"
+    },
+    {
+        "From": "EEMA",
+        "To": "Trust in Digital Life"
+    },
+    {
+        "From": "FIDO 2.0: Key Attestation Format",
+        "To": "FIDO Alliance",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Post Office",
+        "To": "GOV.UK Verify",
+        "Type": "Certified IdP"
+    },
+    {
+        "From": "Driver's License Data Verification (DLDV) Service",
+        "To": "American Association of Motor Vehicle Administrators",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Identification cards \u2013 Contactless integrated circuit(s) cards  (10536)",
+        "To": "Contactless Integrated Circuit(s) cards WG8",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Systematic Alien Verification for Entitlements SAVE",
+        "To": "Verification of Lawful Status (VLS)",
+        "Type": "Connection"
+    },
+    {
+        "From": "AccountChooser Integration API Profile 1.0",
+        "To": "Account Chooser",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "ISA2 Interoperability Solutions for European Public Administrators",
+        "To": "european Interoperability Framework (EIF) for European Public Services",
+        "Type": "Author"
+    },
+    {
+        "From": "ID Theft Prevention and ID Management Standards Panel (IDSP)",
+        "To": "ANSI",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Digital Signature Services (DSS) TC",
+        "To": "DSS - XSD supporting ITU-T X.509 certificate version 3 rules in the eIDAS trusted list"
+    },
+    {
+        "From": "GEANT (GEANT)",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "Kai Rannenberg",
+        "To": "Chair of Mobile Business & Multilateral Security",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "Kai Rannenberg",
+        "To": "ipen Internet Privacy Engineering Network",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "Global Identity Foundation",
+        "To": "Global Identity Foundation - White Paper",
+        "Type": "Author"
+    },
+    {
+        "From": "Justin Richer",
+        "To": "Health Relationship Trust Profile for OpenID Connect 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "MULTICERT \u2013 Servi\u00e7os de Certifica\u00e7\u00e3o Electr\u00f3nica S.A",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "Eve Maler",
+        "To": "Forge Rock",
+        "Type": "Employee"
+    },
+    {
+        "From": "Trusted Traveler Programs",
+        "To": "US Customs and Boarder Protection",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "SDNRG Software-Defined Networking Research Group",
+        "To": "ITU-T  International Telecommunication Union",
+        "Type": "Connection"
+    },
+    {
+        "From": "Asia\u2011Pacific Network Information Centre (APNIC)",
+        "To": "Number Resource Organization (NRO)",
+        "Type": "General Member"
+    },
+    {
+        "From": "Roy T. Fielding",
+        "To": "Adobe",
+        "Type": "Employee"
+    },
+    {
+        "From": "Innovate UK",
+        "To": "UK Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Blockchain Working Group",
+        "To": "Multiple Views on Blockchain: Technology, Use Cases, Economics and Policies"
+    },
+    {
+        "From": "Department of Justice",
+        "To": "US National Information Exchange Model",
+        "Type": "Founder"
+    },
+    {
+        "From": "AIDC: Automatic Identification and Data Capture Committee",
+        "To": "ATIS   The Alliance for Telecommunications Industry Solutions, USA",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "EEMA",
+        "To": "European Trust Foundation",
+        "Type": "Founder"
+    },
+    {
+        "From": "Personal Identity Verification",
+        "To": "National Institute of Standards (NIST)",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "CryptoExperts SAS",
+        "To": "ABC4Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "International Identity Law and Policy Workshop",
+        "To": "Report: International Law and Policy",
+        "Type": "Author"
+    },
+    {
+        "From": "OpenID Connect Core 1.0",
+        "To": "AB/Connect Working Group"
+    },
+    {
+        "From": "Blockchain Working Group",
+        "To": "Trust in Digital Life",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Microsoft France",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "Verizon",
+        "To": "Identity Law & Policy Workshop Amsterdam",
+        "Type": "Sponsor"
+    },
+    {
+        "From": "Web of Things Interest Group",
+        "To": "W3C",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "OpenID Connect Session Management 1.0",
+        "To": "AB/Connect Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Digidentity",
+        "To": "Identity Law & Policy Workshop Amsterdam",
+        "Type": "Sponsor"
+    },
+    {
+        "From": "JSON Web Signature",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Identity of Things Discussion Group",
+        "To": "Kantara",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Fundamentals of Collective Adaptive Systems FoCAS",
+        "To": "FoCAS Manifesto"
+    },
+    {
+        "From": "SMTP",
+        "To": "Network Working Group",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "ICAO",
+        "To": "Machine Readable Travel Documents WG3",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "7th Framework Programme",
+        "To": "e-SENS   Electronic Simple European Networked Services",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Domenico Catalano",
+        "To": "Oracle",
+        "Type": "Employee"
+    },
+    {
+        "From": "Directorate-General for Informatics (DIGIT)",
+        "Label": "Technical Management",
+        "To": "eInvoicing",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Kantara",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "The Verifiable Claims Task Force",
+        "To": "W3C",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "EEMA",
+        "To": "CEN/ETSI (European Committee for Standardization/European Telecommunications Standards Institute)",
+        "Type": "Collaboration Partner / Affiliate"
+    },
+    {
+        "From": "Web Payments Working Group",
+        "To": "Web Payment Activity",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Future of Identity in the Information Society (FIDIS)",
+        "To": "Privacy and the legal-social content of identity",
+        "Type": "Author"
+    },
+    {
+        "From": "Callcredit Information Group",
+        "To": "OIX-UK",
+        "Type": "General Member"
+    },
+    {
+        "From": "e-Government Core Vocabularies",
+        "To": "Handbook for using the Core Vocabularies",
+        "Type": "Author"
+    },
+    {
+        "From": "Trustable Ltd.",
+        "To": "Digital Signature Services (DSS) TC",
+        "Type": "Founder"
+    },
+    {
+        "From": "CEF Building Blocks / CEF Digital Portal",
+        "To": "eDelivery",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Mike Jones",
+        "To": "OpenID Connect Discovery 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "John Bradley",
+        "To": "MODRNA Discovery",
+        "Type": "Author"
+    },
+    {
+        "From": "Miracle A/S",
+        "To": "ABC4Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "OAuth 2.0 Form Post Response Mode",
+        "To": "AB/Connect Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Information Commissioner\u2019s Office",
+        "To": "The International Conference of Data Protection and Privacy Commissioners",
+        "Type": "General Member"
+    },
+    {
+        "From": "Gemalto",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "Identification cards \u2013 Machine readable travel documents \u2013 Part 2: Machine readable visasInformation technology \u2013 Open terminal architecture (OTA) specification \u2013 Virtual machine specification (20060)",
+        "To": "Integrated Circuit Cards with Contacts WG4",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Connecting Europe Facility CEF  Telecom Expert Group",
+        "To": "CEF Telecom Expert Group Meeting - Summary Report",
+        "Type": "Author"
+    },
+    {
+        "From": "Online Identity",
+        "To": "Privacy and Identity",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Thomas Hardjono",
+        "To": "SAML - Security Assertion Markup Language",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "Fast Federation",
+        "To": "OpenID Foundation",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Thomas Hardjono",
+        "To": "Group Security Research Group",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "Anoop Saxena",
+        "To": "Intuit",
+        "Type": "Employee"
+    },
+    {
+        "From": "Pam Dingle",
+        "To": "Ping Identity",
+        "Type": "Employee"
+    },
+    {
+        "From": "comsign",
+        "To": "OIX-UK",
+        "Type": "General Member"
+    },
+    {
+        "From": "Cross-Enterprise Security and Privacy Authorization (XSPA)",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "RISC",
+        "To": "OpenID Foundation",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "White House - Office of Science and Technology Policy",
+        "To": "Consumer Data Privacy in a Networked World",
+        "Type": "Author"
+    },
+    {
+        "From": "Adam Cooper",
+        "To": "iGov Working Group",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "Justin Richer",
+        "To": "OAuth Dynamic Client Registration Management (RFC7592)",
+        "Type": "Author"
+    },
+    {
+        "From": "Canadian Internet Registration Authority (CIRA)",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences; National Research Council",
+        "To": "At the Nexus of Cybersecurity and Public Policy: Some Basic Concepts and Issues",
+        "Type": "Author"
+    },
+    {
+        "From": "CEF Building Blocks / CEF Digital Portal",
+        "To": "eID",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Digitizing European Industry",
+        "To": "The Fourth Industrial Revolution",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "ATIS   The Alliance for Telecommunications Industry Solutions, USA",
+        "To": "Global Standards Collaboration",
+        "Type": "General Member"
+    },
+    {
+        "From": "IEEE IoT Scenarios",
+        "To": "IEEE Internet of Things",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "eServices",
+        "To": "Secure Identity Alliance",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Directorate-General for Informatics (DIGIT)",
+        "Label": "Technical Management",
+        "To": "eID",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "European Commission",
+        "To": "eIDAS",
+        "Type": "Author"
+    },
+    {
+        "From": "Tony Nadalin",
+        "To": "Identity in the Cloud",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "B. Campbell",
+        "To": "OpenID Connect Front-Channel Logout 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Digital Catapult",
+        "To": "Consent and Information Sharing Working  Group",
+        "Type": "Connection"
+    },
+    {
+        "From": "GAIA Global Access to the Internet for All Research Group",
+        "To": "Internet Research Task Force IRTF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Mike Jones",
+        "To": "OpenID Connect Federation 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Internet Research Task Force IRTF",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Digital Catapult",
+        "To": "OIX-UK",
+        "Type": "General Member"
+    },
+    {
+        "From": "Chair of Mobile Business & Multilateral Security",
+        "To": "ABC4Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "Microsoft Belgium NV",
+        "To": "ABC4Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "National Strategy for Trusted Identities in Cyberspace (NSTIC) - National Program Office",
+        "To": "National Institute of Standards (NIST)",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Internet Society ISOC",
+        "To": "NDSS Symposium Network and Distributed System Security Symposium 2017",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Uniform Law Commission",
+        "To": "United States Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "IBM Research - Zurich",
+        "To": "ABC4Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "CEF Building Blocks / CEF Digital Portal",
+        "To": "eHealth Digital Service Infrastructure",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Gershon Janssen",
+        "To": "Identity in the Cloud",
+        "Type": "Person Affiliated"
+    },
+    {
+        "From": "Electronic Verification of Vital Events (EVVE)",
+        "To": "National Association for Public Health Statistics and Information Systems",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Open PEPPOL",
+        "To": "eInvoicing",
+        "Type": "Connection"
+    },
+    {
+        "From": "Future of Identity in the Information Society (FIDIS)",
+        "To": "Forensic Implications",
+        "Type": "Author"
+    },
+    {
+        "From": "Goethe University: Frankfurt",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "MODRNA Authentication Profile",
+        "To": "MONDRNA",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Online Identity",
+        "To": "Understanding your Online Identity Protecting Your Privacy",
+        "Type": "Author"
+    },
+    {
+        "From": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (AFNIC)",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "Aadhaar - Unique Identification Authority of India UIDAI",
+        "To": "Indian Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Anoop Saxena",
+        "To": "Financial API Working Group",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "XRI Data Interchange (XDI) TC",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Australia",
+        "To": "Office of the Australian Information Commissioner",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Consent Receipt Specification",
+        "To": "Canadian Submission on Behalf of CISWG",
+        "Type": "Author"
+    },
+    {
+        "From": "Digitizing European Industry",
+        "To": "Communication: ICT Standardisation Priorities for the Digital Single Market",
+        "Type": "Author"
+    },
+    {
+        "From": "Intel",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "Thomas Hardjono",
+        "To": "User Managed Access",
+        "Type": "Person Affiliated"
+    },
+    {
+        "From": "Vyjayanti Desai",
+        "To": "ID4D",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "IEEE Computer Society",
+        "To": "IEEE Smart Cities",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "ICAO",
+        "To": "United Nations"
+    },
+    {
+        "From": "Anthony Nadalin",
+        "To": "Microsoft",
+        "Type": "Employee"
+    },
+    {
+        "From": "European Commission",
+        "To": "Cybersecurity and Digital Privacy European Commission",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Working Party on Security and Privacy in the Digital Economy (WPSDE)",
+        "To": "The Economics of Personal Data and Privacy: 30 Years after the OECD Privacy Guidelines",
+        "Type": "Convenor"
+    },
+    {
+        "From": "University of Twente",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "ISO/IEC",
+        "To": "Global Standards Collaboration",
+        "Type": "General Member"
+    },
+    {
+        "From": "university Trier",
+        "To": "Chair for Information Security and Cryptography at the University of Trier",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Future of Identity in the Information Society (FIDIS)",
+        "To": "ELSA",
+        "Type": "Connection"
+    },
+    {
+        "From": "eIDAS",
+        "To": "Future Trust",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "SCIM - System for Cross-domain Identity Management",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Veridos",
+        "To": "Secure Identity Alliance",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Chair of Mobile Business & Multilateral Security",
+        "To": "Annual Privacy Forum",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Health Relationship Trust Profile for Fast Healthcare Interoperability Resources (FHIR) OAuth 2.0 Scopes",
+        "To": "HEART Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "scytl",
+        "To": "VoteID 2015",
+        "Type": "Sponsor"
+    },
+    {
+        "From": "European Data Protection Supervisor (Contr\u00f4leur europ\u00e9en de la protection des donn\u00e9es)",
+        "To": "The International Conference of Data Protection and Privacy Commissioners",
+        "Type": "General Member"
+    },
+    {
+        "From": "eID",
+        "To": "Discover eID",
+        "Type": "Author"
+    },
+    {
+        "From": "Dick Hardt",
+        "To": "Amazon",
+        "Type": "Employee"
+    },
+    {
+        "From": "Continuity and Organizational Resilience WG2",
+        "To": "ISO/TC 292 Security and Resilience",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "7th Framework Programme",
+        "To": "Open PEPPOL"
+    },
+    {
+        "From": "ID4D",
+        "To": "Secure Identity Alliance",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Open Identity Exchange",
+        "To": "Identity Law & Policy Workshop Amsterdam",
+        "Type": "Convenor"
+    },
+    {
+        "From": "International Electrotechnical Commission (IEC)",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "John Bradley",
+        "To": "OpenID Connect Federation 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "OAuth Dynamic Client Registration Management (RFC7592)",
+        "To": "OAuth WG",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "The Tracking Protection Working Group",
+        "To": "W3C",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Federal Trade Commission",
+        "To": "United States Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Jericho Forum",
+        "To": "Open Group",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "The Federal Office of Administration (BVA)",
+        "To": "German Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Identity Assurance Working Group",
+        "To": "Kantara",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Horizon 2020",
+        "To": "WISER Wide-Impact cyber Security Risk framework",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Web Application Security Working Group",
+        "To": "W3C",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "European Commission",
+        "To": "Digital Single Market",
+        "Type": "Government Connection"
+    },
+    {
+        "Description": "She is the project coordinator.",
+        "From": "Daniela Merella",
+        "To": "SSEDIC - Scoping the Single European Digital Identity Community",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "M. Scurtescu",
+        "To": "OAuth 2.0 Multiple Response Type Encoding Practices",
+        "Type": "Author"
+    },
+    {
+        "From": "European Data Protection Supervisor (Contr\u00f4leur europ\u00e9en de la protection des donn\u00e9es)",
+        "To": "Annual Privacy Forum",
+        "Type": "Sponsor"
+    },
+    {
+        "From": "OAuth 2.0 Multiple Response Type Encoding Practices",
+        "To": "AB/Connect Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Adam Cooper",
+        "To": "UK  Cabinet Office",
+        "Type": "Employee"
+    },
+    {
+        "From": "Online Identity Tutorials",
+        "To": "Privacy and Identity",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Privacy Interest Group  PING",
+        "To": "W3C",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Internet Research Task Force IRTF",
+        "To": "SDNRG Software-Defined Networking Research Group"
+    },
+    {
+        "From": "Digitizing European Industry",
+        "To": "Communication: EU eGovernment Action Plan 2016-2020 - Accelerating the digital transformation of government",
+        "Type": "Author"
+    },
+    {
+        "From": "eGov Working Group",
+        "To": "iGov Working Group",
+        "Type": "Connection"
+    },
+    {
+        "From": "Thomas J. Smedinghoff",
+        "To": "Report: International Law and Policy",
+        "Type": "Author"
+    },
+    {
+        "From": "Internet Architecture Board (IAB)",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "Future of Identity in the Information Society (FIDIS)",
+        "To": "Identity of Identity",
+        "Type": "Author"
+    },
+    {
+        "From": "Native Applications Working Group",
+        "To": "OpenID Foundation",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences; National Research Council",
+        "To": "Toward Better Usability, Security, and Privacy of Information Technology",
+        "Type": "Author"
+    },
+    {
+        "From": "FIDO 2.0: Key Attestation Format",
+        "To": "Web Authentication",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "eIDAS",
+        "To": "ISSE Information Security Solutions Europe",
+        "Type": "Connection"
+    },
+    {
+        "From": "SAML - Security Assertion Markup Language",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Computer Technology Institute & Press - DIOPHANTUS",
+        "To": "ABC4Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "Nat Sakimura",
+        "To": "OpenID Connect Dynamic Client Registration 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Corvinas University of Budapest  (CUB)",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "Radboud University Nijmegen (RU) - Digital Security",
+        "To": "Identity and Privacy Lab  (PI.lab)",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Verizon",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "OpenID Connect Account Migration",
+        "To": "MONDRNA",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "international Association for Cryptologic Research",
+        "To": "20th International Conference on  Practice and Theory of Public-Key Cryptography",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Dale Olds",
+        "To": "confyrm",
+        "Type": "Employee"
+    },
+    {
+        "From": "Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences; National Research Council",
+        "To": "Who Goes There?:  Authentication Through the Lens of Privacy",
+        "Type": "Author"
+    },
+    {
+        "From": "Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences; National Research Council",
+        "To": "Summary of a Workshop on the Technology, Policy, and Cultural Dimensions of Biometric Systems",
+        "Type": "Author"
+    },
+    {
+        "From": "Maciej Machulak",
+        "To": "User Managed Access",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "Identification cards-Integrated circuit cards-Programming interfaces (24727)",
+        "To": "Integrated Circuit Cards with Contacts WG4",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Horizon 2020",
+        "To": "LIGHTEST",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "enisa European Network and Information Security Agency",
+        "To": "European Union",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Gemalto",
+        "To": "Secure Identity Alliance",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "ACE - Authentication and Authorization of Constrained Environments",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "United States Government",
+        "To": "Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences; National Research Council",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "EEMA",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "FutureID",
+        "To": "LIGHTEST",
+        "Type": "Connection"
+    },
+    {
+        "From": "Bob West",
+        "To": "Global Identity Foundation",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Justin Richer",
+        "To": "OAuth Dynamic Client Registration (RFC7591)",
+        "Type": "Author"
+    },
+    {
+        "From": "Financial Transaction Cards 4909",
+        "To": "Financial Transaction Cards WG7",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Platform Identity Management Nederland (PIMN)",
+        "To": "Identity Law & Policy Workshop Amsterdam",
+        "Type": "Sponsor"
+    },
+    {
+        "From": "New Zealand",
+        "To": "Privacy Commissioner (Te Mana Matapono Matatapu)"
+    },
+    {
+        "From": "ELSA",
+        "To": "epSOS",
+        "Type": "Connection"
+    },
+    {
+        "From": "7th Framework Programme",
+        "To": "FastPass",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "World Bank",
+        "To": "International Identity Law and Policy Workshop",
+        "Type": "Sponsor"
+    },
+    {
+        "From": "Ministry of Interior Republic of Serbia",
+        "To": "Government of Serbia",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "IEEE Computer Society",
+        "To": "IEEE SecDev 2016",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Open Signature Initiative",
+        "To": "European Trust Foundation",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Mike Jones",
+        "To": "OAuth 2.0 Form Post Response Mode",
+        "Type": "Author"
+    },
+    {
+        "From": "Chuck Mortimore",
+        "To": "OpenID Connect Core 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working Paper: Update on Privacy and Security Issues in Internet Telephony (VoIP) and Related Communication Technologies",
+        "Type": "Author"
+    },
+    {
+        "From": "TNO",
+        "To": "Identity and Privacy Lab  (PI.lab)",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working Paper Privacy by Design and Smart Metering: Minimize Personal Information to Maintain Privacy",
+        "Type": "Author"
+    },
+    {
+        "From": "Tim Bray",
+        "To": "Google",
+        "Type": "Employee"
+    },
+    {
+        "From": "Paul Grassi",
+        "To": "National Strategy for Trusted Identities in Cyberspace (NSTIC) - National Program Office",
+        "Type": "Employee"
+    },
+    {
+        "From": "IBM Research - Zurich",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "EXPAND",
+        "To": "eHealth Digital Service Infrastructure",
+        "Type": "Connection"
+    },
+    {
+        "From": "Symantec",
+        "To": "OIX-UK",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Number Resource Organization (NRO)",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "European Commission",
+        "To": "ISA2 Interoperability Solutions for European Public Administrators",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Altus Busines Systems",
+        "To": "OIX-UK",
+        "Type": "General Member"
+    },
+    {
+        "From": "N. Agarwal",
+        "To": "OpenID Connect Session Management 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "European Union",
+        "To": "European Commission",
+        "Type": "Connection"
+    },
+    {
+        "From": "PwC",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "EAP ACR Values",
+        "To": "Enhanced Authentication Profile Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Maciej Machulak",
+        "To": "UMA Profile of OAuth 2.o",
+        "Type": "Author"
+    },
+    {
+        "From": "eBorders",
+        "To": "Secure Identity Alliance",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Privacy Management Reference Model",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Digital Signature Services (DSS) TC",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "berlin Commissioner for Data Protection and Freedom of Information",
+        "To": "The International Conference of Data Protection and Privacy Commissioners",
+        "Type": "General Member"
+    },
+    {
+        "From": "Government Digital Service",
+        "To": "UK Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "eIDAS",
+        "To": "CEF Building Blocks / CEF Digital Portal",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "The Internet Technical Advisory Committee",
+        "To": "OECD (The Organisation for Economic Co-operation and Development)",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Rebecka Gulliksson",
+        "To": "OpenID Connect Federation 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Online Identity",
+        "To": "Understanding your Online Identity Learning to Protect your Identity",
+        "Type": "Author"
+    },
+    {
+        "From": "DoNotTrack.Us",
+        "To": "Do Not Track: A Universal Third-Party Web Tracking Opt Out",
+        "Type": "Similar Efforts/Projects/Work"
+    },
+    {
+        "From": "ATIS   The Alliance for Telecommunications Industry Solutions, USA",
+        "To": "3rd Generation Partnership Project (3GPP)",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Internet Research Task Force IRTF",
+        "To": "HRPC Human Rights Protocol Considerations Research Group",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Enhanced Authentication Profile Working Group",
+        "To": "OpenID Foundation",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Don Thibeau",
+        "To": "Identity in the Cloud",
+        "Type": "Person Affiliated"
+    },
+    {
+        "From": "Privacy Considerations for Web Protocols",
+        "To": "Privacy Considerations for Internet Protocols",
+        "Type": "Connection"
+    },
+    {
+        "From": "Semantic Interoperability Community (SEMIC)",
+        "To": "e-Government Core Vocabularies",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working Paper on Location Tracking from Communications of Mobile Devices",
+        "Type": "Author"
+    },
+    {
+        "From": "Records and Information from DMVs for E-Verify (RIDE)",
+        "To": "American Association of Motor Vehicle Administrators"
+    },
+    {
+        "From": "Linux Foundation",
+        "To": "HyperLedger"
+    },
+    {
+        "From": "Social Security Online Verification (SSOLV)",
+        "To": "American Association of Motor Vehicle Administrators",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Connecting Europe Facility",
+        "To": "CEF Energy",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Health Relationship Trust Profile for OAuth 2.0",
+        "To": "HEART Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Platform Identity Management Nederland (PIMN)",
+        "To": "European Trust Foundation",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "The Secure Information Technology Center \u2013 Austria (A-SIT)",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "Service Function Chaining  (sfc)",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Don Thibeau",
+        "To": "OpenID Foundation",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "PayPal",
+        "To": "OIX-UK",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "The Internet Technical Advisory Committee",
+        "To": "OECD Committee on Digital Economy Policy",
+        "Type": "Connection"
+    },
+    {
+        "From": "TTC  Telecommunication Technology Committee, Japan",
+        "To": "3rd Generation Partnership Project (3GPP)",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Fraunhofer Group for Defense and Security VVS",
+        "To": "Future Security: Security Research Conference",
+        "Type": "Convenor"
+    },
+    {
+        "From": "7th Framework Programme",
+        "To": "ABC4Trust",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Electronic Identity Credential Trust Elevation Methods (Trust Elevation) TC",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "VoteID 2015",
+        "To": "e-Voting and Identity",
+        "Type": "Author"
+    },
+    {
+        "From": "Information technology \u2013 Personal identification \u2013 ISO- compliant driving license (18013)",
+        "To": "Motor Vehicle Drivers Licence and Related Documents WG10",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Anthony Nadalin",
+        "To": "Financial API Working Group",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "Tracking Preference Expression (DNT)",
+        "To": "The Tracking Protection Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Communication: EU eGovernment Action Plan 2016-2020 - Accelerating the digital transformation of government",
+        "To": "eIDAS",
+        "Type": "Connection"
+    },
+    {
+        "From": "Microsoft",
+        "To": "OIX-UK",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "B. de Medeiros",
+        "To": "Google",
+        "Type": "Employee"
+    },
+    {
+        "From": "Chuck Mortimore",
+        "To": "Salesforce",
+        "Type": "Employee"
+    },
+    {
+        "From": "J. Connotte",
+        "To": "Deutsche Telekom",
+        "Type": "Employee"
+    },
+    {
+        "From": "OAuth Token Introspection (RFC7662)",
+        "To": "OAuth WG",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "7th Framework Programme",
+        "To": "SSEDIC - Scoping the Single European Digital Identity Community",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "B. Hjelm",
+        "To": "MODRNA Registration",
+        "Type": "Author"
+    },
+    {
+        "From": "Trust Elevation TC",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "CBOR Object Signing and Encryption (COSE)",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Identity Event Subscription Protocol",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Consent Receipt Specification",
+        "To": "Usable Consents: Tracking and Managing Use of Personal Data With a Consent Transaction Receipt",
+        "Type": "Author"
+    },
+    {
+        "From": "enisa European Network and Information Security Agency",
+        "To": "ISSE Information Security Solutions Europe",
+        "Type": "Sponsor"
+    },
+    {
+        "From": "SDNRG Software-Defined Networking Research Group",
+        "To": "ETSI  The European Telecommunications Standards Institute",
+        "Type": "Connection"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working Paper and Recommendations on the Publication of Personal Data on the Web, Website Contents Indexing and the Protection of Privacy",
+        "Type": "Author"
+    },
+    {
+        "From": "American Association of Motor Vehicle Administrators",
+        "To": "Electronic Verification of Vital Events (EVVE)",
+        "Type": "Customer of Service / Company"
+    },
+    {
+        "From": "Digital Authentication Guideline",
+        "To": "National Institute of Standards (NIST)",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Thomas Hardjono",
+        "To": "Kerberos Consortium",
+        "Type": "Employee"
+    },
+    {
+        "From": "Steve Moyle",
+        "To": "Global Identity Foundation",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "FIDO 2.0: Web API for accessing FIDO 2.0 credentials",
+        "To": "FIDO Alliance",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "LSEC \u2013 Leaders In Security",
+        "To": "European Trust Foundation",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Cryptography and Security Mechanisms WG2",
+        "To": "ISO/IEC JTC 1 / SC27 IT Security Techniques",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Eve Maler",
+        "To": "Blockchain and Smart Contracts Discussion Group",
+        "Type": "Person Affiliated"
+    },
+    {
+        "From": "Nat Sakimura",
+        "To": "OpenID Connect Session Management 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "ETSI  The European Telecommunications Standards Institute",
+        "To": "Global Standards Collaboration",
+        "Type": "General Member"
+    },
+    {
+        "From": "IEEE Technical Committee on Security and Privacy",
+        "To": "2nd IEEE European Symposium on Security and Privacy",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Multicast Security (MSEC)",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Internet Architecture Board (IAB)",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Identification cards \u2013 Thin flexible cards (15457)",
+        "To": "Physical Characteristics and Test Methods WG1",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "OWL",
+        "To": "W3C",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "B. de Medeiros",
+        "To": "OAuth 2.0 Multiple Response Type Encoding Practices",
+        "Type": "Author"
+    },
+    {
+        "From": "FutureID",
+        "To": "Future ID Presenation",
+        "Type": "Author"
+    },
+    {
+        "From": "D. Salama",
+        "To": "Google",
+        "Type": "Employee"
+    },
+    {
+        "From": "SSEDIC.2020 - Scoping the Single European Digital Identity Community for the next decade",
+        "To": "European Trust Foundation",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Mike Jones",
+        "To": "Microsoft",
+        "Type": "Employee"
+    },
+    {
+        "From": "IESG -  Internet Engineering Steering Group",
+        "To": "Internet Research Task Force IRTF",
+        "Type": "Connection"
+    },
+    {
+        "From": "Chair of Mobile Business & Multilateral Security",
+        "To": "Goethe University: Frankfurt",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Maciej Machulak",
+        "To": "Synergetics",
+        "Type": "Employee"
+    },
+    {
+        "From": "The ID Co.",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "eID",
+        "To": "eIDAS-Node"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "berlin Commissioner for Data Protection and Freedom of Information",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "RADIUS - Remote Authentication Dial In User Service",
+        "To": "Network Working Group",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Kyla Reid",
+        "To": "Digital Identity Programme",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "Web Authentication",
+        "To": "W3C",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Economy & Society",
+        "To": "Digitizing European Industry",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "DG Connect European Commission's Directorate General for Communications Networks, Content & Technology",
+        "Label": "Implementation of the EU Policy",
+        "To": "eID",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Secure Identity Alliance",
+        "To": "Digital Identity: Towards Shared Principles for Public and Private Sector Cooperation A joint World Bank Group \u2013 GSMA \u2013 Secure Identity Alliance Discussion Paper",
+        "Type": "Author"
+    },
+    {
+        "From": "Personal Data",
+        "To": "GSMA",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "U.S. Department of Health and Human Services",
+        "To": "US National Information Exchange Model",
+        "Type": "Sponsor"
+    },
+    {
+        "From": "NWCRG Network Coding Research Group",
+        "To": "Internet Research Task Force IRTF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Token Bound Authentication",
+        "To": "OpenID Connect Core 1.0",
+        "Type": "Connection"
+    },
+    {
+        "From": "Thomas Hardjono",
+        "To": "Identity in the Cloud",
+        "Type": "Person Affiliated"
+    },
+    {
+        "From": "Tim Bray",
+        "To": "OpenID AccountChooser Basic API Profile 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Biometrics WG11",
+        "To": "ISO/IEC JTC1/SC17",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "ISO/IEC JTC 1/SC 37 Biometrics",
+        "To": "ISO/IEC",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Hannes Tschofenig",
+        "To": "Privacy Considerations for Web Protocols",
+        "Type": "Author"
+    },
+    {
+        "From": "International Electrotechnical Commission (IEC)",
+        "To": "Global Standards Collaboration",
+        "Type": "General Member"
+    },
+    {
+        "From": "Privacy Commissioner (Te Mana Matapono Matatapu)",
+        "To": "The International Conference of Data Protection and Privacy Commissioners",
+        "Type": "General Member"
+    },
+    {
+        "From": "enisa European Network and Information Security Agency",
+        "To": "Annual Privacy Forum",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Phil Hunt",
+        "To": "OpenID Connect Profile for SCIM Services",
+        "Type": "Author"
+    },
+    {
+        "From": "XACML",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "ITU-T  International Telecommunication Union",
+        "To": "EEMA",
+        "Type": "Collaboration Partner / Affiliate"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "web paymentsReport and Guidance on Road Pricing - \u201dSofia Memorandum\u201d",
+        "Type": "Author"
+    },
+    {
+        "From": "US Citizenship and Immigration Services",
+        "To": "USCIS US Citizenship and Immigration Services - Department of Homeland Security",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "The Federal Office of Administration (BVA)",
+        "To": "Future Trust"
+    },
+    {
+        "From": "National Strategy for Trusted Identities in Cyberspace (NSTIC) - National Program Office",
+        "To": "Identity Ecosystem Steering Group",
+        "Type": "Sponsor"
+    },
+    {
+        "From": "University of Karlstad",
+        "To": "Department of Computer Science, Privacy and Security Group.",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Identity Management and Privacy Technologies WG5",
+        "To": "ISO/IEC JTC 1 / SC27 IT Security Techniques",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "David Singer",
+        "To": "Apple",
+        "Type": "Employee"
+    },
+    {
+        "From": "Nat Sakimura",
+        "To": "Financial API Working Group",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "Central Bank of Austria",
+        "To": "The Secure Information Technology Center \u2013 Austria (A-SIT)",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Israeli Law, Information and Technology Authority",
+        "To": "The Evolving Role of the Individual in Privacy Protection: 30 Years after the OECD Privacy Guidelines",
+        "Type": "Convenor"
+    },
+    {
+        "From": "John Bradley",
+        "To": "OpenID Connect Dynamic Client Registration 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Future of Identity in the Information Society (FIDIS)",
+        "To": "Interoperability of Identities and Identity Management Systems",
+        "Type": "Author"
+    },
+    {
+        "From": "CEF Building Blocks / CEF Digital Portal",
+        "To": "eInvoicing",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Global Identity Foundation",
+        "To": "Why Identity 3.0?",
+        "Type": "Author"
+    },
+    {
+        "From": "IEEE Internet of Things",
+        "To": "Intl Workshop on Secure IoT (SIOT 2016)",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Identity Verification Project",
+        "To": "North American Security Products Organization",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Google",
+        "To": "OIX-UK",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "National Strategy for Trusted Identities in Cyberspace",
+        "To": "National Strategy for Trusted Identities in Cyberspace (NSTIC) - National Program Office",
+        "Type": "Connection"
+    },
+    {
+        "From": "Horizon 2020",
+        "To": "WITDOM (empoWering prIvacy and securiTy in non-trusteD envirOnMents)",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "ICCRG Internet Congestion Control Research Group",
+        "To": "Internet Research Task Force IRTF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Social Security Administration",
+        "To": "United States Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "John Bradley",
+        "To": "MODRNA Authentication Profile",
+        "Type": "Author"
+    },
+    {
+        "From": "EFF",
+        "To": "Privacy Badger",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Token Bound Authentication",
+        "To": "Enhanced Authentication Profile Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "John Bradley",
+        "To": "MODRNA Registration",
+        "Type": "Author"
+    },
+    {
+        "From": "Cogito Group",
+        "To": "OIX-UK",
+        "Type": "General Member"
+    },
+    {
+        "From": "Contactless Integrated Circuit(s) cards WG8",
+        "To": "ISO/IEC JTC1/SC17",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working Paper on Big Data and Privacy Privacy principles under pressure in the age of Big Data analytics",
+        "Type": "Author"
+    },
+    {
+        "From": "Horizon 2020",
+        "To": "Future Trust",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Pam Dingle",
+        "To": "AccountChooser Integration API Profile 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Chair of Mobile Business & Multilateral Security",
+        "To": "Goethe University: Frankfurt"
+    },
+    {
+        "From": "John Bradley",
+        "To": "OpenID Connect Discovery 1.0"
+    },
+    {
+        "From": "FIDO 2.0: Signature format",
+        "To": "FIDO Alliance",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "LexisNexis",
+        "To": "OIX-UK",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Hannes Tschofenig",
+        "To": "Privacy Considerations for Internet Protocols",
+        "Type": "Author"
+    },
+    {
+        "From": "ELSA",
+        "To": "SSEDIC - Scoping the Single European Digital Identity Community",
+        "Type": "Connection"
+    },
+    {
+        "From": "Privacy Considerations for Internet Protocols",
+        "To": "HRPC Human Rights Protocol Considerations Research Group",
+        "Type": "Connection"
+    },
+    {
+        "From": "ITU-T  International Telecommunication Union",
+        "To": "Global Standards Collaboration",
+        "Type": "General Member"
+    },
+    {
+        "From": "Mobile Connect Initiative",
+        "To": "Personal Data",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "USCIS US Citizenship and Immigration Services - Department of Homeland Security",
+        "To": "Department of Homeland Security",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Tilburg Institute of Law, Technology, and Society (TILT)",
+        "To": "Identity and Privacy Lab  (PI.lab)",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "SAP",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "Web Crypto API",
+        "To": "W3C",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Tilburg Institute of Law, Technology, and Society (TILT)",
+        "To": "How Data Portability in Big Data affects Individuals, Innovation and Competition",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working Paper on Privacy and Electronic Micropayment on the Internet",
+        "Type": "Author"
+    },
+    {
+        "From": "The Federal Computing Centre of Austria \u2013 Bundesrechenzentrum (BRZ)",
+        "To": "The Secure Information Technology Center \u2013 Austria (A-SIT)",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "DSS - XSD supporting ITU-T X.509 certificate version 3 rules in the eIDAS trusted list",
+        "To": "eIDAS-Node"
+    },
+    {
+        "From": "UK  Cabinet Office",
+        "To": "Government Digital Service",
+        "Type": "Connection"
+    },
+    {
+        "From": "Mobile Connect Initiative",
+        "To": "MONDRNA",
+        "Type": "Connection"
+    },
+    {
+        "From": "R. Hedberg",
+        "To": "OpenID Connect Federation 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Terminology WG1",
+        "To": "ISO/TC 292 Security and Resilience",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Don Thibeau",
+        "To": "Open Identity Exchange",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "Royal Mail",
+        "To": "GOV.UK Verify",
+        "Type": "Certified IdP"
+    },
+    {
+        "From": "Web Payments Interest Group",
+        "To": "Web Payment Activity",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "7th Framework Programme",
+        "To": "MobilePass",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "ICNRG Information-Centric Networking Research Group",
+        "To": "Internet Research Task Force IRTF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences; National Research Council",
+        "To": "Biometric Recognition: Challenges and Opportunities",
+        "Type": "Author"
+    },
+    {
+        "From": "Identity Law & Policy Workshop Amsterdam",
+        "To": "International Identity Law and Policy Workshop",
+        "Type": "Similar Efforts/Projects/Work"
+    },
+    {
+        "From": "CCSA  China Communications Standards Association",
+        "To": "3rd Generation Partnership Project (3GPP)",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "European Commission",
+        "To": "ePrivacy Directive",
+        "Type": "Author"
+    },
+    {
+        "From": "OAuth WG",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "ESIF: Emergency Services Interconnection Forum",
+        "To": "ATIS   The Alliance for Telecommunications Industry Solutions, USA",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Innovate UK",
+        "To": "Digital Catapult",
+        "Type": "Connection"
+    },
+    {
+        "From": "Mike Jones",
+        "To": "OAuth 2.0 Multiple Response Type Encoding Practices",
+        "Type": "Author"
+    },
+    {
+        "From": "B. Campbell",
+        "To": "Token Bound Authentication",
+        "Type": "Author"
+    },
+    {
+        "From": "Rebecka Gulliksson",
+        "To": "UmU",
+        "Type": "Employee"
+    },
+    {
+        "From": "international Association for Cryptologic Research",
+        "To": "AsiaCrypt",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Horizon 2020",
+        "To": "CREDENTIAL",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "IEEE Computer Society",
+        "To": "IEEE Standards Organization",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Dale Olds",
+        "To": "VMWare",
+        "Type": "Employee"
+    },
+    {
+        "From": "ISA2 Interoperability Solutions for European Public Administrators",
+        "To": "National Interoperability Framework Observatory (NIFO)",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Privacy by Design Documentation for Software Engineers (PbD-SE) TC",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "IDTrust Member Section",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Access IS",
+        "To": "Document Security Alliance",
+        "Type": "General Member"
+    },
+    {
+        "From": "Mike Jones",
+        "To": "OpenID Connect Dynamic Client Registration 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "European Commission",
+        "To": "Data protection Directive",
+        "Type": "Author"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working Paper Event Data Recorders (EDR) on Vehicles Privacy and data protection issues for governments and manufacturers",
+        "Type": "Author"
+    },
+    {
+        "From": "Experian",
+        "To": "GOV.UK Verify",
+        "Type": "Certified IdP"
+    },
+    {
+        "From": "The Institute for Law and the Web at the University of Southampton (ILAWS)",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "Web Security Interest Group",
+        "To": "W3C",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Equifax",
+        "To": "OIX-UK",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "The Granada Charter of Privacy in a Digital World",
+        "Type": "Author"
+    },
+    {
+        "From": "OpenID Connect Front-Channel Logout 1.0",
+        "To": "AB/Connect Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Secure Identity",
+        "To": "GOV.UK Verify",
+        "Type": "Certified IdP"
+    },
+    {
+        "From": "Web Platform Working Group",
+        "To": "W3C",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Internet Society ISOC",
+        "To": "Privacy and Identity",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Issuer Identification Numbers (IINs) / Application Provider Identifiers (RIDs)  WG5",
+        "To": "ISO/IEC JTC1/SC17",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Thomas Hardjono",
+        "To": "Multicast Security (MSEC)",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "Mark Lizar",
+        "To": "Consent and Information Sharing Working  Group",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "SDNRG Software-Defined Networking Research Group",
+        "To": "ATIS   The Alliance for Telecommunications Industry Solutions, USA",
+        "Type": "Connection"
+    },
+    {
+        "From": "IEEE Computer Society",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "CASED (Center for Advanced Security Research Darmstadt)",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "Microsoft Belgium NV",
+        "To": "Microsoft",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Identification cards \u2013 Recording technique (7811)",
+        "To": "Physical Characteristics and Test Methods WG1",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Public Service Development Agency",
+        "To": "Georgian Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Josh Mandel",
+        "To": "Harvard Medical School Department of Biomedical Informatics",
+        "Type": "Employee"
+    },
+    {
+        "From": "Future Trust",
+        "To": "European Trust Service Status List (TSL)",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "B. Campbell",
+        "To": "Ping Identity",
+        "Type": "Employee"
+    },
+    {
+        "From": "Horizon 2020",
+        "To": "SSEDIC.2020 - Scoping the Single European Digital Identity Community for the next decade",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Blockchain and Smart Contracts Discussion Group",
+        "To": "Kantara",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "RIPE NCC - The R\u00e9seaux IP Europ\u00e9ens Network Coordination Centre",
+        "To": "Number Resource Organization (NRO)",
+        "Type": "General Member"
+    },
+    {
+        "From": "eGov Working Group",
+        "To": "Kantara",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "3rd Generation Partnership Project (3GPP)",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "Description": "MobilePass is presenting at the conference",
+        "From": "MobilePass",
+        "To": "Future Security: Security Research Conference"
+    },
+    {
+        "Description": "What is IDnext association?\nThe main mission of the IDnext association is to be an open and independent platform to support and facilitate innovative approaches in the world of the Digital identity, create awareness about the Digital Identity, provide a knowledge and networking platform for experts in IT, Business and Marketers as a European center of expertise, and to ensure that everyone connected with the association stays at the forefront of technology, services and business by supporting innovation and by stimulating and supporting knowledge exchange and collaboration.\nIDnext provides a single point of entry for (leading) IT and Business professionals throughout Europe. IDnext can be your starting point to connect, collaborate and find specific information related to Digital Identity and acts a community.\n\nIDnext disseminates knowledge and experience by organizing events, master classes and workshops. On a variety of themes, using expertise within the world of IT and Business, it is further an independent not-for-profit network organization. \n\nIDnext is a membership organization. Joining IDnext helps us to engage in (innovative) project/programmes, busines development and other type of actvitiies (e.g. events, workshops, masterclasses) to strengthen our mission in the world of digital identity.\n\nPartnership\n\nIDnextplatform is a partnership organization. Although you can participate without a paid partnership, joining helps us to engage in (innovative) project-programmes, business development and also organize events and workshops to strengthen our mission in the world of Digital Identity.",
+        "From": "IDnext",
+        "To": "Trust in Digital World",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Privacy Commissioner of Canada (Commissariat \u00e0 la protection de la vie priv\u00e9e du Canada)",
+        "To": "The International Conference of Data Protection and Privacy Commissioners",
+        "Type": "General Member"
+    },
+    {
+        "From": "B. de Medeiros",
+        "To": "OpenID Connect Core 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Ping Identity",
+        "To": "OIX-UK",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "The Federal Computing Centre of Austria \u2013 Bundesrechenzentrum (BRZ)",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences; National Research Council",
+        "To": "IDs -- Not That Easy:  Questions About Nationwide Identity Systems",
+        "Type": "Author"
+    },
+    {
+        "From": "CloudAuthZ Cloud Authorization TC",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "ISO/TC 292 Security and Resilience",
+        "To": "ISO/IEC",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "SDNRG Software-Defined Networking Research Group",
+        "To": "MEF",
+        "Type": "Connection"
+    },
+    {
+        "From": "7th Framework Programme",
+        "To": "FutureID",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Kyla Reid",
+        "To": "Digital Identity Programme",
+        "Type": "Employee"
+    },
+    {
+        "From": "Justice Ministry in Israel",
+        "To": "Israeli Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "European Commission",
+        "To": "7th Framework Programme",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "AB/Connect Working Group",
+        "To": "OpenID Foundation",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "e-CODEX",
+        "To": "CEF Building Blocks / CEF Digital Portal",
+        "Type": "Connection"
+    },
+    {
+        "From": "eInvoicing",
+        "To": "eInvoicing Introduction",
+        "Type": "Author"
+    },
+    {
+        "From": "DoNotTrack.Us",
+        "To": "User Submitted Terms",
+        "Type": "Similar Efforts/Projects/Work"
+    },
+    {
+        "From": "Connecting Europe Facility",
+        "To": "CEF Transportation",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Paul Simmonds",
+        "To": "Global Identity Foundation",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Web of Things Interest Group",
+        "To": "Web of Things Community Group",
+        "Type": "Connection"
+    },
+    {
+        "From": "Justin Richer",
+        "To": "Health Relationship Trust Profile for User Managed Access 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "ISO/IEC JTC1/SC17",
+        "To": "ISO/IEC",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "IEEE Technical Committee on Security and Privacy",
+        "To": "IEEE SecDev 2016",
+        "Type": "Sponsor"
+    },
+    {
+        "From": "Automomica",
+        "To": "DNSSEC",
+        "Type": "Author"
+    },
+    {
+        "From": "Identification cards \u2013 Machine readable travel documents \u2013 Part 2: Machine readable visas",
+        "To": "Machine Readable Travel Documents WG3",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "ISA2 Interoperability Solutions for European Public Administrators",
+        "To": "Semantic Interoperability Community (SEMIC)",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Lawtrust",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "Electronic Identification Cards (7816)",
+        "To": "Integrated Circuit Cards with Contacts WG4",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "IOC: International Mobile Subscriber Identity (IMSI) Oversight Council",
+        "To": "ATIS   The Alliance for Telecommunications Industry Solutions, USA",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "P. Tarjan",
+        "To": "Facebook",
+        "Type": "Employee"
+    },
+    {
+        "From": "Online Identity",
+        "To": "Understanding your Online Identity: An Overview of Identity",
+        "Type": "Author"
+    },
+    {
+        "From": "Digital Signature Services eXtended (DSS-X) TC",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Nat Sakimura",
+        "To": "Nomura Research Institute",
+        "Type": "Employee"
+    },
+    {
+        "From": "Mike Jones",
+        "To": "OpenID Connect Session Management 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Identification cards \u2013 Identification of issuers (7812)",
+        "To": "Issuer Identification Numbers (IINs) / Application Provider Identifiers (RIDs)  WG5",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "U.S. Department of Health and Human Services",
+        "To": "United States Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Edmund Jay",
+        "To": "OpenID Connect Discovery 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Paul Grassi",
+        "To": "iGov Working Group",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "PCH - Packet Clearing House",
+        "To": "DNSSEC",
+        "Type": "Author"
+    },
+    {
+        "From": "DoNotTrack.Us",
+        "To": "Center for Internet and Society",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Nominet",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "Study Group 17",
+        "To": "ITU-T  International Telecommunication Union",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "B. Hjelm",
+        "To": "Verizon",
+        "Type": "Employee"
+    },
+    {
+        "From": "ecsec GmbH",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "UK  Cabinet Office",
+        "To": "UK Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Innovation and Networks Executive Agency",
+        "To": "CEF Telecom",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Jim Hazard",
+        "To": "Blockchain and Smart Contracts Discussion Group",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "Communication Group AHG1",
+        "To": "ISO/TC 292 Security and Resilience",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "MODRNA Registration",
+        "To": "MONDRNA",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Flightmap",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "7th Framework Programme",
+        "To": "Smart Society Project",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "The Scientific & Technological Research Council of Turkey (TUBITAK)",
+        "To": "Turkish Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Integrated Circuit Cards with Contacts WG4",
+        "To": "ISO/IEC JTC1/SC17",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "User Managed Access",
+        "To": "Kantara",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "CitizenSafe",
+        "To": "GOV.UK Verify",
+        "Type": "Certified IdP"
+    },
+    {
+        "From": "Giesecke & Devrient (G&D)",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "Neeraj Suri",
+        "To": "DEEDS - Dependable, Embedded Systems and Software",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "CCSA  China Communications Standards Association",
+        "To": "Global Standards Collaboration",
+        "Type": "General Member"
+    },
+    {
+        "From": "Health Relationship Trust Profile for User Managed Access 1.0",
+        "To": "HEART Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Digital Footprint Videos",
+        "To": "Privacy and Identity",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "SURF Net",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "Systematic Alien Verification for Entitlements SAVE",
+        "To": "US Citizenship and Immigration Services",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "European Commission",
+        "To": "DG Connect European Commission's Directorate General for Communications Networks, Content & Technology",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Virginia Electronic Identity Management Act",
+        "To": "International Identity Law and Policy Workshop",
+        "Type": "Connection"
+    },
+    {
+        "From": "Mike Jones",
+        "To": "OpenID Connect Core 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "D. Salama",
+        "To": "AccountChooser Integration API Profile 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Ku Leuven",
+        "To": "LSEC \u2013 Leaders In Security",
+        "Type": "Founder"
+    },
+    {
+        "From": "Address Supporting Organization",
+        "To": "Number Resource Organization (NRO)",
+        "Type": "Connection"
+    },
+    {
+        "From": "Jericho Forum",
+        "To": "Global Identity Foundation",
+        "Type": "Connection"
+    },
+    {
+        "From": "Mike Jones",
+        "To": "OpenID Connect Back-Channel Logout 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "United Nations Commission on International Trade Law",
+        "To": "United Nations",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Web Authentication API",
+        "To": "Web Authentication",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Consult Hyperion",
+        "To": "OIX-UK",
+        "Type": "General Member"
+    },
+    {
+        "From": "T. Lodderstedt",
+        "To": "Deutsche Telekom",
+        "Type": "Employee"
+    },
+    {
+        "From": "GOV.UK Verify",
+        "To": "UK Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Tracking Preference Expression (DNT)",
+        "To": "User Submitted Terms",
+        "Type": "Similar Efforts/Projects/Work"
+    },
+    {
+        "From": "National Strategy for Trusted Identities in Cyberspace (NSTIC) - National Program Office",
+        "To": "Identity Ecosystem Steering Group"
+    },
+    {
+        "From": "John Bradley",
+        "To": "iGov Working Group",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "enisa European Network and Information Security Agency",
+        "To": "Privacy by Design in Big Data",
+        "Type": "Author"
+    },
+    {
+        "From": "DG Connect European Commission's Directorate General for Communications Networks, Content & Technology",
+        "To": "eIDAS",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "AFRINIC (African Network Information Center)",
+        "To": "Number Resource Organization (NRO)",
+        "Type": "General Member"
+    },
+    {
+        "From": "eSignature",
+        "To": "eSignature Introduction",
+        "Type": "Author"
+    },
+    {
+        "From": "Identity Law & Policy Workshop Amsterdam",
+        "To": "Report: International Law and Policy Workshop 2",
+        "Type": "Author"
+    },
+    {
+        "From": "EEMA",
+        "To": "enisa European Network and Information Security Agency",
+        "Type": "Collaboration Partner / Affiliate"
+    },
+    {
+        "From": "White House - Office of Science and Technology Policy",
+        "To": "United States Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Keith Institute",
+        "To": "Personal Data Project",
+        "Type": "Connection"
+    },
+    {
+        "From": "Consent and Information Sharing Working  Group",
+        "To": "Kantara",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Trustable Ltd.",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "Emergency Management WG3",
+        "To": "ISO/TC 292 Security and Resilience",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "OpenID AccountChooser Basic API Profile 1.0",
+        "To": "Account Chooser",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Blockchain Working Group",
+        "To": "ATTPS Achieving The Trust Paradigm Shift",
+        "Type": "Author"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working Paper on Mobile processing of Personal Data and Security",
+        "Type": "Author"
+    },
+    {
+        "From": "Department of Homeland Security",
+        "To": "United States Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "HEART profile for FHIR UMA resource set types, scopes, and claims-gathering flows",
+        "To": "HEART Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Identity in the Cloud",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "7th Framework Programme",
+        "To": "STORK",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "John Bradley",
+        "To": "Token Bound Authentication",
+        "Type": "Author"
+    },
+    {
+        "From": "RDF",
+        "To": "W3C",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences; National Research Council",
+        "To": "Protecting Individual Privacy in the Struggle Against Terrorists: A Framework for Program Assessment",
+        "Type": "Author"
+    },
+    {
+        "From": "National Institute of Standards (NIST)",
+        "To": "United States Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Digital Log Book",
+        "To": "OIX-UK",
+        "Type": "General Member"
+    },
+    {
+        "From": "European Data Protection Supervisor (Contr\u00f4leur europ\u00e9en de la protection des donn\u00e9es)",
+        "To": "European Union",
+        "Type": "Government Connection"
+    },
+    {
+        "Description": "The code went from the epSOS project to OpenNPC and is being stewarded by the eHealth Digital Service Infrastructure which is part of the Connecting Europe Facility.",
+        "From": "epSOS",
+        "To": "OpenNPC",
+        "Type": "Connection"
+    },
+    {
+        "From": "European Commission",
+        "To": "Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs (DG GROWTH )",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Machine Readable Travel Documents WG3",
+        "To": "ISO/IEC JTC1/SC17",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Future of Identity in the Information Society (FIDIS)",
+        "To": "Identity Management and Privacy Technologies WG5",
+        "Type": "Connection"
+    },
+    {
+        "From": "SDNRG Software-Defined Networking Research Group",
+        "To": "DMTF Distributed Management Task Force Inc.",
+        "Type": "Connection"
+    },
+    {
+        "From": "IEEE Internet of Things",
+        "To": "IEEE Computer Society",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "S\u00f6derhamn Kommun",
+        "To": "ABC4Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "ETSI  The European Telecommunications Standards Institute",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "John Bradley",
+        "To": "Ping Identity",
+        "Type": "Employee"
+    },
+    {
+        "From": "Address Supporting Organization",
+        "To": "Internet Corporation for Assigned Names and Numbers (ICANN)",
+        "Type": "Connection"
+    },
+    {
+        "From": "Internet Society ISOC",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "IESG -  Internet Engineering Steering Group",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "W3C",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "Authenticity, Integrity and Trust for Products and Documents  WG4",
+        "To": "ISO/TC 292 Security and Resilience",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "User Submitted Terms",
+        "To": "Consent and Information Sharing Working  Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Information technology \u2014 Identification cards \u2014 On-Card matching (24787)",
+        "To": "Biometrics WG11",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "IEEE Standards Organization",
+        "To": "IEEE Computer Society",
+        "Type": "Connection"
+    },
+    {
+        "From": "Financial Transaction Cards WG7",
+        "To": "ISO/IEC JTC1/SC17",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Secure Identity Alliance",
+        "To": "Civil Registry Consolidation through Digital Identity Management",
+        "Type": "Author"
+    },
+    {
+        "From": "Verizon",
+        "To": "OIX-UK",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Andrew Nash",
+        "To": "confyrm",
+        "Type": "Employee"
+    },
+    {
+        "From": "Chair for Information Security and Cryptography at the University of Trier",
+        "To": "OAuth Security Workshop 2016",
+        "Type": "Convenor"
+    },
+    {
+        "From": "National Strategy for Trusted Identities in Cyberspace",
+        "To": "Identity Ecosystem Steering Group",
+        "Type": "Connection"
+    },
+    {
+        "From": "North American Security Products Organization",
+        "To": "ANSI",
+        "Type": "Connection"
+    },
+    {
+        "From": "CitizenSafe",
+        "To": "OIX-UK",
+        "Type": "General Member"
+    },
+    {
+        "From": "Information Commissioner\u2019s Office",
+        "To": "UK Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "NXP Semiconductors",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "Digidentity",
+        "To": "GOV.UK Verify",
+        "Type": "Certified IdP"
+    },
+    {
+        "From": "Cookie Clearinghouse",
+        "To": "Privacy Badger",
+        "Type": "Connection"
+    },
+    {
+        "From": "Internet Corporation for Assigned Names and Numbers (ICANN)",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "Imprimerie Nationale",
+        "To": "Secure Identity Alliance",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Digital Identity Programme",
+        "To": "GSMA",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "The Internet Technical Advisory Committee",
+        "To": "Guidelines on the Protection of Privacy and Transborder Flows of Personal Data",
+        "Type": "Author"
+    },
+    {
+        "From": "Nat Sakimura",
+        "To": "AccountChooser Integration API Profile 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Austrian Federal Ministry of Finance",
+        "To": "The Secure Information Technology Center \u2013 Austria (A-SIT)",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Trust in Digital Life",
+        "To": "Trust in Digital World",
+        "Type": "Convenor"
+    },
+    {
+        "From": "UMA Developer",
+        "To": "Kantara",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Jericho Forum",
+        "To": "\u201cIdentity\u201d Commandments",
+        "Type": "Author"
+    },
+    {
+        "From": "Netnod",
+        "To": "Automomica",
+        "Type": "Founder"
+    },
+    {
+        "From": "TTC  Telecommunication Technology Committee, Japan",
+        "To": "Global Standards Collaboration",
+        "Type": "General Member"
+    },
+    {
+        "From": "Barclays",
+        "To": "GOV.UK Verify",
+        "Type": "Certified IdP"
+    },
+    {
+        "From": "US National Information Exchange Model",
+        "To": "e-Government Core Vocabularies",
+        "Type": "Connection"
+    },
+    {
+        "From": "SDNRG Software-Defined Networking Research Group",
+        "To": "IETF",
+        "Type": "Connection"
+    },
+    {
+        "From": "CEF Telecom",
+        "To": "Non-paper on the IT Governance of CEF Building Block Digital Service Infrastructures (DSIs)",
+        "Type": "Author"
+    },
+    {
+        "From": "Optical Memory Cards WG9",
+        "To": "ISO/IEC JTC1/SC17",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "P. Tarjan",
+        "To": "OAuth 2.0 Multiple Response Type Encoding Practices",
+        "Type": "Author"
+    },
+    {
+        "From": "United States Government",
+        "To": "United Nations",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Israeli Government",
+        "To": "Israeli Law, Information and Technology Authority",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "iGov Working Group",
+        "To": "OpenID Foundation",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Web Payment Activity",
+        "To": "W3C",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Avoco",
+        "To": "OIX-UK",
+        "Type": "General Member"
+    },
+    {
+        "From": "DNSSEC",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Digidentity",
+        "To": "OIX-UK",
+        "Type": "General Member"
+    },
+    {
+        "From": "Payment App API",
+        "To": "Web Payments Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Social Security Administration",
+        "To": "Electronic Verification of Vital Events (EVVE)",
+        "Type": "Customer of Service / Company"
+    },
+    {
+        "From": "European Commission",
+        "To": "General Data Protection Regulation",
+        "Type": "Author"
+    },
+    {
+        "From": "7th Framework Programme",
+        "To": "Private Identity as a Service",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Barclays",
+        "To": "OIX-UK",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Domenico Catalano",
+        "To": "UMA Profile of OAuth 2.o",
+        "Type": "Author"
+    },
+    {
+        "From": "confyrm",
+        "To": "OIX-UK",
+        "Type": "General Member"
+    },
+    {
+        "From": "Rainer Hoerbe",
+        "To": "Identity in the Cloud",
+        "Type": "Person Affiliated"
+    },
+    {
+        "From": "THE COALITION FOR SENSIBLE PUBLIC RECORDS ACCESS",
+        "To": "Social Security Numbers, Public Records, and Identity Theft"
+    },
+    {
+        "From": "T2TRG Thing-to-Thing Research Group",
+        "To": "Web of Things Interest Group",
+        "Type": "Connection"
+    },
+    {
+        "From": "Privacy Considerations for Web Protocols",
+        "To": "The Tracking Protection Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Secure Identity",
+        "To": "Morpho (Safran Identity and Security)",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "UMA Profile of OAuth 2.o",
+        "To": "User Managed Access",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "IETF",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "Office of the Australian Information Commissioner",
+        "To": "The International Conference of Data Protection and Privacy Commissioners",
+        "Type": "General Member"
+    },
+    {
+        "From": "IETF",
+        "To": "Do Not Track: A Universal Third-Party Web Tracking Opt Out",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Nat Sakimura",
+        "To": "OpenID Connect Discovery 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Security Controls and Services WG4",
+        "To": "ISO/IEC JTC 1 / SC27 IT Security Techniques",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "INC: Industry Numbering Committee",
+        "To": "ATIS   The Alliance for Telecommunications Industry Solutions, USA",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "European Commission",
+        "To": "Innovation and Networks Executive Agency",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working Paper on Intelligent Video Analytics",
+        "Type": "Author"
+    },
+    {
+        "From": "Communication: ICT Standardisation Priorities for the Digital Single Market",
+        "To": "eIDAS",
+        "Type": "Connection"
+    },
+    {
+        "From": "NEC Laboratories Europe",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "Web of Things Community Group",
+        "To": "W3C",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Digital Catapult",
+        "To": "UK Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "IEEE Technical Committee on Security and Privacy",
+        "To": "38th IEEE Symposium on Security and Privacy",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Arhs Spikeseed",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "Consent Receipt Specification",
+        "To": "Consent and Information Sharing Working  Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "State of Virginia",
+        "To": "Virginia Electronic Identity Management Act",
+        "Type": "Author"
+    },
+    {
+        "From": "Identification cards \u2013 Contactless integrated circuit(s) cards \u2013 Proximity integrated circuit(s) cards (14443)",
+        "To": "Contactless Integrated Circuit(s) cards WG8",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "The Internet Technical Advisory Committee",
+        "To": "The Evolving Role of the Individual in Privacy Protection: 30 Years after the OECD Privacy Guidelines",
+        "Type": "Convenor"
+    },
+    {
+        "From": "SDNRG Software-Defined Networking Research Group",
+        "To": "Open Networking Foundation ONF",
+        "Type": "Connection"
+    },
+    {
+        "From": "Harvard Medical School Department of Biomedical Informatics",
+        "To": "Harvard",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Bern University of Applied Sciences",
+        "To": "VoteID 2015",
+        "Type": "Convenor"
+    },
+    {
+        "From": "NFVRG Network Function Virtualization Research Group",
+        "To": "Internet Research Task Force IRTF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Machine Readable Travel Documents WG3",
+        "To": "Doc 9303  Machine Readable Travel Documents",
+        "Type": "Author"
+    },
+    {
+        "From": "Timpson",
+        "To": "OIX-UK",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "MAPRG Measurement and Analysis for Protocols Research Group",
+        "To": "Internet Research Task Force IRTF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "e-SENS   Electronic Simple European Networked Services",
+        "To": "CEF Building Blocks / CEF Digital Portal",
+        "Type": "Connection"
+    },
+    {
+        "From": "PKCS 11 TC",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "NorStella - Foundation for e-Business and Trade Procedures",
+        "To": "European Trust Foundation",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "eDelivery",
+        "To": "eDelivery Introduction",
+        "Type": "Author"
+    },
+    {
+        "From": "Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences; National Research Council",
+        "To": "Trust in Cyberspace",
+        "Type": "Author"
+    },
+    {
+        "From": "CEF Building Blocks / CEF Digital Portal",
+        "To": "eSignature",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "CEF Building Blocks / CEF Digital Portal",
+        "To": "eTranslation"
+    },
+    {
+        "From": "David Singer",
+        "To": "Tracking Preference Expression (DNT)",
+        "Type": "Author"
+    },
+    {
+        "From": "LDAP",
+        "To": "Network Working Group",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "EEMA",
+        "To": "ISSE Information Security Solutions Europe",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Eve Maler",
+        "To": "UMA Profile of OAuth 2.o",
+        "Type": "Author"
+    },
+    {
+        "From": "Network Working Group",
+        "To": "IETF",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Department of Computer Science, Privacy and Security Group.",
+        "To": "IFIP Summer School 2016",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Horizon 2020",
+        "To": "triedisec Trust-aware, REliable and Distributed Information SEcurity in the Cloud",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working Paper on the Use of Deep Packet Inspection for Marketing Purposes",
+        "Type": "Author"
+    },
+    {
+        "From": "Issuer Identification Numbers (IINs)/Application Provider Identifiers (RIDs)Identification cards \u2013 Machine readable travel documents \u2013 Part 3: Official travel documents",
+        "To": "Machine Readable Travel Documents WG3",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Government Digital Service",
+        "To": "GOV.UK Verify",
+        "Type": "Connection"
+    },
+    {
+        "From": "Alexandra Institute",
+        "To": "ABC4Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "Developing Countries Contact Group DCCG",
+        "To": "ISO/TC 292 Security and Resilience",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "ICAO Technical Advisory Group on Traveller Identification Programme",
+        "To": "ICAO",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Thomas Hardjono",
+        "To": "UMA Profile of OAuth 2.o",
+        "Type": "Author"
+    },
+    {
+        "From": "MONDRNA",
+        "To": "OpenID Foundation",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "DG Connect European Commission's Directorate General for Communications Networks, Content & Technology",
+        "To": "Annual Privacy Forum",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Global Identity Foundation",
+        "To": "Paul Simmonds",
+        "Type": "Employee"
+    },
+    {
+        "From": "Mike Jones",
+        "To": "OpenID Connect Front-Channel Logout 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Netnod",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "DEEDS - Dependable, Embedded Systems and Software",
+        "To": "ABC4Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "IDnext",
+        "To": "European Trust Foundation",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "ETSI  The European Telecommunications Standards Institute",
+        "To": "3rd Generation Partnership Project (3GPP)",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "DoNotTrack.Us",
+        "To": "The Tracking Protection Working Group",
+        "Type": "Similar Efforts/Projects/Work"
+    },
+    {
+        "From": "John Bradley",
+        "To": "OpenID Connect Core 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "IEEE Future Directions Committee",
+        "To": "IEEE Computer Society",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Financial transaction cards (7814)",
+        "To": "Financial Transaction Cards WG7",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "OASIS",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "epSOS",
+        "To": "EXPAND",
+        "Type": "Connection"
+    },
+    {
+        "From": "Coordination Center for TLD RU (CC for TLD RU)",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "Identification cards \u2013 Optical memory cards (11693-5)",
+        "To": "Optical Memory Cards WG9",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "7th Framework Programme",
+        "To": "Horizon 2020",
+        "Type": "Connection"
+    },
+    {
+        "From": "National Interoperability Framework Observatory (NIFO)",
+        "To": "NIFs Implementation and Monitoring State of Play 2015",
+        "Type": "Author"
+    },
+    {
+        "From": "Linux Foundation",
+        "To": "Internet Security Research Groups ISRG"
+    },
+    {
+        "From": "Identification cards \u2013 Contactless integrated circuit(s) cards \u2013 Vicinity cards  (15693)",
+        "To": "Contactless Integrated Circuit(s) cards WG8",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Microsoft France",
+        "To": "Microsoft",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Tony Nadalin",
+        "To": "Microsoft",
+        "Type": "Employee"
+    },
+    {
+        "From": "Account Chooser",
+        "To": "OpenID Foundation",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "ANSI",
+        "To": "ISO/IEC",
+        "Type": "General Member"
+    },
+    {
+        "From": "Global Identity Foundation",
+        "To": "Global Identity Foundation - Vision & Mission",
+        "Type": "Author"
+    },
+    {
+        "From": "eDocuments",
+        "To": "Secure Identity Alliance",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Working Party on Security and Privacy in the Digital Economy (WPSDE)",
+        "To": "OECD Committee on Digital Economy Policy",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "FIDO 2.0: Signature format",
+        "To": "Web Authentication",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Privacy Management Reference Model (PMRM)",
+        "To": "OASIS",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "IEEE Internet of Things",
+        "To": "Towards a definition of the Internet of  Things (IoT)",
+        "Type": "Author"
+    },
+    {
+        "From": "IEEE Future Directions Committee",
+        "To": "IEEE Technology Time Machine",
+        "Type": "Convenor"
+    },
+    {
+        "From": "SSEDIC.2020 - Scoping the Single European Digital Identity Community for the next decade",
+        "To": "Open, Identity Summit",
+        "Type": "Convenor"
+    },
+    {
+        "From": "OAuth Dynamic Client Registration (RFC7591)",
+        "To": "OAuth WG",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "State of Virginia",
+        "To": "United States Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Security Evaluation, Testing and Specification WG3",
+        "To": "ISO/IEC JTC 1 / SC27 IT Security Techniques",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Pam Dingle",
+        "To": "OpenID AccountChooser Basic API Profile 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "ULD - Unabh\u00e4ngiges Landeszentrum fur Datenschutz",
+        "To": "ABC4Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "OpenID Connect Profile for SCIM Services",
+        "To": "AB/Connect Working Group",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Internet2",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "Josh Mandel",
+        "To": "Health Relationship Trust Profile for Fast Healthcare Interoperability Resources (FHIR) OAuth 2.0 Scopes",
+        "Type": "Author"
+    },
+    {
+        "From": "Ministry of Interior Republic of Serbia",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "CA Technologies",
+        "To": "OIX-UK",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Community Resilience WG5",
+        "To": "ISO/TC 292 Security and Resilience",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Western Hemisphere Travel Initiative",
+        "To": "US Customs and Boarder Protection",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "TSDSI  Telecommunications Standards Development Society, Indiia",
+        "To": "3rd Generation Partnership Project (3GPP)",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "ARIB  The Association of Radio Industries and Businesses, Japan",
+        "To": "3rd Generation Partnership Project (3GPP)",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "US Customs and Boarder Protection",
+        "To": "USCIS US Citizenship and Immigration Services - Department of Homeland Security",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "N. Agarwal",
+        "To": "Google",
+        "Type": "Employee"
+    },
+    {
+        "From": "berlin Commissioner for Data Protection and Freedom of Information",
+        "To": "German Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "European Commission",
+        "To": "Connecting Europe Facility",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "FIDO 2.0: Web API for accessing FIDO 2.0 credentials",
+        "To": "Web Authentication",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Ruhr-University Bochum",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "OASIS",
+        "To": "Key Management Interoperability Protocol (KMIP)",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Morpho (Safran Identity and Security)",
+        "To": "Secure Identity Alliance",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Roy T. Fielding",
+        "To": "Tracking Preference Expression (DNT)",
+        "Type": "Author"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working Paper on Cloud Computing - Privacy and data protection issues - \u201cSopot Memorandum\u201d",
+        "Type": "Author"
+    },
+    {
+        "Description": "grant agreement No 644962",
+        "From": "Horizon 2020",
+        "To": "PRISMACLOUD",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Motor Vehicle Drivers Licence and Related Documents WG10",
+        "To": "ISO/IEC JTC1/SC17",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "European Commission",
+        "To": "Directorate-General for Informatics (DIGIT)",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "HEART Working Group",
+        "To": "OpenID Foundation",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Horizon 2020",
+        "To": "STORK 2.0",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Information Security Management Systems WG1",
+        "To": "ISO/IEC JTC 1 / SC27 IT Security Techniques",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "TTA  Telecommunications Technology Association, Korea",
+        "To": "Global Standards Collaboration",
+        "Type": "General Member"
+    },
+    {
+        "From": "OECD Committee on Digital Economy Policy",
+        "To": "OECD (The Organisation for Economic Co-operation and Development)",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Hannes Tschofenig",
+        "To": "OAuth Security Workshop 2016",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "eHealth Digital Service Infrastructure",
+        "To": "OpenNPC",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Eve Maler",
+        "To": "UMA WG\u2019s requirements and design principles",
+        "Type": "Author"
+    },
+    {
+        "From": "Oberthur",
+        "To": "Secure Identity Alliance",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "Nat Sakimura",
+        "To": "OpenID Connect Core 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "ICAO Technical Advisory Group on Traveller Identification Programme",
+        "To": "Doc 9303  Machine Readable Travel Documents",
+        "Type": "Author"
+    },
+    {
+        "From": "Goethe University: Frankfurt",
+        "To": "Annual Privacy Forum",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Protective Security WG 6",
+        "To": "ISO/TC 292 Security and Resilience",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Alexandra Institute",
+        "To": "Trust in Digital Life",
+        "Type": "General Member"
+    },
+    {
+        "From": "U.S. Passport Verification Services (USPVS)",
+        "To": "American Association of Motor Vehicle Administrators",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Connecting Europe Facility",
+        "To": "CEF Telecom",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Identity Management in Electronic Commerce",
+        "To": "Uniform Law Commission",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Fluffy: Simplified Key Exchange for Constrained Environments",
+        "To": "ACE - Authentication and Authorization of Constrained Environments",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "IETF",
+        "To": "Internet Society ISOC",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Global Identity Foundation",
+        "To": "Steve Moyle",
+        "Type": "Employee"
+    },
+    {
+        "From": "Working Party on Communications and Infrastructure Services Policy (CISP)",
+        "To": "OECD Committee on Digital Economy Policy",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "ICAO Technical Advisory Group on Traveller Identification Programme",
+        "To": "Machine Readable Travel Documents Glossary",
+        "Type": "Author"
+    },
+    {
+        "From": "Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences; National Research Council",
+        "To": "Engaging Privacy and Information Technology in a Digital Age",
+        "Type": "Author"
+    },
+    {
+        "From": "UAF",
+        "To": "FIDO Alliance",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Connecting Europe Facility CEF  Telecom Expert Group",
+        "To": "CEF Telecom",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Phil Hunt",
+        "To": "Oracle",
+        "Type": "Employee"
+    },
+    {
+        "From": "John Bradley",
+        "To": "OpenID Connect Session Management 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Austrian Federal Ministry of Finance",
+        "To": "Austrian Government",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "International Working Group on Data Protection in Telecommunications (IWGDPT) \"The Berlin Group\"",
+        "To": "Working paper on Transparency Reporting: Promoting accountability when governments access personal data held by companies",
+        "Type": "Author"
+    },
+    {
+        "From": "Latin America and Caribbean Network Information Centre",
+        "To": "Number Resource Organization (NRO)",
+        "Type": "General Member"
+    },
+    {
+        "From": "SWITCH",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member",
+        "Website": "http://www.switch.ch/"
+    },
+    {
+        "From": "Connecting Europe Facility",
+        "To": "Open PEPPOL",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "Open Identity Exchange",
+        "To": "International Identity Law and Policy Workshop",
+        "Type": "Convenor"
+    },
+    {
+        "From": "U2F",
+        "To": "FIDO Alliance",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Mike Jones",
+        "To": "Token Bound Authentication",
+        "Type": "Author"
+    },
+    {
+        "From": "The Scientific & Technological Research Council of Turkey (TUBITAK)",
+        "To": "Future Trust",
+        "Type": "General Member"
+    },
+    {
+        "From": "IEEE Standards Organization",
+        "To": "Global Standards Collaboration",
+        "Type": "General Member"
+    },
+    {
+        "From": "Future of Identity in the Information Society (FIDIS)",
+        "To": "HighTech ID",
+        "Type": "Author"
+    },
+    {
+        "From": "IEEE Technical Committee on Security and Privacy",
+        "To": "IEEE Computer Society",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "JSON-LD",
+        "To": "W3C",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "international Association for Cryptologic Research",
+        "To": "EuroCrypt 2017",
+        "Type": "Convenor"
+    },
+    {
+        "From": "Virginia Identity Management Standards Advisory Council",
+        "To": "State of Virginia",
+        "Type": "Government Connection"
+    },
+    {
+        "From": "Telecommunications Industry Association (TIA)",
+        "To": "Global Standards Collaboration",
+        "Type": "General Member"
+    },
+    {
+        "From": "GSMA",
+        "To": "Digital Identity: Towards Shared Principles for Public and Private Sector Cooperation A joint World Bank Group \u2013 GSMA \u2013 Secure Identity Alliance Discussion Paper",
+        "Type": "Author"
+    },
+    {
+        "From": "Identification cards \u2013 Recording technique (7910)",
+        "To": "Physical Characteristics and Test Methods WG1",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "CBOR Web Token (CWT)",
+        "To": "ACE - Authentication and Authorization of Constrained Environments",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "B. de Medeiros",
+        "To": "OpenID Connect Session Management 1.0",
+        "Type": "Author"
+    },
+    {
+        "From": "Telecommunications Industry Association (TIA)",
+        "To": "The Internet Technical Advisory Committee",
+        "Type": "General Member"
+    },
+    {
+        "From": "ISO/TC 292 Security and Resilience",
+        "To": "ISO/IEC JTC1/SC17",
+        "Type": "Connection"
+    },
+    {
+        "From": "T. Lodderstedt",
+        "To": "MODRNA Registration",
+        "Type": "Author"
+    },
+    {
+        "From": "IEEE Future Directions Committee",
+        "To": "IEEE Cybersecurity Initiative",
+        "Type": "Founder"
+    },
+    {
+        "From": "7th Framework Programme",
+        "To": "ESSENCE",
+        "Type": "Funding Flow"
+    },
+    {
+        "From": "MODRNA Discovery",
+        "To": "MONDRNA",
+        "Type": "Specification of Group"
+    },
+    {
+        "From": "Future of Identity in the Information Society (FIDIS)",
+        "To": "Profiling",
+        "Type": "Author"
+    },
+    {
+        "From": "ARIB  The Association of Radio Industries and Businesses, Japan",
+        "To": "Global Standards Collaboration",
+        "Type": "General Member"
+    },
+    {
+        "From": "M. Scurtescu",
+        "To": "Google",
+        "Type": "Employee"
+    },
+    {
+        "From": "OASIS",
+        "To": "CloudAuthorization (CloudAuthZ)",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "SDNRG Software-Defined Networking Research Group",
+        "To": "IEEE Standards Organization",
+        "Type": "Connection"
+    },
+    {
+        "From": "Trustable Ltd.",
+        "To": "Digital Signature Services eXtended (DSS-X) TC",
+        "Type": "Founder"
+    },
+    {
+        "From": "TTA  Telecommunications Technology Association, Korea",
+        "To": "3rd Generation Partnership Project (3GPP)",
+        "Type": "Executive Member"
+    },
+    {
+        "From": "The Evolving Role of the Individual in Privacy Protection: 30 Years after the OECD Privacy Guidelines",
+        "To": "The International Conference of Data Protection and Privacy Commissioners",
+        "Type": "Connection"
+    },
+    {
+        "Description": "[This document articulates all the connections between the two.](http://www.itu.int/en/ITU-T/studygroups/2013-2016/17/Documents/reference-info/SG17-rels-ISO+IEC+ISOIECJTC1.doc)",
+        "From": "Study Group 17",
+        "To": "ISO/IEC",
+        "Type": "Connection"
+    },
+    {
+        "From": "Deutsche Telekom",
+        "To": "Chair of Mobile Business & Multilateral Security",
+        "Type": "Sponsor"
+    },
+    {
+        "From": "Records and Information from DMVs for E-Verify (RIDE)",
+        "To": "American Association of Motor Vehicle Administrators",
+        "Type": "Organization for Group"
+    },
+    {
+        "From": "Eve Maler",
+        "To": "User Managed Access",
+        "Type": "Chair / Vice Chair"
+    },
+    {
+        "From": "Vyjayanti Desai",
+        "To": "ID4D",
+        "Type": "Employee"
+    },
+    {
+        "From": "B. Campbell",
+        "To": "OAuth 2.0 Form Post Response Mode",
+        "Type": "Author"
+    },
+    {
+        "From": "Vendorcom",
+        "To": "European Trust Foundation",
+        "Type": "Executive Member"
+    }
+]

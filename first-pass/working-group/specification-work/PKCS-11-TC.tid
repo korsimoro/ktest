@@ -1,0 +1,30 @@
+created:
+modified:
+title:PKCS 11 TC
+type:text/vnd.tiddlywiki
+activities:
+category:Specification Work
+date.ended:
+date.founded:
+digital.harms.addressed:
+github.profile:
+ipr:
+meeting.frequency:
+name:PKCS 11 TC
+parent.org:OASIS
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"5e9938cc-0c7b-4b44-ad09-0c83ecdbb0e0":{"to":"97374d5a-1b95-4057-82eb-78aa6764c95f","type":"organization-for-group"}}
+tmap.id:0126e403-83f5-40ce-81d1-d9e7b569dcaa
+url:https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=pkcs11
+
+Enhancing PKCS #11 standard for cryptographic tokens controlling authentication information (personal identity, cryptographic keys, certificates, digital signatures, biometric data)
+
+The OASIS PKCS 11 Technical Committee develops enhancements to improve the PKCS #11 standard for ease of use in code libraries, open source applications, wrappers, and enterprise/COTS products: implementation guidelines, usage tutorials, test scenarios and test suites, interoperability testing, coordination of functional testing, development of conformance profiles, and providing reference implementations.
+
+The updated standard provides additional support for mobile and cloud computing use cases: for distributed/federated applications involving key management functions (key generation, distribution, translation, escrow, re-keying); session-based models; virtual devices and virtual keystores; evolving wireless/sensor applications using near field communication (NFC), RFID, Bluetooth, and Wi-Fi.
+
+TC members are also designing new mechanisms for API instrumentation, suitable for use in prototyping, profiling, and testing in resource-constrained application environments. These updates enable support for easy integration of PKCS #11 with other cryptographic key management system (CKMS) standards, including a broader range of cryptographic algorithms and CKMS cryptographic service models.

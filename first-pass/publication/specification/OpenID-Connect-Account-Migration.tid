@@ -1,0 +1,27 @@
+created:
+modified:
+title:OpenID Connect Account Migration
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):
+date:
+digital.harms.addressed:
+github.profile:
+jurisdiction:
+license:
+name:OpenID Connect Account Migration
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:
+sponsoring.organization:MONDRNA
+tags:
+tech.focus:
+tmap.edges:{"d6b0f459-1a12-412b-8efe-6fa34876409d":{"to":"e74bce00-6dc5-48b9-904b-29c8da38a449","type":"specification-of-group"}}
+tmap.id:19d28677-d632-41e5-8c5a-39e010eaa416
+url:
+version.or.edition:
+volume.frequency:
+working.group:
+
+This document specifies a protocol for migrating user accounts among OpenID Connect OPs. The goal is to allow users to migrate between OpenID Connect OPs while retaining access to their existing services (RPs). Although the need for such a function was first raised in the context of the Mobile Connect initiative ([MobileConnect]), the intend is to design a protocol applicable on a general basis.

@@ -1,0 +1,3 @@
+[submodule "runner/TiddlyWiki5"]
+	path = runner/TiddlyWiki5
+	url = https://github.com/Jermolene/TiddlyWiki5.git
