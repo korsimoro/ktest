@@ -1,0 +1,30 @@
+created:
+modified:
+title:Internet Research Task Force IRTF
+type:text/vnd.tiddlywiki
+activities:
+category:Specification Work
+date.ended:
+date.founded:2012-04-17
+digital.harms.addressed:
+github.profile:
+ipr:
+meeting.frequency:
+name:Internet Research Task Force IRTF
+parent.org:IETF
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"880fd4d0-3b11-4a5a-ab7b-de8acd83a85d":{"to":"c2b6c958-2e97-472a-a0ca-609a4938e152","type":"organization-for-group"},"cbc65eed-6fb2-4e1e-b712-eda149d1966c":{"to":"61d3d4e7-f23b-4f60-b17a-bc1ca3727e9d","type":"default"},"8194773b-12b1-49b6-88a2-2ae3df7e9f51":{"to":"1a17d238-a94e-4d44-b1db-3501053ffff4","type":"organization-for-group"}}
+tmap.id:3e9c76ce-4794-4b7f-a667-22d79ed1dedf
+url:https://irtf.org
+
+Distributing and manipulating named information is a major application in the Internet today. In addition to web-based content distribution, other distribution technologies (such as P2P and CDN) have emerged and are promoting a communication model of accessing data by name, regardless of origin server location.
+
+In order to respond to increasing traffic volume in the current Internet for applications such as mobile video and cloud computing, a set of disparate technologies and distribution services are employed that employ caching, replication and content distribution in different specific ways. These approaches are currently deployed in separate silos – different CDN providers and P2P applications rely on proprietary distribution technologies. It is not possible to uniquely and securely identify named information independently of the distribution channel; and the different distribution approaches are typically implemented as an overlay, leading to unnecessary inefficiency.
+
+Information-centric networking (ICN) is an approach to evolve the Internet infrastructure to directly support this use by introducing uniquely named data as a core Internet principle. Data becomes independent from location, application, storage, and means of transportation, enabling in-network caching and replication. The expected benefits are improved efficiency, better scalability with respect to information/bandwidth demand and better robustness in challenging communication scenarios. These concepts are known under different terms, including but not limited to: Network of Information (NetInf), Named Data Networking (NDN) and Publish/Subscribe Networking.
+
+ICN concepts can be applied to different layers of the protocol stack: name-based data access can be implemented on top of the existing IP infrastructure, e.g., by providing resource naming, ubiquitous caching and corresponding transport services, or it can be seen as a packet-level internetworking technology that would cause fundamental changes to Internet routing and forwarding. In summary, ICN is expected to evolve the Internet architecture at different layers.

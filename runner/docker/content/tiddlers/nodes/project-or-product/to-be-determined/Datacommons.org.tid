@@ -1,0 +1,10 @@
+created:
+modified:
+title:Datacommons.org
+type:text/vnd.tiddlywiki
+category:to-be-determined
+name:Datacommons.org
+tmap.edges:{}
+tmap.id:0700768d-f58b-4777-bbe8-42712174c5d9
+
+Publicly available data from open sources (census.gov: NOAA: data.gov: etc.) are vital resources for students and researchers in a variety of disciplines. Unfortunately: processing these datasets is often tedious and cumbersome. Organizations follow distinctive practices for codifying datasets. Combining data from different sources requires mapping common entities (city: county: etc.) and resolving different types of keys/identifiers. This process is time consuming and can increase the likelihood for methodological errors.

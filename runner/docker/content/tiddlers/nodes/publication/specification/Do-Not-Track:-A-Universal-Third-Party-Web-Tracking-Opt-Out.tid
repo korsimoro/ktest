@@ -1,0 +1,27 @@
+created:
+modified:
+title:Do Not Track: A Universal Third-Party Web Tracking Opt Out
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):
+date:
+digital.harms.addressed:
+github.profile:
+jurisdiction:
+license:
+name:Do Not Track: A Universal Third-Party Web Tracking Opt Out
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:
+sponsoring.organization:
+tags:
+tech.focus:
+tmap.edges:{}
+tmap.id:9bd3cbd1-c110-44bb-af09-d3abecd0c884
+url:https://datatracker.ietf.org/doc/draft-mayer-do-not-track/
+version.or.edition:
+volume.frequency:
+working.group:
+
+This document defines the syntax and semantics of Do Not Track, an HTTP header-based mechanism that enables users to express preferences about third-party web tracking. It also provides a standard for how web services should comply with such user preferences.

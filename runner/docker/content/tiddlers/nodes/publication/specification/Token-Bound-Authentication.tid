@@ -1,0 +1,27 @@
+created:
+modified:
+title:Token Bound Authentication
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):B. Campbell;John Bradley;Mike Jones
+date:
+digital.harms.addressed:
+github.profile:
+jurisdiction:
+license:
+name:Token Bound Authentication
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:
+sponsoring.organization:Enhanced Authentication Profile Working Group
+tags:
+tech.focus:
+tmap.edges:{"52a2728a-7e4f-47e0-a978-755140a94b43":{"to":"f134c153-736d-469c-9e4b-15c57337ef66","type":"connection"},"05d03adf-0ce9-4d27-a541-781eaf60fb19":{"to":"cc8ed28b-846c-4ed3-9dbb-940054102c17","type":"specification-of-group"}}
+tmap.id:b3abc34d-7344-4aa2-99da-40440e7a6128
+url:http://openid.net/specs/openid-connect-token-bound-authentication-1_0.html
+version.or.edition:
+volume.frequency:
+working.group:
+
+This specification enables OpenID Connect implementations to apply Token Binding to the OpenID Connect ID Token. This cryptographically binds the ID Token to the TLS connections over which the authentication occurred. This use of Token Binding protects the authentication flow from man-in-the-middle and token export and replay attacks.

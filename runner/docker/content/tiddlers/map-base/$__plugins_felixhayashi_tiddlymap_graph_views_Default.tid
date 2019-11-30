@@ -1,0 +1,7 @@
+config.neighbourhood_scope: 3
+config.physics_mode: false
+created: 20190717052859047
+isview: true
+modified: 20190717052859047
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Default
+

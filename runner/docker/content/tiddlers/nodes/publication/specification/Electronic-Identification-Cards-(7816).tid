@@ -1,0 +1,28 @@
+created:
+modified:
+title:Electronic Identification Cards (7816)
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):
+date:
+digital.harms.addressed:
+github.profile:
+jurisdiction:
+license:
+name:Electronic Identification Cards (7816)
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:
+sponsoring.organization:Integrated Circuit Cards with Contacts WG4
+tags:
+tech.focus:
+tmap.edges:{"bd59c55a-96a2-447c-af20-162bf9df3416":{"to":"b12bb4f3-2657-4107-9964-1105c30f9e8f","type":"specification-of-group"}}
+tmap.id:8a3186b8-6056-44db-98b5-7ef1959a021d
+url:
+version.or.edition:
+volume.frequency:
+working.group:
+
+This part of ISO/IEC 7816 specifies the physical characteristics of integrated circuit(s) cards with contacts. It applies to identification cards of the ID-1 card type which may include embossing and/or a magnetic stripe as specified in ISO/IEC 7811, parts 1 to 6.
+This part of ISO/IEC 7816 applies to cards which have a physical interface with electrical contacts. It does not, however, define the nature, number and position of the integrated circuits in the cards.
