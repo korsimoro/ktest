@@ -12,9 +12,10 @@ function App() {
   return (
     <Root>
       <nav>
-        <Link to="/">Home</Link>
+        <Link to="/">New Data</Link>
         <Link to="/wiki">Tiddly</Link>
         <Link to="/prose">Prose</Link>
+        <Link to="prose">Prose</Link>
       </nav>
       <div className="content">
         <FancyDiv>
