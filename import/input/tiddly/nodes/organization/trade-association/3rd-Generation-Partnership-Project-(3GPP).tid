@@ -1,5 +1,5 @@
-created:1575212063441
-modified:1575212063441
+created:1575213940168
+modified:1575213940168
 title:3rd Generation Partnership Project (3GPP)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"1ab9ef29-8026-407b-a58e-8d16927115ad":{"to":"c6b4e7a0-c0bd-4f49-98d6-6c3db7c076e9","type":"general-member"}}
-tmap.id:532b8ed2-f81f-49de-92b6-95132ccaf5e0
+tmap.edges:{"db0eab01-50af-4341-819c-0cdc6e418acb":{"to":"b0fd567e-ad67-4985-95a4-6d9e43e2c4d4","type":"general-member"}}
+tmap.id:9c9f677b-d2bb-45a3-ba13-d825ca4f3477
 twitter.profile:
 website:http://www.3gpp.org
 

@@ -231,7 +231,7 @@ export class SimpleTiddlyMap implements TiddlyMap {
 		console.log("Writing View Tiddler:",this.tiddler)
 		await fs.writeFile(this.tiddler,this.tiddlerdata())
 
-		console.log("Writing View Tiddler:",files.edges)
+		console.log("Writing View Tiddler:",this.edges)
 		await fs.writeFile(this.edges,this.edgedata())
 
 		console.log("Writing View Tiddler:",this.nodes)

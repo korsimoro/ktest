@@ -1,5 +1,5 @@
-created:1575212063431
-modified:1575212063431
+created:1575213940164
+modified:1575213940164
 title:Microsoft France
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"717ffee4-81d1-486e-b5a0-9d983180ea25":{"to":"9d05075b-c35e-466e-9c08-b91b90ce58b3","type":"general-member"},"74a9b9a5-8aef-482c-93bb-19b0e27b9dac":{"to":"3d3f1990-4415-4bfb-8f19-320a4c0f82fd","type":"organization-for-group"}}
-tmap.id:0f9ea5f4-4d12-426a-a088-2b3f1c7b88f8
+tmap.edges:{"1f78929c-b516-4ae3-b2ae-54b2dc636c93":{"to":"e87ae066-9c82-4749-b89e-e631b9a35e54","type":"general-member"},"ebe2ae91-ff59-461c-99e9-71c0ab685563":{"to":"d8b87dbe-ad5e-485b-8d59-748b6943e907","type":"organization-for-group"}}
+tmap.id:4e5b25dc-3919-482f-b558-0f219a93ff3b
 twitter.profile:
 website:https://www.microsoft.com/fr-fr/
 

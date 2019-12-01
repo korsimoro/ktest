@@ -1,5 +1,5 @@
-created:1575212063384
-modified:1575212063384
+created:1575213940134
+modified:1575213940134
 title:CFRG Crypto Forum Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"8502aef1-5acb-4eec-9e2b-664725cb249a":{"to":"b59dd089-4424-4926-b8e4-dea26891f1bc","type":"organization-for-group"}}
-tmap.id:a1f15523-b23b-435f-85d9-b92281fec5ee
+tmap.edges:{"2ef18414-bfd8-4e50-80ab-94efdebaed30":{"to":"81cf0119-b160-4630-a363-b84671ad504a","type":"organization-for-group"}}
+tmap.id:6ad7138d-724f-4e2e-a8da-27d0c0c60181
 url:https://irtf.org/cfrg
 version.or.edition:
 working.group:

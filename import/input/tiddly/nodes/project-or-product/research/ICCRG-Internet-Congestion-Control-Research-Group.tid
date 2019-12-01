@@ -1,5 +1,5 @@
-created:1575212063388
-modified:1575212063388
+created:1575213940138
+modified:1575213940138
 title:ICCRG Internet Congestion Control Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"16d58c59-3c95-4e68-8a50-e5db1662355b":{"to":"b59dd089-4424-4926-b8e4-dea26891f1bc","type":"organization-for-group"}}
-tmap.id:24980a2e-153d-4782-b5d5-d799d412ff4b
+tmap.edges:{"9fc00833-4142-4afa-be3d-96b44ab86cd7":{"to":"81cf0119-b160-4630-a363-b84671ad504a","type":"organization-for-group"}}
+tmap.id:59f0648c-9237-4c25-a11e-fcca207fcbd3
 url:https://irtf.org/iccrg
 version.or.edition:
 working.group:

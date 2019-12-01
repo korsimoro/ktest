@@ -1,5 +1,5 @@
-created:1575212063387
-modified:1575212063387
+created:1575213940137
+modified:1575213940137
 title:WISER Wide-Impact cyber Security Risk framework
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:0
 terms.of.service:
-tmap.edges:{"9e872c5d-66c9-423b-a1e9-26a7ae8cef53":{"to":"09ff798a-dca6-4a16-a1c9-c96b3aa5dbbb","type":"funding-flow"},"6eade436-27dd-469e-8d70-f50c7f4a59ae":{"to":"59cd64cc-e363-4268-a3fc-f8882b2cfec9","type":"funding-flow"}}
-tmap.id:98d408c4-9740-41f7-aa71-f2955b6bc8e8
+tmap.edges:{"d5fa31cd-c4c5-428e-963f-f28e0983f2e0":{"to":"6676885a-7787-403b-a11b-446646187d90","type":"funding-flow"},"44a951b3-1b62-4631-9ed7-52af346d0ec8":{"to":"cac0532c-b2cc-4ddf-a98a-1540af807dbe","type":"funding-flow"}}
+tmap.id:73ba2529-ac54-417b-96e4-b4fa25c4ddf2
 url:http://www.cyberwiser.eu
 version.or.edition:
 working.group:

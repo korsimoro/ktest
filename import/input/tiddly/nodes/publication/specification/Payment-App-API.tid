@@ -1,5 +1,5 @@
-created:1575212063377
-modified:1575212063377
+created:1575213940128
+modified:1575213940128
 title:Payment App API
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Web Payments Working Group
 tags:
 tech.focus:
-tmap.edges:{"429999bc-4d3e-4d6c-b381-003e7181664c":{"to":"50d40cb1-d947-430c-a722-226109a48148","type":"specification-of-group"}}
-tmap.id:13ae1cb3-1f4a-4519-81b6-b7159900ac21
+tmap.edges:{"49c2626a-11ef-489c-b37a-48a232597b0b":{"to":"a1560e06-ee8f-4b44-a9b2-944d755b0f3c","type":"specification-of-group"}}
+tmap.id:c5d6a282-dcbb-40b9-b0b3-7267b1e78689
 url:https://w3c.github.io/webpayments-payment-apps-api/
 version.or.edition:
 volume.frequency:

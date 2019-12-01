@@ -1,5 +1,5 @@
-created:1575212063450
-modified:1575212063450
+created:1575213940175
+modified:1575213940175
 title:eIDAS
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:European Commission
 tags:
 tech.focus:
-tmap.edges:{"abc63be1-9eb7-445c-ae77-b8ab742f1c5b":{"to":"e4ca6984-651d-47d2-961f-3c758746983a","type":"connection"},"6b763fb6-308b-480c-8c44-96c471064a00":{"to":"43f6e6b7-513f-4e59-b0f7-8c456a054cdc","type":"default"},"8955f447-e6f2-40cf-ab07-6f54cc9d283f":{"to":"80491523-8549-4a7a-a37f-f9a61440d813","type":"government-connection"},"cc5427d0-8503-4e04-aaa9-4a0e67e27d88":{"to":"c12af383-b9b1-4ebb-8504-0fd304f97b94","type":"government-connection"},"28d6af67-ecd6-4686-b51c-bc919a2a1f46":{"to":"43f6e6b7-513f-4e59-b0f7-8c456a054cdc","type":"connection"},"65ab7401-2a0c-42e9-8709-246a687b1357":{"to":"f416cd62-f608-4e85-a719-2eaa2139dc67","type":"government-connection"},"d3239340-53b0-42d9-a6c0-59290b9ca307":{"to":"ca5ca946-be1e-4b4c-b2d1-fd947a01a8d4","type":"connection"},"1730c1ea-a422-4706-9e96-b857fb486332":{"to":"0be4c21b-9895-4dbb-bff0-be315bd584d7","type":"government-connection"}}
-tmap.id:a656e25e-c54d-4839-862d-85cdec11cb2f
+tmap.edges:{"784fc635-8942-4b86-b60d-a545fb1b1daa":{"to":"57bb2e35-4ad9-4ead-9341-8950aeeeb482","type":"connection"},"1d71fdce-9e27-4795-b51e-3713db5ebfda":{"to":"150df3fc-c0eb-4ae5-837a-44f82ea9ca94","type":"default"},"a7807f6a-8b21-42d5-bb92-fc60f279f318":{"to":"2035eb85-d3b4-4604-89d4-109ae91b2cfa","type":"government-connection"},"a3dc38fd-6435-4662-bb1a-9a1647db2924":{"to":"c506afc4-9b8b-490a-9278-93d179860845","type":"government-connection"},"9e2e6df3-8a95-47f7-bf32-1cef18e1866f":{"to":"150df3fc-c0eb-4ae5-837a-44f82ea9ca94","type":"connection"},"67e38c05-1fc5-4c4b-825d-6a311da1e759":{"to":"ef283cd7-e50d-41bf-ac5c-916ff1848d28","type":"government-connection"},"d5e4643e-f901-4c16-bb35-8d8b82d7659f":{"to":"af078cc4-25b5-4717-9b74-c661fe6edc6e","type":"connection"},"93c303e9-3e4b-45a0-8c7d-744ad53687a2":{"to":"3b0074f0-017a-4ea4-8c9d-1107e8476e80","type":"government-connection"}}
+tmap.id:138ffbe2-4129-406c-8f98-0850168c2e84
 url:https://www.eid.as/home/
 version.or.edition:
 volume.frequency:

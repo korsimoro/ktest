@@ -1,5 +1,5 @@
-created:1575212063422
-modified:1575212063422
+created:1575213940156
+modified:1575213940156
 title:eHealth Digital Service Infrastructure
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"1d84cbcf-21c1-463e-b2d1-78e4712ce65b":{"to":"4a108923-17e9-4a34-9a9c-f174fafa1c19","type":"government-connection"}}
-tmap.id:f76d1bec-61e5-4068-9238-a7a471ea9b14
+tmap.edges:{"a244bc49-2a89-4d68-b340-3295a29aecae":{"to":"07143e32-3237-4646-948a-8be029f62394","type":"government-connection"}}
+tmap.id:2ca39787-4367-4f00-8558-c80ee281339b
 twitter.profile:
 website:
 

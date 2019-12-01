@@ -6,7 +6,7 @@ import path from 'path'
 
 export default {
   entry: path.join(__dirname, 'src', 'index.tsx'),
-  siteRoot: "https://ewelton.github.io",
+  siteRoot: "https://ewelton.github.iox",
   basePath: "ktest/site",
   plugins: [
     'react-static-plugin-typescript',

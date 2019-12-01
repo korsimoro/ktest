@@ -1,5 +1,5 @@
-created:1575212063424
-modified:1575212063424
+created:1575213940158
+modified:1575213940158
 title:Federal Trade Commission
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"9ce5f067-e399-4721-a199-193d1c3aca5d":{"to":"685aec04-61b5-4ab8-9c92-cf283f0add8d","type":"general-member"},"78ae7da1-5019-4252-b668-d33d6437147e":{"to":"e04b2fc3-7330-46d3-b9e4-3ff422cb3866","type":"government-connection"}}
-tmap.id:c53cbda0-67cb-4cba-9d13-5c0e6f895459
+tmap.edges:{"3ad699cf-5c32-41e0-93a2-19332ca9d853":{"to":"d597f26a-dc38-4f09-9f46-c1cd726822ab","type":"general-member"},"03f6bbd8-6fa9-4d64-9169-946bc45c5bf4":{"to":"059fe22d-4f56-4cda-b046-2025e1887b6c","type":"government-connection"}}
+tmap.id:a4e79635-b68b-4c31-bc6f-b307a6028d34
 twitter.profile:
 website:http://ftc.gov
 

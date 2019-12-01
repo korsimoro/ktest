@@ -1,5 +1,5 @@
-created:1575212063426
-modified:1575212063426
+created:1575213940159
+modified:1575213940159
 title:Department of Homeland Security
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"c993b288-96b7-424d-9868-2b69c99dfdf4":{"to":"42aef54c-4393-40f5-8b71-fa65b9d06a9c","type":"founder"},"86cd954b-7828-437b-a944-54433abea667":{"to":"e04b2fc3-7330-46d3-b9e4-3ff422cb3866","type":"government-connection"}}
-tmap.id:57aaa821-a207-4f21-a1f0-89c74c99ab7d
+tmap.edges:{"4b968c64-f4ab-4b10-b54e-30e04c50ae0f":{"to":"508643ac-e8e3-464c-a6b7-1b8998b3b7eb","type":"founder"},"0310231a-a5df-4948-8cf5-7eb201afbc0f":{"to":"059fe22d-4f56-4cda-b046-2025e1887b6c","type":"government-connection"}}
+tmap.id:3f7f994c-07b8-415c-a349-aa73393311fe
 twitter.profile:
 website:
 

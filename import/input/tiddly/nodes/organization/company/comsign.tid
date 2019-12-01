@@ -1,5 +1,5 @@
-created:1575212063455
-modified:1575212063455
+created:1575213940180
+modified:1575213940180
 title:comsign
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"686011e0-a8af-4c9e-bd66-138d9a747c3c":{"to":"9d2c1e0b-4571-4d41-9c1b-0828b9c3261d","type":"certified-idp"},"8a995078-d77a-4923-8da8-122716d7332a":{"to":"36976595-c7ef-454d-8346-11bc91498209","type":"general-member"}}
-tmap.id:034ad5aa-3596-41f7-b00f-43b31352a393
+tmap.edges:{"3c5ee569-4b83-48fd-9971-3e66202c331b":{"to":"eed61cf2-1e0d-45a0-bbd0-a7dddd92408d","type":"certified-idp"},"d1781c44-31da-4015-a702-5a70daa87a17":{"to":"a07820da-f36e-4708-a969-eac229582c29","type":"general-member"}}
+tmap.id:54fd73ca-0467-411e-9543-bccf2d337e89
 twitter.profile:
 website:https://www.comsign.co.uk
 

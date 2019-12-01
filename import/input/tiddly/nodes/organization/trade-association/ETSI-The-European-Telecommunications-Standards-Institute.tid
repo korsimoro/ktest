@@ -1,5 +1,5 @@
-created:1575212063440
-modified:1575212063440
+created:1575213940168
+modified:1575213940168
 title:ETSI  The European Telecommunications Standards Institute
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"6d5b4c4d-27e2-47df-a60d-88116ee16d71":{"to":"6351a75c-94a5-4dfe-b5c8-0f25653fb544","type":"general-member"},"5088fc63-ce57-4501-97cb-08258f5c5ed6":{"to":"c6b4e7a0-c0bd-4f49-98d6-6c3db7c076e9","type":"general-member"},"0594b17b-a795-4ad3-89bd-428cfc328cc3":{"to":"532b8ed2-f81f-49de-92b6-95132ccaf5e0","type":"executive-member"}}
-tmap.id:1c345eeb-140c-4900-a63f-85bdd41f428c
+tmap.edges:{"5ec6cdbf-3690-4d4d-85dd-86a0f508bbc0":{"to":"eb108cef-87a8-4a19-a673-9d169caa99ea","type":"general-member"},"f0e4dbd7-33b7-4c29-9561-bbe54f916408":{"to":"b0fd567e-ad67-4985-95a4-6d9e43e2c4d4","type":"general-member"},"704a2806-d1e4-450e-a14d-c82acc430e6c":{"to":"9c9f677b-d2bb-45a3-ba13-d825ca4f3477","type":"executive-member"}}
+tmap.id:59ebe728-30ef-425b-90e8-7ecb1eaf4e27
 twitter.profile:
 website:http://www.etsi.org
 

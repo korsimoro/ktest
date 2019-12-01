@@ -1,5 +1,5 @@
-created:1575212063446
-modified:1575212063446
+created:1575213940171
+modified:1575213940171
 title:Latin America and Caribbean Network Information Centre
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"71ea641e-712d-4b96-b2cd-d3864a45a3b9":{"to":"193be04c-b097-430b-8ca2-d2d382c3788d","type":"general-member"}}
-tmap.id:dc2b6f59-ee2a-4e88-8f54-df1393cfd480
+tmap.edges:{"27d8a6b9-c9b9-48f9-8278-9a7fc283b4a6":{"to":"26311a29-bab4-42c2-b861-e3153205b6bd","type":"general-member"}}
+tmap.id:8d798e3d-9527-455c-b664-64a2727e53bd
 twitter.profile:
 website:http://www.lacnic.net/en/
 

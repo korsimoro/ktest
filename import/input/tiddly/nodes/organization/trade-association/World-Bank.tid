@@ -1,5 +1,5 @@
-created:1575212063439
-modified:1575212063439
+created:1575213940167
+modified:1575213940167
 title:World Bank
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"dbeeb0df-050a-4fa8-8b8b-b491f93f68fe":{"to":"d8952e29-afa3-4243-bf6a-edc453e68a13","type":"author"},"90ad0e9f-ded4-4c3b-bec2-291bc5b9039f":{"to":"43f6e6b7-513f-4e59-b0f7-8c456a054cdc","type":"sponsor"}}
-tmap.id:5156bc25-0d68-4b63-bd4e-b188585ac3ea
+tmap.edges:{"2c6dcebc-b4d7-4f46-9e69-1c56a2e8f20b":{"to":"42e1897b-bdbc-4c1a-b1ac-4a7240d6bbf3","type":"author"},"b7cdefec-bab5-434f-b2a3-72dfd7ea2ae1":{"to":"150df3fc-c0eb-4ae5-837a-44f82ea9ca94","type":"sponsor"}}
+tmap.id:8810b1a0-aa51-4855-8f2b-bf1313f506bd
 twitter.profile:
 website:
 

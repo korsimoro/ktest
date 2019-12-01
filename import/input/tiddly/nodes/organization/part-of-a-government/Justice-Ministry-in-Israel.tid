@@ -1,5 +1,5 @@
-created:1575212063424
-modified:1575212063424
+created:1575213940158
+modified:1575213940158
 title:Justice Ministry in Israel
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"e14ca7fd-c9cb-44f0-bc61-a936652783ea":{"to":"eb68fdae-0954-496d-a936-10db267917fc","type":"government-connection"}}
-tmap.id:9d2c1e0b-4571-4d41-9c1b-0828b9c3261d
+tmap.edges:{"bec2ed5b-0ba5-4458-9388-9f3c231b7194":{"to":"d27d2e98-dd44-436f-b715-f2e724a2ccec","type":"government-connection"}}
+tmap.id:eed61cf2-1e0d-45a0-bbd0-a7dddd92408d
 twitter.profile:
 website:
 

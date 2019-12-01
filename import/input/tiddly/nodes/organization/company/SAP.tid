@@ -1,5 +1,5 @@
-created:1575212063464
-modified:1575212063464
+created:1575213940188
+modified:1575213940188
 title:SAP
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"85cb6698-0ebe-4344-bd38-c385dbab307b":{"to":"9d05075b-c35e-466e-9c08-b91b90ce58b3","type":"general-member"}}
-tmap.id:02cefb8c-a045-4bc8-aec8-4d36e3454825
+tmap.edges:{"3b9e9971-2c6f-4c21-af2a-92574178f5c5":{"to":"e87ae066-9c82-4749-b89e-e631b9a35e54","type":"general-member"}}
+tmap.id:1526d4c6-250d-4a61-a1c3-8dbbeccfc06c
 twitter.profile:
 website:http://go.sap.com/index.html
 

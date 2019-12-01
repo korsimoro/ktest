@@ -1,5 +1,5 @@
-created:1575212063420
-modified:1575212063420
+created:1575213940155
+modified:1575213940155
 title:enisa European Network and Information Security Agency
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"e89abd05-733e-4313-9682-5073f6f5bf11":{"to":"e528f875-bc2d-4a3f-b383-45d728264ad6","type":"government-connection"},"3ca67a3b-9913-4be5-89ce-ddeb569908a7":{"to":"ca5ca946-be1e-4b4c-b2d1-fd947a01a8d4","type":"sponsor"},"47de35e3-d3f0-4968-9ed3-106965ebf21b":{"to":"f1c1efa0-0f56-4d5f-a1ea-b67668873f4e","type":"convenor"},"84ae65f4-e8a9-4740-a8cf-99122cc97b40":{"to":"970ea6de-8e9c-46c4-a606-7209556ac41e","type":"author"}}
-tmap.id:dcabb35b-0b77-4b87-9614-13db9a035740
+tmap.edges:{"658e39fa-c2f7-4c33-a191-f0697d030777":{"to":"eda46f96-3bbb-4a94-9ef1-85f0b5a8bfd1","type":"government-connection"},"3e3ccfa7-54e2-40bf-bd63-35c5e3eaf38b":{"to":"af078cc4-25b5-4717-9b74-c661fe6edc6e","type":"sponsor"},"27fa38e9-731f-44a1-8601-d5acd7d78eaa":{"to":"e6c12372-7bfc-4f01-aba2-801d4ee496c5","type":"convenor"},"08a7a795-d7ae-4ac5-aa44-366d3ad76422":{"to":"bd5d5068-4644-47c0-a112-afece598f24b","type":"author"}}
+tmap.id:807838a5-0a4b-48ce-9356-7e3f7d55fa56
 twitter.profile:
 website:https://www.enisa.europa.eu/about-enisa
 

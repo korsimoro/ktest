@@ -1,5 +1,5 @@
-created:1575212063446
-modified:1575212063446
+created:1575213940171
+modified:1575213940171
 title:IDnext
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:0
 tech.focus:
-tmap.edges:{"45b3c043-676e-4b38-8fd1-5c19d9ba570c":{"to":"7676e2ba-2ca4-4d50-8ec3-36cb4dd4079c","type":"convenor"},"ac63c51d-3cbf-4813-93d7-bae245fa2d4d":{"to":"be432b49-1663-4273-937b-0c8018f87005","type":"executive-member"}}
-tmap.id:7952346c-087c-4860-9201-f17146ef27ee
+tmap.edges:{"290a8c5f-1459-4571-8f9c-66682179432c":{"to":"72e92b7b-0fc5-4df1-a553-a1d4ae30e535","type":"convenor"},"2024a928-1a04-4071-8ee8-680638ec916e":{"to":"931e2e73-e6dd-4b25-850b-fcdbc71faf91","type":"executive-member"}}
+tmap.id:9ddb4fbe-7cd2-47c2-a849-8117571cc07b
 twitter.profile:
 website:
 

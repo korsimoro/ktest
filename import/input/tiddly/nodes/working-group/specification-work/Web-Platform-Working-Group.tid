@@ -1,5 +1,5 @@
-created:1575212063346
-modified:1575212063346
+created:1575213940110
+modified:1575213940110
 title:Web Platform Working Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"2f92b954-75ba-414c-80ac-f275ddd013aa":{"to":"0b727048-47a7-4511-9147-d527dbd3f02f","type":"organization-for-group"}}
-tmap.id:286f94a0-c612-40e2-83bc-1799277b0e38
+tmap.edges:{"d0a28030-10ad-4fd7-9629-bb399647a0ca":{"to":"0975c9e6-836d-4139-97a8-5a3cac2632f7","type":"organization-for-group"}}
+tmap.id:a5466e13-efd3-48c6-b4c3-c9f87283301a
 url:https://www.w3.org/WebPlatform/WG/
 
 We continue the development of the HTML language, providing specifications that enable improved client-side application development on the Web, including application programming interfaces (APIs) for client-side development and markup vocabularies for describing and controlling client-side application behavior.

@@ -1,5 +1,5 @@
-created:1575212063431
-modified:1575212063431
+created:1575213940164
+modified:1575213940164
 title:NEC Laboratories Europe
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"0682a44f-fde3-4958-b26b-952c00ec1da9":{"to":"e7d64aff-6c7e-4f67-9c88-dcad56b75053","type":"organization-for-group"},"6e34a4f1-a6ce-4b71-8f27-2d841ab40315":{"to":"9d05075b-c35e-466e-9c08-b91b90ce58b3","type":"general-member"}}
-tmap.id:99d7ce17-8f2e-4848-948f-95f17b248cea
+tmap.edges:{"6977f706-bc51-4098-8fad-2c0c6edb25d6":{"to":"ae54a4a3-856f-4402-9ce7-808e84cc99f2","type":"organization-for-group"},"ff0d5e42-6e85-4f92-abf4-766118b55da4":{"to":"e87ae066-9c82-4749-b89e-e631b9a35e54","type":"general-member"}}
+tmap.id:e6e4c29e-b1cd-429a-b97d-1f187f265658
 twitter.profile:
 website:http://uk.nec.com/en_GB/emea/about/neclab_eu/
 

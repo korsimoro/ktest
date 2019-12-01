@@ -1,5 +1,5 @@
-created:1575212063422
-modified:1575212063422
+created:1575213940157
+modified:1575213940157
 title:Digitizing European Industry
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"ab2e78df-a995-4d56-ab0f-ec89677d3df2":{"to":"e962746b-eb57-4a09-903d-6e1a996fd6f1","type":"government-connection"},"c438b914-81ae-4372-8d65-677d5e89283c":{"to":"9f9aeb64-141a-4afa-8a14-0e11ea699a6e","type":"author"},"de495e3d-336f-4bff-a8a5-21b2901f2b9b":{"to":"b43df04c-b50e-43b1-bb84-d8b49a9b34bd","type":"author"}}
-tmap.id:15e38965-65a3-4b12-b1d8-c3f9cfb131b5
+tmap.edges:{"17e4c83a-7b15-4beb-ae6f-490eda233970":{"to":"5b8953ff-8bd3-4c7a-aeb9-ef504ef74e08","type":"government-connection"},"fc47a84e-dd2c-4251-9e91-efe5a8a532e9":{"to":"d61abd1a-139e-47fc-ba6a-2ba6453bef93","type":"author"},"ddce738c-17fa-494a-a30a-c345d7d68010":{"to":"6bb6fe8a-0b11-4c8e-92dc-650edbec6e0d","type":"author"}}
+tmap.id:1e55eaf5-bee9-4cfc-9c99-4155e10734db
 twitter.profile:
 website:https://ec.europa.eu/digital-single-market/en/fourth-industrial-revolution
 

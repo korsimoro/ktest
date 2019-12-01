@@ -1,5 +1,5 @@
-created:1575212063378
-modified:1575212063378
+created:1575213940129
+modified:1575213940129
 title:Identification cards-Integrated circuit cards-Programming interfaces (24727)
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Integrated Circuit Cards with Contacts WG4
 tags:
 tech.focus:
-tmap.edges:{"696fd345-18c2-4b18-b7c8-fe06573de51e":{"to":"9fe7e5b7-d8c8-4ca9-bcdf-4eeeb361ced5","type":"specification-of-group"}}
-tmap.id:6df4dfa4-96ea-4b75-88be-1e7226129c64
+tmap.edges:{"1be2bdd7-4088-48a8-9ab6-83605a3b3f2f":{"to":"5edcd182-0a42-4958-9a77-2715a1906aea","type":"specification-of-group"}}
+tmap.id:cdab90af-d20c-4fe5-a1de-8fcbc4089e68
 url:
 version.or.edition:
 volume.frequency:

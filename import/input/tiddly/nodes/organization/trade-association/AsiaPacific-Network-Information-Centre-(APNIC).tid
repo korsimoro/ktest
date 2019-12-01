@@ -1,5 +1,5 @@
-created:1575212063446
-modified:1575212063446
+created:1575213940171
+modified:1575213940171
 title:Asia‑Pacific Network Information Centre (APNIC)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"9c77ce57-fe15-4f3c-b1e1-98684adeb76b":{"to":"193be04c-b097-430b-8ca2-d2d382c3788d","type":"general-member"}}
-tmap.id:b94d99b9-194b-47bb-93c4-ffa9d47ad48e
+tmap.edges:{"27ae0bda-87ed-4df9-a31c-935e67960f3b":{"to":"26311a29-bab4-42c2-b861-e3153205b6bd","type":"general-member"}}
+tmap.id:ea9dba73-593c-4500-8856-3f22e5fe20a2
 twitter.profile:
 website:https://www.apnic.net
 

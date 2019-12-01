@@ -1,5 +1,5 @@
-created:1575212063379
-modified:1575212063379
+created:1575213940131
+modified:1575213940131
 title:Verification of Lawful Status (VLS)
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"4bb7035f-40a8-4e7f-91c7-040a4d03ae2d":{"to":"c42f1f2e-d475-4ed9-8a54-5723262aa782","type":"organization-for-group"}}
-tmap.id:31c4a7e7-5517-4248-aef1-969dd4c99a0c
+tmap.edges:{"5a7a0b71-bdd6-4f7e-b6f8-b29c468ac342":{"to":"c2da5c2a-dc19-4eac-8da0-fd22035daf47","type":"organization-for-group"}}
+tmap.id:9747a3b5-15fc-4012-b8f8-41a41f94d1e8
 url:http://www.aamva.org/VLS/
 version.or.edition:
 working.group:

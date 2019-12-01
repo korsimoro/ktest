@@ -1,5 +1,5 @@
-created:1575212063427
-modified:1575212063427
+created:1575213940159
+modified:1575213940159
 title:berlin Commissioner for Data Protection and Freedom of Information
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"9a0ea46e-753e-4e70-968c-0ffd5707ef48":{"to":"685aec04-61b5-4ab8-9c92-cf283f0add8d","type":"general-member"},"3d5caa12-af47-46c0-a6f4-a5d191254911":{"to":"2e2d7be9-46ed-42aa-ab57-ee1b547c1d07","type":"government-connection"}}
-tmap.id:1260d22b-3333-4dc6-8037-d1323ac0ae01
+tmap.edges:{"deaf2769-9569-4464-a49f-5789f18020a0":{"to":"d597f26a-dc38-4f09-9f46-c1cd726822ab","type":"general-member"},"b8261f09-c2f9-4118-9df5-a5d5f791aa0a":{"to":"38265e46-75bf-4203-8889-1794ad90cad8","type":"government-connection"}}
+tmap.id:596fb3c9-67c1-4e16-98cd-31e16bda3a9e
 twitter.profile:
 website:https://datenschutz-berlin.de/
 

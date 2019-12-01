@@ -1,5 +1,5 @@
-created:1575212063320
-modified:1575212063320
+created:1575213940102
+modified:1575213940102
 title:Study Group 17
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"ca37e2ce-15e6-40ef-862e-8a0722893886":{"to":"184a4127-e36c-4e9a-ad94-0542262798bd","type":"organization-for-group"},"666579ea-33e3-483b-b56f-b44b49e7b1a8":{"to":"86e4b4f5-306a-4b9d-b37d-b4da1f79f48a","type":"connection"}}
-tmap.id:06a73a48-0b1f-45be-9f26-20638973fb40
+tmap.edges:{"0f010bdf-c46a-48db-a73f-b8bf452bb100":{"to":"6cb28451-bbd9-4609-ae29-d9ebcc296190","type":"organization-for-group"},"35e58e7e-775d-48bf-9a05-20e551d7ed0e":{"to":"c6ff6e32-02df-4366-a019-7bb7f002006e","type":"connection"}}
+tmap.id:8017ebb0-84e8-4dc8-ad1b-4fc9792ca2ba
 url:http://www.itu.int/en/ITU-T/studygroups/2013-2016/17/Pages/default.aspx
 
 Work to build confidence and security in the use of information and communication technologies (ICTs) continues to intensify in a bid to facilitate more secure network infrastructure, services and applications. Over seventy standards (ITU-T Recommendations) focusing on security have been published.

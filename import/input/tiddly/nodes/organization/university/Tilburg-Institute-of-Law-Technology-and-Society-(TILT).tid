@@ -1,5 +1,5 @@
-created:1575212063361
-modified:1575212063361
+created:1575213940112
+modified:1575213940112
 title:Tilburg Institute of Law, Technology, and Society (TILT)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"e2891335-265e-49a5-878f-815c02443070":{"to":"4cfd9946-a139-46b8-9c39-230d0d9d4917","type":"organization-for-group"},"4e5d6f41-abe7-4826-8df2-c0f9755e56fb":{"to":"5b364769-98a8-41d5-85c4-2bd4c8410c0d","type":"funding-flow"}}
-tmap.id:4455d475-f3ba-430b-9c24-68eeec345ad0
+tmap.edges:{"1ce1defd-4c5b-48f6-ada4-c344cdecc290":{"to":"fee9769f-d7f4-49d3-8aac-485f580252f9","type":"organization-for-group"},"fa19cce9-7a26-478f-9709-ecd18f3ab770":{"to":"7c341f1e-09d2-4156-942f-cdf3b5e99e3f","type":"funding-flow"}}
+tmap.id:aa3e410e-1910-401d-9d25-c5a9b5ac759f
 twitter.profile:
 website:http://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/
 

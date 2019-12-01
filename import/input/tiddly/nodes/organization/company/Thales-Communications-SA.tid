@@ -1,5 +1,5 @@
-created:1575212063432
-modified:1575212063432
+created:1575213940164
+modified:1575213940164
 title:Thales Communications SA
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"c9539ea3-93e3-4b6c-a8dd-442f05196a25":{"to":"d8884c88-d20a-4ba2-b99a-613c83b12bf1","type":"organization-for-group"},"6600a863-6791-423e-9f35-85cc25c2e064":{"to":"9d05075b-c35e-466e-9c08-b91b90ce58b3","type":"general-member"}}
-tmap.id:cbddcbee-ca65-40d7-a89b-da332450532d
+tmap.edges:{"de58be18-e3ae-4d26-925e-2d61e6f50ab7":{"to":"25fb44d3-0563-4f8b-997a-b5ba46fd3b17","type":"organization-for-group"},"a2c2c7c0-294d-4d18-a8ad-9b9c8656392c":{"to":"e87ae066-9c82-4749-b89e-e631b9a35e54","type":"general-member"}}
+tmap.id:458a725c-a839-4048-b2b9-9a01312447b9
 twitter.profile:
 website:https://www.thalesgroup.com/en
 

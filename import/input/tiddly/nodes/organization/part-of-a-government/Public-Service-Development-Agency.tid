@@ -1,5 +1,5 @@
-created:1575212063425
-modified:1575212063425
+created:1575213940158
+modified:1575213940158
 title:Public Service Development Agency
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"473cfb99-e42e-474b-b093-316788096883":{"to":"f416cd62-f608-4e85-a719-2eaa2139dc67","type":"general-member"},"d76b809e-a0a6-46f2-b44d-39a45b1196d5":{"to":"52db9adc-4e9b-4f17-a44e-83961b790c7d","type":"government-connection"}}
-tmap.id:08120e01-d322-4266-86f3-66fcf42c2e1f
+tmap.edges:{"ef99e027-e476-428d-9dc6-a5605960d2c8":{"to":"ef283cd7-e50d-41bf-ac5c-916ff1848d28","type":"general-member"},"248e6bab-7069-4917-bcf1-84a34a12406f":{"to":"d610d824-cdf2-4bb7-8eb1-2f9146735efe","type":"government-connection"}}
+tmap.id:4bcf583a-92cc-49ed-9bd6-89671c6ad8bd
 twitter.profile:
 website:http://www.sda.gov.ge/?lang=en
 

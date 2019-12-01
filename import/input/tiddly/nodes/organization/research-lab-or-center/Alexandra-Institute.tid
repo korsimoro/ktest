@@ -1,5 +1,5 @@
-created:1575212063362
-modified:1575212063362
+created:1575213940112
+modified:1575213940112
 title:Alexandra Institute
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"8a458c15-7831-4460-a8bd-f416efce91a1":{"to":"b90e067b-ab4d-4604-9469-b19acd224534","type":"general-member"},"e32f1768-75ef-41b7-b15c-e3d9aa9bcbf1":{"to":"9d05075b-c35e-466e-9c08-b91b90ce58b3","type":"general-member"}}
-tmap.id:7aa1810e-d9b6-4295-a19d-aacb6996895a
+tmap.edges:{"650176fc-0c63-4b53-970f-43a09dfdbcd0":{"to":"dee4a1ea-7eae-4bc4-8c59-c5d76df957e4","type":"general-member"},"f3483011-a07e-44c2-98f8-b6308f0c4346":{"to":"e87ae066-9c82-4749-b89e-e631b9a35e54","type":"general-member"}}
+tmap.id:92c5c58a-1e47-4f3f-9d3f-9ba89f06387e
 twitter.profile:
 website:https://alexandra.dk/uk
 

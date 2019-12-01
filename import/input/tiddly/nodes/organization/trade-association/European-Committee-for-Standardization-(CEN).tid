@@ -1,5 +1,5 @@
-created:1575212063436
-modified:1575212063436
+created:1575213940165
+modified:1575213940165
 title:European Committee for Standardization (CEN)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"97b2a8bc-52f9-415e-ae3a-1cafeac42ce8":{"to":"c6b4e7a0-c0bd-4f49-98d6-6c3db7c076e9","type":"general-member"}}
-tmap.id:4060dc2a-4848-4504-bb2c-57255820fc1d
+tmap.edges:{"c78b59d2-9736-46af-8622-d7c6abe8c2c4":{"to":"b0fd567e-ad67-4985-95a4-6d9e43e2c4d4","type":"general-member"}}
+tmap.id:c92542c5-40c1-4354-8bfa-1b25d3101a52
 twitter.profile:
 website:http://www.cen.eu
 

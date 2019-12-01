@@ -1,5 +1,5 @@
-created:1575212063431
-modified:1575212063431
+created:1575213940163
+modified:1575213940163
 title:IBM Research - Zurich
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"91db1e94-a930-40f9-b010-11d183bc7eb5":{"to":"06d8d607-fe35-4ff9-9154-ec76b47552b5","type":"organization-for-group"},"7a007ad8-e686-4787-8942-175996316a4b":{"to":"b90e067b-ab4d-4604-9469-b19acd224534","type":"general-member"},"c7d228a3-785f-41c0-981f-2a95e33911f0":{"to":"9d05075b-c35e-466e-9c08-b91b90ce58b3","type":"general-member"}}
-tmap.id:e2728672-07ec-48f1-b2ef-363c61c1f5dd
+tmap.edges:{"dbd5295c-1a14-41c6-bcd3-ca21173b592b":{"to":"d304804b-dfa2-474c-af97-1f98ecc42b9e","type":"organization-for-group"},"342416ae-e496-4501-a257-0dd3e8e2ca36":{"to":"dee4a1ea-7eae-4bc4-8c59-c5d76df957e4","type":"general-member"},"6d458874-98f8-4770-87fb-03a263de7e52":{"to":"e87ae066-9c82-4749-b89e-e631b9a35e54","type":"general-member"}}
+tmap.id:00ad85c3-6108-46e8-a599-99ca37d25753
 twitter.profile:
 website:
 

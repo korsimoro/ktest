@@ -1,5 +1,5 @@
-created:1575212063462
-modified:1575212063462
+created:1575213940187
+modified:1575213940187
 title:Trustable Ltd.
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"4fe2b420-f3c2-494b-85c6-f2a350fc6b9c":{"to":"24bd61cf-8ef5-4ce0-82b7-29281c280253","type":"founder"},"613c7f7e-2565-4972-bf58-9f5650551e02":{"to":"f416cd62-f608-4e85-a719-2eaa2139dc67","type":"general-member"},"e595df64-9d3f-41a2-a56b-91880ae095b7":{"to":"a3c532ee-baeb-451f-bc22-7ab89f57dc25","type":"founder"}}
-tmap.id:9ac56b17-0a28-4612-8d9f-41539ff6aeea
+tmap.edges:{"4fad2334-0a00-4da0-a2ec-75a5d4066308":{"to":"f378a4cb-44d9-474f-9087-77a0ea7ee717","type":"founder"},"c573a613-19c9-44f3-91fd-db71c933a2a4":{"to":"ef283cd7-e50d-41bf-ac5c-916ff1848d28","type":"general-member"},"e16c2b55-1642-4f41-9ed7-b752343f3cdd":{"to":"c9c2a092-53fc-4481-bcec-25b6ece9664a","type":"founder"}}
+tmap.id:32b4c1e7-f285-414c-b59b-25556f3aa395
 twitter.profile:
 website:
 

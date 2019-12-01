@@ -1,5 +1,5 @@
-created:1575212063423
-modified:1575212063423
+created:1575213940157
+modified:1575213940157
 title:Digital Catapult
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"91641407-7b09-4686-9cbd-0a6add6d31ae":{"to":"e3d19f79-ffb5-4134-a0c7-50a5cc7d5ea2","type":"connection"},"c4d45802-086a-49d1-8a70-a78c50f93006":{"to":"36976595-c7ef-454d-8346-11bc91498209","type":"general-member"},"4e76b8fb-a7cd-4a19-88fe-55c93ca3bc46":{"to":"7825b2bc-c929-4fd4-89b0-f7a87c5da856","type":"government-connection"}}
-tmap.id:8b41958d-a415-4942-a671-28fd2ba5876b
+tmap.edges:{"323819d5-bca0-4b9b-a722-968ef0c2d6c7":{"to":"9b074eef-b12f-461a-a1b9-c5c364d1a3e0","type":"connection"},"ce649786-3bcd-4102-b850-2dd4d75ccbf1":{"to":"a07820da-f36e-4708-a969-eac229582c29","type":"general-member"},"7a433720-8955-4ec4-bac5-3ebcba7a3a2d":{"to":"c71efaad-f8bd-4613-b1fb-df099db5de98","type":"government-connection"}}
+tmap.id:dadee490-b191-4e23-a663-57f2cc2f0940
 twitter.profile:
 website:
 

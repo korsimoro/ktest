@@ -1,5 +1,5 @@
-created:1575212063385
-modified:1575212063385
+created:1575213940137
+modified:1575213940137
 title:SSEDIC - Scoping the Single European Digital Identity Community
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:0
 terms.of.service:
-tmap.edges:{"b4a005a6-4879-4eb5-a2b0-ed442f2364b6":{"to":"1bfc1038-a586-49d7-a3bc-ae5ffd6e1fbf","type":"connection"}}
-tmap.id:7c70c463-dd69-4b5b-96c1-d6df878b873a
+tmap.edges:{"221c5d7e-ea91-467c-9fcb-8e88d9a6b13c":{"to":"2147c537-9ff4-47de-b60e-02604a57fcf4","type":"connection"}}
+tmap.id:4dbe63bf-4071-4c05-b4f5-494460ec350d
 url:http://www.eid-ssedic.eu
 version.or.edition:
 working.group:

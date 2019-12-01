@@ -1,5 +1,5 @@
-created:1575212063351
-modified:1575212063351
+created:1575213940111
+modified:1575213940111
 title:Ku Leuven
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:0
 tech.focus:
-tmap.edges:{"e7a4f768-bd65-4dc0-931d-d06b5dbd6052":{"to":"9d05075b-c35e-466e-9c08-b91b90ce58b3","type":"general-member"},"43035277-3ff3-400d-a333-be497f2af78b":{"to":"2351b365-0858-4408-a1da-c4faa8869aca","type":"founder"}}
-tmap.id:f3cd0c29-8382-48ea-8f46-131032ef6f91
+tmap.edges:{"d138fb38-60bb-46b8-8ae1-b90b9efedb64":{"to":"e87ae066-9c82-4749-b89e-e631b9a35e54","type":"general-member"},"42a38181-15cc-4795-82bd-8252fbe71bb0":{"to":"75cd4905-5e37-435c-a359-cdf865fc3e0a","type":"founder"}}
+tmap.id:de0c254e-beee-421b-a503-28e192d2bae8
 twitter.profile:
 website:http://www.kuleuven.be/english/
 

@@ -1,5 +1,5 @@
-created:1575212063437
-modified:1575212063437
+created:1575213940166
+modified:1575213940166
 title:RIPE NCC - The Réseaux IP Européens Network Coordination Centre
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"e0d9bf3f-2dd7-438f-a4a6-a1bb0ee35cfc":{"to":"193be04c-b097-430b-8ca2-d2d382c3788d","type":"general-member"}}
-tmap.id:808194ae-63c3-4fa9-83a7-a28bcc7106ca
+tmap.edges:{"c39a4263-e701-4261-96cd-f36f8dcae799":{"to":"26311a29-bab4-42c2-b861-e3153205b6bd","type":"general-member"}}
+tmap.id:67e71b10-e3e1-4be4-a360-6aa1f2f4951b
 twitter.profile:
 website:https://www.ripe.net
 

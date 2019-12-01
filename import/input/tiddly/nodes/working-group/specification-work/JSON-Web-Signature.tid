@@ -1,5 +1,5 @@
-created:1575212063325
-modified:1575212063325
+created:1575213940105
+modified:1575213940105
 title:JSON Web Signature
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"4f44afb6-9d11-42e0-aeee-45cf821b2860":{"to":"312d25c7-d60c-4398-aeab-d06922f19ff1","type":"organization-for-group"}}
-tmap.id:32d971f4-b5cf-4fee-81e1-c64bdf8ff0d7
+tmap.edges:{"db26cacd-4597-45eb-bd1f-e4ca42800cb9":{"to":"3eb935e2-e6e7-405a-acae-5b1dbac23342","type":"organization-for-group"}}
+tmap.id:a7ddaaae-7676-48af-b08b-c6c852c42503
 url:https://datatracker.ietf.org/doc/rfc7515/
 
 JSON Web Signature (JWS) represents content secured with digital signatures or Message Authentication Codes (MACs) using JSON-based data structures.  Cryptographic algorithms and identifiers for use with this specification are described in the separate JSON Web Algorithms (JWA) specification and an IANA registry defined by that specification.  Related encryption capabilities are described in the separate JSON Web Encryption (JWE) specification.

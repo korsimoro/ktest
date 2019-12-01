@@ -1,5 +1,5 @@
-created:1575212063426
-modified:1575212063426
+created:1575213940158
+modified:1575213940158
 title:Information Commissioner’s Office
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"fe593753-e524-4dc4-b8d8-b6792dc07b63":{"to":"685aec04-61b5-4ab8-9c92-cf283f0add8d","type":"general-member"},"7e8fd653-45b9-4480-bf5e-ba648dd15c76":{"to":"7825b2bc-c929-4fd4-89b0-f7a87c5da856","type":"government-connection"}}
-tmap.id:f2071034-5e8e-4dcd-8111-193d6127aa1e
+tmap.edges:{"37f4c1d6-617b-4ca3-a936-42efba0941fe":{"to":"d597f26a-dc38-4f09-9f46-c1cd726822ab","type":"general-member"},"5476cd4e-6771-4dae-99c7-f81665e9477b":{"to":"c71efaad-f8bd-4613-b1fb-df099db5de98","type":"government-connection"}}
+tmap.id:dad45005-7e42-48e6-ab4a-2d17a0a014d2
 twitter.profile:
 website:https://ico.org.uk
 

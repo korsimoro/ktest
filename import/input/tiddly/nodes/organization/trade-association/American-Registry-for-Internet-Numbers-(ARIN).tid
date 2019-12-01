@@ -1,5 +1,5 @@
-created:1575212063440
-modified:1575212063440
+created:1575213940168
+modified:1575213940168
 title:American Registry for Internet Numbers (ARIN)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"d0575b57-6366-4607-87b5-7945bf3d0388":{"to":"193be04c-b097-430b-8ca2-d2d382c3788d","type":"general-member"}}
-tmap.id:fcab9b9e-42ca-4020-9a1b-c10f59088adf
+tmap.edges:{"c294deeb-4e6e-4276-8c3b-98f8e5c3c6f1":{"to":"26311a29-bab4-42c2-b861-e3153205b6bd","type":"general-member"}}
+tmap.id:2d0d5a3b-7280-479d-8726-23a2241aaaaa
 twitter.profile:
 website:https://www.arin.net/about_us/overview.html
 

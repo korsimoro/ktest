@@ -1,5 +1,5 @@
-created:1575212063333
-modified:1575212063333
+created:1575213940107
+modified:1575213940107
 title:ISO/TC 292 Security and Resilience
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"0036c160-ecaf-4543-a484-5e4de46bc117":{"to":"86e4b4f5-306a-4b9d-b37d-b4da1f79f48a","type":"organization-for-group"},"94ef04f2-32e9-4f33-badf-b3728407839a":{"to":"7df73d61-d823-4503-858e-a62cb6785290","type":"connection"}}
-tmap.id:ac2fae6e-af01-43b7-a49d-87e0e952b7f3
+tmap.edges:{"192c3963-87e8-4463-b6a0-84c8c7e24d3c":{"to":"c6ff6e32-02df-4366-a019-7bb7f002006e","type":"organization-for-group"},"c5e95a3e-9565-4acd-b858-f15a4bc425c5":{"to":"1b706554-d6d7-4f84-afda-2788eac108cc","type":"connection"}}
+tmap.id:6a6cfc94-ecbc-4d55-9f55-e65c543006ac
 url:
 
 

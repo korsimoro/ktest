@@ -1,5 +1,5 @@
-created:1575212063441
-modified:1575212063441
+created:1575213940168
+modified:1575213940168
 title:OASIS
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"30fe3a0e-9c8b-4a28-b3c3-f150b088653a":{"to":"c6b4e7a0-c0bd-4f49-98d6-6c3db7c076e9","type":"general-member"},"b025d872-f656-4fc9-ad40-9a95b057a3ea":{"to":"19db3cf8-aaea-4e38-98e0-8a51850eaa12","type":"organization-for-group"},"db2672f1-b024-4423-9213-44a79365d5c3":{"to":"47381797-8858-489f-b1ec-a22bf6e0a0a0","type":"organization-for-group"}}
-tmap.id:2de888bb-3839-4303-a7ef-1b34d9cc4188
+tmap.edges:{"525be31c-eba7-404b-807f-ddcafe98f1b1":{"to":"b0fd567e-ad67-4985-95a4-6d9e43e2c4d4","type":"general-member"},"a848d67d-e6eb-47ca-9748-afdebade9ef4":{"to":"0507654d-1150-4911-b4e5-55e2aabb266c","type":"organization-for-group"},"f6d6bb41-4f6e-401b-ae8e-12d91c9827bc":{"to":"20663d16-00c4-4f25-981a-7baee4db3f20","type":"organization-for-group"}}
+tmap.id:a746f505-36b2-4915-a36d-1d2e63f26af1
 twitter.profile:
 website:https://www.oasis-open.org/
 
