@@ -1,0 +1,38 @@
+activities: 
+annual.budget: 
+audience: 
+created: 15761018222903000
+date.ended: 
+date.founded: 
+digital.harms.addressed: 
+element.type: organization
+funding: 
+github.profile: 
+input.source: me2b
+key.people: 
+linkedin.profile: 
+location(s): 
+me2b.relationship: 
+modified: 20191201134617505
+org.name: ShowMeFirst
+org.type: Company
+title: ShowMeFirst
+tmap.id: 88f86d97-3e10-4f0f-ac2c-a38607b775f2
+type: text/vnd.tiddlywiki
+
+parent.org:
+partners:
+products.and.or.services:
+purpose:Consumer support
+relevant.publications:
+scope:
+sector:
+status:
+tags:0,1
+tech.focus:
+tmap.edges:{}
+tmap.id:9a206690-ec71-460d-ad15-eb4c70c717ed
+twitter.profile:
+website:http://showmefirst.info
+
+Hijacks the Facebook sharing button and show you the data that would be shared not just the categories of data.

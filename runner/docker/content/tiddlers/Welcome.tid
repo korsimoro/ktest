@@ -1,5 +1,5 @@
 created: 20191201113227552
-modified: 20191201123449039
+modified: 20191201134424723
 title: Welcome
 tmap.id: 350d89ff-52b8-42e0-9353-a10c16ea3070
 type: text/vnd.tiddlywiki
@@ -33,5 +33,13 @@ type: text/vnd.tiddlywiki
 <ul><$list filter="[field:sector[cross-sector]]
  +[sort[title]]">
 <li><$link>{{!!title}}</$link> - {{!!purpose}}</li>
+</$list>
+</ul>
+
+! All Orgs
+! 
+<ul><$list filter="[field:element.type[organization]]
+ +[sort[title]]">
+<li><$link>{{!!title}}</$link> - {{!!sector}}</li>
 </$list>
 </ul>

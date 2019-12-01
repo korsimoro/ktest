@@ -1,0 +1,38 @@
+activities: software development, standard development
+annual.budget: 
+audience: 
+created: 15761018222904000
+date.ended: 
+date.founded: 
+digital.harms.addressed: 
+element.type: organization
+funding: 
+github.profile: 
+input.source: me2b
+key.people: 
+linkedin.profile: 
+location(s): 
+me2b.relationship: 
+modified: 20191201134617496
+org.name: Trust::Data Consortium
+org.type: University Department
+title: Trust::Data Consortium
+tmap.id: 36487514-562f-4fd3-ab45-615f0e0e303b
+type: text/vnd.tiddlywiki
+
+parent.org:
+partners:
+products.and.or.services:
+purpose:usability
+relevant.publications:
+scope:
+sector:academic
+status:
+tags:
+tech.focus:
+tmap.edges:{}
+tmap.id:1900ec99-2184-4130-a5ef-df64bb2f50e3
+twitter.profile:
+website:https://trust.mit.edu
+
+Developing privacy-preserving identity systems and safe distributed computation: enabling an Internet of Trusted Data.
