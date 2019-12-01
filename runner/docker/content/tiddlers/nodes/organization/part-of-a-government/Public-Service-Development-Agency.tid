@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694022
+modified:1575207694022
 title:Public Service Development Agency
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f417408a-ffc0-4c09-8e82-7c1da0cbb751":{"to":"5e74d0e7-408b-4268-890f-c5339fdc5607","type":"general-member"},"39558758-298d-4e97-9b56-7262cc9641eb":{"to":"df1717ab-f409-4d41-8668-3f66742ec826","type":"government-connection"}}
-tmap.id:d690bf74-514a-4240-9883-f6b9e2003cc4
+tmap.edges:{"6a8d77a1-fb87-4072-881d-44dd4e01041f":{"to":"6ef88127-ef99-4cd4-8346-c64b9ea2bdf0","type":"general-member"},"a6a3f853-dcf7-419b-bdb9-645e82c5e35b":{"to":"b4e210f9-873b-4ac8-a404-9a7fb453ab9b","type":"government-connection"}}
+tmap.id:8e9a4d69-609c-49b8-bad5-ca4526587c5a
 twitter.profile:
 website:http://www.sda.gov.ge/?lang=en
 

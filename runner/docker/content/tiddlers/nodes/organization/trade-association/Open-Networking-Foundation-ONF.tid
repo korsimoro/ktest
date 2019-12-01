@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694071
+modified:1575207694071
 title:Open Networking Foundation ONF
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:640045f3-9cc0-4fd2-aae1-7386682e3036
+tmap.id:46c338d6-341b-40b8-b0df-08a71f91595b
 twitter.profile:
 website:https://www.opennetworking.org
 

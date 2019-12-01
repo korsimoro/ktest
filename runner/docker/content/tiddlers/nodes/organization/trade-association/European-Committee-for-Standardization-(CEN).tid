@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694035
+modified:1575207694035
 title:European Committee for Standardization (CEN)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"fff1803c-7b89-4a5d-a9d9-c65b4a361842":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"}}
-tmap.id:6ca806c9-cb43-40db-b7d6-ce0881e934fa
+tmap.edges:{"b52ef2a8-9d40-4ad8-94ad-bd352043728e":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id:8031acde-2004-433e-b268-05a7e91ef1b6
 twitter.profile:
 website:http://www.cen.eu
 

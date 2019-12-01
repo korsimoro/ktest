@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694083
+modified:1575207694083
 title:The Evolving Role of the Individual in Privacy Protection: 30 Years after the OECD Privacy Guidelines
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:Israeli Law, Information and Technology Authority
@@ -13,8 +14,9 @@ name:The Evolving Role of the Individual in Privacy Protection: 30 Years after t
 partners:
 people:
 relevant.publications:
-tmap.edges:{"3952e1d9-13e3-4a52-bfd9-d549db0fb834":{"to":"c578f91c-2e61-458a-90a5-0fde4fb5e723","type":"connection"}}
-tmap.id:4a007e4e-2a72-42e6-90cf-9adc4f6593ab
+tags:
+tmap.edges:{"4567b1df-5469-4126-b512-f6b209c5a337":{"to":"683e24e4-f8d6-46c2-9aad-d38ffd2b47f4","type":"connection"}}
+tmap.id:e60ac54a-25d5-41fb-bbfd-bcbcc1101a5b
 website:http://www.oecd.org/internet/ieconomy/theevolvingroleoftheindividualinprivacyprotection30yearsaftertheoecdprivacyguidelines.htm
 working.group:
 

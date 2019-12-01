@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693911
+modified:1575207693911
 title:Verification of Lawful Status (VLS)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Service
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -21,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"6d727a88-a06a-4690-ad3f-75e9f229ed6c":{"to":"8fd847d3-c332-4fae-9ae7-725baecc8906","type":"organization-for-group"}}
-tmap.id:84e0fd3c-b101-472e-8470-0921b63b0e91
+tmap.edges:{"891c3932-1644-46a3-aee5-965ad0c7a001":{"to":"84b5290b-c193-4692-9564-069864188a13","type":"organization-for-group"}}
+tmap.id:7d7a16bf-eaff-4b0a-81a1-ec93660f557b
 url:http://www.aamva.org/VLS/
 version.or.edition:
 working.group:

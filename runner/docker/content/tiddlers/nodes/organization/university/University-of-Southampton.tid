@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693871
+modified:1575207693871
 title:University of Southampton
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:559866c9-3e08-4158-bf22-52bd452a5c97
+tmap.id:7fb38581-6e77-4e71-9686-30b03fbf8fc4
 twitter.profile:
 website:
 

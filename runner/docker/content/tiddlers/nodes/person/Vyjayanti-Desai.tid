@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207693998
+modified:1575207693998
 title:Vyjayanti Desai
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Vyjayanti Desai
 organization:
 tags:
-tmap.edges:{"3536e70f-48b8-4f4d-9e4f-0689a7e308e0":{"to":"bec0e120-8069-46d0-add7-1e6cd0200183","type":"vice-chair"},"ed6adb04-371a-4b26-8a5f-06b261fb044e":{"to":"bec0e120-8069-46d0-add7-1e6cd0200183","type":"employee"}}
-tmap.id:8d90b91f-16bd-4570-94e3-6c7ac532487f
+tmap.edges:{"4de3143f-2f16-49c2-b254-650b70a43824":{"to":"e878f9b0-47a3-44b9-887d-246ccc15dc96","type":"vice-chair"},"11df57fe-eec0-4ad0-b8a9-a9da3953bdf1":{"to":"e878f9b0-47a3-44b9-887d-246ccc15dc96","type":"employee"}}
+tmap.id:5f7905a3-c2d6-4956-b719-3c8717b5e4ea
 twitter.profile:
 website:
 working.group:

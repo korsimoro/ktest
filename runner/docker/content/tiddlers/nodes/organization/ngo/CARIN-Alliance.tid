@@ -1,13 +1,36 @@
-created:
-modified:
+created:1575207694293
+modified:1575207694293
 title:CARIN Alliance
 type:text/vnd.tiddlywiki
+activities:
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:TBD
 org.name:CARIN Alliance
 org.type:NGO
+parent.org:
+partners:
+products.and.or.services:
 purpose:Consumer support
+relevant.publications:
+scope:
 sector:non-profit
+status:
+tags:
+tech.focus:
 tmap.edges:{}
-tmap.id:5432d58d-7a1c-4d73-ae00-7319560721b9
+tmap.id:b0706dbb-287b-4d01-99e7-7af377c4ec16
+twitter.profile:
 website:https://www.carinalliance.com/
 
 Our vision is to rapidly advance the ability for consumers and their authorized caregivers to easily get: use: and share their digital health information when: where: and how they want to achieve their goals. Specifically: we are promoting the ability for consumers and their authorized caregivers to gain digital access to their health information via non-proprietary application programming interfaces or APIs. We envision a future where any consumer can choose any application to retrieve both their complete health record and their complete coverage information from any provider or plan in the country.

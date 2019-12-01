@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693840
+modified:1575207693840
 title:eBorders
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:General
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"4eb17c9b-faa2-4753-a22d-4dfcfa92d5a3":{"to":"33c01093-64f8-429d-a4eb-54ed0441bb7b","type":"organization-for-group"}}
-tmap.id:5ad55aa2-ee89-4ec3-9cec-6cf239896e82
+tmap.edges:{"976f4575-df09-46ac-935c-d7a51cfde89b":{"to":"ead7504c-09a9-45cb-b189-2211a74bf4d3","type":"organization-for-group"}}
+tmap.id:f9d1b546-5f86-4b39-8c4d-1d19c25adf86
 url:
 
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694019
+modified:1575207694019
 title:U.S. Department of Health and Human Services
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"479d1993-9146-43ad-aca5-10666e98d6a3":{"to":"5e1d03a3-e584-47e3-af3e-e6f5b63cb0ee","type":"sponsor"},"65657a8b-0238-4ad7-b52d-ebf0b025272f":{"to":"67951541-b73b-4952-9d0a-d9b67f3d89cc","type":"government-connection"}}
-tmap.id:cc3c1b67-3d47-4197-b302-b8c9468df3bb
+tmap.edges:{"028826a1-4eab-47ed-becc-5d70e99bc8b0":{"to":"827e22c6-1129-4b61-93d5-bc0876c2503e","type":"sponsor"},"043c4c65-274f-4cba-ba3e-400cbb9f1117":{"to":"8e5b48c1-aa56-4842-8413-299207e889b2","type":"government-connection"}}
+tmap.id:fb4dac64-2c47-41ed-b386-53e620f71aaf
 twitter.profile:
 website:
 

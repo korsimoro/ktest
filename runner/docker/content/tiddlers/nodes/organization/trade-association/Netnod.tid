@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694070
+modified:1575207694070
 title:Netnod
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f106db76-e1a5-404d-b504-7606ea9faba6":{"to":"8162513d-aaf6-4863-9545-079571ec883c","type":"founder"},"d4865284-ada4-41f4-939b-7d885e53df6a":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"}}
-tmap.id:b6b79c9d-2abc-4d73-a168-d6f0502cfa2e
+tmap.edges:{"9065f1c5-3fef-49f9-b39d-266d951045ef":{"to":"44d5ee22-84c0-43d5-a866-844ac13ec37c","type":"founder"},"d7c74efd-d004-4ccf-a8fe-d05630438ab7":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id:944c0c4f-f8fa-4b1a-973e-2f416e1acdfc
 twitter.profile:
 website:http://www.netnod.se
 

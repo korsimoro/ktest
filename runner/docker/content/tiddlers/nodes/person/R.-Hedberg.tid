@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207693998
+modified:1575207693998
 title:R. Hedberg
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:R. Hedberg
 organization:
 tags:
-tmap.edges:{"92059128-58fa-4ab7-9125-9ac41206b41b":{"to":"5bcd32b5-4f5f-48dd-9574-116a32d348ca","type":"author"}}
-tmap.id:d7649108-5679-48d6-89c9-f0f297196e2e
+tmap.edges:{"c81fe12a-fc41-42a5-ac02-fb43825e2ce3":{"to":"5be52e1f-cc87-4e96-b113-f45bb630f390","type":"author"}}
+tmap.id:2f9cced6-c6bc-4122-a780-4046970120c8
 twitter.profile:
 website:
 working.group:

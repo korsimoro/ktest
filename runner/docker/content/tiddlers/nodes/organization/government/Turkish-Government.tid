@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694079
+modified:1575207694079
 title:Turkish Government
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:52e1ff93-37c1-4a24-b19f-e177f5163696
+tmap.id:22654bda-db96-48b3-b245-2f0cae1a4f38
 twitter.profile:
 website:
 

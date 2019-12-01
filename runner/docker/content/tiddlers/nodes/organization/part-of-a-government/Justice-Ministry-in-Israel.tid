@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694020
+modified:1575207694020
 title:Justice Ministry in Israel
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"16991b42-fc27-4eca-94e2-bde64617e2ba":{"to":"4dea360b-cf91-4358-be66-0353a011d173","type":"government-connection"}}
-tmap.id:70d15118-b8dd-4cc7-a33c-f2a72bc60c48
+tmap.edges:{"0ebe2323-7cb6-4129-b275-e47bf0e6a13c":{"to":"d9696575-8380-4a4b-ba86-76f8460f40aa","type":"government-connection"}}
+tmap.id:61083897-41f3-413e-9635-f8ac634ada09
 twitter.profile:
 website:
 

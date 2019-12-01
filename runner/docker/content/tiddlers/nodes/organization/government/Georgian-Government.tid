@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694082
+modified:1575207694082
 title:Georgian Government
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:df1717ab-f409-4d41-8668-3f66742ec826
+tmap.id:b4e210f9-873b-4ac8-a404-9a7fb453ab9b
 twitter.profile:
 website:
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694016
+modified:1575207694016
 title:Semantic Interoperability Community (SEMIC)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"7407fde3-6948-4a73-afca-954d5efb034d":{"to":"ffeb72a3-50ad-4e9b-a1b5-b4050d5f50d0","type":"organization-for-group"}}
-tmap.id:682d10a3-3975-417a-a922-f5ada8d24239
+tmap.edges:{"4da2e2a4-ed91-4598-b05d-85cd1f22f8de":{"to":"ed528611-9854-484c-9f25-8b933d703412","type":"organization-for-group"}}
+tmap.id:d2c5314a-76f8-4810-8a41-be51a0622b5e
 twitter.profile:
 website:https://joinup.ec.europa.eu/community/semic/description
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694095
+modified:1575207694095
 title:Verizon
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"36f65eff-3024-4633-96dc-916ccb0df366":{"to":"7c11e187-0566-4bdb-8b10-f1eee97f3177","type":"sponsor"},"84836074-05a4-4f46-b631-a6b60b20ae93":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"},"e6dfd345-e5e6-42ef-9cb4-273854990941":{"to":"38226d23-6900-4820-8860-5c911b922fe0","type":"executive-member"}}
-tmap.id:7fd0004b-7a0b-4e86-afff-5d9a715e45ae
+tmap.edges:{"e5a38e4b-ac87-46fc-8fe0-aa589504f388":{"to":"af29f78b-82ac-41df-b883-fe3fb7fe8f34","type":"sponsor"},"b837b735-77a4-4473-b3cc-351de0052c4d":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"},"47bf04e6-a31f-4f0e-a9d4-04963a66a812":{"to":"b0124e9e-0d13-4671-92b2-f2d19b7995d6","type":"executive-member"}}
+tmap.id:a39bb927-7813-4ab1-8fc0-84f88313df48
 twitter.profile:
 website:http://www.verizonenterprise.com/
 

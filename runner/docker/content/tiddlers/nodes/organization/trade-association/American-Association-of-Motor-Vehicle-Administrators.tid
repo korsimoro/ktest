@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694067
+modified:1575207694067
 title:American Association of Motor Vehicle Administrators
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"a5e7a821-199a-41a2-ba22-d55a32bce702":{"to":"3b2cf67a-173e-4e38-834e-1202a691ca8a","type":"company"}}
-tmap.id:8fd847d3-c332-4fae-9ae7-725baecc8906
+tmap.edges:{"d179819f-b01e-44e3-868e-6d066923d5e3":{"to":"99fafa0d-e2a8-4dd2-a0db-a8b5e5669dc6","type":"company"}}
+tmap.id:84b5290b-c193-4692-9564-069864188a13
 twitter.profile:
 website:http://www.aamva.org
 

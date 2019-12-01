@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694217
+modified:1575207694217
 title:Thales
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:468a3d70-9783-4978-9f09-1f9eec373a38
+tmap.id:3e56f759-2067-4687-b96e-23ae400f661b
 twitter.profile:
 website:https://www.thalesgroup.com/en
 

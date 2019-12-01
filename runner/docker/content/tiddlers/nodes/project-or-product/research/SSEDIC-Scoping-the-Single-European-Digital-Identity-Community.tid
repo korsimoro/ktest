@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693923
+modified:1575207693923
 title:SSEDIC - Scoping the Single European Digital Identity Community
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -19,10 +20,10 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:
+tags:0
 terms.of.service:
-tmap.edges:{"8d077a5c-ec81-4a83-a59f-07e25a935b8e":{"to":"2d428636-c138-4f82-8ab2-17680fcd773b","type":"connection"}}
-tmap.id:7cfdb94f-ef96-443e-b6f3-2ebc9329af3f
+tmap.edges:{"2b1110d8-3ea2-414f-a9ce-91418e4fc83f":{"to":"0df8d3d4-c2cb-4240-98de-8cd19e3356c1","type":"connection"}}
+tmap.id:3ee73f5a-584b-449a-9ff5-229b55cca154
 url:http://www.eid-ssedic.eu
 version.or.edition:
 working.group:

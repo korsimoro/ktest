@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694281
+modified:1575207694281
 title:Open Mobile Alliance
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:1ba2aae9-a35f-4c7d-a443-0586b79a9141
+tmap.id:b69ae5d3-8a85-4d08-b5eb-16f977024e2b
 twitter.profile:
 website:
 

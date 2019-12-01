@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694066
+modified:1575207694066
 title:THE COALITION FOR SENSIBLE PUBLIC RECORDS ACCESS
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"783c5dfe-6baa-44ba-8d13-6bae0abaa8f0":{"to":"664ef86f-1f73-41ea-94b3-250e3a9f22ef","type":"default"}}
-tmap.id:e2bc0fa0-ecaa-481a-8dbb-b3712bd1c86b
+tmap.edges:{"69646f0b-1def-4aec-a9dc-48181c834a4f":{"to":"d32d9070-a635-457e-b787-15c8587f68ba","type":"default"}}
+tmap.id:16fd4819-5c23-4f38-9dd9-d59bf37c8352
 twitter.profile:
 website:http://cspra.org
 

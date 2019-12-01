@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694094
+modified:1575207694094
 title:Eurodocs
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"26f5a709-fdb0-4859-9e8f-8233db69393f":{"to":"9ded101a-e001-472b-8c91-271f96c1450d","type":"general-member"}}
-tmap.id:8d0593da-dc58-404a-be91-6981593a9bd9
+tmap.edges:{"fd80a2ee-a432-4e88-9230-68feb75d4f89":{"to":"85af0353-21ec-406d-bf0a-eec203fc4394","type":"general-member"}}
+tmap.id:2666f5da-523a-46d5-ab9e-3b67f1f55d4b
 twitter.profile:
 website:http://www.eurodocs.se
 

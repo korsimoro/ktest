@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693927
+modified:1575207693927
 title:ICCRG Internet Congestion Control Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -21,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"f287ae23-4c6f-4ec8-9e37-68213f7ed6b8":{"to":"3e9c76ce-4794-4b7f-a667-22d79ed1dedf","type":"organization-for-group"}}
-tmap.id:60b21a0f-592f-4eb3-b1fa-9d87066299dd
+tmap.edges:{"ef0b706a-33ef-4369-8bd5-1fe21f1d9cf8":{"to":"a787af82-c1fc-43f8-9263-6e62c5ceeb3d","type":"organization-for-group"}}
+tmap.id:2fc8da54-f3d6-43d7-8295-681095f16be3
 url:https://irtf.org/iccrg
 version.or.edition:
 working.group:

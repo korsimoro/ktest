@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694038
+modified:1575207694038
 title:ESI European Software Institute
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -24,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:
+tags:0
 tech.focus:
-tmap.edges:{"6dad163c-dae1-4907-96ad-0b24e5ee00a7":{"to":"dc3c0a0b-965b-4cd2-b9e6-5f87eef648cb","type":"executive-member"}}
-tmap.id:f0beb792-5112-4d34-88e9-f34fcfcdcd8f
+tmap.edges:{"96dd85b1-c847-4871-ad4e-6280047aaf66":{"to":"1c3ec6d0-e2af-4398-84a7-1068f0d3ff1a","type":"executive-member"}}
+tmap.id:7cef0c3c-dd4b-4d9a-aafd-02f56c9bfbea
 twitter.profile:
 website:
 

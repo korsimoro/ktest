@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693960
+modified:1575207693960
 title:Working Paper Event Data Recorders (EDR) on Vehicles Privacy and data protection issues for governments and manufacturers
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Working Paper Event Data Recorders (EDR) on Vehicles Privacy and data prote
 publication.type:TO BE DETERMINED
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"
+sponsoring.org:International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:9d2963ac-bf7e-43f5-b324-17256c24a916
+tmap.id:7602e664-f77b-4481-a721-fc27259ab755
 url:https://datenschutz-berlin.de/attachments/795/675.42.10.pdf?1308146250
 version.or.edition:
 volume.frequency:

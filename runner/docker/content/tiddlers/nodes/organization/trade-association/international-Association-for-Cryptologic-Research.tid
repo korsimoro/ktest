@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694066
+modified:1575207694066
 title:international Association for Cryptologic Research
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"5c72c54d-1ad7-438b-837d-b3c04c027ecd":{"to":"af4208cb-32ae-4e9e-8356-ed84a499e907","type":"convenor"},"6a3cc012-da50-44b2-90c4-356f4605176e":{"to":"a41bb3f7-6662-4ce1-bc2c-0726d87f4345","type":"convenor"},"240e25ff-d2c0-414f-8aff-78edc1bb0a65":{"to":"4e794381-6bf9-4ffe-bbbf-b6dddb6944d7","type":"convenor"}}
-tmap.id:12aa4d84-f5e5-45ec-b1c1-525960ec9881
+tmap.edges:{"f5ec2eea-4293-4f6b-829a-f704568f6313":{"to":"4f684c96-efba-4401-8f4d-9c968d8b14ce","type":"convenor"},"7cb059d6-a3ae-4679-8218-5168ae50bd51":{"to":"7602fb69-d07c-4ef9-b824-7abf3fab2076","type":"convenor"},"6f1acf9e-4d92-40b6-9193-3634a6f4888c":{"to":"a461160a-a34c-4d62-9af0-1166c7006a3f","type":"convenor"}}
+tmap.id:aae07996-ff92-4e29-804e-8080bf45834b
 twitter.profile:
 website:https://www.iacr.org
 

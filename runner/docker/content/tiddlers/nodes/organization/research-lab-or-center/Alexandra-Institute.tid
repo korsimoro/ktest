@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693873
+modified:1575207693873
 title:Alexandra Institute
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"3c2e42fc-edc1-4855-87e6-7cd0538d9d6b":{"to":"9ded101a-e001-472b-8c91-271f96c1450d","type":"general-member"},"57de74ae-3d10-4520-bc4c-d8b11c1cd4e8":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"}}
-tmap.id:9d38c76a-ff56-4899-9dc9-e32189e6d310
+tmap.edges:{"baa4553b-5278-4702-80e5-5402d588a365":{"to":"85af0353-21ec-406d-bf0a-eec203fc4394","type":"general-member"},"1fcb0bd7-14ce-4103-89b5-c779c02e9006":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"}}
+tmap.id:23b28ff9-ebf3-4f8b-9760-ad8924636e25
 twitter.profile:
 website:https://alexandra.dk/uk
 

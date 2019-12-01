@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693969
+modified:1575207693969
 title:Modentity
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Proof of Concept
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -22,7 +23,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:502ab153-5d58-4e02-92b2-7cf5414e8dff
+tmap.id:f4eacdd9-5e74-47f3-b91b-1d3255d36710
 url:http://www.kiras.at/projects/detail/?tx_ttnews[tt_news]=349&cHash=d7686250a3fb9e6b2806a07d5d7664e3&L=1
 version.or.edition:
 working.group:

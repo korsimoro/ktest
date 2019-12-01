@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694037
+modified:1575207694037
 title:Internet Society ISOC
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"3f9064f5-2650-47b0-9f61-ae6b8e8d401d":{"to":"aa60fcae-7070-45ba-8d73-bc5981c105c5","type":"convenor"},"507fd351-ee75-4e15-a95d-38488b452f84":{"to":"9284be19-f76b-4221-aa3f-9dbe97b2ce2a","type":"organization-for-group"},"6e379d33-7a83-43c7-afb3-38083e60a486":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"vice-chair"}}
-tmap.id:657ee92a-c4ee-489d-ba03-54bfc29fd2b9
+tmap.edges:{"a1b90fae-67a3-49e1-9005-d874d21606d5":{"to":"f8bc6e3c-2560-468a-bf6d-965a4e7d5a76","type":"convenor"},"dc3742cb-551a-4ad6-bd60-49f7b8028d34":{"to":"4c69fb03-e77b-4f87-ba9d-478ae5361e2a","type":"organization-for-group"},"717be083-3c9c-4e4c-8db1-bc5765a508ed":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"vice-chair"}}
+tmap.id:d386645f-d8c4-4fd3-9745-ab7f17bd9d54
 twitter.profile:
 website:http://www.isoc.org
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694094
+modified:1575207694094
 title:Access IS
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f0278f1b-3888-4b4f-a0b6-27455574bb98":{"to":"09c25484-544d-423e-9db4-5234fbf7ea90","type":"general-member"}}
-tmap.id:3a6de7bc-8e4a-4783-afe6-a7d949f21298
+tmap.edges:{"b7a53aa5-784b-48c9-a7dc-edf05140df8e":{"to":"4b5d3dea-73d2-4e1a-9f06-c1e462da1a1c","type":"general-member"}}
+tmap.id:186490fe-6279-4a29-955c-feadae311e28
 twitter.profile:
 website:
 

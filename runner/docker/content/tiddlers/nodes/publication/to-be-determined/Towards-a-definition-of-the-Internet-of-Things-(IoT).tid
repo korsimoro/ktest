@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693966
+modified:1575207693966
 title:Towards a definition of the Internet of  Things (IoT)
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Towards a definition of the Internet of  Things (IoT)
 publication.type:TO BE DETERMINED
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:IEEE Internet of Things
+sponsoring.org:IEEE Internet of Things
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:1f9fa772-fbad-402a-bc38-72f39a218d04
+tmap.id:e4d1663d-d821-4b5a-af1e-eb7d90fb6102
 url:http://iot.ieee.org/images/files/pdf/IEEE_IoT_Towards_Definition_Internet_of_Things_Revision1_27MAY15.pdf
 version.or.edition:
 volume.frequency:

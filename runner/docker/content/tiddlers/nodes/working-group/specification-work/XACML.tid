@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693840
+modified:1575207693840
 title:XACML
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"ebeb7af8-78a0-488b-94b1-d0bf75e3f550":{"to":"97374d5a-1b95-4057-82eb-78aa6764c95f","type":"organization-for-group"}}
-tmap.id:e6f4f2b4-e324-4f4b-933a-aafd07d81e35
+tmap.edges:{"6f8bdff1-028b-4c4e-a385-d61de4fcb8a6":{"to":"c60a107c-dcd2-4d75-8677-c7aa2ee3581f","type":"organization-for-group"}}
+tmap.id:3ae13013-00a5-4fc7-a769-ca3174df5a0a
 url:https://www.oasis-open.org/committees/xacml/
 
 We are pleased to announce the publication of eXtensible Access Control Markup Language (XACML) Version 3.0 OASIS Standard. A pdf version is available at the following link: 

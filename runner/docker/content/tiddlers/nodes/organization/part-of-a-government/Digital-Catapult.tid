@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694020
+modified:1575207694020
 title:Digital Catapult
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"69b7b3c5-64b0-41c8-bb16-39e6f5b369e5":{"to":"bb1c3489-0b20-41a1-99ef-c83f55051151","type":"connection"},"d51c3316-4cd5-4e38-8bcb-17914dc94b30":{"to":"38226d23-6900-4820-8860-5c911b922fe0","type":"general-member"},"07a49fd8-f4b3-45e4-a79c-809336e95eed":{"to":"78a94d12-187e-407d-a254-6b921da13353","type":"government-connection"}}
-tmap.id:bd21075d-e1f1-4e68-8af2-0feaffe721c9
+tmap.edges:{"c5b9d737-391c-4992-823e-212472a65f1b":{"to":"19556e27-f6c4-4068-8810-75e7c365fd7f","type":"connection"},"7d578014-45d5-40d1-842e-3ffd425cf086":{"to":"b0124e9e-0d13-4671-92b2-f2d19b7995d6","type":"general-member"},"129543e1-7a1b-4e4b-8865-741601429e32":{"to":"d1710546-66d5-4a6e-8822-cfb305e91580","type":"government-connection"}}
+tmap.id:4c66d504-dd39-4d18-a5a6-fcf6c9673983
 twitter.profile:
 website:
 

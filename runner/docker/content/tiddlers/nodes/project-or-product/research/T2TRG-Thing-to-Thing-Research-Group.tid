@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693915
+modified:1575207693915
 title:T2TRG Thing-to-Thing Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -21,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"f69d815e-0b3b-4374-abcc-49e571e296ca":{"to":"3e9c76ce-4794-4b7f-a667-22d79ed1dedf","type":"organization-for-group"},"21c7437c-fc14-44d1-80b7-4afef5b26b3e":{"to":"4852bd5c-3ab1-45c3-b354-5a84d050c790","type":"connection"}}
-tmap.id:df2c695b-578a-41b1-8d06-48169aaba659
+tmap.edges:{"71c9887e-97c0-4f1e-9a97-1bca7a27dd08":{"to":"a787af82-c1fc-43f8-9263-6e62c5ceeb3d","type":"organization-for-group"},"15615e30-9645-4275-8a00-451da79d4642":{"to":"e1a29548-18ca-42da-96ce-641960468bf2","type":"connection"}}
+tmap.id:522a94c7-9422-4c14-9f52-ed3335be2425
 url:https://irtf.org/t2trg
 version.or.edition:
 working.group:

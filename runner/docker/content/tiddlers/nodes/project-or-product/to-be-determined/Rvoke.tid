@@ -1,10 +1,32 @@
-created:
-modified:
+created:1575207694300
+modified:1575207694300
 title:Rvoke
 type:text/vnd.tiddlywiki
+activities:
+audience:
 category:to-be-determined
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:
 name:Rvoke
+parent.org:
+partners:
+people:
+purpose:
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:
+terms.of.service:
 tmap.edges:{}
-tmap.id:5fc5b2c4-e5f1-4469-8b13-60993a6e4368
+tmap.id:2836eece-3bfa-4ee8-a3fe-c976cfd15a6b
+url:https://rvoke.com
+version.or.edition:
+working.group:
 
 Rvoke is a cross-platform (iOS and Android) app for you to reduce your digital footprint and take control of your personal data.

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694066
+modified:1575207694066
 title:Open PEPPOL
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"c7386cb8-a57a-40ca-8e43-4d008800bd30":{"to":"b4c69624-34ec-44d2-b7a5-aa005c416c39","type":"connection"}}
-tmap.id:58b32516-89a6-4b4e-aee6-5aa0883e0744
+tmap.edges:{"f4c096cf-9cb6-498b-a9e9-c2e4f2c6339e":{"to":"d3a8069c-d966-4309-84ba-967e66714373","type":"connection"}}
+tmap.id:db5d1fa7-0936-4f66-9289-1c3d8648ab41
 twitter.profile:
 website:http://www.peppol.eu
 

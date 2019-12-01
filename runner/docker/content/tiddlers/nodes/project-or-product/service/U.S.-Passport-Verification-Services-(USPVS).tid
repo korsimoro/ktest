@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693912
+modified:1575207693912
 title:U.S. Passport Verification Services (USPVS)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Service
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -21,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"8537ad54-fc7b-4762-ac19-abfbbe303360":{"to":"8fd847d3-c332-4fae-9ae7-725baecc8906","type":"organization-for-group"}}
-tmap.id:3a7358db-b45d-47b4-9c7c-136d6d20a088
+tmap.edges:{"3837bb34-f5cb-41d3-9ad3-16e36daf65f4":{"to":"84b5290b-c193-4692-9564-069864188a13","type":"organization-for-group"}}
+tmap.id:fa023be5-7bc8-4552-bf12-a128de060b85
 url:http://www.aamva.org/US-Passport-Verification-Services/
 version.or.edition:
 working.group:

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694024
+modified:1575207694024
 title:Virginia Identity Management Standards Advisory Council
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"845bd108-d440-4cb3-93c5-29e19807912a":{"to":"ae3fdebb-0844-49eb-bdb2-792b8aba59d7","type":"government-connection"}}
-tmap.id:791ce0cc-c64d-4f29-b246-6e8885c90fa9
+tmap.edges:{"6643735e-ffd9-4e51-8938-13e8fb80584c":{"to":"5472089e-9cb3-49fa-8f9b-9ab101238f99","type":"government-connection"}}
+tmap.id:596597a2-4d18-4f25-b730-3daaecbfb441
 twitter.profile:
 website:
 

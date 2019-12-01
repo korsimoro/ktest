@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694032
+modified:1575207694032
 title:IETF
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"e3fda6f0-4f96-4da9-839e-9df7f8e95bda":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"},"6975bc0c-ffa0-491a-a29c-c92785e93ccf":{"to":"9bd3cbd1-c110-44bb-af09-d3abecd0c884","type":"specification-of-group"},"9ee2c0c9-dfd1-42b8-b12a-f1fba1106ab6":{"to":"657ee92a-c4ee-489d-ba03-54bfc29fd2b9","type":"organization-for-group"}}
-tmap.id:c2b6c958-2e97-472a-a0ca-609a4938e152
+tmap.edges:{"d8f20a22-0cc3-4a68-ad18-6a11ce4b7058":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"},"f6e1ae45-6700-497f-b18d-b0446edf24f8":{"to":"63a19042-00c1-4b44-a1d4-5bdea6fa8169","type":"specification-of-group"},"8fa1e6f4-e5a4-417d-af91-77bd9ab2bd18":{"to":"d386645f-d8c4-4fd3-9745-ab7f17bd9d54","type":"organization-for-group"}}
+tmap.id:4b1ca637-c3c0-4806-81b2-be88709fb469
 twitter.profile:
 website:
 

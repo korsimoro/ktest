@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694090
+modified:1575207694090
 title:Deutsche Telekom
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"012f1fca-2ac8-41a1-884a-00f646ece7c0":{"to":"70f3692d-6a08-45f7-b05d-9e8b478893df","type":"sponsor"}}
-tmap.id:22ff4cf0-6ac8-4e15-9c71-e390ef38cc38
+tmap.edges:{"87f33abc-34cf-4e2d-aa0d-120b6f774fa2":{"to":"c9e090d6-d167-4ba1-969c-75e188522f15","type":"sponsor"}}
+tmap.id:56c0a116-2672-4b44-942a-1532fdf9e052
 twitter.profile:
 website:
 

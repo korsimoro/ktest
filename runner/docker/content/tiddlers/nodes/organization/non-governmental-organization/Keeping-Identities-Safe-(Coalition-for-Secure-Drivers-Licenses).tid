@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694078
+modified:1575207694078
 title:Keeping Identities Safe (Coalition for Secure Drivers Licenses)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:e56bce03-41ae-4132-b321-c3cdfa57e444
+tmap.id:7cfdec78-288c-42d8-a5ab-4f07477c08f6
 twitter.profile:
 website:
 

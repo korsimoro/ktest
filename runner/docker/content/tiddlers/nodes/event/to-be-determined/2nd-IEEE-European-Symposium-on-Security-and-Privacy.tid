@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694083
+modified:1575207694083
 title:2nd IEEE European Symposium on Security and Privacy
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:IEEE Technical Committee on Security and Privacy
@@ -13,8 +14,9 @@ name:2nd IEEE European Symposium on Security and Privacy
 partners:
 people:
 relevant.publications:
+tags:
 tmap.edges:{}
-tmap.id:ef95522c-6b89-4a0d-8e95-4dac8de4eb8f
+tmap.id:81d35752-3437-4f94-97d7-b1ae949e816a
 website:http://www.ieee-security.org/TC/EuroSP2017/
 working.group:
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693875
+modified:1575207693875
 title:UmU
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:26f24eaa-6a1d-4268-bc87-9817bb77f0cc
+tmap.id:ae093310-cf34-43c0-8c0d-9d9f80f18bb6
 twitter.profile:
 website:
 

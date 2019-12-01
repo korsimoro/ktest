@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693966
+modified:1575207693966
 title:Working Paper on the Use of Deep Packet Inspection for Marketing Purposes
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Working Paper on the Use of Deep Packet Inspection for Marketing Purposes
 publication.type:TO BE DETERMINED
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"
+sponsoring.org:International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:cbf4e92d-a908-4984-9c71-4307c3776e75
+tmap.id:ca8aaff5-4bdb-440d-aec9-8e47c43b14fe
 url:https://datenschutz-berlin.de/attachments/726/WP_DPI_07_09_2010_675_41_10__2_.pdf?1292413821
 version.or.edition:
 volume.frequency:

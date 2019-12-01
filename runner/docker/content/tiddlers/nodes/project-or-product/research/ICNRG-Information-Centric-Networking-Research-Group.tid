@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693927
+modified:1575207693927
 title:ICNRG Information-Centric Networking Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -21,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"e58328b9-5edb-4b99-869a-2b3ed7abc164":{"to":"3e9c76ce-4794-4b7f-a667-22d79ed1dedf","type":"organization-for-group"}}
-tmap.id:842ac81b-605e-4f61-8933-c0afec10210c
+tmap.edges:{"6536b724-3b24-435f-ada3-45cc4d352e11":{"to":"a787af82-c1fc-43f8-9263-6e62c5ceeb3d","type":"organization-for-group"}}
+tmap.id:099a39a7-2558-415d-be72-5b7f034df9af
 url:https://irtf.org/icnrg
 version.or.edition:
 working.group:

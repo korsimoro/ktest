@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694084
+modified:1575207694084
 title:Open, Identity Summit
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:SSEDIC.2020 - Scoping the Single European Digital Identity Community for the next decade
@@ -13,8 +14,9 @@ name:Open, Identity Summit
 partners:
 people:
 relevant.publications:
+tags:0
 tmap.edges:{}
-tmap.id:e6a14e1c-e171-4f31-b01c-a9b4b74f906b
+tmap.id:d6b4f82b-1c8b-47c7-b9f6-e8cb23c85540
 website:http://www.openidentity2016.eu
 working.group:
 

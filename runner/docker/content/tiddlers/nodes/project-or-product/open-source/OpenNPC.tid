@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694075
+modified:1575207694075
 title:OpenNPC
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Open Source
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -22,7 +23,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:09bc6e42-06a2-4a56-a759-52d29aff9d6a
+tmap.id:3172881c-d0be-4c86-a072-89ddc2f71b06
 url:
 version.or.edition:
 working.group:

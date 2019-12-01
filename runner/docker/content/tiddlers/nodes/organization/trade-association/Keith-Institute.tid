@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694067
+modified:1575207694067
 title:Keith Institute
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"4a269d5d-f655-4ebd-b706-26e164a11bfe":{"to":"c6131a51-f2d8-4b3e-a64c-abb8be5f2696","type":"connection"}}
-tmap.id:a04be9ae-130f-45e3-bc6d-3bf9ee48cbf8
+tmap.edges:{"545efd3c-34b7-4356-8b78-fd3dc0f602c8":{"to":"c6c8ed25-8dc6-4de4-9850-d11b14e76824","type":"connection"}}
+tmap.id:3e55e841-7f16-4067-b6c3-708174e3ed0e
 twitter.profile:
 website:http://www.keithinstitute.org/
 

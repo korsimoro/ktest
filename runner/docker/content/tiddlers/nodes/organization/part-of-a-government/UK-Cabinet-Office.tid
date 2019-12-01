@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694025
+modified:1575207694025
 title:UK  Cabinet Office
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"6f831f10-1672-4148-b675-bf0ca68c54f6":{"to":"38226d23-6900-4820-8860-5c911b922fe0","type":"executive-member"},"6cc8016c-3517-46d1-b983-a33dc45e65e6":{"to":"bd153aa0-5931-4a76-aa5f-7b0ed3326702","type":"connection"},"ec50822b-575b-41fa-94dc-4c413f3f138b":{"to":"78a94d12-187e-407d-a254-6b921da13353","type":"government-connection"}}
-tmap.id:036dfeb0-5128-40ab-a6a6-d32e5adeb4a9
+tmap.edges:{"2aa0621d-5c7a-4ec8-a1e6-30c04718e9cc":{"to":"b0124e9e-0d13-4671-92b2-f2d19b7995d6","type":"executive-member"},"cb354cc7-e79d-4ff0-9634-8c0b9c8361de":{"to":"896b0cf3-6797-47a1-9c89-f47ac83099af","type":"connection"},"2e8b2b41-e926-4e26-b67b-6b1e45218836":{"to":"d1710546-66d5-4a6e-8822-cfb305e91580","type":"government-connection"}}
+tmap.id:ffc90137-8e15-4dd7-b2d5-527cda936fc9
 twitter.profile:
 website:
 

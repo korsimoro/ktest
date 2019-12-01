@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694210
+modified:1575207694210
 title:Veridos
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"c4febd62-b159-4d61-b0f5-09b0c3b7da33":{"to":"33c01093-64f8-429d-a4eb-54ed0441bb7b","type":"executive-member"}}
-tmap.id:fbd49a60-38ee-452d-916b-612a42551d0d
+tmap.edges:{"e0d6a36b-3314-49ff-bc85-16a9e329566c":{"to":"ead7504c-09a9-45cb-b189-2211a74bf4d3","type":"executive-member"}}
+tmap.id:d1087ef4-819b-4744-83e4-273b45bd670f
 twitter.profile:
 website:https://www.veridos.com
 

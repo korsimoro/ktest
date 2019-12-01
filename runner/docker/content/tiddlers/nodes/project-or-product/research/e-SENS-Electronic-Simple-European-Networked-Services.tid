@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693926
+modified:1575207693926
 title:e-SENS   Electronic Simple European Networked Services
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -21,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"df1646cf-f48f-4479-a688-1092daa096d4":{"to":"1ad114b5-7756-4587-9715-661f78d7ff7a","type":"connection"}}
-tmap.id:62b63762-1cf3-43a2-8d43-b35a1d513df7
+tmap.edges:{"7db907c8-b6d8-4d4c-921e-6d9382a17f50":{"to":"4242a8f2-beec-4974-b8d2-0fa59aeb24e2","type":"connection"}}
+tmap.id:0a0a5163-0d5f-4e8f-93be-9bfe7401f2cb
 url:http://www.esens.eu
 version.or.edition:
 working.group:

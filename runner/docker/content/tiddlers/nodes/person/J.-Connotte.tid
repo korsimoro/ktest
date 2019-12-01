@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694001
+modified:1575207694001
 title:J. Connotte
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:J. Connotte
 organization:
 tags:
-tmap.edges:{"9c84d56a-b270-4dfa-b858-e2928d280429":{"to":"323e2ed5-6ec6-491e-b33e-10da024fe1e7","type":"author"},"835c033f-b568-4312-8623-0284aeec54b6":{"to":"22ff4cf0-6ac8-4e15-9c71-e390ef38cc38","type":"employee"}}
-tmap.id:c31f3f28-0289-41bd-8203-21baeee8ccea
+tmap.edges:{"ade11df0-2927-4c21-bcbc-25dd4c36a6f4":{"to":"85dbeb3c-2202-4f8e-a096-242e9b98d07e","type":"author"},"598796d6-862b-4ebf-a310-f5acd001ab5d":{"to":"56c0a116-2672-4b44-942a-1532fdf9e052","type":"employee"}}
+tmap.id:e6e216f9-1b00-4325-a1a3-c4d63bcc8756
 twitter.profile:
 website:
 working.group:

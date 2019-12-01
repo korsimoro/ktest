@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694071
+modified:1575207694071
 title:Nominet
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"ee1e82a4-ce1f-44f7-9ddd-53e503a5cc6d":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"}}
-tmap.id:7af56372-7f02-4eb3-902c-b840e971b7b4
+tmap.edges:{"d5cc1eb0-a291-4302-b989-ada26bb07be8":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id:e54e18ae-1bdf-44cc-8ab1-7c6073561b6f
 twitter.profile:
 website:
 

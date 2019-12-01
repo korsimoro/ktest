@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694212
+modified:1575207694212
 title:Experian
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"3b145250-22ec-48f1-8a2b-315536708ec2":{"to":"38226d23-6900-4820-8860-5c911b922fe0","type":"executive-member"},"d2c41f9f-d65d-4447-a3b7-639cd1fbae97":{"to":"ae571377-2f9b-499b-8518-533acd50d965","type":"certified-idp"}}
-tmap.id:92e03253-1111-4f37-b4de-051a30c93f6f
+tmap.edges:{"ea110e07-b2e9-441e-985d-cb3882d6235e":{"to":"b0124e9e-0d13-4671-92b2-f2d19b7995d6","type":"executive-member"},"792b4f02-2ac7-46c9-9a57-553d5e594f7c":{"to":"012eb392-5979-43e6-9c7f-38258fc700ac","type":"certified-idp"}}
+tmap.id:45a1be9b-319c-47d0-81c1-2ef39f45b71f
 twitter.profile:
 website:http://www.experian.co.uk/identity-and-fraud/govuk-verify/
 

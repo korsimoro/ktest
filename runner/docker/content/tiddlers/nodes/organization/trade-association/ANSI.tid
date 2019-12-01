@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694037
+modified:1575207694037
 title:ANSI
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"b8c4b979-aa5c-4825-8218-816c56761577":{"to":"7c1ca221-f1ac-4798-a8bc-d67121d4f49c","type":"general-member"}}
-tmap.id:a09683a9-ead1-4ccc-92a3-5ab1c2beda93
+tmap.edges:{"66fd17b0-0477-4801-8cc9-f7604d36b6b3":{"to":"13a9cc0c-afe1-41c9-aa63-091b455e8548","type":"general-member"}}
+tmap.id:b509f4ad-c0e1-41a3-ae14-c88aa6754f0d
 twitter.profile:
 website:https://www.ansi.org
 

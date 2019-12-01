@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693875
+modified:1575207693875
 title:Bern University of Applied Sciences
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"540cb1c7-80ba-4fec-b40f-03e165541f3c":{"to":"69acdfde-977c-48df-8894-a627e7def0d8","type":"convenor"}}
-tmap.id:60fb6813-10d3-4633-b6e5-aa2fea3b89a1
+tmap.edges:{"f0d87857-8ced-45f6-b5a2-6a5842a26010":{"to":"a9a502e9-2c7c-4751-aa04-3cbfbcd16c16","type":"convenor"}}
+tmap.id:f61dbaf6-91e2-4dc3-a90f-71a2dc1df691
 twitter.profile:
 website:http://www.bfh.ch/en/home.html
 

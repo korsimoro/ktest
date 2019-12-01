@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694028
+modified:1575207694028
 title:US National Information Exchange Model
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"320dd171-d86d-45f3-be07-5c8ac889972d":{"to":"ffeb72a3-50ad-4e9b-a1b5-b4050d5f50d0","type":"connection"}}
-tmap.id:5e1d03a3-e584-47e3-af3e-e6f5b63cb0ee
+tmap.edges:{"3679127d-e836-41ad-8e44-b8df7930f4c8":{"to":"ed528611-9854-484c-9f25-8b933d703412","type":"connection"}}
+tmap.id:827e22c6-1129-4b61-93d5-bc0876c2503e
 twitter.profile:
 website:https://www.niem.gov/Pages/default.aspx
 

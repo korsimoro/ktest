@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694020
+modified:1575207694020
 title:White House - Office of Science and Technology Policy
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"2513b3e5-dac4-44fa-b8bf-d97e7743b13f":{"to":"92f8685a-30a0-46a8-94b0-66b239f919ba","type":"author"},"927dca09-8966-42ae-91fb-7bc74601dc7f":{"to":"4dc5dd66-80dd-4cab-aed3-7812c59bfc67","type":"author"},"dfb09bf4-0281-4488-b763-addaaed1d2eb":{"to":"67951541-b73b-4952-9d0a-d9b67f3d89cc","type":"government-connection"}}
-tmap.id:7eba444b-c3b4-4c92-bbc4-a8c8f4c62499
+tmap.edges:{"12312c35-519b-4370-b1cf-98d7063e426c":{"to":"38d13322-e33f-4fcf-9b0d-0d8e15e5820e","type":"author"},"315dc138-e2ef-47e2-b9fe-46306f6984bb":{"to":"5ebc6312-cad8-4cf3-abef-ec5c3294910f","type":"author"},"2de96668-1cec-4344-89cc-dc99f2cdeb60":{"to":"8e5b48c1-aa56-4842-8413-299207e889b2","type":"government-connection"}}
+tmap.id:e703ada6-4969-4cdd-8e79-ea8637525fff
 twitter.profile:
 website:
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694091
+modified:1575207694091
 title:PwC
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f0a00003-a115-4d05-90ff-00ab8e7d9ef8":{"to":"5e74d0e7-408b-4268-890f-c5339fdc5607","type":"general-member"}}
-tmap.id:95142400-44ba-443a-a6fb-34e0a045c265
+tmap.edges:{"51aa1305-c60a-43e9-9cfc-e00577f17f86":{"to":"6ef88127-ef99-4cd4-8346-c64b9ea2bdf0","type":"general-member"}}
+tmap.id:61278cc5-5d12-478f-80e0-3d47ce37a2f0
 twitter.profile:
 website:http://www.pwc.com
 

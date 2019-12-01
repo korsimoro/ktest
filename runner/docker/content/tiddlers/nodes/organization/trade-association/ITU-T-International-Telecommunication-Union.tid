@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694062
+modified:1575207694062
 title:ITU-T  International Telecommunication Union
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"304f0142-e4bf-470e-b7d4-8a8fb1abe696":{"to":"daa944e6-9413-44c4-9351-bf39a2006397","type":"government-connection"},"963f5101-c870-40ef-b24c-ddcfc606aebf":{"to":"385f19d2-c376-42bd-8065-7596f785c68a","type":"affiliate"},"141d83d9-162b-4ca4-8c7e-dd92b7c599b6":{"to":"b366548d-5f53-4abd-b31a-fc5cd80afa64","type":"general-member"}}
-tmap.id:62365e69-4aa8-417c-8abe-f7c6dba85561
+tmap.edges:{"8d84f5e5-6910-4825-aeb3-b91f591ad8ff":{"to":"655cf5f1-f01a-4502-81bb-73f7709621b5","type":"government-connection"},"0034a516-db61-47c3-b3eb-08938fff153c":{"to":"f61ec4d6-4fdc-4d74-9f27-f33bc3f73251","type":"affiliate"},"5c43e858-0209-4fb3-bced-617de0f279a6":{"to":"c01816eb-ff69-4e20-b735-8f1db2bea91a","type":"general-member"}}
+tmap.id:369abdc2-b0d7-479b-9776-c3995716c09e
 twitter.profile:
 website:https://www.itu.int/en/ITU-T/Pages/default.aspx
 

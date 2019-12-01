@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694281
+modified:1575207694281
 title:ISO/IEC JTC 1 / SC27 IT Security Techniques
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"119fbcf7-8998-4329-b0ec-a9bd67862f31":{"to":"7c1ca221-f1ac-4798-a8bc-d67121d4f49c","type":"organization-for-group"}}
-tmap.id:f50c28f7-b12a-4ee1-9181-758035c2d765
+tmap.edges:{"fb9d87a1-6964-4c98-b1a7-edb9997323a7":{"to":"13a9cc0c-afe1-41c9-aa63-091b455e8548","type":"organization-for-group"}}
+tmap.id:f5d54ae6-2874-42bd-be88-fdac113efabc
 twitter.profile:
 website:
 

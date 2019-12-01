@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694022
+modified:1575207694022
 title:Information Commissioner’s Office
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"0b52f997-5c33-4cfa-b4f4-dddf73f7935f":{"to":"c578f91c-2e61-458a-90a5-0fde4fb5e723","type":"general-member"},"5da46ee6-3a80-4de9-a8d8-ac1be7cd10f0":{"to":"78a94d12-187e-407d-a254-6b921da13353","type":"government-connection"}}
-tmap.id:4f3331f9-2f98-4656-a7e7-17bc081cb0c9
+tmap.edges:{"caa84fbe-81ff-4552-886a-0cca20b0b655":{"to":"683e24e4-f8d6-46c2-9aad-d38ffd2b47f4","type":"general-member"},"c06a8f30-4b2a-4025-8287-d408676e63ac":{"to":"d1710546-66d5-4a6e-8822-cfb305e91580","type":"government-connection"}}
+tmap.id:8d87e8a0-58b5-4e58-8b16-70b6137f45a2
 twitter.profile:
 website:https://ico.org.uk
 

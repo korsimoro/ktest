@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694085
+modified:1575207694085
 title:IEEE Technology Time Machine
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:IEEE Future Directions Committee
@@ -13,8 +14,9 @@ name:IEEE Technology Time Machine
 partners:
 people:
 relevant.publications:
+tags:
 tmap.edges:{}
-tmap.id:dfcb755d-e82d-41bd-b023-d6c3a59d1159
+tmap.id:649cb9bb-a03a-41f5-a3dd-103404a236bf
 website:http://sites.ieee.org/ttm/
 working.group:
 

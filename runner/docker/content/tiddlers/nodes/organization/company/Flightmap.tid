@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694094
+modified:1575207694094
 title:Flightmap
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -24,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:
+tags:0
 tech.focus:
-tmap.edges:{"0e748a10-9362-442a-a6e3-94c8e6baa42f":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"}}
-tmap.id:8b33b283-1f62-4e3a-868b-83adf93b07e8
+tmap.edges:{"12339922-9498-4857-8442-73b360d1b812":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"}}
+tmap.id:c4e4440e-055b-4915-987d-1ae4f785ac4c
 twitter.profile:
 website:http://www.bicore.nl/flightmap/
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694021
+modified:1575207694021
 title:Federal Trade Commission
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"7878ae21-6335-4f2f-a821-9dbbbd9698fa":{"to":"c578f91c-2e61-458a-90a5-0fde4fb5e723","type":"general-member"},"fa293e2f-daff-420e-8a13-5a94659a7833":{"to":"67951541-b73b-4952-9d0a-d9b67f3d89cc","type":"government-connection"}}
-tmap.id:ad7af085-9081-4fe7-99e8-e58b3624ce5c
+tmap.edges:{"e4d23996-813c-459c-9335-80d5742e2cd8":{"to":"683e24e4-f8d6-46c2-9aad-d38ffd2b47f4","type":"general-member"},"7d0d5b06-99aa-45fc-9112-331d1f76044c":{"to":"8e5b48c1-aa56-4842-8413-299207e889b2","type":"government-connection"}}
+tmap.id:e34dc8c3-5cf3-4d72-9f12-e671f7d84792
 twitter.profile:
 website:http://ftc.gov
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693852
+modified:1575207693852
 title:MONDRNA
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"57efaa08-ca3f-4f35-a2fe-1cff00d75d01":{"to":"e80370b8-fafe-4975-a097-2880406a2034","type":"organization-for-group"}}
-tmap.id:e74bce00-6dc5-48b9-904b-29c8da38a449
+tmap.edges:{"0a49d21b-fa49-48b2-bf38-c45dce7099ae":{"to":"8000c124-1c43-4f10-84e3-a1fe012bd2de","type":"organization-for-group"}}
+tmap.id:c487935b-f503-4c5d-b4fe-ed5d3ff57449
 url:http://openid.net/wg/mobile/
 
 MODRNA (pronounced modernah) stands for Mobile Operator Discovery, Registration &  autheNticAtion. The MODRNA WG will develop a profile of OpenID Connect intended to be appropriate for use by mobile network operators (MNOs) providing identity services to RPs and for RPs in consuming those services as well as any other party wishing to be interoperable with this profile. Moreover, the WG will develop extensions to OpenID Connect as needed in the context of GSMA’s Mobile Connect initiative, such as server-initiated authentication, transaction authorization, and account migration. Additionally, it will identify and make recommendations for additional standards items.

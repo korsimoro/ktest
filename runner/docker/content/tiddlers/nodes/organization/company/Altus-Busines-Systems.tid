@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694220
+modified:1575207694220
 title:Altus Busines Systems
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"d95df3cf-04d9-460e-baf3-889732698f6e":{"to":"38226d23-6900-4820-8860-5c911b922fe0","type":"general-member"}}
-tmap.id:73c31ef6-3f0a-463d-abcc-97c76df34f4c
+tmap.edges:{"7f6cc4a0-f2f0-48a0-99b9-4372fb686705":{"to":"b0124e9e-0d13-4671-92b2-f2d19b7995d6","type":"general-member"}}
+tmap.id:9d8b3c08-9554-4dc4-b2e6-d1db9f2eecb1
 twitter.profile:
 website:https://www.altus.co.uk/business-systems/
 

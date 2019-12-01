@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693893
+modified:1575207693893
 title:OpenID Connect Federation 1.0
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):John Bradley;Mike Jones;R. Hedberg;Rebecka Gulliksson
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:OpenID Connect Federation 1.0
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:AB/Connect Working Group
+sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"00e75e4a-e910-413a-9b08-15fc5cd18181":{"to":"ce5b3dbc-88d9-40fe-a515-08153d9e121d","type":"specification-of-group"}}
-tmap.id:5bcd32b5-4f5f-48dd-9574-116a32d348ca
+tmap.edges:{"72f73282-4e28-4d49-a031-aba3e139526f":{"to":"0172850c-bb9d-4ee3-ae9a-63b6b5d408ad","type":"specification-of-group"}}
+tmap.id:5be52e1f-cc87-4e96-b113-f45bb630f390
 url:http://openid.net/specs/openid-connect-federation-1_0.html
 version.or.edition:
 volume.frequency:

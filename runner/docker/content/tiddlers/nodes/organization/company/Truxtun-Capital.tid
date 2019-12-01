@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694220
+modified:1575207694220
 title:Truxtun Capital
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -24,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:
+tags:0
 tech.focus:
-tmap.edges:{"ecf8b2cd-4240-4025-b0d6-87daccb69660":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"}}
-tmap.id:88212105-ea9e-4c72-923d-1b40e6935be9
+tmap.edges:{"6aa51e9a-7d2a-4264-9a6c-ca763d0953a2":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"}}
+tmap.id:abb18e30-900c-4f71-b0a1-d23dc9944840
 twitter.profile:
 website:http://www.truxtuncapital.com/
 

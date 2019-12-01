@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693850
+modified:1575207693850
 title:Security Evaluation, Testing and Specification WG3
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:w/in a Working Group
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"ed18067d-ebce-4609-93e5-be5acda8c0ab":{"to":"f50c28f7-b12a-4ee1-9181-758035c2d765","type":"organization-for-group"}}
-tmap.id:88fd3e5f-ca5a-459f-98ae-f78cd0e8e228
+tmap.edges:{"5c005ac0-6e41-4d32-a0b4-21b8f5fd379c":{"to":"f5d54ae6-2874-42bd-be88-fdac113efabc","type":"organization-for-group"}}
+tmap.id:0f8eda03-8e62-4b0b-ae20-0cdc6f0d256c
 url:
 
 The terms of reference of this working group are:

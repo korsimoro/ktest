@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694281
+modified:1575207694281
 title:IANA
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:046a0a20-1d94-4124-ba9b-cbb021201416
+tmap.id:9f99e64c-2f73-4bf8-a543-2c6c3110b4f8
 twitter.profile:
 website:
 

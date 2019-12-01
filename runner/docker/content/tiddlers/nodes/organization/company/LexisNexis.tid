@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694219
+modified:1575207694219
 title:LexisNexis
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"b37af01f-be19-44e6-b97a-40712ef12659":{"to":"38226d23-6900-4820-8860-5c911b922fe0","type":"executive-member"}}
-tmap.id:17c76340-1d44-46f2-9b03-36f84b95f6e9
+tmap.edges:{"44fb643c-fd7b-485c-b597-bdda6f59c9be":{"to":"b0124e9e-0d13-4671-92b2-f2d19b7995d6","type":"executive-member"}}
+tmap.id:4d542e9c-cb6a-4b94-bf14-c0186bb73c60
 twitter.profile:
 website:
 

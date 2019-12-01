@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207693998
+modified:1575207693998
 title:Paul Simmonds
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Paul Simmonds
 organization:
 tags:
-tmap.edges:{"62bed474-be62-4c46-9ef7-13418a583337":{"to":"ac6e7cb2-112d-487f-8426-5436c64834bb","type":"author"},"2677f935-59e4-4a57-adf8-b08392809801":{"to":"a255419e-240f-4314-bae1-eab6c78f9fc1","type":"executive-member"}}
-tmap.id:8f5588ab-6064-4fc8-b638-11efa429ca7a
+tmap.edges:{"d67e1ca0-a992-43dd-b200-3d5729ed4333":{"to":"8a89bbf2-f5ed-499f-8ad3-0d420f092138","type":"author"},"14086a5d-ccfc-4cb9-8d8d-82cf576582b5":{"to":"7bcfe3c1-15b6-44bd-bc42-01f37e06568e","type":"executive-member"}}
+tmap.id:15959b7c-6e58-49f6-a783-72d3b734f9f3
 twitter.profile:
 website:
 working.group:

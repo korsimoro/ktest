@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694003
+modified:1575207694003
 title:M. Scurtescu
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:M. Scurtescu
 organization:
 tags:
-tmap.edges:{"2b6bccbe-55d3-4a75-9eca-42f3ae9dd5f3":{"to":"8fb9452d-fc60-4bc4-b659-438312fda4c2","type":"author"},"5cbd36b1-a6e4-4d8d-a705-38969af659a3":{"to":"7d6b0807-21bb-4273-80f6-19ee4333061e","type":"employee"}}
-tmap.id:273f047a-43eb-487d-acd2-7920cc69e66d
+tmap.edges:{"c09baf69-8e11-4c1a-a5c3-1aff915fc895":{"to":"08801910-b570-44a5-b6bf-bb933c7af8f2","type":"author"},"5b1c8d65-e06d-4133-8931-1bc48a71f937":{"to":"c70f2fc3-0292-4762-9691-24e78bc662ff","type":"employee"}}
+tmap.id:63c29400-a324-4f45-a128-998ebe5a575f
 twitter.profile:
 website:
 working.group:

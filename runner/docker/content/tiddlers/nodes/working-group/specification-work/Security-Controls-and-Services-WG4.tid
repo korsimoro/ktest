@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693841
+modified:1575207693841
 title:Security Controls and Services WG4
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"ad6732a4-5cf8-40c3-8df6-c60783acac9a":{"to":"f50c28f7-b12a-4ee1-9181-758035c2d765","type":"organization-for-group"}}
-tmap.id:d3e5130d-015a-477e-b52d-e0d806a4cc71
+tmap.edges:{"c20394ad-9195-49e7-b1d7-cc0321e97871":{"to":"f5d54ae6-2874-42bd-be88-fdac113efabc","type":"organization-for-group"}}
+tmap.id:2af08189-3bcd-4a52-81ab-a73f2bc239f7
 url:
 
 The terms of reference of this working group are:

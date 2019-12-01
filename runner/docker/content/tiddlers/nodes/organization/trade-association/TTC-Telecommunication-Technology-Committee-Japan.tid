@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694038
+modified:1575207694038
 title:TTC  Telecommunication Technology Committee, Japan
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"6795810b-b040-4c5d-9e70-6cb5e9d0dad5":{"to":"3fd3e8d0-b7b8-4037-a4e2-86f8bd98e8d7","type":"executive-member"},"1428f757-000f-4b2a-87e3-27dff929b6ab":{"to":"b366548d-5f53-4abd-b31a-fc5cd80afa64","type":"general-member"}}
-tmap.id:a0d7e2e4-2dd9-483c-b387-8f184c4196f1
+tmap.edges:{"4ba16312-52bd-44a2-a1a9-60a7162343d7":{"to":"1ff1a52f-d5dd-4dc2-8558-12ee276b9bf1","type":"executive-member"},"8527ec2e-a1c0-4351-8bb1-f1b98c1664ac":{"to":"c01816eb-ff69-4e20-b735-8f1db2bea91a","type":"general-member"}}
+tmap.id:f5d0d3dd-1310-4dd2-8086-d5a32d4596fb
 twitter.profile:
 website:http://www.ttc.or.jp/e/
 

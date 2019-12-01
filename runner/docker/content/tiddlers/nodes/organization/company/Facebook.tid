@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694093
+modified:1575207694093
 title:Facebook
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:6fe29fcd-3564-492a-8816-3dbedce9ce7d
+tmap.id:e037f278-0a1b-4e92-bd9c-12f91d8c9a10
 twitter.profile:
 website:
 

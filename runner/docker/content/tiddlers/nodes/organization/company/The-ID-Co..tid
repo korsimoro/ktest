@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694094
+modified:1575207694094
 title:The ID Co.
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"6fc5844c-710f-41b3-8698-3e48372470c6":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"}}
-tmap.id:450debc1-5c3a-4fc7-a5b4-c7246301033c
+tmap.edges:{"2d4c73f3-7cc3-44e6-9919-022aa962daf0":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"}}
+tmap.id:6835cbac-c34a-4dbd-8023-dbc10999e466
 twitter.profile:
 website:http://www.miicard.com/
 

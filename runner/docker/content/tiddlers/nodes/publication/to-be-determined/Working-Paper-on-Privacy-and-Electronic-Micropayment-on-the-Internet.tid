@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693930
+modified:1575207693930
 title:Working Paper on Privacy and Electronic Micropayment on the Internet
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Working Paper on Privacy and Electronic Micropayment on the Internet
 publication.type:TO BE DETERMINED
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"
+sponsoring.org:International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:763b6165-dac0-48bb-9644-aa86eed98926
+tmap.id:245eff0b-dd40-4442-92b9-847c5d1c265b
 url:https://datenschutz-berlin.de/attachments/726/WP_DPI_07_09_2010_675_41_10__2_.pdf?1292413821
 version.or.edition:
 volume.frequency:

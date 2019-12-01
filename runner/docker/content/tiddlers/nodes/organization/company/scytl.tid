@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694216
+modified:1575207694216
 title:scytl
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"548c6e59-d6db-4fd6-86cd-9d59c302bffe":{"to":"69acdfde-977c-48df-8894-a627e7def0d8","type":"sponsor"}}
-tmap.id:1f07d8a2-df32-4b3c-a56d-70fdcdb32e2e
+tmap.edges:{"df086321-1b07-48bb-b3f4-d2586f7c80f5":{"to":"a9a502e9-2c7c-4751-aa04-3cbfbcd16c16","type":"sponsor"}}
+tmap.id:4ea21e82-f127-4ae1-abd0-5e07f5917cae
 twitter.profile:
 website:
 

@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694000
+modified:1575207694000
 title:D. Salama
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:D. Salama
 organization:
 tags:
-tmap.edges:{"533bff8b-ce0c-48f6-8fc1-c1a779b254d1":{"to":"7d6b0807-21bb-4273-80f6-19ee4333061e","type":"employee"},"533388d9-79a5-4a60-a50b-a54f086bd078":{"to":"9b95dcad-9efb-4eb2-ab65-8813f0052c73","type":"author"}}
-tmap.id:4ec91a8e-dcc5-442a-85e7-a73479a4bdce
+tmap.edges:{"021ac207-d98f-4945-b43c-21c84b51202b":{"to":"c70f2fc3-0292-4762-9691-24e78bc662ff","type":"employee"},"dc27410d-4cbc-4101-97d0-dc9e1b49b714":{"to":"9815ff0e-f27d-4c59-af32-c41d5f0a25c9","type":"author"}}
+tmap.id:f8cdc9d9-0d46-4964-beae-3c7997ffc0cb
 twitter.profile:
 website:
 working.group:

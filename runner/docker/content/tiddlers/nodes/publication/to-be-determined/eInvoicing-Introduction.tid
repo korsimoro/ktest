@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693962
+modified:1575207693962
 title:eInvoicing Introduction
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:eInvoicing Introduction
 publication.type:TO BE DETERMINED
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:eInvoicing
+sponsoring.org:eInvoicing
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:26a912da-058a-4e1b-9ee6-55c155dbd34f
+tmap.id:3f1bef4a-3685-44fe-b325-2115a751198c
 url:https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eInvoicing+Discover?preview=/23003331/24841295/DSI_IntroDocument%20(eInvoicing)-v1.2.pdf
 version.or.edition:
 volume.frequency:

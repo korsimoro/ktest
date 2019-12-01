@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693928
+modified:1575207693928
 title:triedisec Trust-aware, REliable and Distributed Information SEcurity in the Cloud
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -22,7 +23,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:08b2b354-4870-4fd4-93c3-80fe4020d19c
+tmap.id:e1f00e5b-1e73-4623-891d-10a5955e4370
 url:http://www.tredisec.eu
 version.or.edition:
 working.group:

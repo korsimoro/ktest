@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694072
+modified:1575207694072
 title:Telecommunications Industry Association (TIA)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"ba928892-7f00-4d33-a14c-cdcbb4278f26":{"to":"b366548d-5f53-4abd-b31a-fc5cd80afa64","type":"general-member"},"66eb6457-d5bb-4641-81e4-c1c9856d414a":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"}}
-tmap.id:3820ae23-aed0-4125-9358-9c3864a39a7a
+tmap.edges:{"d114c2da-ed68-42c9-bdf5-5f9d8960c412":{"to":"c01816eb-ff69-4e20-b735-8f1db2bea91a","type":"general-member"},"90b1460c-2844-4445-a274-3156c7987a50":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id:d92d4830-32ee-478a-bec9-fad9a057862f
 twitter.profile:
 website:
 

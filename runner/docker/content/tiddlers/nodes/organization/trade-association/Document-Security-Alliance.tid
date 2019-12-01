@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694065
+modified:1575207694065
 title:Document Security Alliance
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:09c25484-544d-423e-9db4-5234fbf7ea90
+tmap.id:4b5d3dea-73d2-4e1a-9f06-c1e462da1a1c
 twitter.profile:
 website:http://www.documentsecurityalliance.com
 

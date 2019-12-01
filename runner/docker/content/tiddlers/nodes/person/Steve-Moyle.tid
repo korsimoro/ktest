@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694002
+modified:1575207694002
 title:Steve Moyle
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Steve Moyle
 organization:
 tags:
-tmap.edges:{"5ed362a8-ee30-47e1-ab87-14fc3f45ec0b":{"to":"a255419e-240f-4314-bae1-eab6c78f9fc1","type":"executive-member"}}
-tmap.id:9073c76f-ba49-4232-9054-1c5943eef081
+tmap.edges:{"f7e8d705-c6dd-44b6-8437-ffabfc6c8f33":{"to":"7bcfe3c1-15b6-44bd-bc42-01f37e06568e","type":"executive-member"}}
+tmap.id:8883f454-04b7-4769-a1a3-34014acf6cdc
 twitter.profile:
 website:
 working.group:

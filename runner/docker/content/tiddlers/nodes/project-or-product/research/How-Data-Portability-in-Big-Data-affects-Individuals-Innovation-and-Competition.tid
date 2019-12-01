@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693926
+modified:1575207693926
 title:How Data Portability in Big Data affects Individuals, Innovation and Competition
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -22,7 +23,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:cf49e8b5-ca01-4d86-a0fc-35831b8905f8
+tmap.id:123566cc-40a7-4488-9803-e4c9cd038f9f
 url:http://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/news-data-science-funding/
 version.or.edition:
 working.group:

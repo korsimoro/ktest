@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207693998
+modified:1575207693998
 title:Ian Henderson
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Ian Henderson
 organization:
 tags:
-tmap.edges:{"975f21ef-dbd8-4f66-abb4-6fe9a5700881":{"to":"bb1c3489-0b20-41a1-99ef-c83f55051151","type":"vice-chair"}}
-tmap.id:e680d06d-f14c-4247-8f3a-4b1189010c9c
+tmap.edges:{"877ca6a9-0bc8-4f40-acfe-2a509f65dc54":{"to":"19556e27-f6c4-4068-8810-75e7c365fd7f","type":"vice-chair"}}
+tmap.id:91d27777-c7e6-4411-9c2c-bfc68bd20193
 twitter.profile:
 website:
 working.group:

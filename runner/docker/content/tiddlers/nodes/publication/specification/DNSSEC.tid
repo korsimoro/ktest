@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693895
+modified:1575207693895
 title:DNSSEC
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:DNSSEC
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:IETF
-sponsoring.organization:Automomica;IETF;PCH - Packet Clearing House
+sponsoring.org:Automomica;IETF;PCH - Packet Clearing House
 tags:
 tech.focus:
-tmap.edges:{"7ddf0f5b-9fac-4a96-8eec-31cca453bb21":{"to":"c2b6c958-2e97-472a-a0ca-609a4938e152","type":"organization-for-group"}}
-tmap.id:a4f4e5d1-92b6-4bf3-a891-2c6169cfc0d1
+tmap.edges:{"9dfb2346-3696-4cd9-a7d3-8955b7bb0c29":{"to":"4b1ca637-c3c0-4806-81b2-be88709fb469","type":"organization-for-group"}}
+tmap.id:00836362-9186-41c1-9388-9a34c5391af7
 url:
 version.or.edition:
 volume.frequency:

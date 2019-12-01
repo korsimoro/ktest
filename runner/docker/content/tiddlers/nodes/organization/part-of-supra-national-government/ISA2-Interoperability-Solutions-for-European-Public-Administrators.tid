@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694009
+modified:1575207694009
 title:ISA2 Interoperability Solutions for European Public Administrators
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:2020-12-31
 date.founded:2016-01-01
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"dacad06a-0922-4e1a-91f1-56aa0dd88c9d":{"to":"14265e87-3805-4ba3-9dd8-dd9123228d6a","type":"author"},"5c161ca5-d2f7-43e8-a98a-14a969303852":{"to":"24e8fd33-2d30-492f-956b-4aa31e9571e7","type":"government-connection"},"febfe84e-3eba-4042-b7d6-91263075e1f6":{"to":"682d10a3-3975-417a-a922-f5ada8d24239","type":"government-connection"}}
-tmap.id:18e208b5-1b77-4e16-8dc0-500ecfe1c095
+tmap.edges:{"4c013daf-3fcf-4736-8b2f-6b2e1bce7c7c":{"to":"9f59a470-0ffc-4b99-ab5c-241ce6afb1bd","type":"author"},"0001381f-1ba7-4793-9f29-24afcd774616":{"to":"a5a9e427-439c-4c24-b7b1-42a293cde953","type":"government-connection"},"f3cdfca8-432c-433d-b769-87e557fadc5f":{"to":"d2c5314a-76f8-4810-8a41-be51a0622b5e","type":"government-connection"}}
+tmap.id:a3634f0b-3f23-4842-b358-d08c32fdab58
 twitter.profile:
 website:http://ec.europa.eu/isa/isa2/index_en.htm
 

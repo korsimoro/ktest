@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694081
+modified:1575207694081
 title:Indian Government
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:eed3aa7f-1907-405c-9c00-7a3d4b5791ca
+tmap.id:f915eb17-186d-4714-8a5c-75772907d058
 twitter.profile:
 website:
 

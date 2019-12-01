@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694069
+modified:1575207694069
 title:IEEE Cybersecurity Initiative
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:2014-01-01
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"ec277214-6d8d-46ad-ba10-5b4218090ada":{"to":"fb6119e6-3d01-4a7d-820a-89449bcf3762","type":"sponsor"}}
-tmap.id:c3aa1260-9984-4bca-9cdc-f37c9a033a60
+tmap.edges:{"94588c85-6590-46fe-80d1-48086f1e9a12":{"to":"b6b6ce8e-bea9-4486-9956-5e7d20ca58fa","type":"sponsor"}}
+tmap.id:16758e6d-611b-444b-9541-d04596fbdca0
 twitter.profile:
 website:http://cybersecurity.ieee.org/about/
 

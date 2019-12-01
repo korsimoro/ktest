@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693909
+modified:1575207693909
 title:MODRNA Discovery
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):John Bradley;T. Lodderstedt
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:MODRNA Discovery
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:MONDRNA
+sponsoring.org:MONDRNA
 tags:
 tech.focus:
-tmap.edges:{"8031d3b6-f14e-4139-8e60-4c3c0d8bc985":{"to":"e74bce00-6dc5-48b9-904b-29c8da38a449","type":"specification-of-group"}}
-tmap.id:a661e23f-37c0-4889-b7b0-92ccf374b674
+tmap.edges:{"c447d597-5b75-4b3e-8748-4b281ee4c4d9":{"to":"c487935b-f503-4c5d-b4fe-ed5d3ff57449","type":"specification-of-group"}}
+tmap.id:17361cf9-43f1-4dc2-9d6e-7c7c49a460f9
 url:http://openid.net/wordpress-content/uploads/2014/04/draft-mobile-discovery-01.html
 version.or.edition:
 volume.frequency:

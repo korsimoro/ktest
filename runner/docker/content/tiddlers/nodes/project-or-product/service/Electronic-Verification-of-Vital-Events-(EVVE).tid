@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693913
+modified:1575207693913
 title:Electronic Verification of Vital Events (EVVE)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Service
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -21,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"52843484-2c52-42f9-94e5-13ed0d3f2fc8":{"to":"98e969f7-7468-4d05-a027-efc39f3b3f40","type":"organization-for-group"}}
-tmap.id:3b2cf67a-173e-4e38-834e-1202a691ca8a
+tmap.edges:{"50f9a7ef-7d6a-49fa-8645-290b63ce9091":{"to":"3f44f76a-1e7c-4509-8d19-b7f7a722b8dd","type":"organization-for-group"}}
+tmap.id:99fafa0d-e2a8-4dd2-a0db-a8b5e5669dc6
 url:http://www.naphsis.org/about-evve
 version.or.edition:
 working.group:

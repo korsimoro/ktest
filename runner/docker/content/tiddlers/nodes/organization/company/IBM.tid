@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694216
+modified:1575207694216
 title:IBM
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:dd64cf86-8844-4c81-aa34-11026c06d602
+tmap.id:47ae4ddf-5a86-4057-ade1-02e52f70658c
 twitter.profile:
 website:
 

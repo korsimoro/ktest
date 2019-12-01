@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694035
+modified:1575207694035
 title:Open Group
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:cb0adc22-f13b-4406-bd3e-b267d7a97b11
+tmap.id:1ba071e4-ee7d-4a3c-8b7e-dbdfa9fcbf76
 twitter.profile:
 website:
 

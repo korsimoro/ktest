@@ -2,6 +2,7 @@ import fs from 'fs-extra'
 import slugify from 'slugify'
 import path from 'path'
 import uuid from 'uuid'
+import { Context } from '../context'
 
 // --------------------------------------------------------------------------
 // Declaration
@@ -270,8 +271,10 @@ export class KumuModel
 	defaultConnectionType:KumuConnectionType
 
 	base:string
+	ctx:Context
 
-	constructor(base:string) {
+	constructor(base:string,ctx:Context) {
+		this.ctx = ctx
 		this.base = base
 		this.index = 0
 		this.elements = {}
@@ -317,7 +320,7 @@ export class KumuModel
 		return this.connectionTypes[type]
 	}
 
-	async load(failFast = false) {
+	async load(failFast:boolean = false):Promise<void> {
 		const elts = JSON.parse(await fs.readFile(path.join(this.base,'elements.json')))
 		const conns = JSON.parse(await fs.readFile(path.join(this.base,'connections.json')))
 

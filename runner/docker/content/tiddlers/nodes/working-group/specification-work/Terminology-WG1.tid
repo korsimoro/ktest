@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693854
+modified:1575207693854
 title:Terminology WG1
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"dc1aece0-21a6-4b30-a6ca-2d6b8fb0fba1":{"to":"7803b31c-ce55-4fee-a0af-8da3ba345a59","type":"organization-for-group"}}
-tmap.id:fa86fa3b-6142-4c77-808f-e74d07ef4e36
+tmap.edges:{"329aecd6-16e1-4e21-ab3f-a5735cc80e0e":{"to":"ebf7ec60-f2f1-453f-8018-41f5f65612e3","type":"organization-for-group"}}
+tmap.id:5f2f260c-9d96-4f85-bea7-8512f96f46d8
 url:
 
 

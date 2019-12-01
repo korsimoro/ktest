@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693964
+modified:1575207693964
 title:Privacy by Design in Big Data
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Privacy by Design in Big Data
 publication.type:TO BE DETERMINED
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:enisa European Network and Information Security Agency
+sponsoring.org:enisa European Network and Information Security Agency
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:b9ebbe56-e3cd-47d5-8635-880f58088948
+tmap.id:c62ce821-9ee3-4c05-bb83-e2bc2fa84400
 url:https://www.enisa.europa.eu/publications/big-data-protection
 version.or.edition:
 volume.frequency:

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694032
+modified:1575207694032
 title:NEC Laboratories Europe
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"839b2eb2-01c5-4f82-8cb0-186be99234ee":{"to":"9db8198e-b429-45af-a827-b6025144a52e","type":"organization-for-group"},"77e75bee-493b-433c-a0e3-abc49e2e823e":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"}}
-tmap.id:480a80fc-2dff-4c65-bcb9-4575c763e94e
+tmap.edges:{"5c0cc05a-6984-48aa-8eb1-d35bb9270428":{"to":"232d301d-7fda-4e02-a20b-df4e27d4527d","type":"organization-for-group"},"980e3eab-fcd7-436a-bc7a-b8a40a163dd5":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"}}
+tmap.id:7182a75f-2fa6-46ab-bf1f-f4df72884908
 twitter.profile:
 website:http://uk.nec.com/en_GB/emea/about/neclab_eu/
 

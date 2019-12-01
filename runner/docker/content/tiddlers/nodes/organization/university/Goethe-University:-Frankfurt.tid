@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693870
+modified:1575207693870
 title:Goethe University: Frankfurt
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"1546431d-7472-4fb1-a0b7-ade935b51cdc":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"},"270d920e-6321-4c67-ac45-577ecf2e5e27":{"to":"a6daa1d2-457d-4147-8832-246da3cece4c","type":"convenor"}}
-tmap.id:052b1ccb-9502-4f3c-9632-6a2924791f03
+tmap.edges:{"ac815973-4eab-475d-921b-2e76737dacde":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"},"f5b6c757-3e33-4a07-88b8-9c09bf19493e":{"to":"1c583eb0-8a00-4aed-a640-1a943efad2d6","type":"convenor"}}
+tmap.id:a0ae8add-13f4-4f99-a679-7c35720b825b
 twitter.profile:
 website:http://www.goethe-university-frankfurt.de/en
 

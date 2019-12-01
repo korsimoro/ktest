@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693896
+modified:1575207693896
 title:Information technology – Personal identification – ISO- compliant driving license (18013)
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Information technology – Personal identification – ISO- compliant drivi
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:Motor Vehicle Drivers Licence and Related Documents WG10
+sponsoring.org:Motor Vehicle Drivers Licence and Related Documents WG10
 tags:
 tech.focus:
-tmap.edges:{"69a634af-7f8c-408a-9772-5d17a01db90d":{"to":"772f62de-f0e7-4aa6-a30f-a5db480d920a","type":"specification-of-group"}}
-tmap.id:29dc4e65-11f8-4dee-83f8-362f43164cf4
+tmap.edges:{"31063b81-7aa1-4b4f-a4a4-8d49f595d67e":{"to":"29bc63c1-35f0-4878-af66-884df142e713","type":"specification-of-group"}}
+tmap.id:f735ce02-d5cc-4ddb-aadc-b448ff86b2f1
 url:
 version.or.edition:
 volume.frequency:

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694021
+modified:1575207694021
 title:US Citizenship and Immigration Services
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"656d75c3-d0aa-47b2-a3af-4d257a982a94":{"to":"78e63a18-697c-4e7a-a687-eb6cd39d9040","type":"government-connection"}}
-tmap.id:8fb46b8b-80d2-4938-8322-045228da58b5
+tmap.edges:{"9d0cf87e-1436-4945-bece-8018b58b223a":{"to":"119284d3-d502-4a95-94fa-3e7ecf0b4369","type":"government-connection"}}
+tmap.id:8f3bd0ab-a876-4830-9861-977f26f2c4d6
 twitter.profile:
 website:
 

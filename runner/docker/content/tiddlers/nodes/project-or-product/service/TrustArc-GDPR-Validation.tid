@@ -1,10 +1,32 @@
-created:
-modified:
+created:1575207694300
+modified:1575207694300
 title:TrustArc GDPR Validation
 type:text/vnd.tiddlywiki
+activities:
+audience:
 category:service
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:
 name:TrustArc GDPR Validation
+parent.org:TrustArc / Trust-e
+partners:
+people:
+purpose:
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:
+terms.of.service:
 tmap.edges:{}
-tmap.id:1efd17f1-6a32-4f9d-9a84-93d151e42470
+tmap.id:60a637b1-b5a1-4da4-9d33-34117b814880
+url:https://www.trustarc.com/products/gdpr-certification-validation/
+version.or.edition:
+working.group:
 
 TrustArc GDPR Validation provides an independent way to demonstrate GDPR compliance to customers and partners.

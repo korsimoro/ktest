@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693964
+modified:1575207693964
 title:eSignature Introduction
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:eSignature Introduction
 publication.type:TO BE DETERMINED
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:eSignature
+sponsoring.org:eSignature
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:e7b996fa-4782-4f6e-90b0-451d0a543997
+tmap.id:828f19b2-ae35-476f-97d7-12cc36e71cd2
 url:https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eSignature+Discover?preview=/23003331/32768168/(Building%20Block%20DSI_IntroDocument)%20(eSignature)%20(v10.).pdf
 version.or.edition:
 volume.frequency:

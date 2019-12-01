@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694023
+modified:1575207694023
 title:Government Digital Service
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"0a9f64ce-a3da-40e0-806e-1fa54b879e90":{"to":"78a94d12-187e-407d-a254-6b921da13353","type":"government-connection"},"fd574be0-2239-462e-9a47-e24908417982":{"to":"ae571377-2f9b-499b-8518-533acd50d965","type":"connection"}}
-tmap.id:bd153aa0-5931-4a76-aa5f-7b0ed3326702
+tmap.edges:{"8f9e3eca-580d-49a8-9342-f9ab040f5788":{"to":"d1710546-66d5-4a6e-8822-cfb305e91580","type":"government-connection"},"86db7a7a-9a00-4adf-b0e3-8a41ebb9cec2":{"to":"012eb392-5979-43e6-9c7f-38258fc700ac","type":"connection"}}
+tmap.id:896b0cf3-6797-47a1-9c89-f47ac83099af
 twitter.profile:
 website:
 

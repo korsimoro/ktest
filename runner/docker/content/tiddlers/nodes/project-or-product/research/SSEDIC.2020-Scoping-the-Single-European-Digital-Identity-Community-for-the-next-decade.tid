@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693927
+modified:1575207693927
 title:SSEDIC.2020 - Scoping the Single European Digital Identity Community for the next decade
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -19,10 +20,10 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:
+tags:0
 terms.of.service:
-tmap.edges:{"7b1847b2-c2ad-41f1-b298-139a8b03a19b":{"to":"dc3c0a0b-965b-4cd2-b9e6-5f87eef648cb","type":"executive-member"},"b07cb664-4103-45e8-a610-2abd7158cc70":{"to":"e6a14e1c-e171-4f31-b01c-a9b4b74f906b","type":"convenor"}}
-tmap.id:2d428636-c138-4f82-8ab2-17680fcd773b
+tmap.edges:{"d42444a3-c31e-48bc-bece-aaee64f2577a":{"to":"1c3ec6d0-e2af-4398-84a7-1068f0d3ff1a","type":"executive-member"},"03db9c43-fbb0-4eea-ac28-74203ec9e8a7":{"to":"d6b4f82b-1c8b-47c7-b9f6-e8cb23c85540","type":"convenor"}}
+tmap.id:0df8d3d4-c2cb-4240-98de-8cd19e3356c1
 url:http://www.ssedic2020.eu
 version.or.edition:
 working.group:

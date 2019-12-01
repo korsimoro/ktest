@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693839
+modified:1575207693839
 title:ipen Internet Privacy Engineering Network
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Community Group
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -18,7 +19,7 @@ relevant.standards:
 status:
 tech.focus:
 tmap.edges:{}
-tmap.id:a37441d7-d267-4c64-b06e-2fd1fa16d5d9
+tmap.id:1f09f4f7-417f-4078-859b-e0915fb85f48
 url:https://secure.edps.europa.eu/EDPSWEB/edps/EDPS/IPEN
 
 The purpose of IPEN is to bring together developers and data protection experts with a technical background from different areas in order to launch and support projects that build privacy into everyday tools and develop new tools which can effectively protect and enhance our privacy.

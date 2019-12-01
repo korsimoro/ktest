@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693928
+modified:1575207693928
 title:PRISMACLOUD
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -19,10 +20,10 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:
+tags:0
 terms.of.service:
 tmap.edges:{}
-tmap.id:5e23584a-74b7-46c2-84c2-d8b2bdb6c854
+tmap.id:fdac5be2-db93-47c0-9b78-4c2e0a0d8b96
 url:https://prismacloud.eu
 version.or.edition:
 working.group:

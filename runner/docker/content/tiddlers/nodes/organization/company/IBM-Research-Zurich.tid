@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694031
+modified:1575207694031
 title:IBM Research - Zurich
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"35fdb498-aa9e-4ac0-904f-f73181beaeeb":{"to":"dd64cf86-8844-4c81-aa34-11026c06d602","type":"organization-for-group"},"fbc2ab22-bf7b-4623-a3d7-3e3df74a16bc":{"to":"9ded101a-e001-472b-8c91-271f96c1450d","type":"general-member"},"9d456051-36cb-4aa6-ad76-6f88354f3074":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"}}
-tmap.id:34afc773-2199-4aa2-948d-c07e763ae7c7
+tmap.edges:{"372b852d-c3ce-4c52-8eac-0e064b5aa780":{"to":"47ae4ddf-5a86-4057-ade1-02e52f70658c","type":"organization-for-group"},"7060be3b-dae7-4a57-8d11-fe61e25a76af":{"to":"85af0353-21ec-406d-bf0a-eec203fc4394","type":"general-member"},"efc05e00-41fa-466d-9ba9-26e3beae41fc":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"}}
+tmap.id:0adb468b-d315-4b2a-8954-9af0c1a371da
 twitter.profile:
 website:
 

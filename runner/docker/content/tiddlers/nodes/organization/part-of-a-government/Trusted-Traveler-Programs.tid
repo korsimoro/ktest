@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694027
+modified:1575207694027
 title:Trusted Traveler Programs
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"a8b27007-eae7-42e6-aa37-755d200844db":{"to":"0504b850-a79b-4a42-86f2-41c75c6076dc","type":"government-connection"}}
-tmap.id:f12693cc-3779-45b7-85da-69ee066d8826
+tmap.edges:{"a1491e64-ae5e-4ca2-a135-de5b671fbdb2":{"to":"dfe6e732-5850-4b57-844c-3729d90f8d34","type":"government-connection"}}
+tmap.id:446e1bd9-6bfc-4c1a-aa78-899c0b2da0f8
 twitter.profile:
 website:
 

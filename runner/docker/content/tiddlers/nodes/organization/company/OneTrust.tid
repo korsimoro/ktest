@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694218
+modified:1575207694218
 title:OneTrust
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"79e21310-c8e7-4cc4-b1ff-59eb1d7d56eb":{"to":"a6daa1d2-457d-4147-8832-246da3cece4c","type":"sponsor"}}
-tmap.id:29b5b4c8-c21a-488b-b60d-0b42caba47f4
+tmap.edges:{"d4200ce1-3fc4-45a6-9c59-9dc37bb3a5d2":{"to":"1c583eb0-8a00-4aed-a640-1a943efad2d6","type":"sponsor"}}
+tmap.id:eaaf032d-831c-46aa-9406-2bb6cc8086ba
 twitter.profile:
 website:http://onetrust.com
 

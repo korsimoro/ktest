@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694032
+modified:1575207694032
 title:InternetNZ
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"02410858-f8a5-48ae-98d0-0ed86311210b":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"}}
-tmap.id:027e2b27-8b29-4a09-95cf-bc6e09756133
+tmap.edges:{"db7a0181-5ece-4e4b-8cfa-26f256a673f7":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id:4af69e1a-fa40-43e6-b176-61231dab99b0
 twitter.profile:
 website:https://internetnz.nz/about
 

@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693899
+modified:1575207693899
 title:OAuth Token Introspection (RFC7662)
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):Justin Richer
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:OAuth Token Introspection (RFC7662)
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:OAuth WG
+sponsoring.org:OAuth WG
 tags:
 tech.focus:
-tmap.edges:{"a0c1f3f5-edb1-4fa9-810b-21c3e0ea452e":{"to":"7f43da2e-7a7b-4f9e-a451-64b120a33bb4","type":"specification-of-group"}}
-tmap.id:a079996c-c72f-49e2-b34d-0de50185a3ff
+tmap.edges:{"0249e151-fb9b-489e-b2ff-ffcce9fb6d74":{"to":"89451522-e41c-4fac-8711-2202d877a8b3","type":"specification-of-group"}}
+tmap.id:a8e53981-19d2-4be7-87bb-cd5200b9087e
 url:
 version.or.edition:
 volume.frequency:

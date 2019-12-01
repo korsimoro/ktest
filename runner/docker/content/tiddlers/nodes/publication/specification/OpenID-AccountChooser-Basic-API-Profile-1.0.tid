@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693890
+modified:1575207693890
 title:OpenID AccountChooser Basic API Profile 1.0
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):Pam Dingle;Tim Bray
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:OpenID AccountChooser Basic API Profile 1.0
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:Account Chooser
+sponsoring.org:Account Chooser
 tags:
 tech.focus:
-tmap.edges:{"21d8fdec-6f18-4c48-934f-672e7fe351e3":{"to":"7f436d2b-48ce-4336-aedb-f9354136eb97","type":"specification-of-group"}}
-tmap.id:e52eb473-21ef-4c83-a373-cd80e39f35ea
+tmap.edges:{"0b8e505f-08d7-4326-92ef-198959373313":{"to":"f0bcd32d-c8ff-415d-b0ad-9c2e4a6e5efc","type":"specification-of-group"}}
+tmap.id:de6ec0b9-4425-4137-979f-1720946cc7ba
 url:http://openid.net/wordpress-content/uploads/2016/05/account-chooser-basic-v8.pdf
 version.or.edition:
 volume.frequency:

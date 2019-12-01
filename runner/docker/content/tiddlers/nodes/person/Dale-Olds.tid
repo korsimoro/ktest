@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207693998
+modified:1575207693998
 title:Dale Olds
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Dale Olds
 organization:
 tags:
-tmap.edges:{"e7a81c74-840e-4440-8387-98bead84f8e2":{"to":"8fbc08d6-85fc-4876-9f74-fe6aff168fde","type":"employee"},"c7410775-718c-4ade-be75-b9b95ea6c857":{"to":"ff02f0c9-4f1c-46cd-87e7-c48fe09715ad","type":"employee"}}
-tmap.id:2227f170-3e35-45f4-8f7e-9a0987cc49dc
+tmap.edges:{"97643c47-8996-4f36-a6b7-5c9cae1de440":{"to":"c3c8da2d-93bb-4b60-bb1e-1c749ee7bf26","type":"employee"},"78a9551a-d61e-4b47-8d7f-6a640d498fb0":{"to":"6e13e48f-cba6-492a-b160-f0825370130b","type":"employee"}}
+tmap.id:58cbe14e-46ba-4f30-ac2f-63afadc154d1
 twitter.profile:
 website:
 working.group:

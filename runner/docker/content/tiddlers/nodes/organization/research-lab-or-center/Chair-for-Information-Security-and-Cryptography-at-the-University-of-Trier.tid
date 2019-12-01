@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694003
+modified:1575207694003
 title:Chair for Information Security and Cryptography at the University of Trier
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"66ac0621-08b6-40e2-8348-0ce857c949d7":{"to":"6ac19914-2743-442c-bd5d-2f16acb845d2","type":"convenor"}}
-tmap.id:4fba6827-1cfc-4707-ae01-7a22132c0bbb
+tmap.edges:{"54049a43-55bf-4ca4-8fff-9ff9a0ea60f6":{"to":"a4407f90-1f3d-40db-94cd-4ccff61c3f67","type":"convenor"}}
+tmap.id:9bbcee77-1429-42a8-a476-9058860f7630
 twitter.profile:
 website:https://infsec.uni-trier.de/start
 

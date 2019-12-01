@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694061
+modified:1575207694061
 title:NASCIO
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"3402b8a2-6849-4769-8606-57cf0ae7c3ec":{"to":"5e1d03a3-e584-47e3-af3e-e6f5b63cb0ee","type":"executive-member"}}
-tmap.id:3b8695d2-ac92-41c4-8d1b-843f8ef05052
+tmap.edges:{"a2aaaee5-568f-4663-9608-e5ffb04ac1a7":{"to":"827e22c6-1129-4b61-93d5-bc0876c2503e","type":"executive-member"}}
+tmap.id:8931e037-d220-40eb-94a2-52ae2822b958
 twitter.profile:
 website:http://www.nascio.org
 

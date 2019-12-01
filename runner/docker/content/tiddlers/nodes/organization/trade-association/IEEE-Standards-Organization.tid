@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694036
+modified:1575207694036
 title:IEEE Standards Organization
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"db2058d4-532f-4a50-a04a-80e78d42b05c":{"to":"c5a13808-54cf-4d04-9f4b-c9bbdcfd1db5","type":"connection"},"698575b9-fe72-41d2-8051-128571262ebf":{"to":"b366548d-5f53-4abd-b31a-fc5cd80afa64","type":"general-member"}}
-tmap.id:aaf89405-77bb-407d-beed-4333bc1af690
+tmap.edges:{"240d4acc-fc4d-47af-9e7c-b2d419a08899":{"to":"9e3a6213-8390-4e06-9810-9d1e4dd7bf6c","type":"connection"},"4c1ce055-79dc-4fce-abf5-9508ada8426e":{"to":"c01816eb-ff69-4e20-b735-8f1db2bea91a","type":"general-member"}}
+tmap.id:99835c11-6dfa-44bf-bc9e-fbfd80359ad8
 twitter.profile:
 website:http://standards.ieee.org
 

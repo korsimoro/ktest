@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694218
+modified:1575207694218
 title:Equifax
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"1d8f9bb9-95d0-44ed-9e91-2eaefba14a7d":{"to":"38226d23-6900-4820-8860-5c911b922fe0","type":"executive-member"}}
-tmap.id:fd76e10d-331d-4560-a81d-4e9913ae3d24
+tmap.edges:{"67401cfd-f8fa-4fb6-a584-160c3c230899":{"to":"b0124e9e-0d13-4671-92b2-f2d19b7995d6","type":"executive-member"}}
+tmap.id:386dd2fc-59a2-415b-9cb2-d076e2a707b0
 twitter.profile:
 website:
 

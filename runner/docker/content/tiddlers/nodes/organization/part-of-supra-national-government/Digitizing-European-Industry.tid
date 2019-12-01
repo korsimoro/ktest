@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694017
+modified:1575207694017
 title:Digitizing European Industry
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"e2126b47-1086-4977-92c4-13a5989d9469":{"to":"08a3cb5f-05fc-48c1-9d06-47e126f8e4b8","type":"government-connection"},"d4b0ad22-7d8d-4818-b389-1055097ded1d":{"to":"62de358e-cbaa-440a-941e-b5a9210e0ba4","type":"author"},"33d70ce6-bfcd-4ee0-b0b8-05d75c0fc8a9":{"to":"746d085a-79bd-43d1-a5b7-8c20201eb803","type":"author"}}
-tmap.id:0f8bb94a-f081-4dd7-8a3e-4c86627d05f0
+tmap.edges:{"37928851-660c-405b-9f41-cb7c646bf1b1":{"to":"9c09f050-055d-4bff-9817-f22aab29350f","type":"government-connection"},"27a9bb97-5577-42e7-815c-e71b7253ec17":{"to":"87ab185a-73b9-40f9-bf7a-faef08564e8d","type":"author"},"7e9cd7dd-dc79-49f1-917c-2151d4ee8b6d":{"to":"96bee5c5-5ab2-4115-9449-b0b5902fcc9a","type":"author"}}
+tmap.id:2c9ac66f-7b91-45a6-bca5-10dcc26a9c3f
 twitter.profile:
 website:https://ec.europa.eu/digital-single-market/en/fourth-industrial-revolution
 

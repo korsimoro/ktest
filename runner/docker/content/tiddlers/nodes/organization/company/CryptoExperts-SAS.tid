@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694213
+modified:1575207694213
 title:CryptoExperts SAS
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"6c7cf509-c7dd-4a7d-b039-d5dbd2aed0cc":{"to":"9ded101a-e001-472b-8c91-271f96c1450d","type":"general-member"}}
-tmap.id:f76abbf4-9e39-4769-b354-857f061737d7
+tmap.edges:{"a4761dfa-661c-420e-a1b1-1f2e8c1d6013":{"to":"85af0353-21ec-406d-bf0a-eec203fc4394","type":"general-member"}}
+tmap.id:067d960a-81f8-43ee-bbb7-f27212f304be
 twitter.profile:
 website:https://www.cryptoexperts.com
 

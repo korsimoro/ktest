@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694085
+modified:1575207694085
 title:NDSS Symposium Network and Distributed System Security Symposium 2017
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:Internet Society ISOC
@@ -13,8 +14,9 @@ name:NDSS Symposium Network and Distributed System Security Symposium 2017
 partners:
 people:
 relevant.publications:
+tags:
 tmap.edges:{}
-tmap.id:aa60fcae-7070-45ba-8d73-bc5981c105c5
+tmap.id:f8bc6e3c-2560-468a-bf6d-965a4e7d5a76
 website:
 working.group:
 

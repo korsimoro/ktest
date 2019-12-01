@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694080
+modified:1575207694080
 title:Government of Serbia
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:2c0147a7-4edd-4f13-87c9-1e4b442c1937
+tmap.id:99d57fa2-4b7a-443a-b379-1b4d5dadfd2e
 twitter.profile:
 website:
 

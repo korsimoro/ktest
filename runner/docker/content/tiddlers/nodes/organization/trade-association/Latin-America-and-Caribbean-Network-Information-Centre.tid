@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694069
+modified:1575207694069
 title:Latin America and Caribbean Network Information Centre
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:2016-09-13
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"9449e4aa-1b91-4b6b-b214-9a10350d1578":{"to":"d817385f-ffd0-40b5-960f-eca5ee81af4b","type":"general-member"}}
-tmap.id:f7868db0-c35d-4543-8907-60c4ccfe6b36
+tmap.edges:{"84510f08-ab7d-4655-88e5-74d85e5e3374":{"to":"9f01db50-e086-4fe7-b454-e5630cf17418","type":"general-member"}}
+tmap.id:b1d416b2-9aea-49ad-8a80-b0509892d616
 twitter.profile:
 website:http://www.lacnic.net/en/
 

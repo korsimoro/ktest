@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693914
+modified:1575207693914
 title:EU Trusted List Scheme Operators
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Service
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -22,7 +23,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:84159597-2d9f-4878-99df-aed481c9112c
+tmap.id:4d79afdc-87a6-49af-8b52-21f13502f238
 url:https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/EU+Trusted+List+Scheme+Operators
 version.or.edition:
 working.group:

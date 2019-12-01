@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693926
+modified:1575207693926
 title:Smart Society Project
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -22,7 +23,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:ab866b65-e617-4b19-ae4a-3a910023f15a
+tmap.id:8509cdce-9a27-4a3a-833f-99b52063f117
 url:http://www.smart-society-project.eu/consortium/
 version.or.edition:
 working.group:

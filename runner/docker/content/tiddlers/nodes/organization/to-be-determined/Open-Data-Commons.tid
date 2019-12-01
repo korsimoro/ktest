@@ -1,11 +1,36 @@
-created:
-modified:
+created:1575207694296
+modified:1575207694296
 title:Open Data Commons
 type:text/vnd.tiddlywiki
+activities:
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
 org.name:Open Data Commons
 org.type:to-be-determined
+parent.org:
+partners:
+products.and.or.services:
+purpose:
+relevant.publications:
+scope:
+sector:
+status:
+tags:0
+tech.focus:
 tmap.edges:{}
-tmap.id:7245cbbb-870e-41b5-a3be-5d9602292352
+tmap.id:81892e16-cb59-4dc6-8b67-a22d9d0a2bcf
+twitter.profile:
 website:https://opendatacommons.org/
 
 Open Data Commons is the home of a set of legal tools to help you provide and use Open Data

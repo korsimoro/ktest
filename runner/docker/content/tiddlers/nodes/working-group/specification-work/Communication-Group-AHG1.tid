@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693851
+modified:1575207693851
 title:Communication Group AHG1
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"d5e1491c-7b6a-4444-8115-937635544396":{"to":"7803b31c-ce55-4fee-a0af-8da3ba345a59","type":"organization-for-group"}}
-tmap.id:81848cb5-f42a-42a5-920e-fdf59f99a91c
+tmap.edges:{"ede823fa-a3d0-49c8-ae6e-4042aac2a78c":{"to":"ebf7ec60-f2f1-453f-8018-41f5f65612e3","type":"organization-for-group"}}
+tmap.id:ad716e28-c237-497c-ba05-031c9c72cf6b
 url:
 
 

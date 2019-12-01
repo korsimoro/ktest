@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694064
+modified:1575207694064
 title:ETSI  The European Telecommunications Standards Institute
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"282cc100-2c57-4241-90c7-591b318530d3":{"to":"b366548d-5f53-4abd-b31a-fc5cd80afa64","type":"general-member"},"322d1af7-cff1-4034-bd75-5f53882f9ca7":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"},"f727c220-4a77-43ff-abfc-95b2038b8161":{"to":"3fd3e8d0-b7b8-4037-a4e2-86f8bd98e8d7","type":"executive-member"}}
-tmap.id:ac4244ca-f5bb-42f4-bbe5-d3e82469d3fe
+tmap.edges:{"f07db4e2-77ec-4975-b944-0f63c1dc05de":{"to":"c01816eb-ff69-4e20-b735-8f1db2bea91a","type":"general-member"},"52d13c33-a25f-45fd-850a-08ebeb3b664e":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"},"786656c2-d1fd-4102-be04-b135c1fac392":{"to":"1ff1a52f-d5dd-4dc2-8558-12ee276b9bf1","type":"executive-member"}}
+tmap.id:e82d4e8e-93cd-47af-b3fa-ff042f08b108
 twitter.profile:
 website:http://www.etsi.org
 

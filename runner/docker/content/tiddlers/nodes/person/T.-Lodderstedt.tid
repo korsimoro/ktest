@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694003
+modified:1575207694003
 title:T. Lodderstedt
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:T. Lodderstedt
 organization:
 tags:
-tmap.edges:{"ff88a5e1-8efe-4e68-bd54-9fd520d608da":{"to":"a661e23f-37c0-4889-b7b0-92ccf374b674","type":"author"},"e853dead-f4bd-4f50-98a1-7925f197b26d":{"to":"22ff4cf0-6ac8-4e15-9c71-e390ef38cc38","type":"employee"},"9cfbe0e2-d3b2-42f0-8b3c-ff13e65c4f7a":{"to":"0a2ba9bb-20c9-4d90-a298-c9016c3f9dca","type":"author"}}
-tmap.id:ef307466-63b5-48a5-8cf6-dc04856bf125
+tmap.edges:{"ce4c1ff6-9ae3-4326-a094-f900beacd701":{"to":"17361cf9-43f1-4dc2-9d6e-7c7c49a460f9","type":"author"},"06653689-31c2-4bac-a4d4-d12c7fd6732f":{"to":"56c0a116-2672-4b44-942a-1532fdf9e052","type":"employee"},"df4a2256-ef83-47a0-bb42-73282c0c61d7":{"to":"48e3d813-90f0-4aa1-a57a-be562a866e24","type":"author"}}
+tmap.id:614ef928-a42b-419e-a4b1-eb177538542b
 twitter.profile:
 website:
 working.group:

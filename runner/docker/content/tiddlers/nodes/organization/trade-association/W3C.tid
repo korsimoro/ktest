@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694071
+modified:1575207694071
 title:W3C
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"8fcc92da-4dea-478f-b944-442a24238516":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"}}
-tmap.id:34beaf2a-adbd-4fff-8320-041bee63f5f4
+tmap.edges:{"398ad331-0fc2-47fd-ab0a-fc2b3b207b68":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id:ba89ca10-92fb-4dab-afa5-93905e515ae5
 twitter.profile:
 website:
 

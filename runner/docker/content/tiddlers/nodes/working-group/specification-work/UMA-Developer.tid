@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693869
+modified:1575207693869
 title:UMA Developer
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"6d7a5434-2280-4ded-bddf-b5c77cad5a5f":{"to":"da1d37a0-51c9-4065-835e-0dba8a32ef0c","type":"organization-for-group"}}
-tmap.id:927e7b15-8d83-4853-b8b8-bacde2aad2c0
+tmap.edges:{"c488c5a5-808f-4962-b120-93d3a6e628aa":{"to":"b55a8b29-adbe-4bfb-93b3-c6dc725f50a8","type":"organization-for-group"}}
+tmap.id:66390fc4-cee8-412e-87f1-51570a5d8291
 url:http://kantarainitiative.org/confluence/display/umadev/Home
 
 

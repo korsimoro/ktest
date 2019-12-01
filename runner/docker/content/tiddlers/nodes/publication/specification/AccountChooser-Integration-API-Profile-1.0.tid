@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693910
+modified:1575207693910
 title:AccountChooser Integration API Profile 1.0
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):D. Salama;Nat Sakimura;Pam Dingle;Tim Bray
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:AccountChooser Integration API Profile 1.0
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:Account Chooser
+sponsoring.org:Account Chooser
 tags:
 tech.focus:
-tmap.edges:{"2089b939-808f-4b41-982a-1f4d956fc9ec":{"to":"7f436d2b-48ce-4336-aedb-f9354136eb97","type":"specification-of-group"}}
-tmap.id:9b95dcad-9efb-4eb2-ab65-8813f0052c73
+tmap.edges:{"826fb863-a3e2-473d-a1ab-01560ff899fa":{"to":"f0bcd32d-c8ff-415d-b0ad-9c2e4a6e5efc","type":"specification-of-group"}}
+tmap.id:9815ff0e-f27d-4c59-af32-c41d5f0a25c9
 url:http://openid.net/wordpress-content/uploads/2011/12/ac-integration-spec.html
 version.or.edition:
 volume.frequency:

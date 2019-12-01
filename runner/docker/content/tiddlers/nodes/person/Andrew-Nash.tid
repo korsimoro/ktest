@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694000
+modified:1575207694000
 title:Andrew Nash
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Andrew Nash
 organization:
 tags:
-tmap.edges:{"5eb6be61-b944-42bd-a9f0-6a3ef46e1e71":{"to":"8fbc08d6-85fc-4876-9f74-fe6aff168fde","type":"employee"}}
-tmap.id:e416e68b-c978-421a-ab61-319d680db7eb
+tmap.edges:{"75c28b05-55f6-4d15-bc7f-cb9337b2e010":{"to":"c3c8da2d-93bb-4b60-bb1e-1c749ee7bf26","type":"employee"}}
+tmap.id:8867e9f6-ddaa-4d9b-bedb-dc75d5a614bd
 twitter.profile:
 website:
 working.group:

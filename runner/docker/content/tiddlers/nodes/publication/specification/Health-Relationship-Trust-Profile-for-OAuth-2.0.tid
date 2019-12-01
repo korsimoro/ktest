@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693891
+modified:1575207693891
 title:Health Relationship Trust Profile for OAuth 2.0
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):Justin Richer
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Health Relationship Trust Profile for OAuth 2.0
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:HEART Working Group
+sponsoring.org:HEART Working Group
 tags:
 tech.focus:
-tmap.edges:{"5b2a7e2a-2090-4703-99d2-42acd1ad67d8":{"to":"e4f47de1-bbe5-4d0e-afc4-15f7da9ff073","type":"specification-of-group"}}
-tmap.id:f9c7dcf6-f1c3-4548-8cbf-18793dc24ea5
+tmap.edges:{"2cc60137-5c26-41b7-83d1-dbc168963d84":{"to":"5b512cfd-bd53-4a31-9ad8-419ee1c00111","type":"specification-of-group"}}
+tmap.id:1cea8583-9981-4ea9-b666-ee243518fdc1
 url:
 version.or.edition:
 volume.frequency:

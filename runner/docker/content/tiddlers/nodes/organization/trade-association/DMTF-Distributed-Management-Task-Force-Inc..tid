@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694073
+modified:1575207694073
 title:DMTF Distributed Management Task Force Inc.
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:1992-01-01
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:0554391f-b08a-4bd8-b30f-76e5b8416e95
+tmap.id:16b8df89-6d41-439c-896c-2a77a3381891
 twitter.profile:
 website:
 

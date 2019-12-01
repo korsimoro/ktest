@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694077
+modified:1575207694077
 title:World Privacy Forum
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:ea82caa1-99d8-46cb-93d9-14c3d0ec60f5
+tmap.id:5650f969-5305-4619-a4a2-65210a471f5f
 twitter.profile:
 website:
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694020
+modified:1575207694020
 title:Office of the Australian Information Commissioner
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"8d8d591a-4b12-4f00-8c07-153baf2909c1":{"to":"c578f91c-2e61-458a-90a5-0fde4fb5e723","type":"general-member"}}
-tmap.id:b2cb3964-073c-4640-880e-cca2af573304
+tmap.edges:{"f8282b26-43c4-4c6b-89fd-c0ff4375d438":{"to":"683e24e4-f8d6-46c2-9aad-d38ffd2b47f4","type":"general-member"}}
+tmap.id:c8f5368d-e3d7-48aa-b5f6-a58e8178a24b
 twitter.profile:
 website:https://www.oaic.gov.au
 

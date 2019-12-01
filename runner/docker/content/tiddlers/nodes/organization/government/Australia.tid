@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694080
+modified:1575207694080
 title:Australia
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"08cdf0e3-14ca-4195-bf9a-b3c13ae2ea17":{"to":"b2cb3964-073c-4640-880e-cca2af573304","type":"government-connection"}}
-tmap.id:cb6dc479-44d3-4900-869b-f800ffc87916
+tmap.edges:{"945323d1-2a55-45cf-857b-5d37b446c4a3":{"to":"c8f5368d-e3d7-48aa-b5f6-a58e8178a24b","type":"government-connection"}}
+tmap.id:279dd5a4-2cb0-43d5-bd1d-13203b742112
 twitter.profile:
 website:
 

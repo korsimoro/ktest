@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693853
+modified:1575207693853
 title:OWL
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"740691cf-ccc6-4a24-beb2-77ca14110a1c":{"to":"34beaf2a-adbd-4fff-8320-041bee63f5f4","type":"organization-for-group"}}
-tmap.id:17552305-e950-4df1-9ae5-ecbc273c7c1d
+tmap.edges:{"09367a5f-b127-4317-943b-a34900c8f17c":{"to":"ba89ca10-92fb-4dab-afa5-93905e515ae5","type":"organization-for-group"}}
+tmap.id:3774a834-2456-4e6d-b4c5-b889a4016415
 url:https://www.w3.org/OWL/
 
 The W3C Web Ontology Language (OWL) is a Semantic Web language designed to represent rich and complex knowledge about things, groups of things, and relations between things. OWL is a computational logic-based language such that knowledge expressed in OWL can be exploited by computer programs, e.g., to verify the consistency of that knowledge or to make implicit knowledge explicit. OWL documents, known as ontologies, can be published in the World Wide Web and may refer to or be referred from other OWL ontologies. OWL is part of the W3C’s Semantic Web technology stack, which includes RDF, RDFS, SPARQL, etc.

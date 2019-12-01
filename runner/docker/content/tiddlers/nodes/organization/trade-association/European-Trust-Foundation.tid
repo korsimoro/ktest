@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694065
+modified:1575207694065
 title:European Trust Foundation
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:dc3c0a0b-965b-4cd2-b9e6-5f87eef648cb
+tmap.id:1c3ec6d0-e2af-4398-84a7-1068f0d3ff1a
 twitter.profile:
 website:http://www.europeantrustfoundation.eu/
 

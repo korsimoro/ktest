@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693914
+modified:1575207693914
 title:European Trust Service Status List (TSL)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Service
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -22,7 +23,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:0c714211-6908-473e-83d5-960d4b990408
+tmap.id:fca436d8-df82-4394-b78e-567eab795a16
 url:https://ec.europa.eu/digital-single-market/en/eu-trusted-list-certificate-providers-further-info-and-policy
 version.or.edition:
 working.group:

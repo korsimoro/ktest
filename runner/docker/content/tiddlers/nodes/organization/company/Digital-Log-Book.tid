@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694091
+modified:1575207694091
 title:Digital Log Book
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"7871435d-9ff3-4dac-8eb5-3c304cc8e588":{"to":"38226d23-6900-4820-8860-5c911b922fe0","type":"general-member"}}
-tmap.id:8d542783-5c54-4b12-b011-f161aa85c29f
+tmap.edges:{"fe31b7e8-b9ec-403e-861c-451d1758417f":{"to":"b0124e9e-0d13-4671-92b2-f2d19b7995d6","type":"general-member"}}
+tmap.id:a371b6b1-8f6e-4bfd-95ef-9c71215c20dd
 twitter.profile:
 website:https://www.digitallogbook.org
 

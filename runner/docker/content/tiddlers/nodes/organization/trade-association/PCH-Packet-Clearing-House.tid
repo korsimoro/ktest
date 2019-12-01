@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694032
+modified:1575207694032
 title:PCH - Packet Clearing House
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"ab021e51-fe7b-4faa-9085-30ce31566830":{"to":"a4f4e5d1-92b6-4bf3-a891-2c6169cfc0d1","type":"author"}}
-tmap.id:b32fa370-6106-48d7-8380-009c91afe0f2
+tmap.edges:{"102f2d31-294d-4d62-ac4b-fbb24b7a98fe":{"to":"00836362-9186-41c1-9388-9a34c5391af7","type":"author"}}
+tmap.id:9f6dac85-eb03-4e17-a279-74fb7232f06c
 twitter.profile:
 website:
 

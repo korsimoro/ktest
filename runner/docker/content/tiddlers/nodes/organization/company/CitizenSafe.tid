@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694280
+modified:1575207694280
 title:CitizenSafe
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"03c42f89-e03e-4d57-939a-7eebd27d89fa":{"to":"ae571377-2f9b-499b-8518-533acd50d965","type":"certified-idp"},"3fc5d8ed-acdb-4b6b-b6b7-7827c4faf1e9":{"to":"38226d23-6900-4820-8860-5c911b922fe0","type":"general-member"}}
-tmap.id:fa92325a-cf3e-4809-b2ab-de9116db422a
+tmap.edges:{"bbfbc402-a7d7-44ee-88eb-f2bfb1ae1afe":{"to":"012eb392-5979-43e6-9c7f-38258fc700ac","type":"certified-idp"},"0bdcf559-92e2-4fe1-8930-d0ebfa0888f7":{"to":"b0124e9e-0d13-4671-92b2-f2d19b7995d6","type":"general-member"}}
+tmap.id:ed34f522-549c-494c-84af-5e3e1114683e
 twitter.profile:
 website:https://www.citizensafe.co.uk
 

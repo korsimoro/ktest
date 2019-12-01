@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693876
+modified:1575207693876
 title:university Trier
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f1afaba7-f264-4cb4-9762-e611a181d780":{"to":"4fba6827-1cfc-4707-ae01-7a22132c0bbb","type":"organization-for-group"}}
-tmap.id:a29603d3-17ba-40e9-81a4-c6e80fce0919
+tmap.edges:{"9e306f65-a111-403f-adc5-12832218d1ff":{"to":"9bbcee77-1429-42a8-a476-9058860f7630","type":"organization-for-group"}}
+tmap.id:c6c968fe-a74e-489a-8a60-064c073742ce
 twitter.profile:
 website:
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694070
+modified:1575207694070
 title:International Electrotechnical Commission (IEC)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:1906-01-01
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"75e67d4c-df7b-4a27-b9cb-7741e704e5e7":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"},"079fb8de-153b-41fa-8a10-faf5106d758d":{"to":"b366548d-5f53-4abd-b31a-fc5cd80afa64","type":"general-member"}}
-tmap.id:4f2c47e6-912a-4d63-aac7-0288e714aeb9
+tmap.edges:{"a1061f5e-7e04-4367-99b2-544ea7717666":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"},"9d0f26f2-6e51-4eb3-a1f5-cbd81f3e6931":{"to":"c01816eb-ff69-4e20-b735-8f1db2bea91a","type":"general-member"}}
+tmap.id:23ff8012-346d-4c0d-a47c-e25fc1aba3b1
 twitter.profile:
 website:http://www.iec.ch
 

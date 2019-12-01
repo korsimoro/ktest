@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694092
+modified:1575207694092
 title:Morpho (Safran Identity and Security)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"0cb3f77b-bd5f-4d56-b663-62119d48fa2f":{"to":"33c01093-64f8-429d-a4eb-54ed0441bb7b","type":"executive-member"}}
-tmap.id:50049d42-c853-4056-83f2-bdfa2a6ab2fb
+tmap.edges:{"a74de338-79b4-43d1-91cd-64f854e3c8f2":{"to":"ead7504c-09a9-45cb-b189-2211a74bf4d3","type":"executive-member"}}
+tmap.id:1d650887-e64d-4d83-a781-654f8f38c085
 twitter.profile:
 website:http://www.morpho.com/en
 

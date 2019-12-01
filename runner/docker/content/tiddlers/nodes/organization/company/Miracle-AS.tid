@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694211
+modified:1575207694211
 title:Miracle A/S
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"d8eb6db6-3572-41a2-a540-ea7c4867bc63":{"to":"9ded101a-e001-472b-8c91-271f96c1450d","type":"general-member"}}
-tmap.id:c7df8dbf-2a7f-4066-99b7-6df096fea3c4
+tmap.edges:{"cd6a4e16-3218-4ca8-9f71-804b03754edc":{"to":"85af0353-21ec-406d-bf0a-eec203fc4394","type":"general-member"}}
+tmap.id:52d822d2-7b37-4a61-8823-2244627c3672
 twitter.profile:
 website:http://miracle.dk
 

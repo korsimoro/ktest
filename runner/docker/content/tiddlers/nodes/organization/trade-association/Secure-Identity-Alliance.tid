@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694068
+modified:1575207694068
 title:Secure Identity Alliance
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"88d42f98-42fb-4377-a5fc-a97ba268069b":{"to":"22007601-595c-46a9-854e-524032adfe5c","type":"author"},"c73f5dad-9f69-4492-9b38-bd1a919224bc":{"to":"7b465f0d-bda5-41e7-aeb8-fac61b2ec674","type":"author"}}
-tmap.id:33c01093-64f8-429d-a4eb-54ed0441bb7b
+tmap.edges:{"5509c16c-57cf-4931-a3b7-52e0ae4125f1":{"to":"18dae518-dcff-4c43-95c4-42e05f3ed3c8","type":"author"},"d7cf6423-fe83-4d25-b48d-043864fb2faa":{"to":"173e55a5-c266-485c-897f-68ba02ee6a60","type":"author"}}
+tmap.id:ead7504c-09a9-45cb-b189-2211a74bf4d3
 twitter.profile:
 website:https://www.secureidentityalliance.org
 

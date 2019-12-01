@@ -1,11 +1,36 @@
-created:
-modified:
+created:1575207694294
+modified:1575207694294
 title:Auditing Algorithms
 type:text/vnd.tiddlywiki
+activities:standard development, compliance auditing
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
 org.name:Auditing Algorithms
 org.type:to-be-determined
+parent.org:
+partners:
+products.and.or.services:
+purpose:transparency and accountability
+relevant.publications:
+scope:
+sector:
+status:
+tags:
+tech.focus:
 tmap.edges:{}
-tmap.id:49038136-5e79-43d4-8aeb-7049c01b8e17
+tmap.id:c3ecb030-c3dc-43d2-8d12-15f531f53c2a
+twitter.profile:
 website:http://auditingalgorithms.science/
 
 Auditing Algorithms: Adding Accountability to Automated Authority is a group of events designed to produce a white paper that will help to define and develop the emerging research community for “algorithm auditing.” Algorithmic Auditing is a research design that has shown promise in diagnosing the unwanted consequences of algorithmic systems.

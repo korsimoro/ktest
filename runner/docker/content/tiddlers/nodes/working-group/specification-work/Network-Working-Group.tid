@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693851
+modified:1575207693851
 title:Network Working Group
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"a865637f-bf69-47ba-9123-c6a58b0924ff":{"to":"c2b6c958-2e97-472a-a0ca-609a4938e152","type":"organization-for-group"}}
-tmap.id:83890d7a-0ef7-48d3-830a-5cc701551e9f
+tmap.edges:{"5d1f1144-56c5-454c-a5d3-3f8b9eb2ec66":{"to":"4b1ca637-c3c0-4806-81b2-be88709fb469","type":"organization-for-group"}}
+tmap.id:3806a594-4bed-40c6-b3ff-674499f53857
 url:
 
 

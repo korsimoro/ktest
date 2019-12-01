@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693870
+modified:1575207693870
 title:Radboud University Nijmegen (RU) - Digital Security
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"dccddc8d-2b8c-447a-aef8-25c9fd3b3f21":{"to":"19efc6ea-3768-4903-bb89-09c7b18397fd","type":"organization-for-group"}}
-tmap.id:d3a57d04-94ac-471d-bd4a-119f27a116ac
+tmap.edges:{"928f889d-48fb-41e6-9ae5-22ca7eea6b01":{"to":"3bf1dfc4-9903-4d19-8734-dba58a4e3412","type":"organization-for-group"}}
+tmap.id:0191a62e-cc8f-4816-a426-67d65d166048
 twitter.profile:
 website:http://www.ru.nl/ds/
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694062
+modified:1575207694062
 title:World Bank
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"cdaf2593-3cbf-4b35-97fd-db0abd98da70":{"to":"22007601-595c-46a9-854e-524032adfe5c","type":"author"},"e8cf6418-4410-476d-85f8-b8bef655516e":{"to":"b12e3416-7033-4e1d-9773-3c57513c54ce","type":"sponsor"}}
-tmap.id:6aded4b9-0366-43ec-88aa-d2d0ee505bee
+tmap.edges:{"ecba4045-4815-4857-b4d4-e98718458014":{"to":"18dae518-dcff-4c43-95c4-42e05f3ed3c8","type":"author"},"0e0dc3f5-a3df-4e30-b5fd-b24e86de518b":{"to":"4a153036-54b0-4005-ad75-5019fbe2704b","type":"sponsor"}}
+tmap.id:6a5e2c84-8585-470b-ac3c-3bf9579eaa92
 twitter.profile:
 website:
 

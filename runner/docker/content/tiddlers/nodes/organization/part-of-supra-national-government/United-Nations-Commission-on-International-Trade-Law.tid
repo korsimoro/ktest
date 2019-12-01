@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694009
+modified:1575207694009
 title:United Nations Commission on International Trade Law
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"bbc05f8c-31ff-4a38-ab1d-b1bdf31a6e85":{"to":"daa944e6-9413-44c4-9351-bf39a2006397","type":"government-connection"}}
-tmap.id:bc1090ce-fda2-4a1d-8923-a2da33f06c5f
+tmap.edges:{"48224fac-824a-4841-b5e9-5b4cc40cff90":{"to":"655cf5f1-f01a-4502-81bb-73f7709621b5","type":"government-connection"}}
+tmap.id:6c2f8c6f-b18f-407b-b351-24e74b52347a
 twitter.profile:
 website:
 

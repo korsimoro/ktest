@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693854
+modified:1575207693854
 title:AIDC: Automatic Identification and Data Capture Committee
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Guidelines
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"ae1a4dc1-dcaf-40ff-bb82-a6a9647b7fc4":{"to":"e2047368-2b1e-44f4-ab04-3844d332165c","type":"organization-for-group"}}
-tmap.id:99cae03a-e510-4e84-af92-aa58c3cf89ca
+tmap.edges:{"c62ba6a9-8f3a-4c96-9d54-d9517197b2c3":{"to":"66172e6f-e34b-4d97-b34f-be354ce4a1a4","type":"organization-for-group"}}
+tmap.id:1cd839f7-4417-4648-9f89-acfe901b02a7
 url:http://www.atis.org/01_committ_forums/AIDC/about.asp
 
 AIDC delivers solutions to simplify receiving, shipping, transportation and tracing processes for telecommunications products. Its work helps the industry achieve greater efficiencies in transactions between companies and throughout the global supply chain.

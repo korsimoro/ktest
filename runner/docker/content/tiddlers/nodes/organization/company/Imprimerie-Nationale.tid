@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694092
+modified:1575207694092
 title:Imprimerie Nationale
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"02b8c8c9-2102-43d0-8527-afb841a6709d":{"to":"33c01093-64f8-429d-a4eb-54ed0441bb7b","type":"executive-member"}}
-tmap.id:464bfcbf-a109-4fdd-a192-266973c3738b
+tmap.edges:{"dc81eb04-de45-4c15-81a5-fc88d79a8670":{"to":"ead7504c-09a9-45cb-b189-2211a74bf4d3","type":"executive-member"}}
+tmap.id:97f53a85-57c2-4e1a-9446-f9056a594415
 twitter.profile:
 website:http://www.imprimerienationale.fr/en/home.html
 

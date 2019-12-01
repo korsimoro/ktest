@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694080
+modified:1575207694080
 title:German Government
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:d7bfb881-c447-470e-af79-60b4342fc7b7
+tmap.id:9cbf6f6b-6af8-49e5-a1b7-568bc5de837f
 twitter.profile:
 website:
 

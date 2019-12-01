@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694085
+modified:1575207694085
 title:Future Security: Security Research Conference
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:Fraunhofer Group for Defense and Security VVS
@@ -13,8 +14,9 @@ name:Future Security: Security Research Conference
 partners:
 people:
 relevant.publications:
+tags:0
 tmap.edges:{}
-tmap.id:e04da03f-daf0-444c-b1ba-6001ccae7b17
+tmap.id:25c18ba3-a57f-4d35-a2f6-6f0ed68a2c9d
 website:http://www.future-security2016.de
 working.group:
 

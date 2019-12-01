@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694011
+modified:1575207694011
 title:enisa European Network and Information Security Agency
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"8e423780-e0aa-42bc-9eee-71d9e1098e6a":{"to":"6715c90b-2398-4de6-a21e-5ac4735e7956","type":"government-connection"},"7e796060-3cbf-41a4-a9f3-2ebe5338bbc2":{"to":"34da753c-f924-4210-8427-70687593947a","type":"sponsor"},"befd7254-eb87-4802-9a78-7bf6c4e998b9":{"to":"a6daa1d2-457d-4147-8832-246da3cece4c","type":"convenor"},"3e139449-a004-4d41-b004-58d3f25480db":{"to":"b9ebbe56-e3cd-47d5-8635-880f58088948","type":"author"}}
-tmap.id:9a8b8b2f-01aa-4c2f-b738-93790bd94153
+tmap.edges:{"bc85e945-4228-49ca-99e4-cc154005351d":{"to":"53e5bfa0-ef32-4ef3-952e-ec04e4bd4d9d","type":"government-connection"},"3751b4bf-1979-4a9d-a07d-70a494b108af":{"to":"76d3ab22-879c-46fc-a8ec-503967b918ed","type":"sponsor"},"e90cb8e8-600e-45b5-b55f-efc810fa5eaf":{"to":"1c583eb0-8a00-4aed-a640-1a943efad2d6","type":"convenor"},"bcca41c9-f927-4a0e-a6d4-b4c7265738fa":{"to":"c62ce821-9ee3-4c05-bb83-e2bc2fa84400","type":"author"}}
+tmap.id:43108a3e-a3d9-47f7-81b1-ef009aa359ad
 twitter.profile:
 website:https://www.enisa.europa.eu/about-enisa
 

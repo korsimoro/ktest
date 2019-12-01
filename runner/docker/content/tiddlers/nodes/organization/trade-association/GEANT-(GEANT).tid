@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694033
+modified:1575207694033
 title:GEANT (GEANT)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"c2f8cb92-2cd0-41bf-ab5c-3bf43defe70d":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"}}
-tmap.id:05ed3a45-3bbc-42f7-a541-8106bc260102
+tmap.edges:{"32a52138-1ab4-4262-9ce8-cdf310af14b8":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id:dd4678a0-27a0-41d3-ba44-f1c203aff7f5
 twitter.profile:
 website:
 

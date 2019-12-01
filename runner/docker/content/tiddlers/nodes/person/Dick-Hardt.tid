@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694000
+modified:1575207694000
 title:Dick Hardt
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Dick Hardt
 organization:
 tags:
-tmap.edges:{"ed860416-b420-464a-b2c5-3d9320235239":{"to":"a7f17acb-29d5-40fd-a1e3-bd7719b44d68","type":"vice-chair"},"7c7115b6-0294-4261-83b9-9da922b4e2b5":{"to":"06e5d784-5edf-4a73-8a93-e818f6451b1d","type":"employee"}}
-tmap.id:30b3d633-a996-4fa7-bc90-7e8c96f97d22
+tmap.edges:{"5da0e9b1-73e9-4778-8539-035c076e62e0":{"to":"25f01f1e-3cb2-43e0-91a9-ec86b09b822d","type":"vice-chair"},"b1a3f94c-148e-4a00-933b-70e6825d4e66":{"to":"d2d7fe07-6f7e-4bf7-bec1-cfca46078497","type":"employee"}}
+tmap.id:18a9a7f0-4136-4087-8f04-53707153ad50
 twitter.profile:
 website:
 working.group:

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694071
+modified:1575207694071
 title:IEEE Computer Society
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"fa9d0c8b-bd5e-4dfe-9276-87a31b7353c9":{"to":"c3aa1260-9984-4bca-9cdc-f37c9a033a60","type":"founder"},"ae3a1826-f083-4a14-9e71-ef8d1bdec631":{"to":"96bd1007-ad15-4051-9a83-52500598eacd","type":"organization-for-group"},"ccd81d47-80a1-4435-bb4d-922f15a59e03":{"to":"fb6119e6-3d01-4a7d-820a-89449bcf3762","type":"convenor"},"23b61e50-b88b-4e89-9685-4b4675d6fe34":{"to":"aaf89405-77bb-407d-beed-4333bc1af690","type":"organization-for-group"},"b183b4ed-8636-4859-97a3-b04839415573":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"}}
-tmap.id:c5a13808-54cf-4d04-9f4b-c9bbdcfd1db5
+tmap.edges:{"aa6fe911-592a-4331-be12-083c28547d82":{"to":"16758e6d-611b-444b-9541-d04596fbdca0","type":"founder"},"5a107924-2f46-4dec-b6a5-f0ab3dae9b79":{"to":"ae73850f-2ea7-4506-97c8-6c4b01ef81d6","type":"organization-for-group"},"eea80b67-9b5d-4627-8401-2c0aa57778df":{"to":"b6b6ce8e-bea9-4486-9956-5e7d20ca58fa","type":"convenor"},"ec776e36-a1c6-47b1-ac21-c4762ade1245":{"to":"99835c11-6dfa-44bf-bc9e-fbfd80359ad8","type":"organization-for-group"},"8fd4744a-cf2f-4a6e-ad43-ae15536c7c16":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id:9e3a6213-8390-4e06-9810-9d1e4dd7bf6c
 twitter.profile:
 website:https://www.computer.org/web/guest
 

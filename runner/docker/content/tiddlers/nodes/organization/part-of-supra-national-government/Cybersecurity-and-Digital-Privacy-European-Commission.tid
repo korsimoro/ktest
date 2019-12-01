@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694010
+modified:1575207694010
 title:Cybersecurity and Digital Privacy European Commission
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:4a5b7a79-df58-45ea-8240-ebbd1866dd1c
+tmap.id:539a8974-3bee-4480-8316-1832a3f68424
 twitter.profile:
 website:http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=9532
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694031
+modified:1575207694031
 title:Microsoft Belgium NV
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"251c77f6-571b-45d2-a793-070b9d27fc32":{"to":"9ded101a-e001-472b-8c91-271f96c1450d","type":"general-member"},"cb1388aa-0f79-4673-a7a7-3d2d55182d6a":{"to":"84195e50-0c31-4d15-aa6c-001179689c88","type":"organization-for-group"}}
-tmap.id:d9b3f9d0-81dd-49af-8d00-9af849f66e72
+tmap.edges:{"c4afc9b9-1c66-4d4b-8d79-c19eb12358c4":{"to":"85af0353-21ec-406d-bf0a-eec203fc4394","type":"general-member"},"df01452a-99ca-4dc7-bb7e-6f19f5e58fef":{"to":"1e4b10b1-2b4b-464a-bcec-d9ffffbf6235","type":"organization-for-group"}}
+tmap.id:8c080fdd-e9b0-4ece-a095-77d1e625fd91
 twitter.profile:
 website:http://www.microsoft.com/nl-be/default.aspx
 

@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207693999
+modified:1575207693999
 title:Gershon Janssen
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Gershon Janssen
 organization:
 tags:
-tmap.edges:{"541385cf-6225-4a29-af7d-af15d326f457":{"to":"3bd6a386-f48f-4034-b362-a3c1e29fc283","type":"person-affiliated"}}
-tmap.id:fbd7e08a-6b23-43fc-b2e2-bc850dcd63f3
+tmap.edges:{"ff6da449-a156-4722-873a-fd2b616eab42":{"to":"297f4c19-ef1e-4ea4-a724-836473889531","type":"person-affiliated"}}
+tmap.id:c496bbe0-aacb-4389-9b1f-3f1bf541984b
 twitter.profile:
 website:
 working.group:

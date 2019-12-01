@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694004
+modified:1575207694004
 title:Chair of Mobile Business & Multilateral Security
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"288e6c1d-b911-4449-8f38-66e72169a66c":{"to":"9ded101a-e001-472b-8c91-271f96c1450d","type":"general-member"},"bd3ec033-e77a-4ea2-9b9b-889c51440265":{"to":"a6daa1d2-457d-4147-8832-246da3cece4c","type":"convenor"},"8b27ab46-b5ee-42a5-91f8-83f9942ac35f":{"to":"052b1ccb-9502-4f3c-9632-6a2924791f03","type":"organization-for-group"},"914e2b41-35de-4248-8974-837088797adb":{"to":"052b1ccb-9502-4f3c-9632-6a2924791f03","type":"default"}}
-tmap.id:70f3692d-6a08-45f7-b05d-9e8b478893df
+tmap.edges:{"521575f3-7adb-4df0-9e95-2fd8c7904812":{"to":"85af0353-21ec-406d-bf0a-eec203fc4394","type":"general-member"},"535150fe-d933-4b2d-8e8f-75b7aa0b18db":{"to":"1c583eb0-8a00-4aed-a640-1a943efad2d6","type":"convenor"},"1eca7280-c2ac-4132-9af5-e0caabefb140":{"to":"a0ae8add-13f4-4f99-a679-7c35720b825b","type":"organization-for-group"},"1b8cb9d8-d7e4-470c-82b6-4d3145ca42f1":{"to":"a0ae8add-13f4-4f99-a679-7c35720b825b","type":"default"}}
+tmap.id:c9e090d6-d167-4ba1-969c-75e188522f15
 twitter.profile:
 website:https://www.m-chair.net
 

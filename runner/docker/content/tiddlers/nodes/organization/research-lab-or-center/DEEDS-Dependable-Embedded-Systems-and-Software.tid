@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694003
+modified:1575207694003
 title:DEEDS - Dependable, Embedded Systems and Software
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"3be94c42-269a-461f-ab70-294a983a5f4e":{"to":"f600b00c-8c41-4440-861f-cb29cbd2e5a9","type":"organization-for-group"},"d0549e0a-7e2f-4d33-af24-3057d10f9f84":{"to":"9ded101a-e001-472b-8c91-271f96c1450d","type":"general-member"}}
-tmap.id:100385c7-fafd-4cdd-8866-70c16f325ddc
+tmap.edges:{"4132f050-91dc-492f-86ab-da4703b3ad5b":{"to":"5d4b6e6e-bed8-4ca4-958d-20b1dcacdb4a","type":"organization-for-group"},"fa5ceab1-7902-4de1-9c8d-c884425b8d7d":{"to":"85af0353-21ec-406d-bf0a-eec203fc4394","type":"general-member"}}
+tmap.id:2434b5fd-c1ab-4a05-abb6-a09eab79084c
 twitter.profile:
 website:https://www.deeds.informatik.tu-darmstadt.de/deeds/
 

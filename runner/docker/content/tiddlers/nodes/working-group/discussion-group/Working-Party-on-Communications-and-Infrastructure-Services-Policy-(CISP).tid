@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694089
+modified:1575207694089
 title:Working Party on Communications and Infrastructure Services Policy (CISP)
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Discussion Group
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"27fb92b9-e674-492b-8133-20a15ff8af06":{"to":"db9743eb-afeb-44f8-8db5-a1c31812f010","type":"convenor"},"249af155-826a-4052-9f1f-bcf74680c6d4":{"to":"60acc243-29c4-4fc9-95da-f84c33be1f3e","type":"specification-of-group"}}
-tmap.id:3a307ee3-f503-4d9e-9a4a-7996f6b8cad7
+tmap.edges:{"690c6e58-2685-48aa-94fb-df256cfb6ac9":{"to":"f399650e-df8f-40e2-a393-57b22f950418","type":"convenor"},"e77b43b9-34b3-40e3-8530-a74287f17d99":{"to":"e85d1a4e-f006-407d-ac7e-acd0dff41956","type":"specification-of-group"}}
+tmap.id:94bef31c-5f9a-4414-a01a-37cc196dd69e
 url:
 
 

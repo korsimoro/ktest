@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694032
+modified:1575207694032
 title:Thales Communications SA
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"20a2b5da-08b0-42a9-8e11-5c08169842f6":{"to":"468a3d70-9783-4978-9f09-1f9eec373a38","type":"organization-for-group"},"fe0b7eb4-c92d-4303-a2d4-c92d8f9fd113":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"}}
-tmap.id:498a970d-4c7e-46c3-918c-f66372dd7f37
+tmap.edges:{"69a0f16e-04b0-4cd4-882c-1a27f79cdac0":{"to":"3e56f759-2067-4687-b96e-23ae400f661b","type":"organization-for-group"},"1aa910e7-a906-41fd-9efd-a005a4ddf3e3":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"}}
+tmap.id:a5d41864-26d1-499b-90af-86ca55171bc1
 twitter.profile:
 website:https://www.thalesgroup.com/en
 

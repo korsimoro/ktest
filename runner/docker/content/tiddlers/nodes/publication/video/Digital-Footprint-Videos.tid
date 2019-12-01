@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207694086
+modified:1575207694086
 title:Digital Footprint Videos
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Digital Footprint Videos
 publication.type:Video
 purpose:
 sector:
-sponsoring.org:Internet Society ISOC
-sponsoring.organization:Internet Society ISOC;Privacy and Identity
+sponsoring.org:Internet Society ISOC;Privacy and Identity
 tags:
 tech.focus:
-tmap.edges:{"6efeb726-7ba2-427c-b986-7fb0dc790379":{"to":"9284be19-f76b-4221-aa3f-9dbe97b2ce2a","type":"specification-of-group"}}
-tmap.id:82bf5b68-4b30-48fa-99ac-b54021ce528f
+tmap.edges:{"e9073b9a-a2b9-41e4-9915-61e5e634675d":{"to":"4c69fb03-e77b-4f87-ba9d-478ae5361e2a","type":"specification-of-group"}}
+tmap.id:97ba27a6-58f5-4493-9849-d5008858355d
 url:http://www.internetsociety.org/your-digital-footprint
 version.or.edition:
 volume.frequency:

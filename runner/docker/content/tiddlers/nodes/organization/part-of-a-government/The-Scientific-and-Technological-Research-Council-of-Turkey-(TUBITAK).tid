@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694028
+modified:1575207694028
 title:The Scientific & Technological Research Council of Turkey (TUBITAK)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"2edb9a83-3fa0-4225-a4ee-7911e668e25d":{"to":"52e1ff93-37c1-4a24-b19f-e177f5163696","type":"government-connection"},"fed97167-7a8c-49e9-b40b-cc973a6be0a5":{"to":"5e74d0e7-408b-4268-890f-c5339fdc5607","type":"general-member"}}
-tmap.id:ee3b3f7f-093f-4023-a4e0-1c301c8303b1
+tmap.edges:{"64160139-afef-42f8-867c-81f4952767a0":{"to":"22654bda-db96-48b3-b245-2f0cae1a4f38","type":"government-connection"},"5c492018-dcca-4ee4-bf89-c08709d7770b":{"to":"6ef88127-ef99-4cd4-8346-c64b9ea2bdf0","type":"general-member"}}
+tmap.id:d7ceb661-a1b6-41d0-a1c3-c085f77b0bb5
 twitter.profile:
 website:http://www.tubitak.gov.tr/en
 

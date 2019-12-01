@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693855
+modified:1575207693855
 title:Motor Vehicle Drivers Licence and Related Documents WG10
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"c5ddc555-9cae-4d13-a75d-f5cc25fea961":{"to":"9c54f81b-2c21-46db-8917-566b773e6a8f","type":"organization-for-group"}}
-tmap.id:772f62de-f0e7-4aa6-a30f-a5db480d920a
+tmap.edges:{"d8e2b940-87ae-42b8-91eb-33e8e923e2a2":{"to":"6e64799d-3db7-4b89-9657-19a1d8365a4b","type":"organization-for-group"}}
+tmap.id:29bc63c1-35f0-4878-af66-884df142e713
 url:
 
 Draft Terms of Reference: Standardization in the filed of Motor vehicle driver licences.

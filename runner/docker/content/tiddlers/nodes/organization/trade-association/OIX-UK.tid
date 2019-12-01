@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694068
+modified:1575207694068
 title:OIX-UK
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:38226d23-6900-4820-8860-5c911b922fe0
+tmap.id:b0124e9e-0d13-4671-92b2-f2d19b7995d6
 twitter.profile:
 website:http://oixuk.org
 

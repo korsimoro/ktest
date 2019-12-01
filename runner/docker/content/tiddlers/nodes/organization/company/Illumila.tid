@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694218
+modified:1575207694218
 title:Illumila
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:1fd43d6b-718c-425b-9d4a-46876ca48a73
+tmap.id:149f9baa-2cbb-4859-a5c8-47f8eca421d5
 twitter.profile:
 website:
 

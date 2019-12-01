@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694004
+modified:1575207694004
 title:Center for Internet and Society
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"23ca8514-3bc5-48ae-b599-da25acc8b5b0":{"to":"16ba0cdc-5af6-4178-ba06-c070a6fb4b06","type":"organization-for-group"}}
-tmap.id:0735aab7-3a8b-43c7-82ac-8c389eb417b8
+tmap.edges:{"f3a9d096-23a2-4905-88e2-050ecdbff2a6":{"to":"5809519b-8046-4833-ac7b-078e423765e3","type":"organization-for-group"}}
+tmap.id:85bf9f0a-f3da-42d0-9845-8996d174a3a8
 twitter.profile:
 website:
 

@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693967
+modified:1575207693967
 title:Interoperability of Identities and Identity Management Systems
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Interoperability of Identities and Identity Management Systems
 publication.type:TO BE DETERMINED
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:Future of Identity in the Information Society (FIDIS)
+sponsoring.org:Future of Identity in the Information Society (FIDIS)
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:92f29444-96c6-4793-948b-01d2fd1b0a0c
+tmap.id:5789fdae-1fca-4eee-b4e9-139049f19ae5
 url:http://www.fidis.net/resources/fidis-deliverables/interoperability/
 version.or.edition:
 volume.frequency:

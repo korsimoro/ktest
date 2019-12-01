@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694065
+modified:1575207694065
 title:3rd Generation Partnership Project (3GPP)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"0204692f-980e-4c0b-861f-a1d855a7dcfd":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"}}
-tmap.id:3fd3e8d0-b7b8-4037-a4e2-86f8bd98e8d7
+tmap.edges:{"3fb65fa6-a0f4-425e-beb0-6888ac968b65":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id:1ff1a52f-d5dd-4dc2-8558-12ee276b9bf1
 twitter.profile:
 website:http://www.3gpp.org
 

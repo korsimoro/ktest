@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694001
+modified:1575207694001
 title:Tim Bray
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Tim Bray
 organization:
 tags:
-tmap.edges:{"aadafbe4-ce51-4a11-89ec-2549bf06592c":{"to":"9b95dcad-9efb-4eb2-ab65-8813f0052c73","type":"author"},"54d7a160-3a54-428f-b129-3ef1d389e5b1":{"to":"7d6b0807-21bb-4273-80f6-19ee4333061e","type":"employee"},"7a330855-5098-4e52-953d-c3473339a869":{"to":"e52eb473-21ef-4c83-a373-cd80e39f35ea","type":"author"}}
-tmap.id:78a294da-fe8e-4c2d-9777-6d77923942de
+tmap.edges:{"a1b79ecc-7685-4a31-b03c-bc8273fd7886":{"to":"9815ff0e-f27d-4c59-af32-c41d5f0a25c9","type":"author"},"65d5b062-9be6-46a2-9231-7f547b0409d8":{"to":"c70f2fc3-0292-4762-9691-24e78bc662ff","type":"employee"},"d2ff3cea-b63f-429f-84a4-2f6dbfa7410f":{"to":"de6ec0b9-4425-4137-979f-1720946cc7ba","type":"author"}}
+tmap.id:f0b68166-48b9-47ce-a0ca-1d0937f2cab8
 twitter.profile:
 website:
 working.group:

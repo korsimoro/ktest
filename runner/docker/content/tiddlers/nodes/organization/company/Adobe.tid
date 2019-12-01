@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694093
+modified:1575207694093
 title:Adobe
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:2c7eaa4a-6c75-4dce-a473-9cd5d7018c08
+tmap.id:4a1df4d3-cfa3-4d04-974d-3e8fc7049478
 twitter.profile:
 website:
 

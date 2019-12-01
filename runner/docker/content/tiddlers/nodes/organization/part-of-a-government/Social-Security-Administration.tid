@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694024
+modified:1575207694024
 title:Social Security Administration
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"77980543-7991-4881-8f11-d6f5636c5dfb":{"to":"67951541-b73b-4952-9d0a-d9b67f3d89cc","type":"government-connection"},"4fcd35dd-6fc1-4d4d-a608-5c4efc76b42d":{"to":"3b2cf67a-173e-4e38-834e-1202a691ca8a","type":"company"}}
-tmap.id:e318e8ca-df46-4a2f-802f-9ee5b8dec16b
+tmap.edges:{"00519950-f793-40c5-a177-f92949faae1d":{"to":"8e5b48c1-aa56-4842-8413-299207e889b2","type":"government-connection"},"ceae13f9-8997-4512-bd48-782527d28b74":{"to":"99fafa0d-e2a8-4dd2-a0db-a8b5e5669dc6","type":"company"}}
+tmap.id:d78653cf-c39b-4fe6-8a5a-04c04f1357ff
 twitter.profile:
 website:
 

@@ -6,6 +6,7 @@ import { Context } from '../context'
 import { KumuModel,KumuElement } from '../kumu'
 import { Me2BModel,Me2BElement } from '../me2b'
 import { TiddlyModel } from '../twiki'
+import { NodeTiddler } from '../twiki/tiddlers'
 
 export interface TiddlerBuilder {
 	schema:any
@@ -71,7 +72,7 @@ export function configureType(typename:string,subtypename:string,tb:TiddlerBuild
 export function populateSchema(elt:KumuElement,tb:TiddlerBuilder) {
 	for(let x in tb.schema.properties) {
 		const sdef = tb.schema.properties[x]
-		const key = tiddlerSlugify(x)
+		const key = elt.model.ctx.tiddly.slugify(x)
 		const mapper = tb.inbound[x]
 		const value = mapper(elt,sdef)
 		//console.log("Setting:",key,value)
@@ -90,6 +91,8 @@ export function createNodeTiddlerFromKumuElement(elt:KumuElement,ctx:Context):No
 	populateSchema(elt,tb)
 	tb.fields['tmap.id']=elt.guid
 	tb.fields['tmap.edges']=JSON.stringify(tb.edgemap)
+	tb.fields['element.type']=tb.type
+	//tb.fields['element.subtype']=tb.subtype
 
 	const result = ctx.tiddly.createNodeTiddler({
 		title:elt.label,
@@ -102,6 +105,7 @@ export function createNodeTiddlerFromKumuElement(elt:KumuElement,ctx:Context):No
 }
 export function createNodeTiddlerFromMe2BElement(elt:Me2BElement,ctx:Context):NodeTiddler
 {
+	elt.fields['element.type']=elt.type
 
 	const result = ctx.tiddly.createNodeTiddler({
 		title:elt.title,

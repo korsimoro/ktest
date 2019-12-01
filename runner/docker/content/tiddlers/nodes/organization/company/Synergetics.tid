@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694218
+modified:1575207694218
 title:Synergetics
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:2ef22076-112a-416e-b474-341b62ac97f7
+tmap.id:9e7a5745-2a35-4ae1-b6c0-20ca1ef0f51f
 twitter.profile:
 website:
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693923
+modified:1575207693923
 title:ESSENCE
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -22,7 +23,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:60d3744e-004d-412a-86d8-acd9512bd8fd
+tmap.id:dee73491-d3c2-49ce-bb26-5cf308aa11b8
 url:https://www.essence-network.com/essence-events/como-summerschool/
 version.or.edition:
 working.group:

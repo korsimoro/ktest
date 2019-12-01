@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694069
+modified:1575207694069
 title:International Federation for Information Processing
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"8994ce6b-f9e3-44de-b8ef-990bba73392e":{"to":"ce46e1ab-403c-48d8-94c6-95c65e9fcd4d","type":"convenor"}}
-tmap.id:02472935-17d5-41f7-b109-d590d5152034
+tmap.edges:{"0e7a09c3-65d6-4c2c-b12c-bb724c5b4279":{"to":"f4d97976-2265-44f5-ac1e-96f9b4a365dd","type":"convenor"}}
+tmap.id:cc47616d-24d3-4c95-868e-9b0e9ccc0ac3
 twitter.profile:
 website:
 

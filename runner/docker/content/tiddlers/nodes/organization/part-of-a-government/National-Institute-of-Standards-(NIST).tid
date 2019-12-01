@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694022
+modified:1575207694022
 title:National Institute of Standards (NIST)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"52b19a8e-ac22-4965-bfe2-7567ed0987b7":{"to":"67951541-b73b-4952-9d0a-d9b67f3d89cc","type":"government-connection"}}
-tmap.id:5986dc72-7e95-4c3d-a706-79c68ca1f04c
+tmap.edges:{"d33d8909-113c-4e20-8649-faf28bb491a2":{"to":"8e5b48c1-aa56-4842-8413-299207e889b2","type":"government-connection"}}
+tmap.id:ad059e8f-ec52-4bcc-8d39-665d09d3e601
 twitter.profile:
 website:
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694078
+modified:1575207694078
 title:TNO
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f49eb762-2029-48be-abd2-40ccb6063492":{"to":"19efc6ea-3768-4903-bb89-09c7b18397fd","type":"organization-for-group"}}
-tmap.id:061fd1c2-00a0-46af-9e54-fa3d25310a19
+tmap.edges:{"ab457521-bdc0-4eaa-b71b-bc9fdd6ef46c":{"to":"3bf1dfc4-9903-4d19-8734-dba58a4e3412","type":"organization-for-group"}}
+tmap.id:b69dbad0-9b53-4126-8692-b6d663302ee3
 twitter.profile:
 website:https://www.tno.nl/nl/
 

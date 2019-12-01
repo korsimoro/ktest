@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694215
+modified:1575207694215
 title:Oracle
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:eeb1362c-8780-46c7-aaeb-339c04cd1629
+tmap.id:e288e945-3534-4871-8234-76ccf2f4f68a
 twitter.profile:
 website:
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693848
+modified:1575207693848
 title:Community Resilience WG5
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"db54621d-8deb-412d-8696-1fc1f3bc4d09":{"to":"7803b31c-ce55-4fee-a0af-8da3ba345a59","type":"organization-for-group"}}
-tmap.id:a1bd7b70-3015-407c-bfbe-a10d3d04f35c
+tmap.edges:{"4f3cd820-595e-4414-a6bc-cea5ea5e754b":{"to":"ebf7ec60-f2f1-453f-8018-41f5f65612e3","type":"organization-for-group"}}
+tmap.id:c646f7b2-330d-43c4-a7b3-49f1a19e6add
 url:
 
 

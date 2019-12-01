@@ -1,15 +1,13 @@
 import slugify from 'slugify'
 import path from 'path'
 import uuid from 'uuid'
-
-import { tiddlydate, TIDDLERTYPE, TiddlerFileBase } from './tiddly'
-
-
+import fs from 'fs-extra'
+import { TiddlyModel,tiddlydate,TIDDLERTYPE } from '.'
 
 // Tiddly
 export interface Tiddler  {
 	guid:string
-	base:TiddlerFileBase
+	base:TiddlyModel
 
 	created: tiddlydate
 	modified: tiddlydate
@@ -20,7 +18,7 @@ export interface Tiddler  {
 	tiddlerfile:() => string
 	tiddlerdata:() => string
 
-	writeTiddler:() => void	
+	writeTiddler:() => void
 }
 
 export interface TiddlerData {
@@ -49,14 +47,14 @@ export interface NodeTiddler extends Tiddler {
 export class SimpleTiddler implements Tiddler
 {
 	guid:string
-	base:TiddlerFileBase
+	base:TiddlyModel
 
 	created: tiddlydate
 	modified: tiddlydate
 	title:string
 	type:string
 
-	constructor(data:TiddlerData,base:TiddlerFileBase) {
+	constructor(data:TiddlerData,base:TiddlyModel) {
 		this.guid = uuid.v4()
 		this.base = base
 
@@ -103,7 +101,7 @@ export class SimpleNodeTiddler extends SimpleTiddler implements NodeTiddler
 	fields:Map<string,string>
 
 	sorted_keys:string[]
-	constructor(data:TiddlerData,base:TiddlerFileBase) {
+	constructor(data:TiddlerData,base:TiddlyModel) {
 		super(data,base)
 		this.fields = data.fields || new Map<string,string>()
 		this.tmap_id = this.fields['tmap.id'] || ''
@@ -119,12 +117,12 @@ export class SimpleNodeTiddler extends SimpleTiddler implements NodeTiddler
 
 	tiddlerdir():string {
 		if(!this.element_type)
-			return this.base.nodes
+			return this.base.nodesPath
 		else
 			if(!this.element_subtype)
-				return path.join(this.base.nodes,this.element_type)
+				return path.join(this.base.nodesPath,this.element_type)
 			else
-				return path.join(this.base.nodes,this.element_type,slugify(this.element_subtype,{lower:true}))
+				return path.join(this.base.nodesPath,this.element_type,slugify(this.element_subtype,{lower:true}))
 	}
 
 	tiddlerdata() {

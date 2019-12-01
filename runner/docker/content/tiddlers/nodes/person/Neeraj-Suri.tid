@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694000
+modified:1575207694000
 title:Neeraj Suri
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Neeraj Suri
 organization:
 tags:
-tmap.edges:{"840a0137-cd1b-4bc1-9acb-288e681f1689":{"to":"100385c7-fafd-4cdd-8866-70c16f325ddc","type":"vice-chair"}}
-tmap.id:e955b5a8-d2e0-4628-9466-c4a88fde1617
+tmap.edges:{"732315b5-8f21-4de9-b83b-a75d068d3f3c":{"to":"2434b5fd-c1ab-4a05-abb6-a09eab79084c","type":"vice-chair"}}
+tmap.id:7e94e1ad-1eef-4d17-a63f-660ccd0eea10
 twitter.profile:
 website:https://www.deeds.informatik.tu-darmstadt.de/deeds/homepages/suri/
 working.group:

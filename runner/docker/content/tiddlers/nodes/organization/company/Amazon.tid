@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694280
+modified:1575207694280
 title:Amazon
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:06e5d784-5edf-4a73-8a93-e818f6451b1d
+tmap.id:d2d7fe07-6f7e-4bf7-bec1-cfca46078497
 twitter.profile:
 website:
 

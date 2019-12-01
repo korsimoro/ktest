@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693909
+modified:1575207693909
 title:Identification cards-Integrated circuit cards-Programming interfaces (24727)
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Identification cards-Integrated circuit cards-Programming interfaces (24727
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:Integrated Circuit Cards with Contacts WG4
+sponsoring.org:Integrated Circuit Cards with Contacts WG4
 tags:
 tech.focus:
-tmap.edges:{"9c9aa0d4-2fe1-40df-ad32-28c73807f1a9":{"to":"b12bb4f3-2657-4107-9964-1105c30f9e8f","type":"specification-of-group"}}
-tmap.id:8b6763d7-3ade-4da1-994b-6b83b4386495
+tmap.edges:{"16e7b98d-9f41-40c3-9d7c-e74215f903f0":{"to":"609431a2-725c-47cc-94f7-c815aa5b9e17","type":"specification-of-group"}}
+tmap.id:51cba1d0-4986-466d-8d54-1dfd5fe1eee3
 url:
 version.or.edition:
 volume.frequency:

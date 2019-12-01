@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694212
+modified:1575207694212
 title:MULTICERT – Serviços de Certificação Electrónica S.A
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -24,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:
+tags:0
 tech.focus:
-tmap.edges:{"e52208c5-3453-46ff-b005-5ac19793f724":{"to":"5e74d0e7-408b-4268-890f-c5339fdc5607","type":"general-member"}}
-tmap.id:61bc2c86-24c4-4553-92fa-60f186167570
+tmap.edges:{"9f965065-624b-49b9-9c0c-f0a9c90a0451":{"to":"6ef88127-ef99-4cd4-8346-c64b9ea2bdf0","type":"general-member"}}
+tmap.id:7d21be7e-88ba-4475-a24f-f81d6273e9e1
 twitter.profile:
 website:https://www.multicert.com/en/
 

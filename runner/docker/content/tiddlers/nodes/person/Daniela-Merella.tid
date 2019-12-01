@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694001
+modified:1575207694001
 title:Daniela Merella
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Daniela Merella
 organization:
 tags:
-tmap.edges:{"8c99a77c-c7d5-4aaf-9c66-75d315ba5793":{"to":"7cfdb94f-ef96-443e-b6f3-2ebc9329af3f","type":"vice-chair"}}
-tmap.id:9b975008-0b31-4b2b-92c0-f7812aaba161
+tmap.edges:{"9f7b791c-9331-4200-a9ee-5a4de801a827":{"to":"3ee73f5a-584b-449a-9ff5-229b55cca154","type":"vice-chair"}}
+tmap.id:66a704ee-425c-40ef-8c28-926162923593
 twitter.profile:
 website:http://www.itu.int/en/ITU-T/academia/kaleidoscope/2014/Pages/Daniela-Marella.aspx
 working.group:

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693968
+modified:1575207693968
 title:ABC4Trust
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Proof of Concept
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -19,10 +20,10 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:
+tags:0
 terms.of.service:
 tmap.edges:{}
-tmap.id:9ded101a-e001-472b-8c91-271f96c1450d
+tmap.id:85af0353-21ec-406d-bf0a-eec203fc4394
 url:https://abc4trust.eu
 version.or.edition:
 working.group:

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694070
+modified:1575207694070
 title:Asia‑Pacific Network Information Centre (APNIC)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:13 January 1993
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"2fdde121-120a-4cc6-b15b-8bcbef535e38":{"to":"d817385f-ffd0-40b5-960f-eca5ee81af4b","type":"general-member"}}
-tmap.id:e5bdb0a6-d57c-4d17-9a20-dde021bfaa65
+tmap.edges:{"179540a1-4a4e-40e8-ae3f-85958ff2adba":{"to":"9f01db50-e086-4fe7-b454-e5630cf17418","type":"general-member"}}
+tmap.id:4b4eb9f6-eddb-4687-aced-4653328ef78a
 twitter.profile:
 website:https://www.apnic.net
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694220
+modified:1575207694220
 title:NXP Semiconductors
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"5996d682-e6a8-4be0-95f4-29af866e0fdf":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"}}
-tmap.id:5794211f-33b4-450c-9124-5dc87d248d29
+tmap.edges:{"2cec5a99-e884-4e81-bae7-c3e87682f923":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"}}
+tmap.id:86cb9294-2216-426a-857d-68697bb75e0d
 twitter.profile:
 website:http://www.nxp.com/
 

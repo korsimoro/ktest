@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694209
+modified:1575207694209
 title:Intuit
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:0e5ce3cb-4dcd-4c69-82da-539302f944b9
+tmap.id:3ed6915c-de7c-4702-8137-3647e7ffb1ca
 twitter.profile:
 website:
 

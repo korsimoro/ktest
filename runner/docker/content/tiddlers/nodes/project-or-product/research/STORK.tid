@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693923
+modified:1575207693923
 title:STORK
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -19,10 +20,10 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:
+tags:0
 terms.of.service:
-tmap.edges:{"b9e3dc16-987f-4d79-91c9-b7d258c1c393":{"to":"723c0987-02e1-4129-aba9-b82e8b14192f","type":"connection"}}
-tmap.id:a0c6ced7-e89f-47ed-83f8-9837c3570ec8
+tmap.edges:{"2709eb22-8d46-4a52-a92e-41f9badfc8fa":{"to":"3ea721e0-6916-46f0-a68b-1eed450e5370","type":"connection"}}
+tmap.id:d2a525e9-654f-45e0-8316-eca4ad9c2c4c
 url:https://www.eid-stork.eu
 version.or.edition:
 working.group:

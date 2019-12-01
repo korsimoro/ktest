@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694077
+modified:1575207694077
 title:EFF
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"dad0a18a-f8e1-406b-9a2c-656e2c6285fe":{"to":"b620f51e-e24b-457d-8701-fe17d9111ebf","type":"organization-for-group"}}
-tmap.id:a497f147-8f7b-4a8c-8855-f0bcfdbcf9f5
+tmap.edges:{"5a685831-2ec2-463e-870a-bdfd81c9ef70":{"to":"1050a7fa-e2c2-4beb-95e6-1fc8593c7816","type":"organization-for-group"}}
+tmap.id:b98522d6-04d0-41fa-820f-53ba2ede05a1
 twitter.profile:
 website:https://www.eff.org
 

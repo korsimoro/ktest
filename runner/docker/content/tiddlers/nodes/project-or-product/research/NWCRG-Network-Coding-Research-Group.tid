@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693921
+modified:1575207693921
 title:NWCRG Network Coding Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -21,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"95c878f1-8b0f-4cf8-8975-dc137f3235f6":{"to":"3e9c76ce-4794-4b7f-a667-22d79ed1dedf","type":"organization-for-group"}}
-tmap.id:432eeefb-811d-49ea-b04e-dc36b1fe4526
+tmap.edges:{"2fb3402d-1229-4067-a6b5-d74dbb2598b6":{"to":"a787af82-c1fc-43f8-9263-6e62c5ceeb3d","type":"organization-for-group"}}
+tmap.id:c96e0fa1-e1e6-4661-afa2-7576beea698f
 url:https://irtf.org/nwcrg
 version.or.edition:
 working.group:

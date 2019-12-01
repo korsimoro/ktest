@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694038
+modified:1575207694038
 title:Internet Corporation for Assigned Names and Numbers (ICANN)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"93d0b9be-4aaa-4e6f-9f4f-7e9e392bf00f":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"}}
-tmap.id:80ed9207-d9e5-4e24-a640-e5ee00e8d90f
+tmap.edges:{"e6a3c6a2-dfbb-4a28-a052-a2102a3dce9d":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id:f19f105b-10bf-4c65-a009-960d69866ef8
 twitter.profile:
 website:
 

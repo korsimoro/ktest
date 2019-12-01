@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694083
+modified:1575207694083
 title:OAuth Security Workshop 2016
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:Chair for Information Security and Cryptography at the University of Trier
@@ -13,8 +14,9 @@ name:OAuth Security Workshop 2016
 partners:
 people:
 relevant.publications:
+tags:
 tmap.edges:{}
-tmap.id:6ac19914-2743-442c-bd5d-2f16acb845d2
+tmap.id:a4407f90-1f3d-40db-94cd-4ccff61c3f67
 website:https://infsec.uni-trier.de/events/osw2016
 working.group:
 

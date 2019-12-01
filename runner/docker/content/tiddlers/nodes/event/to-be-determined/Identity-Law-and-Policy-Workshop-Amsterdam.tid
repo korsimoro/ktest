@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694084
+modified:1575207694084
 title:Identity Law & Policy Workshop Amsterdam
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:Open Identity Exchange
@@ -13,8 +14,9 @@ name:Identity Law & Policy Workshop Amsterdam
 partners:
 people:
 relevant.publications:
-tmap.edges:{"24a4a136-8923-4fdd-b684-c764f44c84be":{"to":"b12e3416-7033-4e1d-9773-3c57513c54ce","type":"work"},"6a84508f-330c-454a-95f3-fb212514711e":{"to":"b09ce208-b10e-4a47-a560-607ef96b7e18","type":"author"}}
-tmap.id:7c11e187-0566-4bdb-8b10-f1eee97f3177
+tags:
+tmap.edges:{"ab125fbf-ecda-47a8-8196-4bab5f6f6739":{"to":"4a153036-54b0-4005-ad75-5019fbe2704b","type":"work"},"18831937-3714-4234-98f2-b4767c0a286e":{"to":"81ce45e7-a99c-411e-be8c-93f4324e62f5","type":"author"}}
+tmap.id:af29f78b-82ac-41df-b883-fe3fb7fe8f34
 website:
 working.group:
 

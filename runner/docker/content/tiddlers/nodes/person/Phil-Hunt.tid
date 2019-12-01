@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207693999
+modified:1575207693999
 title:Phil Hunt
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Phil Hunt
 organization:
 tags:
-tmap.edges:{"617a0d4d-4035-4472-922c-eea58f1b2f8f":{"to":"6dc88f7b-c119-4104-8c15-56c890bbf1f2","type":"author"},"c3773f82-2418-4148-8f88-4c7a61fc7d28":{"to":"eeb1362c-8780-46c7-aaeb-339c04cd1629","type":"employee"}}
-tmap.id:24a64496-89fb-4fb9-a622-d688490a43d8
+tmap.edges:{"f3242f3f-4b28-435b-9142-8cf675bc6c45":{"to":"184f16cf-16da-4985-a1e9-2fdc9e08496e","type":"author"},"c8f3f2e1-02f3-492b-9289-e302a3dd14f2":{"to":"e288e945-3534-4871-8234-76ccf2f4f68a","type":"employee"}}
+tmap.id:99aa06b0-ab92-47bf-9079-032a60af8a2e
 twitter.profile:
 website:
 working.group:

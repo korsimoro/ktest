@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693897
+modified:1575207693897
 title:Identification cards – Contactless integrated circuit(s) cards – Proximity integrated circuit(s) cards (14443)
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Identification cards – Contactless integrated circuit(s) cards – Proxim
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:Contactless Integrated Circuit(s) cards WG8
+sponsoring.org:Contactless Integrated Circuit(s) cards WG8
 tags:
 tech.focus:
-tmap.edges:{"c7bb5f38-f381-44bc-860d-2dae3cf9e19b":{"to":"b145f820-5f8c-4a3c-ac09-ca809eb684cf","type":"specification-of-group"}}
-tmap.id:0dbc6dc9-3a94-474b-acb9-bd8341307b70
+tmap.edges:{"8229962f-d13d-4261-b78e-0d9d91780b85":{"to":"b4420f2e-dca4-4cf8-aa46-6fc2bf47c573","type":"specification-of-group"}}
+tmap.id:038d4b22-9ad1-42db-8891-96caf8dd8ca5
 url:
 version.or.edition:
 volume.frequency:

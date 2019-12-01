@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693962
+modified:1575207693962
 title:Forensic Implications
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Forensic Implications
 publication.type:TO BE DETERMINED
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:Future of Identity in the Information Society (FIDIS)
+sponsoring.org:Future of Identity in the Information Society (FIDIS)
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:4503b772-0a56-404d-8f9e-753f4db4ea0c
+tmap.id:63cc0bbc-cb80-4b4a-990d-88e9cdcb7424
 url:http://www.fidis.net/resources/fidis-deliverables/forensic-implications/
 version.or.edition:
 volume.frequency:

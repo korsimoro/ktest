@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693891
+modified:1575207693891
 title:OpenID Connect Back-Channel Logout 1.0
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):Mike Jones
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -14,11 +15,10 @@ publication.type:Specification
 purpose:
 sector:
 sponsoring.org:
-sponsoring.organization:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:a3b3135d-ca6e-419d-b97a-6280e5cb6550
+tmap.id:d0b65485-cc1b-41ef-add6-9f195c3d1951
 url:http://openid.net/specs/openid-connect-backchannel-1_0.html
 version.or.edition:
 volume.frequency:

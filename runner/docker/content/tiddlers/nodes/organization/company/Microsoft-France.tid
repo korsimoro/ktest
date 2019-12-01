@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694031
+modified:1575207694031
 title:Microsoft France
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"909e5507-8f60-4cca-b85b-cae9ec3b231d":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"},"d9df1e90-f9bf-4e8e-b498-13424b9f19d7":{"to":"84195e50-0c31-4d15-aa6c-001179689c88","type":"organization-for-group"}}
-tmap.id:af00e6bc-7c80-4043-b407-065986e5d25e
+tmap.edges:{"3f7f3b4e-44a6-40df-b1ab-2387d7f80896":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"},"88843e94-879e-4f4b-b494-677d64d7bd9d":{"to":"1e4b10b1-2b4b-464a-bcec-d9ffffbf6235","type":"organization-for-group"}}
+tmap.id:831e7733-6c55-447a-b5fb-668ea3e97a96
 twitter.profile:
 website:https://www.microsoft.com/fr-fr/
 

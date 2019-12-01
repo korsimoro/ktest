@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694069
+modified:1575207694069
 title:TTA  Telecommunications Technology Association, Korea
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"5bee352f-5bd1-4c0f-b6c1-859053aa3105":{"to":"b366548d-5f53-4abd-b31a-fc5cd80afa64","type":"general-member"},"607a0f48-306d-45ab-a36f-7aa12a2d0c61":{"to":"3fd3e8d0-b7b8-4037-a4e2-86f8bd98e8d7","type":"executive-member"}}
-tmap.id:de97e422-2e3d-4270-97f8-8507c9dbc7c6
+tmap.edges:{"633a1782-844d-47ca-b463-16ba820b0eb7":{"to":"c01816eb-ff69-4e20-b735-8f1db2bea91a","type":"general-member"},"06eced89-d9a2-4166-b271-e840feb1fbd0":{"to":"1ff1a52f-d5dd-4dc2-8558-12ee276b9bf1","type":"executive-member"}}
+tmap.id:81a07dd4-75af-413e-91f9-6590b0c6b339
 twitter.profile:
 website:http://www.tta.or.kr/English/
 

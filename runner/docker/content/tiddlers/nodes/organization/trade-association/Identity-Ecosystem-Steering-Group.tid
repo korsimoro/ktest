@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694068
+modified:1575207694068
 title:Identity Ecosystem Steering Group
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:725e7e74-5902-4720-bf38-16fe6246b126
+tmap.id:91214d25-ac05-4390-bb63-50a720b72799
 twitter.profile:
 website:https://www.idesg.org
 

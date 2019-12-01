@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693875
+modified:1575207693875
 title:Ruhr-University Bochum
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"9e8d55eb-1ea6-45fc-b2a9-3ef06586225c":{"to":"5e74d0e7-408b-4268-890f-c5339fdc5607","type":"general-member"}}
-tmap.id:f4f16d46-b51d-4e2c-a92c-be3bf1fd102a
+tmap.edges:{"684c085d-cdf0-48dc-9a30-5026f50b29b1":{"to":"6ef88127-ef99-4cd4-8346-c64b9ea2bdf0","type":"general-member"}}
+tmap.id:d8bf168f-8acd-43a3-8628-2edff9c9598a
 twitter.profile:
 website:http://www.ruhr-uni-bochum.de/index_en.htm
 

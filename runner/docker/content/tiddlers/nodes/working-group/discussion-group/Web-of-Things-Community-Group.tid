@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694087
+modified:1575207694087
 title:Web of Things Community Group
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Discussion Group
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"865b7eb3-508d-43c8-9ff2-a662bfde96f7":{"to":"34beaf2a-adbd-4fff-8320-041bee63f5f4","type":"organization-for-group"}}
-tmap.id:9bcb96fa-dc4d-4c13-9c8b-37571c22c32d
+tmap.edges:{"435a6e0e-2431-4b4e-a8fe-ccbb9e90412d":{"to":"ba89ca10-92fb-4dab-afa5-93905e515ae5","type":"organization-for-group"}}
+tmap.id:67f80cbe-cd0d-4ee9-8de8-2829a1fa165e
 url:https://www.w3.org/community/wot/
 
 

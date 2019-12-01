@@ -1,10 +1,32 @@
-created:
-modified:
+created:1575207694299
+modified:1575207694299
 title:Decentralized Identity Foundation - Reference Implementations
 type:text/vnd.tiddlywiki
+activities:
+audience:
 category:open source
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:
 name:Decentralized Identity Foundation - Reference Implementations
+parent.org:Decentralized Identity Foundation
+partners:
+people:
+purpose:
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:
+terms.of.service:
 tmap.edges:{}
-tmap.id:9da87988-8c0c-4143-9114-d381a179a2c2
+tmap.id:20c621bf-d370-4dc8-9fce-ae19b2aa7b7d
+url:https://identity.foundation/
+version.or.edition:
+working.group:
 
 Technical Specs: Reference Implementations: Industry coordination

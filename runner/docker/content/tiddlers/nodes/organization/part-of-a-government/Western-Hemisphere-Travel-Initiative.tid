@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694025
+modified:1575207694025
 title:Western Hemisphere Travel Initiative
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"121125e0-297e-4e72-afa3-c20b66b16d06":{"to":"f12693cc-3779-45b7-85da-69ee066d8826","type":"government-connection"},"0dd38e81-5e2f-4d65-a383-d7ec3b71b8ac":{"to":"0504b850-a79b-4a42-86f2-41c75c6076dc","type":"government-connection"}}
-tmap.id:fc89d4ca-bca8-4e49-a38b-de1e9d188430
+tmap.edges:{"f2318da7-4db2-4748-85d8-5bebe655ea2a":{"to":"446e1bd9-6bfc-4c1a-aa78-899c0b2da0f8","type":"government-connection"},"925aeb79-b9e9-4dea-a32c-51d719e2cb4b":{"to":"dfe6e732-5850-4b57-844c-3729d90f8d34","type":"government-connection"}}
+tmap.id:c2987583-1936-438d-adef-a14b9ce1942c
 twitter.profile:
 website:https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative
 

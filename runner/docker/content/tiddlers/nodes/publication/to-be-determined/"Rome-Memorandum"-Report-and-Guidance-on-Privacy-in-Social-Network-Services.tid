@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693931
+modified:1575207693931
 title:”Rome Memorandum” - Report and Guidance on Privacy in Social Network Services
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:”Rome Memorandum” - Report and Guidance on Privacy in Social Network Se
 publication.type:TO BE DETERMINED
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"
+sponsoring.org:International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:ef26fc05-3bfa-4716-8f84-d4670549e9a1
+tmap.id:db38b666-b373-4ff8-90f4-85482cce9ca3
 url:https://datenschutz-berlin.de/attachments/897/675.36.5.pdf?1347350362
 version.or.edition:
 volume.frequency:

@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207693998
+modified:1575207693998
 title:Eve Maler
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Eve Maler
 organization:
 tags:
-tmap.edges:{"b6c352f6-ccdf-42b0-a70b-85807fea3117":{"to":"003a6762-d012-4ff2-b8f0-ecdbc92f894a","type":"employee"},"ddef9fb3-d3dd-4a76-be19-09f452ea3f69":{"to":"f2f2da82-15b2-4f8d-b170-2fd8e7ce8263","type":"person-affiliated"},"abf4d6bf-2b5f-4234-84e3-d4b612e2a3b6":{"to":"f40c803a-fe05-4c0c-bc29-245e69bd65eb","type":"author"},"5c4d2ee4-887d-4481-8257-860af4035c45":{"to":"0ee24ec2-f610-4735-9f32-a8de6902c963","type":"author"},"75d3cbb4-babd-4a89-ac3b-4626a1daee6b":{"to":"e4f2766a-c1e5-47c5-b571-5bfc4d233c1d","type":"vice-chair"}}
-tmap.id:5f9abd5c-b73d-4354-b4d0-e31d15fd4d6c
+tmap.edges:{"90671d53-1aea-47d5-97e5-1a7733f4fac5":{"to":"219bf466-2663-444d-af96-026dc2260712","type":"employee"},"68a6c1d6-dd39-4b84-b89c-33f5bc7bce47":{"to":"67560b21-5b34-4599-a6e9-0fa941cc3f89","type":"person-affiliated"},"4570aa25-67b8-46a8-95a5-968d5331041d":{"to":"c9715ed9-a6b9-46aa-9752-04d611b3fbc2","type":"author"},"7f2430a8-b3a0-4bf4-8c36-d707a1fa3f2c":{"to":"fddd5efb-c50a-42a1-b714-fc19527a21fc","type":"author"},"60fb2192-de33-4939-89b3-1ba251396083":{"to":"14890a4a-b5b7-4c06-88bd-d94aacc0ad9b","type":"vice-chair"}}
+tmap.id:cce68562-ff36-4d2c-8a6f-2a010fb810e7
 twitter.profile:
 website:
 working.group:

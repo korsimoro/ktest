@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694086
+modified:1575207694086
 title:Trust in Digital World
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:EEMA
@@ -13,8 +14,9 @@ name:Trust in Digital World
 partners:
 people:
 relevant.publications:
+tags:
 tmap.edges:{}
-tmap.id:cfe62c35-ea78-4799-a9b2-a6ccd5ddea72
+tmap.id:4a3a744b-7e6c-4293-9c35-e8cce947290f
 website:
 working.group:
 

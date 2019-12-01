@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693891
+modified:1575207693891
 title:Tracking Compliance and Scope
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Tracking Compliance and Scope
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:The Tracking Protection Working Group
+sponsoring.org:The Tracking Protection Working Group
 tags:
 tech.focus:
-tmap.edges:{"d97c1ca0-c2a1-4b99-ab15-bb6e4af37b3d":{"to":"5833a6b2-8649-4647-8f9e-7cda97509e81","type":"specification-of-group"}}
-tmap.id:02ab85d0-d929-4ac0-a256-ab75d0ce21f5
+tmap.edges:{"ca203581-b0fc-44b5-a5b8-c4697952dd1c":{"to":"ff9db178-6491-4280-8a58-0ff13d4a8569","type":"specification-of-group"}}
+tmap.id:60ea84b8-0ed3-4573-b308-e416dff14781
 url:http://www.w3.org/TR/tracking-compliance/
 version.or.edition:
 volume.frequency:

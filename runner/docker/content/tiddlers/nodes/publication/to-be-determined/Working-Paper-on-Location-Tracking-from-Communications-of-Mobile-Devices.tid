@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693961
+modified:1575207693961
 title:Working Paper on Location Tracking from Communications of Mobile Devices
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Working Paper on Location Tracking from Communications of Mobile Devices
 publication.type:TO BE DETERMINED
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"
+sponsoring.org:International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:9493dcd9-542b-4521-bf8c-f51946f25e50
+tmap.id:92990d28-b26e-4537-8901-062c563a32a8
 url:https://datenschutz-berlin.de/attachments/1161/WP_Location_Tracking_675.51.12.pdf?1452763989
 version.or.edition:
 volume.frequency:

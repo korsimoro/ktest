@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693876
+modified:1575207693876
 title:ULD - Unabhängiges Landeszentrum fur Datenschutz
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"d3866c1a-6f2e-4062-912f-22012aee92e2":{"to":"9ded101a-e001-472b-8c91-271f96c1450d","type":"general-member"}}
-tmap.id:4f059dd2-34f0-4a50-8bb9-adad048cfd24
+tmap.edges:{"f9102639-80e9-401b-9f90-4f50b7bc84c4":{"to":"85af0353-21ec-406d-bf0a-eec203fc4394","type":"general-member"}}
+tmap.id:fc7c94d4-20bf-4126-869b-f2c357d15380
 twitter.profile:
 website:https://www.datenschutzzentrum.de
 

@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693896
+modified:1575207693896
 title:Tracking Preference Expression (DNT)
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):David Singer;Roy T. Fielding
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Tracking Preference Expression (DNT)
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:The Tracking Protection Working Group
+sponsoring.org:The Tracking Protection Working Group
 tags:
 tech.focus:
-tmap.edges:{"13e26f33-56d1-4238-884b-557b5aa091f0":{"to":"5833a6b2-8649-4647-8f9e-7cda97509e81","type":"specification-of-group"},"92ee431a-815b-4de7-9577-3de07ada541d":{"to":"05a3981a-5e24-4027-bf09-f5901d6c59c7","type":"work"}}
-tmap.id:b771f2c2-ae90-4441-aa07-b59a1ce0bae1
+tmap.edges:{"e3f2b54b-669c-443a-b8a7-8451748b1235":{"to":"ff9db178-6491-4280-8a58-0ff13d4a8569","type":"specification-of-group"},"5d94c1fe-313f-45d5-bf11-c39ba3122035":{"to":"40339be1-fb4a-442a-bc3c-2a7b5d1e0789","type":"work"}}
+tmap.id:538f1239-12e5-4939-bdfa-ef495f23df6d
 url:http://www.w3.org/TR/tracking-dnt/
 version.or.edition:
 volume.frequency:

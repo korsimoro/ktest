@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693842
+modified:1575207693842
 title:Protective Security WG 6
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"e2bf2df4-af19-4498-afbc-1ed28e5f5e0d":{"to":"7803b31c-ce55-4fee-a0af-8da3ba345a59","type":"organization-for-group"}}
-tmap.id:9b33e7e5-0c13-4de1-912a-c7e3cf8b8836
+tmap.edges:{"41511646-9497-43b9-aede-8049b3a69178":{"to":"ebf7ec60-f2f1-453f-8018-41f5f65612e3","type":"organization-for-group"}}
+tmap.id:f03cd22d-df74-4513-9891-6b3c9237e061
 url:
 
 

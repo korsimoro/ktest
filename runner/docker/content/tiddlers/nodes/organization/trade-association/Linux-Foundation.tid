@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694034
+modified:1575207694034
 title:Linux Foundation
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"bafad58d-edea-4168-93ee-167f7703e434":{"to":"0d4af6ae-309d-43a2-a365-c2751a179e76","type":"default"},"b0c767df-a652-49b0-a936-c5bcc72c8139":{"to":"4b0d16e6-9fb1-44cb-9e63-237a421ea43c","type":"default"}}
-tmap.id:6794d80a-1dfb-4aad-bcae-1262b6099078
+tmap.edges:{"2116fbc6-e397-40e2-a863-c7cc6eea6773":{"to":"5f15381c-5121-4c4c-b55c-917367b42247","type":"default"},"c2263f59-65cd-4591-9604-3856db7148fd":{"to":"0b0f50fd-b205-4411-9b63-81df1c5cf20f","type":"default"}}
+tmap.id:c8c050ae-832d-41e8-ac51-8390c9ec052f
 twitter.profile:
 website:https://www.linuxfoundation.org/projects
 

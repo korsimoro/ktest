@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694037
+modified:1575207694037
 title:MEF
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:71f736ad-dbbf-46b4-8410-9dcff9a04ce1
+tmap.id:73a35bf8-2e32-4ac8-aa7e-a8f13717d27b
 twitter.profile:
 website:
 

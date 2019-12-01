@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693870
+modified:1575207693870
 title:Computer Technology Institute & Press - DIOPHANTUS
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f249feb1-7c63-4fd3-886b-d3f7f045f86c":{"to":"9ded101a-e001-472b-8c91-271f96c1450d","type":"general-member"}}
-tmap.id:12d533ce-48af-4c56-ab3b-420927b0cfb9
+tmap.edges:{"e88eaf96-b39f-44b3-9a36-72775a0e81ab":{"to":"85af0353-21ec-406d-bf0a-eec203fc4394","type":"general-member"}}
+tmap.id:27503df8-f495-43c4-8fbd-bbafc37ff565
 twitter.profile:
 website:http://www.cti.gr/el/
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694035
+modified:1575207694035
 title:North American Security Products Organization
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"8a50188d-5fb6-4e1f-811b-1886d39fb7d2":{"to":"a09683a9-ead1-4ccc-92a3-5ab1c2beda93","type":"connection"}}
-tmap.id:4f22bbc2-db1e-4ac0-a969-fd1fd2ee6be3
+tmap.edges:{"4628bc43-adc3-4f78-82e0-7b8ede56faae":{"to":"b509f4ad-c0e1-41a3-ae14-c88aa6754f0d","type":"connection"}}
+tmap.id:81f8e308-5a4b-49a2-ac59-a5a22670b77c
 twitter.profile:
 website:http://www.naspo.info
 

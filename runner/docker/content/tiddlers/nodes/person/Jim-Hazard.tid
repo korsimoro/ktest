@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207693997
+modified:1575207693997
 title:Jim Hazard
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Jim Hazard
 organization:
 tags:
-tmap.edges:{"921070ae-de6f-4f73-8ea5-9e29b7f04c6e":{"to":"f2f2da82-15b2-4f8d-b170-2fd8e7ce8263","type":"vice-chair"}}
-tmap.id:dcc6b962-af90-4a3f-aa1a-47ca03a0c195
+tmap.edges:{"4c9fe233-6022-4172-8565-19fdc91ba785":{"to":"67560b21-5b34-4599-a6e9-0fa941cc3f89","type":"vice-chair"}}
+tmap.id:698a32cc-7318-4542-ae53-3d5d98703a45
 twitter.profile:
 website:
 working.group:

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694024
+modified:1575207694024
 title:USCIS US Citizenship and Immigration Services - Department of Homeland Security
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"ded348af-5822-4f72-b0b8-3093e52c91b9":{"to":"3b2cf67a-173e-4e38-834e-1202a691ca8a","type":"company"},"91e2a95c-f932-4f65-8e77-3397240e4fab":{"to":"646697c4-1b55-48f4-86bd-f8954bebb7fb","type":"government-connection"}}
-tmap.id:78e63a18-697c-4e7a-a687-eb6cd39d9040
+tmap.edges:{"b27c7ef0-832f-4ec6-af1c-e25cca71ecce":{"to":"99fafa0d-e2a8-4dd2-a0db-a8b5e5669dc6","type":"company"},"e31d56e8-88c8-4756-a9ad-7e65c6a48f31":{"to":"7851d784-2467-4b26-bf7b-2b4587b5393d","type":"government-connection"}}
+tmap.id:119284d3-d502-4a95-94fa-3e7ecf0b4369
 twitter.profile:
 website:https://www.uscis.gov
 

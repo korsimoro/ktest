@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693922
+modified:1575207693922
 title:NMRG Network Management Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -21,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"85a68cca-1fab-4625-8b12-63001353bbc5":{"to":"3e9c76ce-4794-4b7f-a667-22d79ed1dedf","type":"organization-for-group"}}
-tmap.id:5af972d5-a954-4bbc-909f-0770f6944dbd
+tmap.edges:{"96cd75b8-faf8-495c-bd60-d4c0c5baa775":{"to":"a787af82-c1fc-43f8-9263-6e62c5ceeb3d","type":"organization-for-group"}}
+tmap.id:6ca89c4e-0959-4e77-99be-19d4db3af8ed
 url:https://irtf.org/nmrg
 version.or.edition:
 working.group:

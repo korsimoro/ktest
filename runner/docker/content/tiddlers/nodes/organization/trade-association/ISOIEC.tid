@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694037
+modified:1575207694037
 title:ISO/IEC
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"59dc3b02-548d-49fb-b523-1855b0bce214":{"to":"b366548d-5f53-4abd-b31a-fc5cd80afa64","type":"general-member"}}
-tmap.id:7c1ca221-f1ac-4798-a8bc-d67121d4f49c
+tmap.edges:{"a8740234-04f3-453b-9942-464d9217392f":{"to":"c01816eb-ff69-4e20-b735-8f1db2bea91a","type":"general-member"}}
+tmap.id:13a9cc0c-afe1-41c9-aa63-091b455e8548
 twitter.profile:
 website:http://www.iso.org/iso/home.html
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693969
+modified:1575207693969
 title:EXPAND
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Proof of Concept
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -19,10 +20,10 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:
+tags:0
 terms.of.service:
-tmap.edges:{"db404ec1-4144-43d2-9e43-2e1b1e7efc75":{"to":"d75cd254-ebc1-4ece-a963-1cc1a08e571b","type":"connection"}}
-tmap.id:19cda6d3-3db9-45ea-bfb8-a2a3a2ec9bfc
+tmap.edges:{"54ce6574-a66b-4582-a038-d1da40fb213d":{"to":"a96f99da-e450-4996-ade0-bb4eef4c4c7b","type":"connection"}}
+tmap.id:10e4c9c1-94d5-428e-9a33-36f58c415c8f
 url:
 version.or.edition:
 working.group:

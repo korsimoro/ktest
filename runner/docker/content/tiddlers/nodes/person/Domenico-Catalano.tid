@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207693998
+modified:1575207693998
 title:Domenico Catalano
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Domenico Catalano
 organization:
 tags:
-tmap.edges:{"280ce4e1-045b-4777-8728-371371670f0a":{"to":"eeb1362c-8780-46c7-aaeb-339c04cd1629","type":"employee"},"26416513-186f-40a8-bcfc-6eaf9f411991":{"to":"f40c803a-fe05-4c0c-bc29-245e69bd65eb","type":"author"}}
-tmap.id:250484e7-0588-4df2-8401-bcb65b490db7
+tmap.edges:{"8922fd08-d9fc-4374-bdbd-942c0f54f25c":{"to":"e288e945-3534-4871-8234-76ccf2f4f68a","type":"employee"},"f09819eb-1f23-4cd0-ac89-9ec24c7640d2":{"to":"c9715ed9-a6b9-46aa-9752-04d611b3fbc2","type":"author"}}
+tmap.id:9aa2d9b8-6537-482f-b8c4-c8785de2e50d
 twitter.profile:
 website:
 working.group:

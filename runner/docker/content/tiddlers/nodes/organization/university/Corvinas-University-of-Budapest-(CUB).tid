@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693872
+modified:1575207693872
 title:Corvinas University of Budapest  (CUB)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -24,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:
+tags:0
 tech.focus:
-tmap.edges:{"a83ca68c-6cca-49b9-bd0b-50370a58f557":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"}}
-tmap.id:4ddba61d-9328-4e3e-bb6f-06d775728221
+tmap.edges:{"221db69e-f60e-43c9-a063-79137f12ae8f":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"}}
+tmap.id:98fab869-f0cb-41d3-9bae-52ca1e68f4b2
 twitter.profile:
 website:http://portal.uni-corvinus.hu/index.php?id=45154
 

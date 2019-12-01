@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693928
+modified:1575207693928
 title:WITDOM (empoWering prIvacy and securiTy in non-trusteD envirOnMents)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -22,7 +23,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:f2246e85-5d7e-4b33-bca9-102d27e49cd2
+tmap.id:72a79121-aa27-4f32-bd2a-c5b796d42f10
 url:http://witdom.eu
 version.or.edition:
 working.group:

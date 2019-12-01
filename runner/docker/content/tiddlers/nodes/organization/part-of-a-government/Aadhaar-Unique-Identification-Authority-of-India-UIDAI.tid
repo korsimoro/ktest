@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694024
+modified:1575207694024
 title:Aadhaar - Unique Identification Authority of India UIDAI
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"5eb46481-cb06-44ef-a22e-f99714b6ccf0":{"to":"eed3aa7f-1907-405c-9c00-7a3d4b5791ca","type":"government-connection"}}
-tmap.id:3ac032ce-423c-45c3-be31-1b86c08e8387
+tmap.edges:{"9828cd30-9c64-4ea5-8c49-f8410a2d2c01":{"to":"f915eb17-186d-4714-8a5c-75772907d058","type":"government-connection"}}
+tmap.id:3bf4447b-58c9-4eac-8640-b737bfe3acc3
 twitter.profile:
 website:
 

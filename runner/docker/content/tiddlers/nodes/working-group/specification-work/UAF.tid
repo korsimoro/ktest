@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693849
+modified:1575207693849
 title:UAF
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"a8308d38-615d-4a66-82e1-733448f24664":{"to":"acd989dd-96f4-4166-a74e-77106bb0a844","type":"organization-for-group"}}
-tmap.id:120cb3d6-943b-4e48-9e5a-8d4fc1328140
+tmap.edges:{"f1574490-5f18-4077-8003-6c4e52a43426":{"to":"d0de69a3-a6f1-4b31-8fac-c95124e645af","type":"organization-for-group"}}
+tmap.id:3ef4009d-c283-4ac4-84b6-1d0749192c3a
 url:
 
 Passwordless UX (UAF)

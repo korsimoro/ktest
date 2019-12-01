@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694090
+modified:1575207694090
 title:Nomura Research Institute
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:55963c22-f2e9-4f59-b20f-46181946643e
+tmap.id:b2428d50-a2b6-42bd-8d37-1b671c1d5cbd
 twitter.profile:
 website:http://www.nri.com/global/
 

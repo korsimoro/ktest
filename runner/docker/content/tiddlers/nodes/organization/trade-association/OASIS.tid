@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694065
+modified:1575207694065
 title:OASIS
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"6eedaf37-029c-4338-8726-f8a219019c63":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"},"e74821e9-216b-4666-b241-02ad2b4f3ade":{"to":"34e2a59d-b99a-4560-a062-72e693d89c14","type":"organization-for-group"},"d64ba8ef-4e6f-4f15-9414-a00ddb699f9f":{"to":"f5ed49b5-9a27-41f7-8434-9fb49362b650","type":"organization-for-group"}}
-tmap.id:97374d5a-1b95-4057-82eb-78aa6764c95f
+tmap.edges:{"abb84ad4-d358-4932-91ba-15d11f588129":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"},"e4ac2f08-6449-4233-856f-924553d10f01":{"to":"7bbcd8b2-7822-42e9-8f21-51d49e30b3dd","type":"organization-for-group"},"8ec28500-205a-4a5e-99b6-877f6a886c21":{"to":"d9053039-725c-4a8f-be07-df64d04d2133","type":"organization-for-group"}}
+tmap.id:c60a107c-dcd2-4d75-8677-c7aa2ee3581f
 twitter.profile:
 website:https://www.oasis-open.org/
 

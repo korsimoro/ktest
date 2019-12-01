@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694085
+modified:1575207694085
 title:The International Conference of Data Protection and Privacy Commissioners
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:
@@ -13,8 +14,9 @@ name:The International Conference of Data Protection and Privacy Commissioners
 partners:
 people:
 relevant.publications:
+tags:
 tmap.edges:{}
-tmap.id:c578f91c-2e61-458a-90a5-0fde4fb5e723
+tmap.id:683e24e4-f8d6-46c2-9aad-d38ffd2b47f4
 website:https://icdppc.org
 working.group:
 

@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694084
+modified:1575207694084
 title:20th International Conference on  Practice and Theory of Public-Key Cryptography
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:international Association for Cryptologic Research
@@ -13,8 +14,9 @@ name:20th International Conference on  Practice and Theory of Public-Key Cryptog
 partners:
 people:
 relevant.publications:
+tags:
 tmap.edges:{}
-tmap.id:af4208cb-32ae-4e9e-8356-ed84a499e907
+tmap.id:4f684c96-efba-4401-8f4d-9c968d8b14ce
 website:http://www.iacr.org/workshops/pkc2017/
 working.group:
 

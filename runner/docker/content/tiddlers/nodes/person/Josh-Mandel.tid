@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207693999
+modified:1575207693999
 title:Josh Mandel
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Josh Mandel
 organization:
 tags:
-tmap.edges:{"91507d3f-18f3-4689-8290-897c76c04ca1":{"to":"b99f9683-5aa7-4d33-bf37-ada123f9c4f1","type":"employee"},"fbe4f0e3-3945-434d-ae5e-7542d3dd4638":{"to":"750cb1d8-a555-4b79-8f73-390847ecd1cd","type":"author"}}
-tmap.id:9a233d47-d5f2-48ee-ad67-ecb90d70670a
+tmap.edges:{"c3f90761-2059-45ac-819c-e894d3c1a592":{"to":"83a16c43-fbca-4f01-9746-e6de2807db9b","type":"employee"},"c49cc31f-4393-4773-b655-661c2f3826c9":{"to":"303430b3-61b4-4cb2-817d-49de343535f2","type":"author"}}
+tmap.id:c47d2a52-d6fb-4433-8d7d-c846e5c6b4cc
 twitter.profile:
 website:
 working.group:

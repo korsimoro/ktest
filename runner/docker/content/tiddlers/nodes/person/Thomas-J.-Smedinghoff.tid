@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694001
+modified:1575207694001
 title:Thomas J. Smedinghoff
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Thomas J. Smedinghoff
 organization:
 tags:
-tmap.edges:{"c8c9de84-09a0-446f-8460-65d14f2c0a0c":{"to":"775c718c-980b-43ca-9639-11151852f71b","type":"vice-chair"},"60f5a824-f65e-47d1-8c9c-c418113135be":{"to":"ba9f9c62-3331-4cba-b0ac-e9e06d5a74a5","type":"author"}}
-tmap.id:b994f539-3876-4bc0-bf4e-967aaa5990bf
+tmap.edges:{"6a2c17bb-6c4b-4b85-9eb2-ccf27d180176":{"to":"e7b02ab2-d0c3-40af-9163-489aa1060b99","type":"vice-chair"},"a80a5db5-9b84-4cc0-9a70-82e8b5342265":{"to":"74faa2aa-01db-4b8e-bf4a-a87a4b90e91d","type":"author"}}
+tmap.id:35041ace-7374-4efc-80eb-70da3bbf8a77
 twitter.profile:
 website:
 working.group:

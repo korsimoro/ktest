@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693925
+modified:1575207693925
 title:HRPC Human Rights Protocol Considerations Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -22,7 +23,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:1a17d238-a94e-4d44-b1db-3501053ffff4
+tmap.id:de242bee-f4af-46bb-8fda-cd87059c99c1
 url:
 version.or.edition:
 working.group:

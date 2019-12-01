@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693866
+modified:1575207693866
 title:eDocuments
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"b21ed7e5-8fb1-4089-9268-c681164c210f":{"to":"33c01093-64f8-429d-a4eb-54ed0441bb7b","type":"organization-for-group"}}
-tmap.id:d70b4c95-fa7a-43e0-8d3c-5fc5a38db9e9
+tmap.edges:{"adf005eb-4a99-4cd7-b205-ce47b6ee43aa":{"to":"ead7504c-09a9-45cb-b189-2211a74bf4d3","type":"organization-for-group"}}
+tmap.id:246542b2-c78d-4308-a8ea-bfdaf0515177
 url:
 
 

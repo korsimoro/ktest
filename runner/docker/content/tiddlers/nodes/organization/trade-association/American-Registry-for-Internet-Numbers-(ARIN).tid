@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694064
+modified:1575207694064
 title:American Registry for Internet Numbers (ARIN)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:1997-12-22
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"b18fe351-b5c4-4151-b4cf-be2868792ed6":{"to":"d817385f-ffd0-40b5-960f-eca5ee81af4b","type":"general-member"}}
-tmap.id:90390904-5e6f-4e0c-b399-29ae0bff1204
+tmap.edges:{"2823ec7c-55bd-4565-b0d6-8ecc0e25ce44":{"to":"9f01db50-e086-4fe7-b454-e5630cf17418","type":"general-member"}}
+tmap.id:25317c8e-e745-48b3-923e-ca2e03202daa
 twitter.profile:
 website:https://www.arin.net/about_us/overview.html
 

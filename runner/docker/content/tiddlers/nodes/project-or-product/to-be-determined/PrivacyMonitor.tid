@@ -1,11 +1,32 @@
-created:
-modified:
+created:1575207694300
+modified:1575207694300
 title:PrivacyMonitor
 type:text/vnd.tiddlywiki
+activities:
+audience:
 category:to-be-determined
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:
 name:PrivacyMonitor
+parent.org:Osano
+partners:
 people:Privacy Monitor apps and browser extensions
+purpose:
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:
+terms.of.service:
 tmap.edges:{}
-tmap.id:debd63a5-65ee-4056-8923-177f8bef991d
+tmap.id:680d6a7a-5eb8-43bb-8d21-8f85a2866757
+url:https://www.privacymonitor.com
+version.or.edition:
+working.group:
 
 Knowing who to trust with your personal data can be confusing. Shouldn’t it be easy? With Privacy Monitor by Osano: it is!

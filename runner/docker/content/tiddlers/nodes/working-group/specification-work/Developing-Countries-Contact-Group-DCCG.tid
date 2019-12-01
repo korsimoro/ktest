@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693867
+modified:1575207693867
 title:Developing Countries Contact Group DCCG
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"9af38118-511a-45a7-9c94-ee91dcc6d164":{"to":"7803b31c-ce55-4fee-a0af-8da3ba345a59","type":"organization-for-group"}}
-tmap.id:e259780e-aff1-4a00-9fb8-81c2110f4321
+tmap.edges:{"b9ecdd2b-d143-4c7d-b803-75d1bdc31b77":{"to":"ebf7ec60-f2f1-453f-8018-41f5f65612e3","type":"organization-for-group"}}
+tmap.id:d48aaf4c-05d3-4bf8-bb5c-dfec94149812
 url:
 
 

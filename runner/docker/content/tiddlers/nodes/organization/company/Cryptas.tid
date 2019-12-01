@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694095
+modified:1575207694095
 title:Cryptas
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -24,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:
+tags:0
 tech.focus:
-tmap.edges:{"3965c705-dad1-41d4-ab9d-0cce86ca5cf2":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"}}
-tmap.id:4571085f-7cf5-4b67-867e-283ef616ef88
+tmap.edges:{"83b899ab-baa6-4928-a5fb-d25d3e755814":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"}}
+tmap.id:96a79118-715d-4630-b56c-d6c2bcaefb35
 twitter.profile:
 website:http://www.cryptas.com/en.html
 

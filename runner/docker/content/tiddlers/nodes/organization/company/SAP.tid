@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694219
+modified:1575207694219
 title:SAP
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"e9029a6e-7b30-4a5b-a23f-81fa682df2a2":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"}}
-tmap.id:c31394a7-b054-4442-bffe-add266786b92
+tmap.edges:{"4f63b081-38e1-43da-a890-d7ce06105205":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"}}
+tmap.id:ddabeaf0-f8a0-48e7-be32-658522af74be
 twitter.profile:
 website:http://go.sap.com/index.html
 

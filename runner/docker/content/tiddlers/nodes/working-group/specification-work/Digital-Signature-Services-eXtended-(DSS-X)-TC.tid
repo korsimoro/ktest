@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693847
+modified:1575207693847
 title:Digital Signature Services eXtended (DSS-X) TC
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"f1a04937-3898-4394-b2d3-cf203e79a301":{"to":"97374d5a-1b95-4057-82eb-78aa6764c95f","type":"organization-for-group"}}
-tmap.id:68ab6ec6-f133-4e74-9e24-e6efcf6a047e
+tmap.edges:{"8b13c5f1-e2a4-426d-a459-bf085bcdc2a8":{"to":"c60a107c-dcd2-4d75-8677-c7aa2ee3581f","type":"organization-for-group"}}
+tmap.id:7ba930fb-a77c-42dc-833e-fd94cb58047c
 url:
 
 

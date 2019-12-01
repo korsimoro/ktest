@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694213
+modified:1575207694213
 title:Trustseed
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -24,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:
+tags:0
 tech.focus:
-tmap.edges:{"92ee87e8-fda2-4219-9b1e-6d3f71dac364":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"}}
-tmap.id:b96c1ce5-0323-4273-9b50-0c51d1d8092c
+tmap.edges:{"a31c57c2-6c28-41b4-9771-794e7ba169a7":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"}}
+tmap.id:6241057f-a795-4fa5-9886-eebf700350e9
 twitter.profile:
 website:
 

@@ -4,7 +4,7 @@ import slugify from 'slugify'
 import path from 'path'
 import cytoscape from 'cytoscape'
 
-import { tiddlydate, TIDDLERTYPE, TiddlerFileBase } from './tiddly'
+import { tiddlydate, TIDDLERTYPE, TiddlyModel } from '.'
 import { TiddlerData,NodeTiddler,SimpleTiddler,SimpleNodeTiddler } from './tiddlers'
 
 export interface TiddlerPosition {
@@ -39,7 +39,7 @@ export class NodeTypeTiddler extends SimpleTiddler  {
 
 	scope:string
 	style:string
-	constructor(parts:string[],base:TiddlerFileBase) {
+	constructor(parts:string[],base:TiddlyModel) {
 		super({
 			title:"$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/"+parts.join("/")
 		},base)
@@ -95,7 +95,7 @@ export class EdgeTypeTiddler extends SimpleTiddler  {
 	dirchain?:string[]
 
 	style:string
-	constructor(parts:string[],base:TiddlerFileBase) {
+	constructor(parts:string[],base:TiddlyModel) {
 		super({
 			title:"$:/plugins/felixhayashi/tiddlymap/graph/edgeTypes/"+parts.join("/")
 		},base)
@@ -160,7 +160,7 @@ export class SimpleTiddlyMap implements TiddlyMap {
 	nodeFilter:string
 	layoutData:string
 
-	constructor(name:string,base:TiddlerFileBase) {
+	constructor(name:string,base:TiddlyModel) {
 		this.name = name
 		this.nodes = new Set<string>()
 		this.edges = new Set<string>()

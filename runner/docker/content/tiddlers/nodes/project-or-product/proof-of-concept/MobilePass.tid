@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693969
+modified:1575207693969
 title:MobilePass
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Proof of Concept
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -19,10 +20,10 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:
+tags:0
 terms.of.service:
-tmap.edges:{"3afce968-60e2-4b9b-a5ec-a862466562d3":{"to":"e04da03f-daf0-444c-b1ba-6001ccae7b17","type":"default"}}
-tmap.id:c0f73f2f-457a-4998-b452-7f953135423c
+tmap.edges:{"49690a81-e839-4ce0-adcf-179e1cb9fc81":{"to":"25c18ba3-a57f-4d35-a2f6-6f0ed68a2c9d","type":"default"}}
+tmap.id:7739f272-2f68-4199-a846-08884e47fd8d
 url:http://mobilepass-project.eu
 version.or.edition:
 working.group:

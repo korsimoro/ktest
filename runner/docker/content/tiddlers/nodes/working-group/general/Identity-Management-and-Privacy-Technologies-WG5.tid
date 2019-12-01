@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693852
+modified:1575207693852
 title:Identity Management and Privacy Technologies WG5
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:General
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"c47ba0e9-1485-47c7-9c99-94cd9f1d4f6b":{"to":"f50c28f7-b12a-4ee1-9181-758035c2d765","type":"organization-for-group"}}
-tmap.id:77516255-ec4b-4536-8753-200cc044c7e4
+tmap.edges:{"a59aaba1-f9a5-4826-80aa-7d9520ef5dac":{"to":"f5d54ae6-2874-42bd-be88-fdac113efabc","type":"organization-for-group"}}
+tmap.id:974867e5-46be-4aae-9d3f-1cf843966e9c
 url:
 
 The terms of reference of this working group are:

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694093
+modified:1575207694093
 title:Central Bank of Austria
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"5ae0a5a4-cc6d-4329-a4ca-dfa7148ebaaa":{"to":"f179d445-4a5e-4c7e-b3cd-32cecfd73305","type":"funding-flow"}}
-tmap.id:2b43571f-1c0f-4781-9023-db8c578cc98c
+tmap.edges:{"5c20d51e-bf2e-4464-a5a4-c15b7d88c84b":{"to":"aa3fa770-d952-486d-b44f-5b6c3357dfdd","type":"funding-flow"}}
+tmap.id:a510c164-eb6b-42e7-b906-a59776502f82
 twitter.profile:
 website:
 

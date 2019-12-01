@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694035
+modified:1575207694035
 title:Uniform Law Commission
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"70646596-b30a-4d85-8275-9de335ade411":{"to":"67951541-b73b-4952-9d0a-d9b67f3d89cc","type":"government-connection"}}
-tmap.id:ad4ed247-ffdd-41f8-92d5-00d923d2216a
+tmap.edges:{"5cb4ac97-8799-46f3-a5c5-374c5d95eabd":{"to":"8e5b48c1-aa56-4842-8413-299207e889b2","type":"government-connection"}}
+tmap.id:6997b435-4e60-44f2-b8b3-51743638472d
 twitter.profile:
 website:
 

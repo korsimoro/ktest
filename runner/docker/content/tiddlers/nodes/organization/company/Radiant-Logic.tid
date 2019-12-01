@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694280
+modified:1575207694280
 title:Radiant Logic
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:0ac26f2c-c599-46ae-a996-3d96c382895a
+tmap.id:555c337e-417c-4ccf-bbd5-63b058fb586a
 twitter.profile:
 website:http://www.radiantlogic.com
 

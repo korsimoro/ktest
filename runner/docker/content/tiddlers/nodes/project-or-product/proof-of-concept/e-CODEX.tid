@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693968
+modified:1575207693968
 title:e-CODEX
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Proof of Concept
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -19,10 +20,10 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:
+tags:0
 terms.of.service:
-tmap.edges:{"e4428d1c-8e14-42fd-8210-e59dd1a10870":{"to":"1ad114b5-7756-4587-9715-661f78d7ff7a","type":"connection"}}
-tmap.id:0c053bdb-a971-499c-a5ea-a8a005ba3c6b
+tmap.edges:{"d136d3c2-f6b9-42dd-a2ef-fabedcae6fbf":{"to":"4242a8f2-beec-4974-b8d2-0fa59aeb24e2","type":"connection"}}
+tmap.id:818a5b65-ec53-4ee9-8787-a5327e3cac76
 url:http://www.e-codex.eu/home.html
 version.or.edition:
 working.group:

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694062
+modified:1575207694062
 title:CCSA  China Communications Standards Association
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:2002-12-18
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"066e2727-1bbf-4216-86fd-7dfb798cc9be":{"to":"3fd3e8d0-b7b8-4037-a4e2-86f8bd98e8d7","type":"executive-member"},"8129cfd9-00ec-47dc-9e01-c8118c16d4b2":{"to":"b366548d-5f53-4abd-b31a-fc5cd80afa64","type":"general-member"}}
-tmap.id:b34cb1f0-5c93-4194-887c-2374c9186400
+tmap.edges:{"d19f13e1-145a-4b88-ba29-c4e5350220a7":{"to":"1ff1a52f-d5dd-4dc2-8558-12ee276b9bf1","type":"executive-member"},"30827b67-87cb-44f5-a192-7e565c1285cb":{"to":"c01816eb-ff69-4e20-b735-8f1db2bea91a","type":"general-member"}}
+tmap.id:22b837be-2c5c-49e5-b480-e1839537b90c
 twitter.profile:
 website:http://www.ccsa.org.cn/english/
 

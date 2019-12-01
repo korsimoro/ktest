@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694209
+modified:1575207694209
 title:SecureKey
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:f50c966e-edd6-4877-8829-1c9f28ad863d
+tmap.id:774889e3-0333-454c-8c2f-9122bcd98639
 twitter.profile:
 website:http://securekey.com
 

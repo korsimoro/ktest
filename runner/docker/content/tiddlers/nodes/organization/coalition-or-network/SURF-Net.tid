@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694076
+modified:1575207694076
 title:SURF Net
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"1f91fcab-3379-4a30-b445-c9864106f733":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"}}
-tmap.id:2658bd9e-5861-4d35-b55f-22a3c15e249a
+tmap.edges:{"487a4f75-7103-4add-a496-fb2701d17afc":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"}}
+tmap.id:b697aad6-b14f-4035-8f10-d374bab869f0
 twitter.profile:
 website:https://www.surf.nl/en
 

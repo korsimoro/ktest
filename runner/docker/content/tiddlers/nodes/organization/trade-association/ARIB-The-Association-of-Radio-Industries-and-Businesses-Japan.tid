@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694069
+modified:1575207694069
 title:ARIB  The Association of Radio Industries and Businesses, Japan
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:1995-09-15
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"73344c1a-869d-442a-aef7-c20e96de5d40":{"to":"3fd3e8d0-b7b8-4037-a4e2-86f8bd98e8d7","type":"executive-member"},"8e671f48-6f4e-4bea-a35b-3c9e58bd62e2":{"to":"b366548d-5f53-4abd-b31a-fc5cd80afa64","type":"general-member"}}
-tmap.id:84c48ff1-fd3c-44d0-b560-ffe3bd4264fb
+tmap.edges:{"af2c5431-2983-42db-85d8-b9984cd24c5f":{"to":"1ff1a52f-d5dd-4dc2-8558-12ee276b9bf1","type":"executive-member"},"24776d20-2c9f-46c6-86af-2b504e400dd6":{"to":"c01816eb-ff69-4e20-b735-8f1db2bea91a","type":"general-member"}}
+tmap.id:c65bd3c9-5a1a-485d-8e6a-45ae55204bc7
 twitter.profile:
 website:http://www.arib.or.jp/english/
 

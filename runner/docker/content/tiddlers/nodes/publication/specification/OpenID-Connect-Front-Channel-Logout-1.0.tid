@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693910
+modified:1575207693910
 title:OpenID Connect Front-Channel Logout 1.0
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):B. Campbell;Mike Jones
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:OpenID Connect Front-Channel Logout 1.0
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:AB/Connect Working Group
+sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"dc16e61d-855f-43aa-89bb-4a3533fda979":{"to":"ce5b3dbc-88d9-40fe-a515-08153d9e121d","type":"specification-of-group"}}
-tmap.id:ed51f037-b642-4c59-bf68-437259ac289d
+tmap.edges:{"fd2331ac-d964-4cf6-bfa7-9c3fe38589c3":{"to":"0172850c-bb9d-4ee3-ae9a-63b6b5d408ad","type":"specification-of-group"}}
+tmap.id:0a8780ee-7139-4609-b936-1e346667151a
 url:http://openid.net/specs/openid-connect-frontchannel-1_0.html
 version.or.edition:
 volume.frequency:

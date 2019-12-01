@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693906
+modified:1575207693906
 title:Identification cards – Identification of issuers (7812)
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Identification cards – Identification of issuers (7812)
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:Issuer Identification Numbers (IINs) / Application Provider Identifiers (RIDs)  WG5
+sponsoring.org:Issuer Identification Numbers (IINs) / Application Provider Identifiers (RIDs)  WG5
 tags:
 tech.focus:
-tmap.edges:{"9b6eb38c-c2b3-4d86-8ce0-43b703726900":{"to":"9b3c4f39-0486-4fba-8e5e-f7352eaac8b2","type":"specification-of-group"}}
-tmap.id:8b01aae1-38d5-465b-8359-38be52b9e6f3
+tmap.edges:{"d311baff-cd4b-4efe-b716-b76f547a8008":{"to":"9e6da32b-4f30-4fbc-b263-51f4c3607ea7","type":"specification-of-group"}}
+tmap.id:0e146c8f-1663-4cf3-bc1f-62081edb5238
 url:
 version.or.edition:
 volume.frequency:

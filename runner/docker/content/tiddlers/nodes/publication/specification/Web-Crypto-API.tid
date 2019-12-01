@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693891
+modified:1575207693891
 title:Web Crypto API
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -14,11 +15,10 @@ publication.type:Specification
 purpose:
 sector:
 sponsoring.org:
-sponsoring.organization:
 tags:
 tech.focus:
-tmap.edges:{"62c2fb24-d39b-4b62-9b3d-828d451ef73c":{"to":"34beaf2a-adbd-4fff-8320-041bee63f5f4","type":"organization-for-group"}}
-tmap.id:3d2129ca-e2ba-4085-bfb5-981d2c814637
+tmap.edges:{"20562a68-653b-42b1-baed-696e117b34cb":{"to":"ba89ca10-92fb-4dab-afa5-93905e515ae5","type":"organization-for-group"}}
+tmap.id:b5f22ed7-709c-441e-be32-6c4bb1f25169
 url:https://www.w3.org/TR/WebCryptoAPI/
 version.or.edition:
 volume.frequency:

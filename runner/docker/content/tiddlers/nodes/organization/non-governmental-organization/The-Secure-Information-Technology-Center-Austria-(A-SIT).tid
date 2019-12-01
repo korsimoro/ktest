@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694077
+modified:1575207694077
 title:The Secure Information Technology Center – Austria (A-SIT)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"7e0b7c7f-bf3b-455e-b683-d8959e43e9da":{"to":"5e74d0e7-408b-4268-890f-c5339fdc5607","type":"general-member"}}
-tmap.id:f179d445-4a5e-4c7e-b3cd-32cecfd73305
+tmap.edges:{"c0299bce-7d6c-4dab-ad60-7c8f8562095b":{"to":"6ef88127-ef99-4cd4-8346-c64b9ea2bdf0","type":"general-member"}}
+tmap.id:aa3fa770-d952-486d-b44f-5b6c3357dfdd
 twitter.profile:
 website:https://www.a-sit.at/de/allgemein/asit_en.php
 

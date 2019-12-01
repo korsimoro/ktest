@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694094
+modified:1575207694094
 title:Forge Rock
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:003a6762-d012-4ff2-b8f0-ecdbc92f894a
+tmap.id:219bf466-2663-444d-af96-026dc2260712
 twitter.profile:
 website:
 

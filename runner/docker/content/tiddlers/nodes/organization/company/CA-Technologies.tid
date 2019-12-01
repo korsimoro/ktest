@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694210
+modified:1575207694210
 title:CA Technologies
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"bf47d0da-cdf6-4f40-ae93-17d28f0d12e7":{"to":"38226d23-6900-4820-8860-5c911b922fe0","type":"executive-member"}}
-tmap.id:91d874d1-d7da-4e36-8000-618262a65e78
+tmap.edges:{"4b2e98fe-e91a-42f6-a5f0-f18fc64ec57f":{"to":"b0124e9e-0d13-4671-92b2-f2d19b7995d6","type":"executive-member"}}
+tmap.id:7e889924-9563-4bf4-a4e3-27e42864207a
 twitter.profile:
 website:
 

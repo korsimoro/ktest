@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694071
+modified:1575207694071
 title:NorStella - Foundation for e-Business and Trade Procedures
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -24,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:
+tags:0
 tech.focus:
-tmap.edges:{"7aa4566b-4982-463a-a6e4-f52bdd55e0c8":{"to":"dc3c0a0b-965b-4cd2-b9e6-5f87eef648cb","type":"executive-member"}}
-tmap.id:c667fb1f-7a3e-4b07-94c5-78b37261b1ac
+tmap.edges:{"e39239fd-55bc-4307-bb33-bbf0d7246aeb":{"to":"1c3ec6d0-e2af-4398-84a7-1068f0d3ff1a","type":"executive-member"}}
+tmap.id:07c2167f-86c8-4c24-83aa-09b15d597e13
 twitter.profile:
 website:http://www.norstella.no/about-norstella.7695.no.html
 

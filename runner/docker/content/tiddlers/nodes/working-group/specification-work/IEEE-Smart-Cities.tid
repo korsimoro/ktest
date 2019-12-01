@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693839
+modified:1575207693839
 title:IEEE Smart Cities
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -18,7 +19,7 @@ relevant.standards:
 status:
 tech.focus:
 tmap.edges:{}
-tmap.id:96bd1007-ad15-4051-9a83-52500598eacd
+tmap.id:ae73850f-2ea7-4506-97c8-6c4b01ef81d6
 url:http://smartcities.ieee.org
 
 

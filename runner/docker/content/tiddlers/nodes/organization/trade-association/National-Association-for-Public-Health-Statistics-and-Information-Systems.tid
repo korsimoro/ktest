@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694066
+modified:1575207694066
 title:National Association for Public Health Statistics and Information Systems
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:98e969f7-7468-4d05-a027-efc39f3b3f40
+tmap.id:3f44f76a-1e7c-4509-8d19-b7f7a722b8dd
 twitter.profile:
 website:http://www.naphsis.org
 

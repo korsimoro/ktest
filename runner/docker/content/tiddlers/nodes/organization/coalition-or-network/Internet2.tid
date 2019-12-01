@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694076
+modified:1575207694076
 title:Internet2
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"b104d185-4911-460b-9ba2-d44bb23ce545":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"}}
-tmap.id:680d68ff-645e-49ad-848f-c2a0888e4ffc
+tmap.edges:{"a0b3459b-85e6-4d72-87ed-c2657202fb49":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id:78aeebbd-3d5f-4da5-be41-e87bbda87ee4
 twitter.profile:
 website:
 

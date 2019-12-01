@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693926
+modified:1575207693926
 title:GAIA Global Access to the Internet for All Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -21,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"6c46e0a3-a936-4005-a88e-61a1c764d91f":{"to":"3e9c76ce-4794-4b7f-a667-22d79ed1dedf","type":"organization-for-group"}}
-tmap.id:8245d236-4947-4333-8851-7b72fb1d9490
+tmap.edges:{"e439251d-d661-45b1-a1e1-7f2de10c9be7":{"to":"a787af82-c1fc-43f8-9263-6e62c5ceeb3d","type":"organization-for-group"}}
+tmap.id:e10d6a48-bac5-41f1-8cd9-e7eaae60204a
 url:https://irtf.org/gaia
 version.or.edition:
 working.group:

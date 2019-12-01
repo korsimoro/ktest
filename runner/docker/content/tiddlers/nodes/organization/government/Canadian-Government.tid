@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694082
+modified:1575207694082
 title:Canadian Government
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:93ed51fc-7870-4356-8920-a43639446674
+tmap.id:e3d09bb7-8270-4556-a2d7-1931346dcdb3
 twitter.profile:
 website:https://www.canada.ca/en.html
 

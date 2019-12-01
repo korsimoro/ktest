@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694085
+modified:1575207694085
 title:38th IEEE Symposium on Security and Privacy
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:IEEE Technical Committee on Security and Privacy
@@ -13,8 +14,9 @@ name:38th IEEE Symposium on Security and Privacy
 partners:
 people:
 relevant.publications:
+tags:
 tmap.edges:{}
-tmap.id:8f4bf23a-e772-4360-9794-6cb33a9eda68
+tmap.id:407dcc1f-5687-4554-8911-06e9c87d8ba8
 website:http://www.ieee-security.org/TC/SP2017/
 working.group:
 

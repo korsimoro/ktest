@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694017
+modified:1575207694017
 title:eHealth Digital Service Infrastructure
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"5dc62ae5-e2a1-46d5-ae10-f9f7c0c3237b":{"to":"09bc6e42-06a2-4a56-a759-52d29aff9d6a","type":"government-connection"}}
-tmap.id:d75cd254-ebc1-4ece-a963-1cc1a08e571b
+tmap.edges:{"59d546ac-acf5-4287-a62f-ca6c3946180e":{"to":"3172881c-d0be-4c86-a072-89ddc2f71b06","type":"government-connection"}}
+tmap.id:a96f99da-e450-4996-ade0-bb4eef4c4c7b
 twitter.profile:
 website:
 

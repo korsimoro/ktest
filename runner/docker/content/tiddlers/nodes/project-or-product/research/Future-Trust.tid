@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693922
+modified:1575207693922
 title:Future Trust
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -19,10 +20,10 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:
+tags:0
 terms.of.service:
-tmap.edges:{"37962611-7636-4c9a-930c-3fd1120fd4ee":{"to":"0c714211-6908-473e-83d5-960d4b990408","type":"organization-for-group"}}
-tmap.id:5e74d0e7-408b-4268-890f-c5339fdc5607
+tmap.edges:{"5e50786e-fdc7-4fdc-8140-88f7fff891b1":{"to":"fca436d8-df82-4394-b78e-567eab795a16","type":"organization-for-group"}}
+tmap.id:6ef88127-ef99-4cd4-8346-c64b9ea2bdf0
 url:https://www.futuretrust.eu/home/
 version.or.edition:
 working.group:

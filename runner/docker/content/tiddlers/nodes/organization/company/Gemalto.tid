@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694209
+modified:1575207694209
 title:Gemalto
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"8e9c9372-ad26-4980-a4e4-dcbf651b6235":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"},"8ab81670-415e-49fe-9793-22c2a97f76b8":{"to":"33c01093-64f8-429d-a4eb-54ed0441bb7b","type":"executive-member"}}
-tmap.id:0a1dc8e2-1603-4fea-a8bd-622499f2160c
+tmap.edges:{"df141d35-f8e1-4b36-a65b-03c15f1d54db":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"},"7c05b74e-2fd9-47ea-9ef2-7e83ffb09901":{"to":"ead7504c-09a9-45cb-b189-2211a74bf4d3","type":"executive-member"}}
+tmap.id:6a06b7a4-6fe5-4702-8938-ce504d610a9c
 twitter.profile:
 website:http://www.gemalto.com
 

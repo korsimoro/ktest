@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693867
+modified:1575207693867
 title:Physical Characteristics and Test Methods WG1
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"79f70376-ede8-4c5e-8986-85ef15b1754e":{"to":"9c54f81b-2c21-46db-8917-566b773e6a8f","type":"organization-for-group"}}
-tmap.id:e83b035b-07f6-4625-9e16-b691a2fccc58
+tmap.edges:{"e9b2b548-bf5e-4ef1-b5cf-ba81118d95f3":{"to":"6e64799d-3db7-4b89-9657-19a1d8365a4b","type":"organization-for-group"}}
+tmap.id:46b06cde-bcbe-471f-8f41-0403053872cf
 url:
 
 Physical characteristics, embossing, magnetic stripe, and test methods for conformance and card durability.

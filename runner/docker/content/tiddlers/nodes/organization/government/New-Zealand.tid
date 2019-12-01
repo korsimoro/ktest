@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694079
+modified:1575207694079
 title:New Zealand
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"24f88cf7-d557-4a98-b8a4-ecc906d10b5c":{"to":"36928124-c971-4a43-9263-c0dc38ee1ebc","type":"default"}}
-tmap.id:1ff316e0-bfeb-4fa8-8a62-b7b6e326565c
+tmap.edges:{"f3eafc23-5bb1-4729-ac82-be7901e9f94d":{"to":"37f97d1a-bc6f-4fe3-9969-aaa6a529f323","type":"default"}}
+tmap.id:be037886-7053-4954-8a6e-e48c0f56667b
 twitter.profile:
 website:
 

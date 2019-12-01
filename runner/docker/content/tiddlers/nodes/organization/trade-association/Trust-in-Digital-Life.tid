@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694072
+modified:1575207694072
 title:Trust in Digital Life
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -24,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:
+tags:0
 tech.focus:
-tmap.edges:{"c4bcbc30-d0a5-41b2-918a-40b90d32aa8a":{"to":"cfe62c35-ea78-4799-a9b2-a6ccd5ddea72","type":"convenor"}}
-tmap.id:315f55bc-23b4-45b0-abd4-97d10f715247
+tmap.edges:{"01d005d9-b714-4d9b-b354-3a78af1d6430":{"to":"4a3a744b-7e6c-4293-9c35-e8cce947290f","type":"convenor"}}
+tmap.id:8d248f49-1647-42e3-9cb6-e65bcd07e3f7
 twitter.profile:
 website:
 

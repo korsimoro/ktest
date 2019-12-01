@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694016
+modified:1575207694016
 title:Digital Single Market
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"cc76aef3-5078-46bb-ae78-91f93cb209ab":{"to":"5e55edfb-3345-4d21-a46d-eeade8355849","type":"government-connection"}}
-tmap.id:7efe1066-7b9b-4dd3-bb91-483d100ce235
+tmap.edges:{"ab9b2aea-d3ea-474c-8a85-2957c24707e2":{"to":"915a83bd-9db4-47be-9fcb-30f249525be6","type":"government-connection"}}
+tmap.id:e4d6946c-6c4b-4644-b1f4-615117ea1b47
 twitter.profile:
 website:
 

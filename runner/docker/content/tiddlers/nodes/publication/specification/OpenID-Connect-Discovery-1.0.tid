@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693890
+modified:1575207693890
 title:OpenID Connect Discovery 1.0
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):Edmund Jay;John Bradley;Mike Jones;Nat Sakimura
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:OpenID Connect Discovery 1.0
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:AB/Connect Working Group
+sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"e7d40d78-97be-4245-b603-5e85a2252a71":{"to":"ce5b3dbc-88d9-40fe-a515-08153d9e121d","type":"specification-of-group"}}
-tmap.id:c3e49054-75b6-4634-a0d7-6ba20e1ef0b5
+tmap.edges:{"f72ea064-c7f9-4ed0-b63c-bd900597f505":{"to":"0172850c-bb9d-4ee3-ae9a-63b6b5d408ad","type":"specification-of-group"}}
+tmap.id:194b7ce0-fdf4-4e3c-8884-2a495edc99b8
 url:http://openid.net/specs/openid-connect-discovery-1_0.html
 version.or.edition:
 volume.frequency:

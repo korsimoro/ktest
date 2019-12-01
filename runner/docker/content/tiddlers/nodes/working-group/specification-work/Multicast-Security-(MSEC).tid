@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693853
+modified:1575207693853
 title:Multicast Security (MSEC)
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"7f378bdf-d494-41fc-a779-fca4b24b88fe":{"to":"c2b6c958-2e97-472a-a0ca-609a4938e152","type":"organization-for-group"}}
-tmap.id:809e5d69-a9ba-4c1d-ba4b-8beca8a4b03c
+tmap.edges:{"ead7858f-6913-4568-8786-e338b117f339":{"to":"4b1ca637-c3c0-4806-81b2-be88709fb469","type":"organization-for-group"}}
+tmap.id:d4e44bca-811d-401c-976b-ca9cd0d15ed1
 url:
 
 

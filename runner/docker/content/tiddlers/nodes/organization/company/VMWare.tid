@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694213
+modified:1575207694213
 title:VMWare
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:ff02f0c9-4f1c-46cd-87e7-c48fe09715ad
+tmap.id:6e13e48f-cba6-492a-b160-f0825370130b
 twitter.profile:
 website:
 

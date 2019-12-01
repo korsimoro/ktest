@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694081
+modified:1575207694081
 title:United States Government
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"c42c7c86-acd8-4776-923d-f6668cbb2d74":{"to":"6aded4b9-0366-43ec-88aa-d2d0ee505bee","type":"executive-member"},"034fbce9-7fbb-43d2-b224-397b2d8c07cc":{"to":"7e448883-831e-4f70-8010-40a302fa9266","type":"funding-flow"},"d82a8fe7-9a7a-4e26-a621-725e72ef2d2e":{"to":"daa944e6-9413-44c4-9351-bf39a2006397","type":"government-connection"}}
-tmap.id:67951541-b73b-4952-9d0a-d9b67f3d89cc
+tmap.edges:{"a6e5c116-ec9c-4c9b-a7ea-06deb2fcb78c":{"to":"6a5e2c84-8585-470b-ac3c-3bf9579eaa92","type":"executive-member"},"d5d49742-1f49-4621-9b01-6c2ffb89b045":{"to":"e943c24e-9fa7-4888-90c3-843d08d70d9c","type":"funding-flow"},"63ff30df-6996-42a5-90df-2c68c752a7c1":{"to":"655cf5f1-f01a-4502-81bb-73f7709621b5","type":"government-connection"}}
+tmap.id:8e5b48c1-aa56-4842-8413-299207e889b2
 twitter.profile:
 website:
 

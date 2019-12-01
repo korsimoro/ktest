@@ -1,5 +1,5 @@
 import { KumuElement } from '../kumu'
-import { Me2BElement,Me2BModel } from '../me2b'
+import { Me2BElement } from '../me2b'
 //import { JSONSchema6 } from 'json-schema'
 type SchemaPropertyDef = any
 
@@ -54,7 +54,7 @@ export const mappers:any = {
   },
   tagArray(colName:string) {
     function mapper(elt:KumuElement|Me2BElement,schema:SchemaPropertyDef):string[] {
-      const tagdata = (elt.slugmap[me2b_slugify(colName)] || '').trim()
+      const tagdata = (elt.slugmap[elt.model.slugify(colName)] || '').trim()
       const tags = [] as string[]
       if(tagdata) {
         const a1 = tagdata.split("\n")
@@ -110,7 +110,7 @@ export const mappers:any = {
   },
   csv_value(column_name:string) {
     function mapper(elt:Me2BElement,schema:SchemaPropertyDef):string {
-      const val = elt.slugmap[me2b_slugify(column_name)] || ''
+      const val = elt.slugmap[elt.model.slugify(column_name)] || ''
       //console.log("Running Mapper",me2b_slugify(column_name),val,Object.keys(elt.slugmap))
       return val
     }
@@ -119,7 +119,7 @@ export const mappers:any = {
   me2b_set_description(column_name:string) {
     function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
       //console.log("Running Description",elt.slugmap,me2b_slugify(column_name))
-      elt.description = elt.slugmap[me2b_slugify(column_name)]
+      elt.description = elt.slugmap[elt.model.slugify(column_name)]
       return undefined
     }
     return mapper
@@ -127,14 +127,14 @@ export const mappers:any = {
   me2b_set_title_and_field(column_name:string) {
     function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
       //console.log("Running Title",elt.slugmap,me2b_slugify(column_name))
-      elt.title = elt.slugmap[me2b_slugify(column_name)]
-      return elt.slugmap[me2b_slugify(column_name)]
+      elt.title = elt.slugmap[elt.model.slugify(column_name)]
+      return elt.slugmap[elt.model.slugify(column_name)]
     }
     return mapper
   },
   me2b_set_subtype_and_field(column_name:string) {
     function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
-      let st = elt.slugmap[me2b_slugify(column_name)]
+      let st = elt.slugmap[elt.model.slugify(column_name)]
       if(!st) st = 'to-be-determined'
       elt.subtype = st
       return st

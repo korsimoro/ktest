@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207693999
+modified:1575207693999
 title:Lucile Girollet
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Lucile Girollet
 organization:
 tags:
-tmap.edges:{"45b65184-84d0-4c70-8c3e-235a3b88380e":{"to":"7b465f0d-bda5-41e7-aeb8-fac61b2ec674","type":"author"}}
-tmap.id:5ad46fdf-4e1b-4b67-8cd8-d93b43e4f716
+tmap.edges:{"87dce2d3-c078-47bf-a4fd-99b7bcff83b1":{"to":"173e55a5-c266-485c-897f-68ba02ee6a60","type":"author"}}
+tmap.id:0794c273-ed19-4f95-a600-6d988d3d992b
 twitter.profile:
 website:
 working.group:

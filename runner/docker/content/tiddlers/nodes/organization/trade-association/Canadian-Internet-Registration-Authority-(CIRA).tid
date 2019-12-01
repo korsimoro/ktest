@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694066
+modified:1575207694066
 title:Canadian Internet Registration Authority (CIRA)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:2000-12-01
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"32a383ac-0144-48b9-b8ee-83dac4f9b7f1":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"}}
-tmap.id:9f287d2e-55c0-41d2-bbf0-04ed43557da5
+tmap.edges:{"cd9de9f8-577f-40fd-85bf-55f42aea5240":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id:96fe35dc-854b-418e-9fbb-f6c80ee982e5
 twitter.profile:
 website:https://cira.ca
 

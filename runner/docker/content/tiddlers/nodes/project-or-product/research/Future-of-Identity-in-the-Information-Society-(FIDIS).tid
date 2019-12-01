@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693921
+modified:1575207693921
 title:Future of Identity in the Information Society (FIDIS)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -19,10 +20,10 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:
+tags:0
 terms.of.service:
-tmap.edges:{"3d065744-be90-42d2-90a6-3df9c7fae389":{"to":"e39fb427-db6b-48c7-b8a9-58c08d78801b","type":"author"},"9c693c77-7c9c-4ee4-8fff-977d7656b894":{"to":"183ae8ca-8bcb-40b4-afec-22d00f377141","type":"author"},"fc8ec4e7-8dcd-4647-a424-7e6fa8ef6a58":{"to":"4503b772-0a56-404d-8f9e-753f4db4ea0c","type":"author"},"bee62bd7-f7f4-4767-853f-466db9b5c4e5":{"to":"9c1fc005-b2e6-4a90-b4af-0a779465d3a0","type":"connection"},"d5c75795-e575-4ec9-b30b-1f4c3b7bbe64":{"to":"9562253e-cfe6-40ef-ac55-7297f951a057","type":"author"},"406d2dce-c60d-44b1-9ccd-88de5fc77586":{"to":"92f29444-96c6-4793-948b-01d2fd1b0a0c","type":"author"},"471f6365-3fb5-4fe4-a833-4010eb884a8a":{"to":"77516255-ec4b-4536-8753-200cc044c7e4","type":"connection"},"451337e6-f1ec-4f11-aef4-e0f1a4127d60":{"to":"9df0b511-3844-42bc-b681-361a99cdf5a9","type":"author"},"99315a27-431b-4e0d-a9cd-9462573ab9c7":{"to":"dada9943-b403-49eb-8c3f-74f85a01f7df","type":"author"}}
-tmap.id:37db6c0b-96f1-440b-9747-2c1bf58e2092
+tmap.edges:{"8200d623-a56d-4a12-ad88-67fcc840dbd8":{"to":"533bdc47-b55b-4c91-927b-8547e5a4c13e","type":"author"},"7263daab-5fca-4852-920b-67abe0d366d0":{"to":"188fd9ac-7494-490c-a72e-6b7926354588","type":"author"},"f1651af9-6568-413a-96bd-efaa2ff292a6":{"to":"63cc0bbc-cb80-4b4a-990d-88e9cdcb7424","type":"author"},"7e64e38e-f00d-4d32-adbb-b47bd70fc20b":{"to":"004b7b0b-df3e-4147-984c-2e6fc4d60a6e","type":"connection"},"3166a41d-ee09-4907-b3a1-3cfe88c586e1":{"to":"52d36cd5-94d1-4cfe-86ec-220c112d412e","type":"author"},"c37454b7-a7f1-44b5-b781-8963e22ce4b3":{"to":"5789fdae-1fca-4eee-b4e9-139049f19ae5","type":"author"},"b411095a-22b1-4651-b379-b79346781e91":{"to":"974867e5-46be-4aae-9d3f-1cf843966e9c","type":"connection"},"cf051767-24be-466a-99a7-fbfff66c4ce0":{"to":"b875f7de-38c0-4741-bbf8-510ba60cde22","type":"author"},"756926da-9617-4c85-ad94-dad5f7565080":{"to":"99adceab-a35a-47da-83ac-a70c6287bad7","type":"author"}}
+tmap.id:11c8face-e977-44dd-94c5-39b3a1d89ebc
 url:http://www.fidis.net/about/
 version.or.edition:
 working.group:

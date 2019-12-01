@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694219
+modified:1575207694219
 title:Salesforce
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:b3079581-4e70-436b-b170-be18d5349085
+tmap.id:f69440b0-0424-4abf-86f7-d9dc4a67cd5c
 twitter.profile:
 website:
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693887
+modified:1575207693887
 title:European Union
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"7b4a56aa-7fd3-452b-8352-076916a5fb3a":{"to":"b47d58d7-14dc-4a18-a299-a69f6cd6e109","type":"connection"}}
-tmap.id:6715c90b-2398-4de6-a21e-5ac4735e7956
+tmap.edges:{"71591d4f-696b-4cd7-b7a7-82ee4ddfd7e7":{"to":"b9dd3ee5-b718-42fb-80e1-440ecd0b4732","type":"connection"}}
+tmap.id:53e5bfa0-ef32-4ef3-952e-ec04e4bd4d9d
 twitter.profile:
 website:
 

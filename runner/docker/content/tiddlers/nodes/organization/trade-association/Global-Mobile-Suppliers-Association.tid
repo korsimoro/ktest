@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694067
+modified:1575207694067
 title:Global Mobile Suppliers Association
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:70e94754-80ab-4a65-b251-9180ecb7fc3d
+tmap.id:1347c4ee-30b7-4c9d-bdde-7c65b3a5bb7b
 twitter.profile:
 website:http://gsacom.com
 

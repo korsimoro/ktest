@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693870
+modified:1575207693870
 title:Ku Leuven
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -24,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:
+tags:0
 tech.focus:
-tmap.edges:{"35e180cb-384c-4225-a256-a6de01c27772":{"to":"315f55bc-23b4-45b0-abd4-97d10f715247","type":"general-member"},"d2705c06-1480-4a39-94b7-5a284e894032":{"to":"1d76d3bd-5e70-4507-b253-dacd0b6e423a","type":"founder"}}
-tmap.id:50f790cc-50ab-41cd-8038-c7f9531fdddd
+tmap.edges:{"d6ae595d-f314-4be8-977e-3b308107bd38":{"to":"8d248f49-1647-42e3-9cb6-e65bcd07e3f7","type":"general-member"},"0be17811-9736-4af9-b2eb-81aa4b2c1481":{"to":"ba114566-c840-4561-af50-32dc97f543a7","type":"founder"}}
+tmap.id:0f23f529-3940-4e51-9ea3-74d5d654f1ca
 twitter.profile:
 website:http://www.kuleuven.be/english/
 

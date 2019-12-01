@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694081
+modified:1575207694081
 title:Israeli Government
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"8366c243-c7e3-4d27-ab75-4cbf4db04d3f":{"to":"1e7d6467-42ea-4289-8b9b-3786782a590a","type":"government-connection"}}
-tmap.id:4dea360b-cf91-4358-be66-0353a011d173
+tmap.edges:{"43fbe9ae-0aec-4809-a420-f1ebf77e9908":{"to":"b1dacf7b-c2c3-43d8-bad9-ba00e74e0c2e","type":"government-connection"}}
+tmap.id:d9696575-8380-4a4b-ba86-76f8460f40aa
 twitter.profile:
 website:
 

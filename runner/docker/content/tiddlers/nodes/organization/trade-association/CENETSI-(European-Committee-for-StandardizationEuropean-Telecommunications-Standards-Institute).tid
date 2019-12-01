@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694033
+modified:1575207694033
 title:CEN/ETSI (European Committee for Standardization/European Telecommunications Standards Institute)
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:252eb068-bb72-442e-ab71-49e1790500bd
+tmap.id:0bb03c9a-59f9-4ceb-ae26-f58f493d3171
 twitter.profile:
 website:
 

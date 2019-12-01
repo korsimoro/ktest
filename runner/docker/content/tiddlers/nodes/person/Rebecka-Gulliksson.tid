@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207693998
+modified:1575207693998
 title:Rebecka Gulliksson
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Rebecka Gulliksson
 organization:
 tags:
-tmap.edges:{"6630a67d-6fdb-4896-a048-744656d24381":{"to":"5bcd32b5-4f5f-48dd-9574-116a32d348ca","type":"author"},"97d6bda9-2951-4ebc-95c0-eba5e9dcf86a":{"to":"26f24eaa-6a1d-4268-bc87-9817bb77f0cc","type":"employee"}}
-tmap.id:92667f16-7004-492b-b3d8-2ae1addde7a5
+tmap.edges:{"d98412dd-68ef-42a1-bb60-4ba4f1fda9b3":{"to":"5be52e1f-cc87-4e96-b113-f45bb630f390","type":"author"},"bc8da901-77dd-407f-b325-ffb4621c688d":{"to":"ae093310-cf34-43c0-8c0d-9d9f80f18bb6","type":"employee"}}
+tmap.id:b948a962-f1b7-4a95-83dd-ed748839286b
 twitter.profile:
 website:
 working.group:

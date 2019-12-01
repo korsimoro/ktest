@@ -1,11 +1,24 @@
-created:
-modified:
+created:1575207694297
+modified:1575207694297
 title:Data Governance Design Conference
 type:text/vnd.tiddlywiki
+audience:
 category:to-be-determined
+date:
+element.type:event
+frequency:
+github.profile:
+host.organization:
+input.source:me2b
+location(s):
 name:Data Governance Design Conference
+partners:
+people:
+relevant.publications:
+tags:
 tmap.edges:{}
-tmap.id:6734c46c-6677-4c63-a85f-44f74a46c265
+tmap.id:3c31a113-8c4c-47d0-b468-f5ca5d9532ed
 website:https://www.governingdata.org/
+working.group:
 
 

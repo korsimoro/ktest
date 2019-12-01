@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694010
+modified:1575207694010
 title:Economy & Society
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"d693dae2-b4fb-4f62-a458-29b0a60dc90e":{"to":"0f8bb94a-f081-4dd7-8a3e-4c86627d05f0","type":"government-connection"}}
-tmap.id:5e55edfb-3345-4d21-a46d-eeade8355849
+tmap.edges:{"75260d1d-7af1-4338-beb6-5d87fde7599d":{"to":"2c9ac66f-7b91-45a6-bca5-10dcc26a9c3f","type":"government-connection"}}
+tmap.id:915a83bd-9db4-47be-9fcb-30f249525be6
 twitter.profile:
 website:
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693849
+modified:1575207693849
 title:Optical Memory Cards WG9
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"7e5df89d-5906-4290-aad1-f3c84fa85774":{"to":"9c54f81b-2c21-46db-8917-566b773e6a8f","type":"organization-for-group"}}
-tmap.id:0b97d733-e78c-448b-b4d8-7b1575603e9d
+tmap.edges:{"afd1de97-a738-43fd-a3ae-d5d2c4e271e0":{"to":"6e64799d-3db7-4b89-9657-19a1d8365a4b","type":"organization-for-group"}}
+tmap.id:bf1daa0b-1817-40b9-a05d-bcf2c0f07a7e
 url:
 
 Enhanced OMC technologies enabling more data capacity, fast access and high reliability based on existing standard technologies or new technologies. Software or programming interface for accessing OMC data contents. (Host application program will be able to use this interface for easier implementation. Access method software of OMCs application program.) Physical assignment and /or logical assignment for OMC media use. Logical data structures in OMCs data (file structure etc).

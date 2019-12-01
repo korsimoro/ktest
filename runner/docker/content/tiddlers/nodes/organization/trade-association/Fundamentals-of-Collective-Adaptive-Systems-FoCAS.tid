@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694034
+modified:1575207694034
 title:Fundamentals of Collective Adaptive Systems FoCAS
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:2018-12-31
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"b33091d9-2224-40eb-9c5f-d2cb7767ef91":{"to":"0695b106-fda3-4720-9552-830331c56c22","type":"default"}}
-tmap.id:3eda8841-bf02-4d04-87a2-860a3f89e3de
+tmap.edges:{"249607ba-d1eb-489d-9da4-b02cfa7ca16a":{"to":"3371f882-b669-4610-9697-331ba49cea7a","type":"default"}}
+tmap.id:6b54a095-7d22-49a0-bd58-98223439eae5
 twitter.profile:
 website:http://www.focas.eu/about-focas/
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693969
+modified:1575207693969
 title:Cyber secure, innovative smart energy products
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Proof of Concept
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -22,7 +23,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:905b5f32-34f5-4991-aac9-99507e297f8e
+tmap.id:dcd82dc4-b1ea-46b7-b76d-cfe11df496a8
 url:http://www.cyberwiser.eu/pilots/cyber-secure-innovative-smart-energy-products
 version.or.edition:
 working.group:

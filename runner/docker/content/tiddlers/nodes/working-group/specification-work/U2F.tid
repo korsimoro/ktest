@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693869
+modified:1575207693869
 title:U2F
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"ca034428-0ca8-421d-b759-20699d74e718":{"to":"acd989dd-96f4-4166-a74e-77106bb0a844","type":"organization-for-group"}}
-tmap.id:813dce3b-2203-48af-a4f9-1eee37b75f92
+tmap.edges:{"0d3a34eb-d901-4901-8da4-55a73f618cf0":{"to":"d0de69a3-a6f1-4b31-8fac-c95124e645af","type":"organization-for-group"}}
+tmap.id:22909452-c775-4593-a471-25878a94bd3f
 url:
 
 Second Factor UX (U2F)

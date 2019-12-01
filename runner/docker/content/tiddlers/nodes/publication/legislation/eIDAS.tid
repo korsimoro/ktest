@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207694079
+modified:1575207694079
 title:eIDAS
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:eIDAS
 publication.type:Legislation
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:European Commission
+sponsoring.org:European Commission
 tags:
 tech.focus:
-tmap.edges:{"88a93db5-81d6-46c1-831d-079c94c97eee":{"to":"7c11e187-0566-4bdb-8b10-f1eee97f3177","type":"connection"},"bbfdebf1-205c-47f4-bf15-6c0a5c39d9e3":{"to":"b12e3416-7033-4e1d-9773-3c57513c54ce","type":"default"},"7c652b57-cb59-43a7-a055-40eb2e684d21":{"to":"a959525d-4742-4c66-8af7-f0507c800e59","type":"government-connection"},"e4cd8a5d-2b76-4104-9f96-fab5d14a638d":{"to":"26151514-9daa-480c-989c-a12b4a704104","type":"government-connection"},"49f0cd25-fc79-4991-ab48-fba53f0fd5c7":{"to":"b12e3416-7033-4e1d-9773-3c57513c54ce","type":"connection"},"8a0bb442-8c68-42b7-9d57-2975d8717457":{"to":"5e74d0e7-408b-4268-890f-c5339fdc5607","type":"government-connection"},"09705c41-964d-4fab-81e3-68a90714f6cb":{"to":"34da753c-f924-4210-8427-70687593947a","type":"connection"},"63d0845c-46cb-44d0-8d50-9f66d6bd679e":{"to":"1ad114b5-7756-4587-9715-661f78d7ff7a","type":"government-connection"}}
-tmap.id:67aee1fd-212d-4d8b-8f1f-bf3f70a54fbb
+tmap.edges:{"0a53b384-a36e-4983-9c71-b7474325b555":{"to":"af29f78b-82ac-41df-b883-fe3fb7fe8f34","type":"connection"},"4fa1e064-c525-424a-8edb-440b3932a0e7":{"to":"4a153036-54b0-4005-ad75-5019fbe2704b","type":"default"},"3d168d8f-f331-468f-942c-660d3e6b9d48":{"to":"d3dc69f0-5d37-4a3d-bd94-afd75bb45ffc","type":"government-connection"},"b32b1dd7-7919-48cc-8fde-739fbbc35d5d":{"to":"f8bd16f3-730f-450d-8af0-9fe3adaaf6d6","type":"government-connection"},"c75a3e43-e4bf-40d0-bdfc-8d13085d3550":{"to":"4a153036-54b0-4005-ad75-5019fbe2704b","type":"connection"},"51a04a4f-358e-4ca0-b1fb-ed5ab3d99ebf":{"to":"6ef88127-ef99-4cd4-8346-c64b9ea2bdf0","type":"government-connection"},"bcab8427-b6de-4b74-84d8-058d8760b465":{"to":"76d3ab22-879c-46fc-a8ec-503967b918ed","type":"connection"},"15ecc86c-5c54-4ca1-9200-50d31b0e3889":{"to":"4242a8f2-beec-4974-b8d2-0fa59aeb24e2","type":"government-connection"}}
+tmap.id:2bc490b3-ce53-4ab6-af9e-6549296c98a1
 url:https://www.eid.as/home/
 version.or.edition:
 volume.frequency:

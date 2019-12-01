@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694019
+modified:1575207694019
 title:Innovation and Networks Executive Agency
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"3589b98f-015f-4e6e-8685-19837aa33f4e":{"to":"0b0cd829-4205-4a9b-ad27-5ab64ecb3bf7","type":"funding-flow"}}
-tmap.id:d457ce7f-b463-46fc-bb31-f44ff57d86d4
+tmap.edges:{"82036088-20b4-44a7-97f2-a0966fa89191":{"to":"afd8c051-b921-4848-bd0e-05ba163104e2","type":"funding-flow"}}
+tmap.id:2c441c64-5da2-44fa-aa7a-5459bb0a3946
 twitter.profile:
 website:
 

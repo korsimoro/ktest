@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694014
+modified:1575207694014
 title:The Fourth Industrial Revolution
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:08a3cb5f-05fc-48c1-9d06-47e126f8e4b8
+tmap.id:9c09f050-055d-4bff-9817-f22aab29350f
 twitter.profile:
 website:https://ec.europa.eu/digital-single-market/en/fourth-industrial-revolution
 

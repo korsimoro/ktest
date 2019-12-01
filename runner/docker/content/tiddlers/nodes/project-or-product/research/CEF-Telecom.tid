@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693914
+modified:1575207693914
 title:CEF Telecom
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -21,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"2a6fc160-5c57-468a-b427-b312a82d157f":{"to":"1ad114b5-7756-4587-9715-661f78d7ff7a","type":"government-connection"},"191fc496-0c8a-4e06-9301-aa492a0bf2c0":{"to":"7b7e3f34-a345-4723-b3ca-529a3a1347b1","type":"author"}}
-tmap.id:0b0cd829-4205-4a9b-ad27-5ab64ecb3bf7
+tmap.edges:{"052f0da2-1f02-421b-8b43-fc78c87976ee":{"to":"4242a8f2-beec-4974-b8d2-0fa59aeb24e2","type":"government-connection"},"5ae77655-3ecb-457d-ae82-87c93c077be1":{"to":"3e90cdcc-1336-4098-8950-917cc6a89348","type":"author"}}
+tmap.id:afd8c051-b921-4848-bd0e-05ba163104e2
 url:
 version.or.edition:
 working.group:

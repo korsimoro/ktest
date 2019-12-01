@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694002
+modified:1575207694002
 title:Kai Rannenberg
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Kai Rannenberg
 organization:
 tags:
-tmap.edges:{"2c33a3fd-0376-404d-bbe1-6b50cf61e4f3":{"to":"70f3692d-6a08-45f7-b05d-9e8b478893df","type":"vice-chair"},"0969ca97-1ea6-430c-9088-0c43ea75edb6":{"to":"a37441d7-d267-4c64-b06e-2fd1fa16d5d9","type":"vice-chair"}}
-tmap.id:a6c44ff1-d569-4676-89dc-413a28ad9708
+tmap.edges:{"e21e4a69-1661-4f48-b314-267b17e7f9ec":{"to":"c9e090d6-d167-4ba1-969c-75e188522f15","type":"vice-chair"},"d83b5710-ae62-41c8-a711-f6737b04ccd3":{"to":"1f09f4f7-417f-4078-859b-e0915fb85f48","type":"vice-chair"}}
+tmap.id:8e03386e-6432-4de4-b8e6-cbeae28f539c
 twitter.profile:
 website:https://www.m-chair.de/index.php/staff/1
 working.group:

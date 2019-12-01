@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693875
+modified:1575207693875
 title:University of Karlstad
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"3c7c6d28-9a37-4e2c-8933-aee1da261756":{"to":"a3ace87c-fc55-4361-aa74-81264b744bc1","type":"organization-for-group"}}
-tmap.id:441bf3b3-2b3d-4383-937d-c4dd25437445
+tmap.edges:{"0f083ad2-5be9-4a65-8573-9846c8d2be4f":{"to":"b797ec24-74dd-4d9e-b176-6183a061c516","type":"organization-for-group"}}
+tmap.id:c2d4d85d-db21-42e7-93a6-437f09ceca32
 twitter.profile:
 website:https://www.kau.se/en/
 

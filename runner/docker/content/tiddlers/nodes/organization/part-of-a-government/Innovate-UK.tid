@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694022
+modified:1575207694022
 title:Innovate UK
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"0d4875e9-2802-43c3-b3b8-fbbc6f790de8":{"to":"78a94d12-187e-407d-a254-6b921da13353","type":"government-connection"},"777cc0f3-0a45-426b-8217-9cb798f4a073":{"to":"bd21075d-e1f1-4e68-8af2-0feaffe721c9","type":"connection"}}
-tmap.id:dbaa37aa-d6fe-48ff-b723-9bc1f28a22b5
+tmap.edges:{"900aa69f-e657-4b72-8b47-6d28a36997db":{"to":"d1710546-66d5-4a6e-8822-cfb305e91580","type":"government-connection"},"343c672d-5c71-45ef-b027-c7353306fd24":{"to":"4c66d504-dd39-4d18-a5a6-fcf6c9673983","type":"connection"}}
+tmap.id:14c7cbfa-37de-4b62-b87c-192202c5067a
 twitter.profile:
 website:
 

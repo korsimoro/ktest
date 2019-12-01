@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694080
+modified:1575207694080
 title:Austrian Government
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:a39a5136-67df-4c4b-bb13-78f43a5791e2
+tmap.id:f98db82c-9345-476d-bdff-f85e3185cb44
 twitter.profile:
 website:
 

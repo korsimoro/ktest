@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694083
+modified:1575207694083
 title:Intl Workshop on Secure IoT (SIOT 2016)
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:IEEE Internet of Things
@@ -13,8 +14,9 @@ name:Intl Workshop on Secure IoT (SIOT 2016)
 partners:
 people:
 relevant.publications:
+tags:
 tmap.edges:{}
-tmap.id:50c5329f-d30f-4583-9340-0fc847f4695d
+tmap.id:4277cd1d-dd09-4d3a-94b3-08fbad958cd5
 website:http://siot-workshop.org
 working.group:
 

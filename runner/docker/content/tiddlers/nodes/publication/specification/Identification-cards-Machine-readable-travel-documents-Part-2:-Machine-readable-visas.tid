@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693908
+modified:1575207693908
 title:Identification cards – Machine readable travel documents – Part 2: Machine readable visas
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Identification cards – Machine readable travel documents – Part 2: Mach
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:Machine Readable Travel Documents WG3
+sponsoring.org:Machine Readable Travel Documents WG3
 tags:
 tech.focus:
-tmap.edges:{"560a1d1c-da82-41b4-bb98-4cf428e2521d":{"to":"0187f894-f8c7-4964-a317-9e1ed578870f","type":"specification-of-group"}}
-tmap.id:390babbc-d7b1-4cf4-b700-43652539f009
+tmap.edges:{"1970c893-7103-4c11-bda5-c3d808e6e448":{"to":"a2d9d19e-6fc3-4e8c-87d0-af187d97565f","type":"specification-of-group"}}
+tmap.id:bc6ea05c-2cc4-4426-962d-6aa2801cf016
 url:
 version.or.edition:
 volume.frequency:

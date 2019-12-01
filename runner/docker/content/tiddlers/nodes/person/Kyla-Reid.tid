@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694002
+modified:1575207694002
 title:Kyla Reid
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Kyla Reid
 organization:
 tags:
-tmap.edges:{"74dea0d1-19f1-4299-9da9-3d61396f5c5e":{"to":"844a29a7-90a7-4859-9c94-55ea6abdfa46","type":"vice-chair"},"a52b3a53-f17d-4b74-b413-9ab869b8fc4a":{"to":"844a29a7-90a7-4859-9c94-55ea6abdfa46","type":"employee"}}
-tmap.id:1380d347-d4ef-4984-91be-8b44c1a9448c
+tmap.edges:{"82ea6bbc-e6e4-4c7d-9c43-5b4ad7b9638f":{"to":"7e26dd35-c1ac-4f63-b9f3-853b7ceccd6d","type":"vice-chair"},"2b2abe8d-a8de-45ab-8bc2-7e65281007b1":{"to":"7e26dd35-c1ac-4f63-b9f3-853b7ceccd6d","type":"employee"}}
+tmap.id:15eec280-3593-40f3-86ad-ed94f7403efc
 twitter.profile:
 website:
 working.group:

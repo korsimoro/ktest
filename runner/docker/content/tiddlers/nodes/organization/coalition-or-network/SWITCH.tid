@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694075
+modified:1575207694075
 title:SWITCH
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"e21dfda5-85db-4f60-8749-17d6a794c112":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"}}
-tmap.id:0886d470-2b44-429a-b81d-1b3a07f29dcf
+tmap.edges:{"c0db7b67-cb36-4e53-a3f8-0cb689ab3094":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id:3bc5a82a-2c68-4e66-9617-e5abdbad3a05
 twitter.profile:
 website:
 

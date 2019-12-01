@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694280
+modified:1575207694280
 title:UNECA - United Nations Economic Commission for Africa
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:f62554df-ad9e-400b-af97-3ebcd78e7ace
+tmap.id:f98c61f7-6335-4829-96e3-88de9f56ed9a
 twitter.profile:
 website:
 

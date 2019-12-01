@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694085
+modified:1575207694085
 title:IEEE SecDev 2016
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:IEEE Computer Society
@@ -13,8 +14,9 @@ name:IEEE SecDev 2016
 partners:
 people:
 relevant.publications:
+tags:
 tmap.edges:{}
-tmap.id:fb6119e6-3d01-4a7d-820a-89449bcf3762
+tmap.id:b6b6ce8e-bea9-4486-9956-5e7d20ca58fa
 website:http://secdev.ieee.org
 working.group:
 

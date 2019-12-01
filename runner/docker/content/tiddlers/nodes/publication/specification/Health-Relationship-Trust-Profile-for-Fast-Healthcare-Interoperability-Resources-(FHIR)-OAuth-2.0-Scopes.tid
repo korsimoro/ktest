@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693899
+modified:1575207693899
 title:Health Relationship Trust Profile for Fast Healthcare Interoperability Resources (FHIR) OAuth 2.0 Scopes
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):Josh Mandel;Justin Richer
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:Health Relationship Trust Profile for Fast Healthcare Interoperability Reso
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:HEART Working Group
+sponsoring.org:HEART Working Group
 tags:
 tech.focus:
-tmap.edges:{"52fd4bcf-21ba-4414-823a-e0b0bdbfe741":{"to":"e4f47de1-bbe5-4d0e-afc4-15f7da9ff073","type":"specification-of-group"}}
-tmap.id:750cb1d8-a555-4b79-8f73-390847ecd1cd
+tmap.edges:{"2de7659f-ae6e-4208-8397-4636788851fe":{"to":"5b512cfd-bd53-4a31-9ad8-419ee1c00111","type":"specification-of-group"}}
+tmap.id:303430b3-61b4-4cb2-817d-49de343535f2
 url:
 version.or.edition:
 volume.frequency:

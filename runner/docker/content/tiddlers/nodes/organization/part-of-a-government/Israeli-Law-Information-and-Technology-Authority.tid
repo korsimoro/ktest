@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694027
+modified:1575207694027
 title:Israeli Law, Information and Technology Authority
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"a674569c-5cdf-4f75-ae89-be9725f18ba3":{"to":"4a007e4e-2a72-42e6-90cf-9adc4f6593ab","type":"convenor"}}
-tmap.id:1e7d6467-42ea-4289-8b9b-3786782a590a
+tmap.edges:{"5831428f-6791-4476-8461-32799f1c7302":{"to":"e60ac54a-25d5-41fb-bbfd-bcbcc1101a5b","type":"convenor"}}
+tmap.id:b1dacf7b-c2c3-43d8-bad9-ba00e74e0c2e
 twitter.profile:
 website:
 

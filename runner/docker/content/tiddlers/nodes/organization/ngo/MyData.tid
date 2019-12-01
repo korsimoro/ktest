@@ -1,19 +1,38 @@
-created:
-modified:
+created:1575207694293
+modified:1575207694293
 title:MyData
 type:text/vnd.tiddlywiki
 activities:movement building
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
 key.people:John Wunderlich
 Julian Ranger
 Henrik Biering
+linkedin.profile:
+location(s):
+me2b.relationship:Reuse any work from MyData.org that advances the Code of Practice and Certification.  Explore creating Theme Hub(s) for specific Me2B tasks?   Relationship between these two "sibling" orgs is TBD on both sides. 
 org.name:MyData
 org.type:NGO
 parent.org:Information Sharing Control: Data Mobility: Data Storage: Terms Management
+partners:
+products.and.or.services:
 purpose:tech interoperability
+relevant.publications:
+scope:
 sector:non-profit
 status:Active
+tags:
+tech.focus:
 tmap.edges:{}
-tmap.id:dd5199bd-3198-499e-b241-f6a1238df0f5
+tmap.id:6cb56576-37b2-4cbf-b178-15c8d1b2a6b5
+twitter.profile:
 website:https://mydata.org/
 
 MyData Global’s mission is to empower individuals by improving their right to self-determination regarding their personal data.

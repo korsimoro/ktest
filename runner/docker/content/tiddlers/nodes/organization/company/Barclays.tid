@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694212
+modified:1575207694212
 title:Barclays
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"519f756d-98cf-4bd7-817d-47e8c890525e":{"to":"ae571377-2f9b-499b-8518-533acd50d965","type":"certified-idp"},"4c390c45-127e-426a-970e-e44b32d0f1ca":{"to":"38226d23-6900-4820-8860-5c911b922fe0","type":"executive-member"}}
-tmap.id:766760c9-706d-4c30-b2e7-5106304e428e
+tmap.edges:{"a32379d3-3ae2-44c7-bdbc-eb8c628a976e":{"to":"012eb392-5979-43e6-9c7f-38258fc700ac","type":"certified-idp"},"5e2747f7-96ee-49c1-97ef-bf642283fb2b":{"to":"b0124e9e-0d13-4671-92b2-f2d19b7995d6","type":"executive-member"}}
+tmap.id:055ecefb-5a7b-40c9-8b21-85b397e96e26
 twitter.profile:
 website:http://www.barclays.co.uk/identity
 

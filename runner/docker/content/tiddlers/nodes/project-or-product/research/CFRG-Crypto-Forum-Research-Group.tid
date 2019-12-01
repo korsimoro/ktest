@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693916
+modified:1575207693916
 title:CFRG Crypto Forum Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Research
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -21,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"b9ad33d4-fc76-4c42-92c9-c5041351afba":{"to":"3e9c76ce-4794-4b7f-a667-22d79ed1dedf","type":"organization-for-group"}}
-tmap.id:89a9780f-b5cc-43a4-88c2-f55d8f966540
+tmap.edges:{"d25b1ce2-cf88-4578-b1b8-402c8df4cdc1":{"to":"a787af82-c1fc-43f8-9263-6e62c5ceeb3d","type":"organization-for-group"}}
+tmap.id:5949a725-3176-4655-81f8-c7ee5276418f
 url:https://irtf.org/cfrg
 version.or.edition:
 working.group:

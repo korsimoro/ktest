@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694000
+modified:1575207694000
 title:Mark Lizar
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Mark Lizar
 organization:
 tags:
-tmap.edges:{"34a557ce-1dc1-496a-a36d-60bcef30e7cd":{"to":"bb1c3489-0b20-41a1-99ef-c83f55051151","type":"vice-chair"}}
-tmap.id:dac1feb1-c8e9-4916-a98b-1b504f34f2ce
+tmap.edges:{"d0ff8a45-7d5e-45a2-8feb-160c6cbe8a40":{"to":"19556e27-f6c4-4068-8810-75e7c365fd7f","type":"vice-chair"}}
+tmap.id:795f3512-86ed-40cb-9e6d-f7b4e068810f
 twitter.profile:
 website:
 working.group:

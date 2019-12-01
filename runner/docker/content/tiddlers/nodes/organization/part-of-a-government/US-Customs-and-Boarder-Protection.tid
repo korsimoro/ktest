@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694028
+modified:1575207694028
 title:US Customs and Boarder Protection
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"a10e3461-0f3f-4c81-ba47-441ba1cd9e23":{"to":"78e63a18-697c-4e7a-a687-eb6cd39d9040","type":"government-connection"}}
-tmap.id:0504b850-a79b-4a42-86f2-41c75c6076dc
+tmap.edges:{"1084a4a8-232a-4407-8874-90773a18b77b":{"to":"119284d3-d502-4a95-94fa-3e7ecf0b4369","type":"government-connection"}}
+tmap.id:dfe6e732-5850-4b57-844c-3729d90f8d34
 twitter.profile:
 website:
 

@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693892
+modified:1575207693892
 title:DoNotTrack.Us
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -13,12 +14,11 @@ name:DoNotTrack.Us
 publication.type:Specification
 purpose:
 sector:
-sponsoring.org:
-sponsoring.organization:Center for Internet and Society
+sponsoring.org:Center for Internet and Society
 tags:
 tech.focus:
-tmap.edges:{"02715094-4850-4597-89e3-123afa3197fa":{"to":"47be16ca-df89-441d-b9ce-103b17cf6ef8","type":"work"},"0e809bc2-fe20-42c0-95c2-a1b623ae6869":{"to":"9bd3cbd1-c110-44bb-af09-d3abecd0c884","type":"work"},"8c6c0fe4-6203-4206-b4f0-bf40933eea68":{"to":"05a3981a-5e24-4027-bf09-f5901d6c59c7","type":"work"},"24b8a597-a148-4ab7-9bd9-482a37638271":{"to":"0735aab7-3a8b-43c7-82ac-8c389eb417b8","type":"specification-of-group"},"937d6bc6-27ce-4b9a-9e35-7cdcdab305f2":{"to":"5833a6b2-8649-4647-8f9e-7cda97509e81","type":"work"}}
-tmap.id:74cc8101-4a2b-4a85-9aff-88e7fc8fb094
+tmap.edges:{"455f119f-d187-4db8-8115-85e84526e5b0":{"to":"42c7932a-f628-44d3-a2c6-204caf645be8","type":"work"},"b431d8d8-3af8-432d-a3cd-3774e4e9708b":{"to":"63a19042-00c1-4b44-a1d4-5bdea6fa8169","type":"work"},"ad4f5ec5-f368-4a60-84de-859ebfda5508":{"to":"40339be1-fb4a-442a-bc3c-2a7b5d1e0789","type":"work"},"f60ea59b-c115-4870-a065-eba1314a0c93":{"to":"85bf9f0a-f3da-42d0-9845-8996d174a3a8","type":"specification-of-group"},"f9cbe254-87a0-4c1c-9057-1f6cd976d638":{"to":"ff9db178-6491-4280-8a58-0ff13d4a8569","type":"work"}}
+tmap.id:03f11deb-ab66-4c45-916e-29a199e9d065
 url:
 version.or.edition:
 volume.frequency:

@@ -77,11 +77,13 @@ export type Me2BElementMap = {[id:string]:Me2BElement}
 // --------------------------------------------------------------------------
 export class Me2BModel
 {
+	ctx:Context
 	base:string
 	elements:Me2BElementMap
 
-	constructor(base:string) {
+	constructor(base:string,ctx:Context) {
 		this.base = base
+		this.ctx = ctx
 		this.elements = {}
 	}
 
@@ -128,7 +130,7 @@ export class Me2BModel
 
 				for(let x in schema.properties) {
 					const sdef = schema.properties[x]
-					const key = tiddlerSlugify(x)
+					const key = this.ctx.tiddly.slugify(x)
 					const mapper = inbound[x]
 					const value = mapper(newelt,sdef)
 					//console.log("Setting:",key,value)
@@ -144,42 +146,6 @@ export class Me2BModel
 				else { console.log("Trouble w/ element:",JSON.stringify(e)) }
 			}
 		}
-	}
-
-
-	map_csv_value(column_name:string) {
-		const model=this
-		function mapper(elt:Me2BElement,schema:SchemaPropertyDef):string {
-			const val = elt.slugmap[model.slugify(column_name)] || ''
-			//console.log("Running Mapper",me2b_slugify(column_name),val,Object.keys(elt.slugmap))
-			return val
-		}
-		return mapper
-	}
-	map_description(column_name:string) {
-		function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
-			//console.log("Running Description",elt.slugmap,me2b_slugify(column_name))
-			elt.description = elt.slugmap[this.slugify(column_name)]
-			return undefined
-		}
-		return mapper
-	}
-	map_title(column_name:string) {
-		function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
-			//console.log("Running Title",elt.slugmap,me2b_slugify(column_name))
-			elt.title = elt.slugmap[this.slugify(column_name)]
-			return elt.slugmap[this.slugify(column_name)]
-		}
-		return mapper
-	}
-	map_subtype_and_field(column_name:string) {
-		function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
-			let st = elt.slugmap[this.slugify(column_name)]
-			if(!st) st = 'to-be-determined'
-			elt.subtype = st
-			return st
-		}
-		return mapper
 	}
 
 }

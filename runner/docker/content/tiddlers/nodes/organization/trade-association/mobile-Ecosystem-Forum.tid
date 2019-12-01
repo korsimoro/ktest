@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694070
+modified:1575207694070
 title:mobile Ecosystem Forum
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:2005-01-01
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f7bbec49-b7bb-459f-87ec-2e8d08a0e247":{"to":"938cf073-d308-4280-b7ac-580ff69aa397","type":"organization-for-group"}}
-tmap.id:68bc993d-2f23-4f98-9c9a-3910c50ea8f6
+tmap.edges:{"68800faf-03eb-4da3-afbf-506487bd3481":{"to":"27885b61-eae1-4ab9-b74f-3a2f1eed1e4e","type":"organization-for-group"}}
+tmap.id:f0f68015-9db5-4b83-a3c2-f96ec8662ddb
 twitter.profile:
 website:http://mobileecosystemforum.com/
 

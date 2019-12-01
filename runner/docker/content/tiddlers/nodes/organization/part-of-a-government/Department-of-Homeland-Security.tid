@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694023
+modified:1575207694023
 title:Department of Homeland Security
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"34bc5c08-3637-4bf6-8563-cdff95214455":{"to":"5e1d03a3-e584-47e3-af3e-e6f5b63cb0ee","type":"founder"},"e9aa8fe0-03f9-4d30-8399-c3e66174e1ae":{"to":"67951541-b73b-4952-9d0a-d9b67f3d89cc","type":"government-connection"}}
-tmap.id:646697c4-1b55-48f4-86bd-f8954bebb7fb
+tmap.edges:{"b05be424-f74a-43e2-a003-6076a194b136":{"to":"827e22c6-1129-4b61-93d5-bc0876c2503e","type":"founder"},"0ce3fa8f-472c-4a64-8a8c-40d47fa77482":{"to":"8e5b48c1-aa56-4842-8413-299207e889b2","type":"government-connection"}}
+tmap.id:7851d784-2467-4b26-bf7b-2b4587b5393d
 twitter.profile:
 website:
 

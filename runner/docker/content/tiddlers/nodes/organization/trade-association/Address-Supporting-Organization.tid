@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694069
+modified:1575207694069
 title:Address Supporting Organization
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:1999-10-19
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"480b1ba3-4b58-4cda-8ffd-092b476ac85d":{"to":"d817385f-ffd0-40b5-960f-eca5ee81af4b","type":"connection"},"8fe39b16-48b2-4428-b974-f22a99732cab":{"to":"80ed9207-d9e5-4e24-a640-e5ee00e8d90f","type":"connection"}}
-tmap.id:2bc40cc8-564f-4b6f-b7cf-c0030b68ea04
+tmap.edges:{"8e9ef228-efe8-4d0e-8f35-1957feb7c18f":{"to":"9f01db50-e086-4fe7-b454-e5630cf17418","type":"connection"},"3adcb142-2857-4e85-a637-49884cd0d9ec":{"to":"f19f105b-10bf-4c65-a009-960d69866ef8","type":"connection"}}
+tmap.id:f67b38dd-15f1-498b-b06e-b26b40e99509
 twitter.profile:
 website:https://aso.icann.org
 

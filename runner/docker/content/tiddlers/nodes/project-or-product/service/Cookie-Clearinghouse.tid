@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693911
+modified:1575207693911
 title:Cookie Clearinghouse
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Service
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -19,10 +20,10 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:
+tags:0
 terms.of.service:
-tmap.edges:{"19a5b360-77bb-4571-9e3e-b0cb36658ae7":{"to":"b620f51e-e24b-457d-8701-fe17d9111ebf","type":"connection"}}
-tmap.id:47be16ca-df89-441d-b9ce-103b17cf6ef8
+tmap.edges:{"6b4e2e00-8ba7-4819-b47e-9374589c1ae7":{"to":"1050a7fa-e2c2-4beb-95e6-1fc8593c7816","type":"connection"}}
+tmap.id:42c7932a-f628-44d3-a2c6-204caf645be8
 url:http://cch.law.stanford.edu
 version.or.edition:
 working.group:

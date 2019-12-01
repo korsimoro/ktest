@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694088
+modified:1575207694088
 title:Working Party on Security and Privacy in the Digital Economy (WPSDE)
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Discussion Group
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"4bdd4e3b-0625-4152-97d1-12e300fb6233":{"to":"db9743eb-afeb-44f8-8db5-a1c31812f010","type":"convenor"},"3e0239b9-dc20-4f95-a8b7-c997eeecd0d4":{"to":"60acc243-29c4-4fc9-95da-f84c33be1f3e","type":"specification-of-group"}}
-tmap.id:df9578da-1527-4375-97d9-85efcf1ef7da
+tmap.edges:{"6b2f054c-ad17-4223-bee2-d59e24ce38d4":{"to":"f399650e-df8f-40e2-a393-57b22f950418","type":"convenor"},"f58293ad-4969-405f-8e2f-9bce7cf623c0":{"to":"e85d1a4e-f006-407d-ac7e-acd0dff41956","type":"specification-of-group"}}
+tmap.id:16a026b3-c9e3-476c-8159-bc5c6cbfd357
 url:
 
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693852
+modified:1575207693852
 title:Cross-Enterprise Security and Privacy Authorization (XSPA)
 type:text/vnd.tiddlywiki
 activities:
@@ -7,6 +7,7 @@ category:Specification Work
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
@@ -17,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"b0c8ae9a-1328-4923-a57b-57184af1baa1":{"to":"97374d5a-1b95-4057-82eb-78aa6764c95f","type":"organization-for-group"}}
-tmap.id:0c95a5b7-7f97-4b87-b6f1-481afb6693d7
+tmap.edges:{"4ccbc1a0-5bfd-4868-bd8a-4e3f4e1973d1":{"to":"c60a107c-dcd2-4d75-8677-c7aa2ee3581f","type":"organization-for-group"}}
+tmap.id:2de48d40-8de3-4773-b502-10e68c5c339e
 url:
 
 

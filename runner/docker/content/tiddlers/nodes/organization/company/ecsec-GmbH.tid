@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694212
+modified:1575207694212
 title:ecsec GmbH
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f18479d5-87d1-405e-9dba-8d4eced717e8":{"to":"5e74d0e7-408b-4268-890f-c5339fdc5607","type":"general-member"}}
-tmap.id:7ece9e7e-3afc-4982-9423-e5eb57eadaae
+tmap.edges:{"a7429227-b9ff-4ddb-8625-158eba404c55":{"to":"6ef88127-ef99-4cd4-8346-c64b9ea2bdf0","type":"general-member"}}
+tmap.id:1e98629a-eeb0-4241-81fb-8ce20a0ed968
 twitter.profile:
 website:https://www.ecsec.de/startseite/
 

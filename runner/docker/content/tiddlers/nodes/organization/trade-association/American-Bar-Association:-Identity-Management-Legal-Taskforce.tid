@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694065
+modified:1575207694065
 title:American Bar Association: Identity Management Legal Taskforce
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"8e7dda82-908c-4923-be3d-79fcd9ea9a5d":{"to":"b12e3416-7033-4e1d-9773-3c57513c54ce","type":"sponsor"}}
-tmap.id:775c718c-980b-43ca-9639-11151852f71b
+tmap.edges:{"ffaeb99c-78bb-4ef4-adaf-abfd621d99f4":{"to":"4a153036-54b0-4005-ad75-5019fbe2704b","type":"sponsor"}}
+tmap.id:e7b02ab2-d0c3-40af-9163-489aa1060b99
 twitter.profile:
 website:
 

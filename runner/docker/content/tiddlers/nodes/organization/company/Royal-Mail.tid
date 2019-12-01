@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694093
+modified:1575207694093
 title:Royal Mail
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"a3035d3c-bf27-4b55-85f6-871e56e0b2c4":{"to":"ae571377-2f9b-499b-8518-533acd50d965","type":"certified-idp"}}
-tmap.id:d3cd8d6c-dd5c-4b0f-b660-3f339f99e23e
+tmap.edges:{"08458427-0f05-4708-ae5b-d053a106be9d":{"to":"012eb392-5979-43e6-9c7f-38258fc700ac","type":"certified-idp"}}
+tmap.id:4383284c-dab0-4deb-aaf4-2b43bafff547
 twitter.profile:
 website:http://www.royalmail.com/personal/identity-verification
 

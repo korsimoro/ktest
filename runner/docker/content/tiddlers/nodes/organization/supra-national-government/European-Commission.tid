@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693887
+modified:1575207693887
 title:European Commission
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f83febc6-ab43-41ef-b571-97a341fc1d85":{"to":"7348574c-961a-4046-92b0-089fadceddc8","type":"government-connection"},"4ec5cd82-091a-4063-929e-72c4faeb7c08":{"to":"1bb0d21e-0a9e-43d0-aa18-fb4354bba311","type":"government-connection"},"3cfc48f6-5e53-49d8-b723-ffa09b76c173":{"to":"67aee1fd-212d-4d8b-8f1f-bf3f70a54fbb","type":"author"},"98f5dec5-9b4c-4f13-bbb5-5dde18856fbb":{"to":"4a5b7a79-df58-45ea-8240-ebbd1866dd1c","type":"government-connection"},"1c381122-d541-4367-b117-a49cec1f0c43":{"to":"7efe1066-7b9b-4dd3-bb91-483d100ce235","type":"government-connection"},"d77c7feb-205c-488d-89b8-8d18e17644d9":{"to":"18e208b5-1b77-4e16-8dc0-500ecfe1c095","type":"government-connection"},"bb07cdac-8bf0-4995-8eae-276e3e03fdb5":{"to":"19984422-22f5-4196-90fd-a0718cf60754","type":"author"},"6c42cbea-546b-453f-b1dc-747ab3867f8f":{"to":"8b060b58-0051-4930-92f4-e560f7558e8a","type":"author"},"f28ce51d-d4ef-4b83-baaa-7ab2b0d25ba1":{"to":"a7a41a0b-6b82-463d-ac6d-be532aeef79a","type":"government-connection"},"dc3c70a3-62ff-41f4-8c87-002bd8136ea2":{"to":"149c5d37-03eb-4cfb-831d-e07a7a94e6b4","type":"government-connection"},"f33bf73d-493c-40d4-81fe-7f09c7f53b5f":{"to":"fea7ef4a-13d0-42fe-a47b-3317bb0704c8","type":"government-connection"},"1c8f2089-ec52-42d8-94d2-05f0f2f162bf":{"to":"030696eb-1d9a-4dd2-a1c6-a0ee47eb16a7","type":"author"},"cc21f24d-3244-4952-af6d-9ced27a4d0d6":{"to":"d457ce7f-b463-46fc-bb31-f44ff57d86d4","type":"government-connection"},"7cb3d833-7ed9-43c2-a5d4-d3020a825e58":{"to":"b600b6fa-8c00-42d7-b881-0ec69ad921d9","type":"government-connection"},"ed81e192-65ab-4622-a5a7-ecd673f0d730":{"to":"fd382a4b-8393-4f89-ba36-959deb4c8425","type":"government-connection"}}
-tmap.id:b47d58d7-14dc-4a18-a299-a69f6cd6e109
+tmap.edges:{"15c06cea-0278-4c71-b0ab-569d600cb45d":{"to":"2772a3fb-8f9f-407a-b5b2-b2f4014483d4","type":"government-connection"},"daf84661-8cc4-4da2-b43c-deb2b751bfe1":{"to":"4d221e93-d67a-4aef-8d3c-802682ec738f","type":"government-connection"},"9afcb09e-c06d-4f7a-a438-0f25df7814b4":{"to":"2bc490b3-ce53-4ab6-af9e-6549296c98a1","type":"author"},"13428491-637d-4e2a-98f1-349f4b8db7f9":{"to":"539a8974-3bee-4480-8316-1832a3f68424","type":"government-connection"},"91868bab-22e2-49ad-9da6-5f8cb6ef48d0":{"to":"e4d6946c-6c4b-4644-b1f4-615117ea1b47","type":"government-connection"},"6abf1b4f-6897-4635-9824-9c902bafa7b6":{"to":"a3634f0b-3f23-4842-b358-d08c32fdab58","type":"government-connection"},"060298ed-a454-4aec-a02f-ecce4a00194a":{"to":"a3a18eb1-1499-4d5d-b66c-39b86e769422","type":"author"},"0d1a6314-95af-4f69-bdd3-18509bc909f9":{"to":"ae6ded78-e166-44e8-ac18-b317347c8ac1","type":"author"},"66129535-946a-43c7-a13d-2f8719c95c68":{"to":"d77cfddb-2b0c-40d5-9a1b-2ea981c220c1","type":"government-connection"},"9bb95052-d908-431e-bd28-a7e56401313b":{"to":"26abd276-a404-4e2f-a862-9f8a55f5b466","type":"government-connection"},"96bf7a32-9e48-499f-8f02-624717c02951":{"to":"63739f38-0dd1-4b3c-8d75-a30154b7d31e","type":"government-connection"},"77251108-81a5-48b5-84f6-f2a045beff0b":{"to":"19d17a77-93c2-4eaf-9049-6d96e0a6dcd0","type":"author"},"04233bef-3ef4-439f-83f6-940ed5d828cd":{"to":"2c441c64-5da2-44fa-aa7a-5459bb0a3946","type":"government-connection"},"0a246b9e-6e1e-4178-a81f-852ffbb0b9ca":{"to":"88653eb6-8ead-4f4b-b849-08bbc95ba92d","type":"government-connection"},"750d7f80-a2c4-4304-a2eb-d424f2dac507":{"to":"4d548190-7e13-4608-8156-4bdeb9be46d9","type":"government-connection"}}
+tmap.id:b9dd3ee5-b718-42fb-80e1-440ecd0b4732
 twitter.profile:
 website:
 

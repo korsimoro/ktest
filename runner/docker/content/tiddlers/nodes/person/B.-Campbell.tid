@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207693999
+modified:1575207693999
 title:B. Campbell
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:B. Campbell
 organization:
 tags:
-tmap.edges:{"98627202-bab9-4734-9708-f1599125d2fc":{"to":"ed51f037-b642-4c59-bf68-437259ac289d","type":"author"},"6198f0dc-a396-4fb2-aa26-0a9da27f59da":{"to":"b3abc34d-7344-4aa2-99da-40440e7a6128","type":"author"},"f6f9ba01-7e2a-4b6a-8bfd-12d26e06bddf":{"to":"f4a77dd9-3644-4de0-a030-ead1bfed634a","type":"employee"},"d02e9ba6-e8c4-4188-b6d2-0eaf2e634851":{"to":"2068d9fe-23f3-45a5-be9c-d0c1d7cf85e3","type":"author"}}
-tmap.id:8eb3b2dc-060c-4716-a3b2-907b95fa7e38
+tmap.edges:{"42f7036e-5907-49b9-a79e-636b3322bae0":{"to":"0a8780ee-7139-4609-b936-1e346667151a","type":"author"},"428694f4-5503-41c9-b900-20ded82d0983":{"to":"c13f5e56-3f05-47c9-a316-c5ee965146f8","type":"author"},"6d3c4cfc-5491-4a55-b948-c6a669ae28e9":{"to":"d3432676-4801-48c5-9d77-d62ba430c691","type":"employee"},"2037d1cf-778d-4bdf-abe1-e53a5425cec2":{"to":"c509d019-d549-476e-9d28-aab053b37269","type":"author"}}
+tmap.id:b403e953-18a4-423e-9c75-f3fb934e1f59
 twitter.profile:
 website:
 working.group:

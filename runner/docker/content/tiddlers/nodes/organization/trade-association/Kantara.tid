@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694038
+modified:1575207694038
 title:Kantara
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"429ec3cf-0cd0-4302-8f97-9a208fa63fa4":{"to":"8d8a980e-ade8-419c-955a-cc83b22baabc","type":"general-member"}}
-tmap.id:da1d37a0-51c9-4065-835e-0dba8a32ef0c
+tmap.edges:{"77f5d8e2-abe3-414d-acb3-1c192c3e1ca2":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id:b55a8b29-adbe-4bfb-93b3-c6dc725f50a8
 twitter.profile:
 website:
 

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693970
+modified:1575207693970
 title:Cyber secure assessment preferences of financial institutions
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ category:Proof of Concept
 date.begun:
 date.ended:
 digital.harms.addressed:
+element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
@@ -22,7 +23,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:853979f3-c5ed-4028-8ed6-1b952fd71134
+tmap.id:36f2197c-3cec-466f-bf4b-5e4342c213fb
 url:http://www.cyberwiser.eu/content/cyber-secure-assessment-preferences-financial-institutions-0
 version.or.edition:
 working.group:

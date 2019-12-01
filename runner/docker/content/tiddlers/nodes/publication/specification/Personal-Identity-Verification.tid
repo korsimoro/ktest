@@ -1,11 +1,12 @@
-created:
-modified:
+created:1575207693892
+modified:1575207693892
 title:Personal Identity Verification
 type:text/vnd.tiddlywiki
 audience:
 author(s)editor(s):
 date:
 digital.harms.addressed:
+element.type:publication
 github.profile:
 jurisdiction:
 license:
@@ -14,11 +15,10 @@ publication.type:Specification
 purpose:
 sector:
 sponsoring.org:
-sponsoring.organization:
 tags:
 tech.focus:
-tmap.edges:{"c86d3ae4-69ef-450a-807f-453cd37a2a23":{"to":"5986dc72-7e95-4c3d-a706-79c68ca1f04c","type":"organization-for-group"}}
-tmap.id:56047e90-ef4a-46a4-bedd-fa14c23d461c
+tmap.edges:{"13fb5845-8cf8-4e32-bd9d-16bcab043866":{"to":"ad059e8f-ec52-4bcc-8d39-665d09d3e601","type":"organization-for-group"}}
+tmap.id:bba1c388-1795-45d5-ae24-ee59e32c6756
 url:http://csrc.nist.gov/groups/SNS/piv/
 version.or.edition:
 volume.frequency:

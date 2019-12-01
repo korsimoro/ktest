@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694082
+modified:1575207694082
 title:ISSE Information Security Solutions Europe
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:EEMA
@@ -13,8 +14,9 @@ name:ISSE Information Security Solutions Europe
 partners:
 people:
 relevant.publications:
+tags:
 tmap.edges:{}
-tmap.id:34da753c-f924-4210-8427-70687593947a
+tmap.id:76d3ab22-879c-46fc-a8ec-503967b918ed
 website:http://www.isse.eu.com
 working.group:
 

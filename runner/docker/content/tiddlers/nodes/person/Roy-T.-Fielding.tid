@@ -1,15 +1,16 @@
-created:
-modified:
+created:1575207694002
+modified:1575207694002
 title:Roy T. Fielding
 type:text/vnd.tiddlywiki
+element.type:person
 github.profile:
 linkedin.profile:
 location:
 name:Roy T. Fielding
 organization:
 tags:
-tmap.edges:{"f14eded4-c891-4949-b9bc-5f92dc47f8e2":{"to":"2c7eaa4a-6c75-4dce-a473-9cd5d7018c08","type":"employee"},"0ab1c71c-04f0-408c-bf45-d965999211b4":{"to":"b771f2c2-ae90-4441-aa07-b59a1ce0bae1","type":"author"}}
-tmap.id:4f151ac2-15f2-4eab-8a86-41e90a82328f
+tmap.edges:{"b171fbc4-d03c-4a42-8c7b-80dc0bb4b1a1":{"to":"4a1df4d3-cfa3-4d04-974d-3e8fc7049478","type":"employee"},"4d90bb90-058c-43e4-a7f4-14dc0955e580":{"to":"538f1239-12e5-4939-bdfa-ef495f23df6d","type":"author"}}
+tmap.id:49bea77d-cc3c-4120-be59-f057a7815bab
 twitter.profile:
 website:
 working.group:

@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693888
+modified:1575207693888
 title:State of Virginia
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"c33d080b-1e4e-4211-afc4-8c592d6c2af5":{"to":"f651d284-b7c8-4208-b671-6f3755b0a376","type":"author"},"4be52cff-3c67-4470-8685-55536b06b506":{"to":"67951541-b73b-4952-9d0a-d9b67f3d89cc","type":"government-connection"}}
-tmap.id:ae3fdebb-0844-49eb-bdb2-792b8aba59d7
+tmap.edges:{"e198fe9f-d315-44ce-a0ec-b059988d9564":{"to":"ee2cbf69-2e1e-41e4-951e-e5c59507536f","type":"author"},"6286aef2-30e6-4f70-a35d-3d4ec72ffcbd":{"to":"8e5b48c1-aa56-4842-8413-299207e889b2","type":"government-connection"}}
+tmap.id:5472089e-9cb3-49fa-8f9b-9ab101238f99
 twitter.profile:
 website:
 

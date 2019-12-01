@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207694215
+modified:1575207694215
 title:confyrm
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -26,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"1a4d2c58-1155-4d7f-bb7c-c0c77b0d986a":{"to":"38226d23-6900-4820-8860-5c911b922fe0","type":"general-member"}}
-tmap.id:8fbc08d6-85fc-4876-9f74-fe6aff168fde
+tmap.edges:{"c1faba8f-b733-4068-8c72-d5ce1ea7668c":{"to":"b0124e9e-0d13-4671-92b2-f2d19b7995d6","type":"general-member"}}
+tmap.id:c3c8da2d-93bb-4b60-bb1e-1c749ee7bf26
 twitter.profile:
 website:
 

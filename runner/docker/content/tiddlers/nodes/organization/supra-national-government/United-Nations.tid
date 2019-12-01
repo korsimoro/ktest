@@ -1,5 +1,5 @@
-created:
-modified:
+created:1575207693887
+modified:1575207693887
 title:United Nations
 type:text/vnd.tiddlywiki
 activities:
@@ -8,6 +8,7 @@ audience:
 date.ended:
 date.founded:
 digital.harms.addressed:
+element.type:organization
 funding:
 github.profile:
 key.people:
@@ -27,7 +28,7 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:daa944e6-9413-44c4-9351-bf39a2006397
+tmap.id:655cf5f1-f01a-4502-81bb-73f7709621b5
 twitter.profile:
 website:
 

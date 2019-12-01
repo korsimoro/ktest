@@ -1,10 +1,11 @@
-created:
-modified:
+created:1575207694084
+modified:1575207694084
 title:AsiaCrypt
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
 date:Start Date
+element.type:event
 frequency:
 github.profile:
 host.organization:international Association for Cryptologic Research
@@ -13,8 +14,9 @@ name:AsiaCrypt
 partners:
 people:
 relevant.publications:
+tags:
 tmap.edges:{}
-tmap.id:a41bb3f7-6662-4ce1-bc2c-0726d87f4345
+tmap.id:7602fb69-d07c-4ef9-b824-7abf3fab2076
 website:http://www.asiacrypt2016.com
 working.group:
 
