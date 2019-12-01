@@ -156,30 +156,30 @@ export class Me2BModel
 		}
 		return mapper
 	}
-map_description(column_name:string) {
-	function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
-		//console.log("Running Description",elt.slugmap,me2b_slugify(column_name))
-		elt.description = elt.slugmap[this.slugify(column_name)]
-		return undefined
+	map_description(column_name:string) {
+		function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
+			//console.log("Running Description",elt.slugmap,me2b_slugify(column_name))
+			elt.description = elt.slugmap[this.slugify(column_name)]
+			return undefined
+		}
+		return mapper
 	}
-	return mapper
-}
-map_title(column_name:string) {
-	function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
-		//console.log("Running Title",elt.slugmap,me2b_slugify(column_name))
-		elt.title = elt.slugmap[this.slugify(column_name)]
-		return elt.slugmap[this.slugify(column_name)]
+	map_title(column_name:string) {
+		function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
+			//console.log("Running Title",elt.slugmap,me2b_slugify(column_name))
+			elt.title = elt.slugmap[this.slugify(column_name)]
+			return elt.slugmap[this.slugify(column_name)]
+		}
+		return mapper
 	}
-	return mapper
-},
-amp_subtype_and_field(column_name:string) {
-	function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
-		let st = elt.slugmap[this.slugify(column_name)]
-		if(!st) st = 'to-be-determined'
-		elt.subtype = st
-		return st
+	map_subtype_and_field(column_name:string) {
+		function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
+			let st = elt.slugmap[this.slugify(column_name)]
+			if(!st) st = 'to-be-determined'
+			elt.subtype = st
+			return st
+		}
+		return mapper
 	}
-	return mapper
-}
 
 }
