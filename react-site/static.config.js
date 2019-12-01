@@ -6,10 +6,14 @@ import path from 'path'
 
 export default {
   entry: path.join(__dirname, 'src', 'index.tsx'),
-  siteRoot: "https://me2b-poc.github.io",
-  basePath: "twiki-ontology-scratchpad",
+  siteRoot: "https://ewelton.github.io",
+  basePath: "ktest/site",
   getRoutes: async () => {
-    const { data: posts } /* :{ data: Post[] } */ = await axios.get(
+      return []
+    },
+  /*
+  getRoutes: async () => {
+    const { data: posts } /* :{ data: Post[] } * / = await axios.get(
       'https://jsonplaceholder.typicode.com/posts'
     )
     return [
@@ -18,7 +22,7 @@ export default {
         getData: () => ({
           posts,
         }),
-        children: posts.map((post /* : Post */) => ({
+        children: posts.map((post /* : Post * /) => ({
           path: `/post/${post.id}`,
           template: 'src/containers/Post',
           getData: () => ({
@@ -28,6 +32,7 @@ export default {
       },
     ]
   },
+  */
   plugins: [
     'react-static-plugin-typescript',
     [

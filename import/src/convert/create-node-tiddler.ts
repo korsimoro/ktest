@@ -1,7 +1,7 @@
 import fs from 'fs-extra'
 import { schemas } from '../schema'
 import slugify from 'slugify'
-
+import { buildInboundMapper } from '../mappers'
 import { Context } from '../context'
 import { KumuModel,KumuElement } from '../kumu'
 import { Me2BModel,Me2BElement } from '../me2b'
@@ -36,15 +36,6 @@ export function calculateSubtypeForWorkingGroup(elt:KumuElement,parentOrg:KumuEl
 		return elt.fields['SubType']
 }
 
-export function tiddlerSlugify(x:string) : string {
-	const slug=
-		slugify(x, {
-			replacement: '.',    // replace spaces with replacement
-			//remove: null,        // regex to remove characters
-			lower: true,         // result in lower case
-		})
-	return ''+slug
-}
 
 export function createEdgeMap(elt:KumuElement,tb:TiddlerBuilder) {
 	const edgemap:any = {}
@@ -60,7 +51,6 @@ export function createEdgeMap(elt:KumuElement,tb:TiddlerBuilder) {
 	tb.edgemap = edgemap
 }
 
-import { buildInboundMapper } from '../schema'
 
 export function configureType(typename:string,subtypename:string,tb:TiddlerBuilder)
 {

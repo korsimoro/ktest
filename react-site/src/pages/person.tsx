@@ -1,13 +1,13 @@
 import React from 'react'
 import Form from "react-jsonschema-form";
-import { schema } from '../schema/person'
+import { schemas } from 'twiki-schema'
 
 const log = (type:any) => console.log.bind(console, type);
 function recordData(e:any) {
   console.log("Record Data",e)
 }
 export default () => (
-  <Form schema={schema}
+  <Form schema={schemas['person']}
     onChange={log("changed")}
     onSubmit={recordData}
     onError={log("errors")} />

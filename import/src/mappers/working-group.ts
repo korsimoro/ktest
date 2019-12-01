@@ -69,6 +69,10 @@ export const inbound : any = {
   "Relevant Standards" : {
     "kumu": mappers.default(''),
     "me2b": mappers.csv_value('Relevant Standards')
+  },
+  "Tags": {
+    "kumu": mappers.tagArray('Tags'),
+    "me2b": mappers.tagArray('Tags')
   }
 
 }

@@ -13,7 +13,8 @@ function App() {
     <Root>
       <nav>
         <Link to="/">Home</Link>
-        <Link to="/wiki">Wiki</Link>
+        <Link to="/wiki">Tiddly</Link>
+        <Link to="/prose">Prose</Link>
       </nav>
       <div className="content">
         <FancyDiv>

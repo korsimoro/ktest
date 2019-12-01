@@ -1,8 +1,7 @@
 import { KumuElement } from '../kumu'
-import { Me2BElement, me2b_slugify } from '../me2b'
+import { Me2BElement,Me2BModel } from '../me2b'
 //import { JSONSchema6 } from 'json-schema'
 type SchemaPropertyDef = any
-import slugify from 'slugify'
 
 function getPublicationOrgs(elt:KumuElement) {
   const orgs = {}
@@ -54,8 +53,16 @@ export const mappers:any = {
     return mapper
   },
   tagArray(colName:string) {
-    function mapper(elt:KumuElement,schema:SchemaPropertyDef):string {
-      return elt[colName]
+    function mapper(elt:KumuElement|Me2BElement,schema:SchemaPropertyDef):string[] {
+      const tagdata = (elt.slugmap[me2b_slugify(colName)] || '').trim()
+      const tags = [] as string[]
+      if(tagdata) {
+        const a1 = tagdata.split("\n")
+        const a2 = tagdata.split(",")
+        for(let a in a2)
+          tags.push(a.trim())
+      }
+      return tags
     }
     return mapper
   },
@@ -103,8 +110,9 @@ export const mappers:any = {
   },
   csv_value(column_name:string) {
     function mapper(elt:Me2BElement,schema:SchemaPropertyDef):string {
-      //console.log("Running Mapper",elt.slugmap,me2b_slugify(column_name))
-      return elt.slugmap[me2b_slugify(column_name)]
+      const val = elt.slugmap[me2b_slugify(column_name)] || ''
+      //console.log("Running Mapper",me2b_slugify(column_name),val,Object.keys(elt.slugmap))
+      return val
     }
     return mapper
   },

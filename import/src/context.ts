@@ -1,12 +1,12 @@
 
 import { KumuModel } from './kumu'
 import { Me2BModel } from './me2b'
-import { TiddlerFileBase } from './tiddly'
+import { TiddlyModel } from './twiki'
 
 
 export interface Context {
 	kumu:KumuModel
 	me2b:Me2BModel
-	tiddly:TiddlerFileBase
+	tiddly:TiddlyModel
 	schemas:any
 }

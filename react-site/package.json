@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
-    "airtable": "^0.7.1",
     "axios": "^0.18.0",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
@@ -21,7 +20,8 @@
     "react-static-plugin-reach-router": "latest",
     "react-static-plugin-sitemap": "latest",
     "react-static-plugin-source-filesystem": "latest",
-    "react-static-plugin-typescript": "latest"
+    "react-static-plugin-typescript": "latest",
+    "twiki-schema": "file:../schema"
   },
   "devDependencies": {
     "@types/airtable": "^0.5.6",

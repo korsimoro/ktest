@@ -39,7 +39,7 @@ export const inbound : any = {
   },
   "Tags": {
     "kumu": mappers.tagArray('Tags'),
-    "me2b": mappers.csv_value('Tags')
+    "me2b": mappers.tagArray('Tags')
   },
   "Frequency" : {
     "kumu": mappers.default(''),

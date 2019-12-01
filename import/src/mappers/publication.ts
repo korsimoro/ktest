@@ -3,7 +3,7 @@ import { mappers } from '../mappers'
 export const inbound : any = {
   "Name" : {
     "kumu": mappers.label(),
-    "me2b": mappers.me2b_set_title_and_field('Label')
+    "me2b": mappers.me2b_set_title_and_field('Name')
   },
   "About" : {
     "kumu": mappers.skip(),
@@ -18,8 +18,8 @@ export const inbound : any = {
     "me2b": mappers.me2b_set_subtype_and_field('Category')
   },
   "Sponsoring Org" : {
-    "kumu": mappers.string('Parent Org'),
-    "me2b": mappers.csv_value('')
+    "kumu": mappers.publicationOrgs(),
+    "me2b": mappers.csv_value('Sponsoring Organization')
   },
   "Author(s)/Editor(s)" : {
     "kumu": mappers.publicationAuthors(),
@@ -29,17 +29,13 @@ export const inbound : any = {
     "kumu": mappers.default(''),
     "me2b": mappers.csv_value('Audience')
   },
-  "Sponsoring Organization" : {
-    "kumu": mappers.publicationOrgs(),
-    "me2b": mappers.csv_value('Sponsoring Organization')
-  },
   "Working Group" : {
     "kumu": mappers.default(''),
     "me2b": mappers.csv_value('Working Group')
   },
-  "Tags" : {
-    "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('TAGS')
+  "Tags": {
+    "kumu": mappers.tagArray('Tags'),
+    "me2b": mappers.tagArray('Tags')
   },
   "License" : {
     "kumu": mappers.default(''),

@@ -11,7 +11,7 @@ export const inbound : any = {
   },
   "URL" : {
     "kumu": mappers.string('Website'),
-    "me2b": mappers.csv_value('')
+    "me2b": mappers.csv_value('URL')
   },
   "Category" : {
     "kumu": mappers.string('SubType'),
@@ -19,7 +19,7 @@ export const inbound : any = {
   },
   "Parent Org" : {
     "kumu": mappers.string('Parent Org'),
-    "me2b": mappers.csv_value('')
+    "me2b": mappers.csv_value('Parent Org')
   },
   "People" : {
     "kumu": mappers.default(''),
@@ -38,8 +38,8 @@ export const inbound : any = {
     "me2b": mappers.csv_value('Working Group')
   },
   "Tags": {
-    "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Tags')
+    "kumu": mappers.tagArray('Tags'),
+    "me2b": mappers.tagArray('Tags')
   },
   "License" : {
     "kumu": mappers.default(''),

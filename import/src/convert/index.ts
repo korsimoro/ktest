@@ -1,10 +1,5 @@
 import fs from 'fs-extra'
-import { kumuloader } from '../kumu'
-import { tiddlyloader } from '../tiddly'
-import { me2bloader,Me2BModel } from '../me2b'
-//import { TiddlerFileBase } from './tiddly'
-import { schemas } from '../schema'
-import slugify from 'slugify'
+import { schemas } from 'twiki-schema'
 
 import { KumuModel,KumuElement } from '../kumu'
 import { TiddlerFileBase,NodeTiddler } from '../tiddly'
@@ -26,12 +21,8 @@ async function convert(eltfile:string,connfile:string,filebase:string) {
 	const kumu = await kumuloader(eltfile,connfile)
 
 	console.log("Load Me2B");
-	const me2b = new Me2BModel()
-	await me2bloader(me2b,'input/organizations.json','organization',true)
-	await me2bloader(me2b,'input/event.json','event',true)
-	await me2bloader(me2b,'input/groups.json','working-group',true)
-	await me2bloader(me2b,'input/product.json','project-or-product',true)
-	await me2bloader(me2b,'input/pubs.json','publication',true)
+	const me2b = new Me2BModel('input')
+	await me2b.load()
 
 	console.log("Load Tiddly");
 	const tiddly = await tiddlyloader(filebase)
@@ -50,7 +41,7 @@ async function convert(eltfile:string,connfile:string,filebase:string) {
 		const tiddler = createNodeTiddlerFromMe2BElement(me2b.elements[slug],ctx)
 		nodes.push(tiddler)
 	}
-
+/*
 	console.log("Writing Tiddlers");
 	for(let node of nodes) {
 		const dir = node.tiddlerdir()
@@ -60,7 +51,10 @@ async function convert(eltfile:string,connfile:string,filebase:string) {
 		console.log("Writing Tiddler:",path)
 		await fs.writeFile(path,data)
 	}
-
+*/
+	const e=[] as any[]
+	//const n=[] as any[]
+	await buildGraph(nodes,e)
 }
 
 export = (args:string[]) => {

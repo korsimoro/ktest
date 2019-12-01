@@ -1,0 +1,12 @@
+created: 20191201113227552
+modified: 20191201113642453
+title: Welcome
+tmap.id: 350d89ff-52b8-42e0-9353-a10c16ea3070
+type: text/vnd.tiddlywiki
+
+<ul><$list filter="[all[shadows+tiddlers]tag[$:/tags/PageControls]lookup[$:/config/PageControlButtons/Visibility/]]
+ +[sort[title]]">
+<li><$link>{{!!title}}</$link> - {{!!sdesc}}</li>
+</$list>
+</ul>
+

@@ -50,8 +50,8 @@ export const inbound : any = {
     "me2b": mappers.csv_value('Partners')
   },
   "Tags": {
-    "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Tags')
+    "kumu": mappers.tagArray('Tags'),
+    "me2b": mappers.tagArray('Tags')
   },
   "Date Founded": {
     "kumu": mappers.string('Start Date'),
