@@ -1,0 +1,18 @@
+created:1575212063415
+modified:1575212063415
+title:John Bradley
+type:text/vnd.tiddlywiki
+element.type:person
+github.profile:
+linkedin.profile:
+location:
+name:John Bradley
+organization:
+tags:
+tmap.edges:{"297482af-e6a3-4883-9be5-a84412d91b3f":{"to":"715b2852-df40-49b7-a7de-fbc4df4064e9","type":"author"},"3df5a3a4-7d22-4a5c-a0d2-2b190aee78c3":{"to":"f877e539-8bdb-4886-b2ea-dcdf5002ee0c","type":"author"},"1ae6cc85-6431-4d4f-b657-7179e1181c98":{"to":"e5bbe2ae-0f48-41c2-9af6-6359f3d568bb","type":"author"},"45876faa-6462-4dd5-8ef1-cb9b0adae5f4":{"to":"63a00301-e71c-4d4c-9740-9d71f04873e2","type":"author"},"3611b617-fa63-407e-ac72-ed26aff7d3f3":{"to":"e339ef06-a99d-48c7-86bc-2d334c739f62","type":"author"},"216b0874-ac2c-45f9-8f3e-e96c689399ff":{"to":"288088a0-c55f-41ae-b9de-67d75b212038","type":"author"},"f382432d-7e32-4f57-8903-9bc7016f73b1":{"to":"715b2852-df40-49b7-a7de-fbc4df4064e9","type":"default"},"eef07f70-d605-4bc9-b2cf-c9986c97b5c4":{"to":"84faea6d-7242-40ed-84a9-443c2e367925","type":"vice-chair"},"3419381a-b5eb-46e4-934b-2c7e135b7136":{"to":"771797eb-49fb-421e-b83d-4be73ee57e36","type":"author"},"4b982361-e956-423f-8a51-e7f42db5fc45":{"to":"2d3fbdd7-ede4-4e5a-bd48-abd25740b46f","type":"employee"},"7f0a8380-42e6-4ff3-b3c8-750187c23f59":{"to":"84500d22-a461-4f6d-8448-dbbfa93fe32b","type":"author"},"8fde6765-29de-4558-8085-94a4c490beec":{"to":"8a90cf70-3316-4653-bd9c-42a30bbdae7d","type":"author"}}
+tmap.id:66606d37-adf1-42e3-b7a0-eed43c52239e
+twitter.profile:
+website:http://www.thread-safe.com/
+working.group:
+
+John is a Senior Technical Architect in the CTO Office of Ping Identity. He is an experienced IT professional with a diverse background. Most recently, John has been co-authoring the OpenID Connect protocol and JSON Object Signing and Encryption (JOSE) along with OAuth 2, He co-authord the ICAM protocol profiles while at Protiviti Government Services. He has also been coordinating interoperability testing on the profiles with OASIS and Trust Framework partners from industry.  John provides leadership at Kantara as chair of the Leadership Council and as chair Federation Interoperability Work Group.  He has contributed to SAML, openID, Information Card (IMI), XRI and other identity standards.  He is actively working to develop the next version of openID. As the Co-Chair of OSIS he has both developed testing infrastructure and co-coordinated interoperability testing amongst all the major vendors participating in openID and Information Cards.

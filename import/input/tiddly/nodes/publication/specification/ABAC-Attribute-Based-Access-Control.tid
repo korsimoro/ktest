@@ -1,0 +1,29 @@
+created:1575212063372
+modified:1575212063372
+title:ABAC Attribute Based Access Control
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:ABAC Attribute Based Access Control
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:
+tags:
+tech.focus:
+tmap.edges:{"bfd0ef64-0933-4671-8240-ad4bef2ce6a7":{"to":"64e74da6-7868-44f0-b7bb-06ffe9cfc58f","type":"organization-for-group"}}
+tmap.id:04f086dc-e601-4ac8-a2c3-0def9698fd62
+url:http://csrc.nist.gov/projects/abac/
+version.or.edition:
+volume.frequency:
+working.group:
+
+he concept of Attribute Based Access Control (ABAC) has existed for many years. It represents a point on the spectrum of logical access control from simple access control lists to more capable role-based access, and finally to a highly flexible method for providing access based on the evaluation of attributes.
+
+In November 2009, the Federal Chief Information Officers Council (Federal CIO Council) published the Federal Identity, Credential, and Access Management (FICAM) Roadmap and Implementation Plan v1.0, which provided guidance to federal organizations to evolve their logical access control architectures to include the evaluation of attributes as a way to enable access within and between organizations across the Federal enterprise. In December 2011, the FICAM Roadmap and Implementation Plan v2.0 took the next step of calling out ABAC as a recommended access control model for promoting information sharing between diverse and disparate organizations.

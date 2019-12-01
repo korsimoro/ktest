@@ -1,0 +1,29 @@
+created:1575212063378
+modified:1575212063378
+title:OpenID Connect Core 1.0
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):B. de Medeiros;Chuck Mortimore;John Bradley;Mike Jones;Nat Sakimura
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:OpenID Connect Core 1.0
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:
+tags:
+tech.focus:
+tmap.edges:{"18652905-3394-4e8c-91c9-02868fc37a77":{"to":"336cf37a-144e-45b5-b1d1-c72fd4cfbe8b","type":"default"}}
+tmap.id:84500d22-a461-4f6d-8448-dbbfa93fe32b
+url:http://openid.net/specs/openid-connect-core-1_0.html
+version.or.edition:
+volume.frequency:
+working.group:
+
+OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. It enables Clients to verify the identity of the End-User based on the authentication performed by an Authorization Server, as well as to obtain basic profile information about the End-User in an interoperable and REST-like manner.
+
+This specification defines the core OpenID Connect functionality: authentication built on top of OAuth 2.0 and the use of Claims to communicate information about the End-User. It also describes the security and privacy considerations for using OpenID Connect.

@@ -1,0 +1,28 @@
+created:1575212063374
+modified:1575212063374
+title:Consent Receipt Specification
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:Consent Receipt Specification
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:Consent and Information Sharing Working  Group
+tags:
+tech.focus:
+tmap.edges:{"4e368bdb-4ea8-4099-822f-129c25fe01a1":{"to":"6868a6b5-7ea7-492b-a0da-c98e0c8ad20b","type":"author"},"045cfaaf-3d1f-48cd-8830-d254041c873a":{"to":"e88e026d-c119-4a43-82c0-eb2d48338722","type":"author"},"eb2fe63e-a0fe-42a8-a73f-a705aeaf715c":{"to":"bef50a9d-4227-4855-9596-eec6abd30719","type":"author"},"1af2df1e-9fb3-42ee-8c29-b143c22f2c71":{"to":"e3d19f79-ffb5-4134-a0c7-50a5cc7d5ea2","type":"specification-of-group"}}
+tmap.id:4cb9a663-4161-43a3-9897-5744bea5aee0
+url:https://kantarainitiative.org/confluence/display/infosharing/Consent+Receipt+Specification
+version.or.edition:
+volume.frequency:
+working.group:
+
+A consent receipt is a record of a consent provided to an individual at the point in a person agrees to the sharing of personal information.  It's purpose is to capture the privacy policy and its purpose for sharing personal information   so it can be  easily  used by people to communicate and manage consent and sharing of personal information once it is provided. 
+The working title of the specification has been, the Minimum Viable Consent Receipt.  (MVCR)

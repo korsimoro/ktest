@@ -1,0 +1,29 @@
+created:1575212063378
+modified:1575212063378
+title:OpenID Connect Session Management 1.0
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):B. de Medeiros;John Bradley;Mike Jones;N. Agarwal;Nat Sakimura
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:OpenID Connect Session Management 1.0
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:AB/Connect Working Group
+tags:
+tech.focus:
+tmap.edges:{"825310b4-9ecc-4f19-acb2-b93f1ec67147":{"to":"336cf37a-144e-45b5-b1d1-c72fd4cfbe8b","type":"specification-of-group"}}
+tmap.id:8a90cf70-3316-4653-bd9c-42a30bbdae7d
+url:http://openid.net/specs/openid-connect-session-1_0.html
+version.or.edition:
+volume.frequency:
+working.group:
+
+OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. It enables Clients to verify the identity of the End-User based on the authentication performed by an Authorization Server, as well as to obtain basic profile information about the End-User in an interoperable and REST-like manner.
+
+This document describes how to manage sessions for OpenID Connect, including when to log out the End-User.

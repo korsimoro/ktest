@@ -1,0 +1,29 @@
+created:1575212063400
+modified:1575212063400
+title:Usable Consents: Tracking and Managing Use of Personal Data With a Consent Transaction Receipt
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:Usable Consents: Tracking and Managing Use of Personal Data With a Consent Transaction Receipt
+publication.type:TO BE DETERMINED
+purpose:
+sector:
+sponsoring.org:Consent Receipt Specification
+tags:
+tech.focus:
+tmap.edges:{}
+tmap.id:bef50a9d-4227-4855-9596-eec6abd30719
+url:https://kantarainitiative.org/confluence/download/attachments/76447870/Usable%20Consents%3A%20ConsentWorkshopSubmission-Ubicomp2014-MLizarMHodder.pdf?version=1&modificationDate=1462982182000&api=v2
+version.or.edition:
+volume.frequency:
+working.group:
+
+Fixing this broken aspect of digital life is a critical component to safeguarding freedom in and for the democracy, and protecting privacy for individuals as well as companies and institutions.
+ 
+We propose creating an Open Notice and Consent Receipt architecture, as a part of public data control infrastructure, (including both the social webi and other digital life access points) in order to open the closed and custom format of policies and consents currently used. We believe this can be achieved with a common digital Consent Receipt Format standard. We hypothesize that this format, structured with the links to legally required consent notices across jurisdictions, will open up control of personal data in simple but usable way.

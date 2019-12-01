@@ -1,0 +1,25 @@
+created:1575212063329
+modified:1575212063329
+title:Trust Elevation TC
+type:text/vnd.tiddlywiki
+activities:
+category:Specification Work
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:Trust Elevation TC
+parent.org:OASIS
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"e3382e7f-6d6f-484a-9359-0cef948fbd71":{"to":"2de888bb-3839-4303-a7ef-1b34d9cc4188","type":"organization-for-group"}}
+tmap.id:367450c0-6327-4996-9c54-b045574456f7
+url:https://www.oasis-open.org/committees/trust-el/
+
+The OASIS Trust Elevation TC works to define a set of standardized protocols that service providers may use to elevate the trust in an electronic identity credential presented to them for authentication. The Trust Elevation TC is intended to respond to suggestions from the public sector, including the U.S. National Strategy for Trusted Identities in Cyberspace (NSTIC). The Trust Elevation TC promotes interoperability among multiple identity providers--and among multiple identity federations and frameworks--by facilitating clear communication about common and comparable operations to present, evaluate and apply identity [data/assertions] to sets of declared authorization levels.

@@ -1,0 +1,41 @@
+created:1575212063430
+modified:1575212063430
+title:US National Information Exchange Model
+type:text/vnd.tiddlywiki
+activities:
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
+org.name:US National Information Exchange Model
+org.type:Part of a Government
+parent.org:
+partners:
+products.and.or.services:
+purpose:
+relevant.publications:
+scope:
+sector:
+status:
+tags:
+tech.focus:
+tmap.edges:{"ecaf8ed2-25ef-41c7-ac8a-14ca10e161fd":{"to":"a6341eab-138f-45e1-b4a0-7bb349df3066","type":"connection"}}
+tmap.id:42aef54c-4393-40f5-8b71-fa65b9d06a9c
+twitter.profile:
+website:https://www.niem.gov/Pages/default.aspx
+
+NIEM is a community-driven, standards-based approach to exchanging information. Diverse communities can collectively leverage NIEM to increase efficiencies and improve decision making.
+
+It was started by a handful of organizations supporting state and local government to overcome the challenges of exchanging information across state and city government boundaries.
+
+This grassroots effort, called the Global Justice Information Sharing Initiative, set into motion the creation of a seamless, interoperable model for data exchange that could solve a range of information-sharing challenges across a variety of government agencies. After a two-year effort, the first pre-release of the Global Justice XML Data Model (GJXDM) was announced in April 2003.
+
+The NIEM Executive Steering Council (ESC) serves as NIEM’s decision-making body regarding membership, funding requirements, program or technical direction, Com

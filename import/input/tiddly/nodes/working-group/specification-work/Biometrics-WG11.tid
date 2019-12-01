@@ -1,0 +1,25 @@
+created:1575212063322
+modified:1575212063322
+title:Biometrics WG11
+type:text/vnd.tiddlywiki
+activities:
+category:Specification Work
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:Biometrics WG11
+parent.org:ISO/IEC JTC1/SC17
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"280a05f4-2ffe-438f-acc6-0d7856376355":{"to":"7df73d61-d823-4503-858e-a62cb6785290","type":"organization-for-group"}}
+tmap.id:7ed40fbb-32f4-4522-9f7b-dab916ca66a6
+url:
+
+Interoperability for interindustry and government applications using personal identification technologies, e.g. biometrics. Excludes generic biometrics as undertaken by SC37.

@@ -6,11 +6,8 @@ import path from 'path'
 
 export default {
   entry: path.join(__dirname, 'src', 'index.tsx'),
-  siteRoot: "https://ewelton.github.io/ktest/site",
-  basePath: "/ktest/site/",
-  getRoutes: async () => {
-      return []
-    },
+  siteRoot: "https://ewelton.github.io",
+  basePath: "ktest/site",
   plugins: [
     'react-static-plugin-typescript',
     [

@@ -1,0 +1,29 @@
+created:1575212063325
+modified:1575212063325
+title:eGov Working Group
+type:text/vnd.tiddlywiki
+activities:
+category:Specification Work
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:eGov Working Group
+parent.org:Kantara
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"87a3efcf-2d25-4a0b-85e8-cba682d64c0b":{"to":"84faea6d-7242-40ed-84a9-443c2e367925","type":"connection"},"d133f2ec-9427-40bb-b6d5-df34604b7a0f":{"to":"c0be296d-10c8-4669-a259-a65a797c9b0b","type":"organization-for-group"}}
+tmap.id:e3461fec-0387-4a60-96ca-556a371bf549
+url:https://kantarainitiative.org/confluence/display/eGov/Home
+
+The eGovernment Work Group (eGov WG) will be responsible for:
+* Facilitating collaboration and discussion among Kantara members with an interest in eGovernment identity management applications and services
+* Acting as a forum to discuss best practices by government organizations on national, regional and municipal levels
+* Presenting "a government view" into other Kantara Initiative Work Groups so that these views may be taken into account in the development of Kantara Initiative * Policy Recommendations and Specifications for future contribution to an appropriate Standards Setting Organization
+* Promoting the development, adoption and support for eGovernment deployment profiles of open specifications

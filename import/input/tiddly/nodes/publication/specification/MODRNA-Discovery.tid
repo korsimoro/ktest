@@ -1,0 +1,31 @@
+created:1575212063378
+modified:1575212063378
+title:MODRNA Discovery
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):John Bradley;T. Lodderstedt
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:MODRNA Discovery
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:MONDRNA
+tags:
+tech.focus:
+tmap.edges:{"0539e186-92cd-4fd2-87c9-bdf2707ae8f8":{"to":"4b135e95-a4cf-4adb-a06f-6198f76ba044","type":"specification-of-group"}}
+tmap.id:f877e539-8bdb-4886-b2ea-dcdf5002ee0c
+url:http://openid.net/wordpress-content/uploads/2014/04/draft-mobile-discovery-01.html
+version.or.edition:
+volume.frequency:
+working.group:
+
+OpenID Connect Discovery 1.0 [OpenID.Discovery] section 2.1 specifies a way to normalize a user identifier to derive a resource and especially a host for OpenID Provider Issuer Discovery. While this works well for identifiers as email addresses and urls, it does not work for typical identifiers from the mobile network space. In a mobile environment, MSISDN's or ip-addresses are typical resources identifying a user or the respective mobile network operator (MNO). The structure of those identifiers does not allow for an algorithmic normalization. Thus it will be necessary to have a specific service to perform the normalization.
+
+The OpenID Connect Mobile Discovery Profile specifies the interface of this service. Part of the interface specification will be the identification of possible user input identifier types relevant in the Mobile Connect scenario. Remark: Some of those user input identifier types may not identify a single user/device but may be sufficient to identify the right mobile operator. An example for this is the MNC/MCC tuple (mobile network code/ mobile contry code) or the IP address range.
+
+This profile also specifies how a client registers with the MNO discovery service and how Account Chooser service [Account.Chooser] can be used to further improve user experience in the overall Mobile Connect flow.

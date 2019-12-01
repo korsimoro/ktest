@@ -1,0 +1,25 @@
+created:1575212063332
+modified:1575212063332
+title:Privacy Interest Group  PING
+type:text/vnd.tiddlywiki
+activities:
+category:Specification Work
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:Privacy Interest Group  PING
+parent.org:W3C
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"07a4b3a6-9f1a-4aca-a19b-79163b7b6ca7":{"to":"0b727048-47a7-4511-9147-d527dbd3f02f","type":"organization-for-group"}}
+tmap.id:0f127399-ec51-4150-ab96-f6655225b84d
+url:http://www.w3.org/Privacy/
+
+The group monitors ongoing privacy issues that affect the Web, investigates potential areas for new privacy work, and provides guidelines and advice for addressing privacy in standards development.

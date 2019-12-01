@@ -1,0 +1,45 @@
+created:1575212063449
+modified:1575212063449
+title:Global Identity Foundation
+type:text/vnd.tiddlywiki
+activities:
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
+org.name:Global Identity Foundation
+org.type:Non Governmental Organization
+parent.org:
+partners:
+products.and.or.services:
+purpose:
+relevant.publications:
+scope:
+sector:
+status:
+tags:
+tech.focus:
+tmap.edges:{"da698ae1-95a3-4d84-b31f-501ff7e758a1":{"to":"7888a328-eb6c-4b06-a171-efa9efac26b7","type":"author"},"7db3eaed-e2f2-4fa6-93c6-8e359455116a":{"to":"a57e31a6-673d-47e1-acee-7273cb5db1c4","type":"author"},"7a1b6b8e-cf27-4922-ae79-84be539f0c64":{"to":"1a2eff6e-5321-43f7-ad37-8098cbcee976","type":"author"},"db635394-650c-4ac8-b287-90ead8aa95bd":{"to":"003e05e0-40c0-455a-8173-f633eb36c3aa","type":"employee"},"abbc2c07-4a68-4b01-af03-660e8b50a1e7":{"to":"eeadf1ba-d4b0-4962-bcc4-cc058a018fdf","type":"author"},"f2f5ee38-ffb6-47f5-899b-134f2c097613":{"to":"e29348bb-30e0-4595-ba14-c5b3a7a58f1b","type":"employee"}}
+tmap.id:edca0666-b3d5-4394-9ea2-43e85ec8352c
+twitter.profile:
+website:http://www.globalidentityfoundation.org/index.html
+
+The Global Identity Foundation is an organisation constituted as a "not-for-profit" foundation (with charitable status) to research, work with research sponsors and research partners to facilitate the development and eventual implementation of a global digital identity solution;
+* That is truly privacy enhancing
+* That scales globally
+* That supports all entities, not just people, in a single, global, identity eco-system
+* That is globally accepted by all parties who need to rely on a digital identity with a known level of trust.
+
+Our aim is to get all the right people, the key global players, academics and other experts, into the same neutral environment, sponsored either by their respective companies, or if necessary directly by the Global Identity Foundation with the aim of delivering a pragmatic and viable solution designed to work globally, and that will equally be accepted by Governments, corporations and the citizens of the globe.
+ 
+For this to be successful this needs to be a global initiative, not constrained by the aspirations of national governments, or the aspirations of any one corporation.
+ 
+Anyone should be able to implement the solution, or leverage the Identity from the solution within their products thus prohibiting monopolization of the technology.

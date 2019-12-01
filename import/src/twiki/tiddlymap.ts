@@ -13,6 +13,7 @@ export interface TiddlerPosition {
 }
 
 export interface TiddlyMap {
+	model:TiddlyModel
 	name:string
 	nodes:Set<string>
 	edges:Set<string>
@@ -77,9 +78,9 @@ export class NodeTypeTiddler extends SimpleTiddler  {
 
 	tiddlerdir():string {
 		if(this.dirchain)
-			return path.join(this.base.mapNodeTypes,this.dirchain.join("/"))
+			return path.join(this.base.mapNodeTypesPath,this.dirchain.join("/"))
 		else
-			return this.base.mapNodeTypes;
+			return this.base.mapNodeTypesPath;
 	}
 
 	tiddlerfile():string {
@@ -132,9 +133,9 @@ export class EdgeTypeTiddler extends SimpleTiddler  {
 
 	tiddlerdir():string {
 		if(this.dirchain)
-			return path.join(this.base.mapEdgeTypes,this.dirchain.join("/"))
+			return path.join(this.base.mapEdgeTypesPath,this.dirchain.join("/"))
 		else
-			return this.base.mapEdgeTypes;
+			return this.base.mapEdgeTypesPath;
 	}
 
 	tiddlerfile():string {
@@ -144,6 +145,7 @@ export class EdgeTypeTiddler extends SimpleTiddler  {
 }
 
 export class SimpleTiddlyMap implements TiddlyMap {
+	model:TiddlyModel
 	name:string
 	nodes:Set<string>
 	edges:Set<string>
@@ -161,6 +163,7 @@ export class SimpleTiddlyMap implements TiddlyMap {
 	layoutData:string
 
 	constructor(name:string,base:TiddlyModel) {
+		this.model = base
 		this.name = name
 		this.nodes = new Set<string>()
 		this.edges = new Set<string>()
@@ -192,9 +195,11 @@ export class SimpleTiddlyMap implements TiddlyMap {
 	async layoutGraph() {
 		const n2 = [] as any[]
 	  for(let x in this.nodes) {
+			const node = this.model.nodeMap[x]
 	    n2.push({
-	      data:x
+	      data:node
 	    })
+			console.log("Process Edgemap",node.edgemap)
 	  }
 		const e2 = [] as any[]
 	  for(let x in this.edges) {
@@ -219,6 +224,22 @@ export class SimpleTiddlyMap implements TiddlyMap {
 			const elt = JSON.parse(x)
 	    console.log("POS:",elt.data.id,elt.position)
 	  }
+	}
+
+	async save() {
+
+		console.log("Writing View Tiddler:",this.tiddler)
+		await fs.writeFile(this.tiddler,this.tiddlerdata())
+
+		console.log("Writing View Tiddler:",files.edges)
+		await fs.writeFile(this.edges,this.edgedata())
+
+		console.log("Writing View Tiddler:",this.nodes)
+		await fs.writeFile(this.nodes,this.nodedata())
+
+		console.log("Writing View Tiddler:",this.layout)
+		await fs.writeFile(this.layout,this.layoutdata())
+
 	}
 
 	tiddlerdata():string {

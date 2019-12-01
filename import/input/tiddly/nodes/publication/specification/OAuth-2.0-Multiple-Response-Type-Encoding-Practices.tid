@@ -1,0 +1,29 @@
+created:1575212063377
+modified:1575212063377
+title:OAuth 2.0 Multiple Response Type Encoding Practices
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):B. de Medeiros;M. Scurtescu;Mike Jones;P. Tarjan
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:OAuth 2.0 Multiple Response Type Encoding Practices
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:AB/Connect Working Group
+tags:
+tech.focus:
+tmap.edges:{"3e8092e4-ec9e-4224-b838-e82aff6eef18":{"to":"336cf37a-144e-45b5-b1d1-c72fd4cfbe8b","type":"specification-of-group"}}
+tmap.id:44f19ee1-e83a-43ef-b2da-1848ec3d9b88
+url:http://openid.net/specs/oauth-v2-multiple-response-types-1_0.html
+version.or.edition:
+volume.frequency:
+working.group:
+
+This specification provides guidance on the proper encoding of responses to OAuth 2.0 Authorization Requests in which the request uses a Response Type value that includes space characters. Furthermore, this specification registers several new Response Type values in the OAuth Authorization Endpoint Response Types registry.
+
+This specification also defines a Response Mode Authorization Request parameter that informs the Authorization Server of the mechanism to be used for returning Authorization Response parameters from the Authorization Endpoint.

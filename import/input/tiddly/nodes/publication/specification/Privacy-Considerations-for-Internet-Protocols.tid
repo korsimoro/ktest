@@ -1,0 +1,42 @@
+created:1575212063374
+modified:1575212063374
+title:Privacy Considerations for Internet Protocols
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):Hannes Tschofenig
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:Privacy Considerations for Internet Protocols
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:
+tags:
+tech.focus:
+tmap.edges:{"ca7f568c-e977-4d43-a052-cab69a9d1ce4":{"to":"312d25c7-d60c-4398-aeab-d06922f19ff1","type":"organization-for-group"},"a2a3c62b-d5f8-4a1e-bb50-a47c2c6d57b4":{"to":"b1642a1c-751d-4fd2-bc31-cd8331d13e28","type":"connection"}}
+tmap.id:f809113a-ec42-4873-a209-35db79e26a58
+url:https://tools.ietf.org/html/rfc6973
+version.or.edition:
+volume.frequency:
+working.group:
+
+This document offers guidance for developing privacy considerations
+   for inclusion in protocol specifications.  It aims to make designers,
+   implementers, and users of Internet protocols aware of privacy-
+   related design choices.  It suggests that whether any individual RFC
+   warrants a specific privacy considerations section will depend on the
+   document's content.
+
+Status of This Memo
+
+   This document is not an Internet Standards Track specification; it is
+   published for informational purposes.
+
+   This document is a product of the Internet Architecture Board (IAB)
+   and represents information that the IAB has deemed valuable to
+   provide for permanent record.  It represents the consensus of the
+   Internet Architecture Board (IAB).

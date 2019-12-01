@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{57:function(n,o,e){"use strict";e.r(o);var r=e(0),c=e.n(r),a=e(165),t=e.n(a),s=e(174),u=function(n){return console.log.bind(console,n)};function i(n){console.log("Record Data",n)}o.default=function(){return c.a.createElement(t.a,{schema:s.schemas["working-group"],onChange:u("changed"),onSubmit:i,onError:u("errors")})}}}]);

@@ -1,0 +1,27 @@
+created:1575212063323
+modified:1575212063323
+title:Blockchain Working Group
+type:text/vnd.tiddlywiki
+activities:
+category:Community Group
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:Blockchain Working Group
+parent.org:Trust in Digital Life
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"25358016-5ae1-4c67-bd07-ac2f85c9c179":{"to":"137fffc2-328e-4fe2-b36e-c0ae9456a8c0","type":"author"},"514b405a-5e77-4afb-bf15-04ffdd76398a":{"to":"fe3c1d63-2403-4bba-9121-b27991f4eca6","type":"default"},"f18003a1-3f9a-4c8f-979a-f91d38bcbe90":{"to":"9d05075b-c35e-466e-9c08-b91b90ce58b3","type":"organization-for-group"},"1d20a4a0-962c-4f13-9c96-d05a1bf42c1e":{"to":"773c1786-a8b0-473c-8e12-6c9a9a8a4721","type":"author"}}
+tmap.id:72f7a365-ec70-4bc8-8d79-f5f7e92aaf71
+url:http://staging1.trustindigitallife.eu/what-we-do/working-groups/blockchain/
+
+The emergence and success of Bitcoin propelled blockchain technologies into prominence. Since then, financial institutions have explored the potential of Bitcoin-like systems; the Open Source community has delved into the Open Source implementations, and the research community has worked on developing and optimizing associated cryptographic protocols, improving architectural solutions, and understanding the economics of systems like Bitcoin. Governments have started looking at the regulatory space for distributed financial systems and requirements for integrity; civil society organizations have looked into privacy support in blockchain systems, and law enforcement agencies have examined the new potential for financial crime. As work on exploring all the potential diverse uses of blockchain technology has expanded, applications for e-government, storage, document notarization, identity protection, real estate, and enterprise have emerged.
+
+At the Paris working group meeting in September 2015, Intel took the initiative to lead a working group on blockchain with an initial focus on crypto-currencies but subsequently broadening out the discussion to be multi-disciplinary. Since then the group has expanded and attracted other TDL members as well as a number of high profile non-members as participants.

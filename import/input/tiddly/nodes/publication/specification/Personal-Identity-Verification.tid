@@ -1,0 +1,33 @@
+created:1575212063370
+modified:1575212063370
+title:Personal Identity Verification
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:Personal Identity Verification
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:
+tags:
+tech.focus:
+tmap.edges:{"b467ef3c-6781-4e14-b6a1-fae163541738":{"to":"64e74da6-7868-44f0-b7bb-06ffe9cfc58f","type":"organization-for-group"}}
+tmap.id:bb9f8b91-8f2f-45a7-aefc-90b23a13091f
+url:http://csrc.nist.gov/groups/SNS/piv/
+version.or.edition:
+volume.frequency:
+working.group:
+
+In response to HSPD 12, the NIST Computer Security Division initiated a new program for improving the identification and authentication of Federal employees and contractors for access to Federal facilities and information systems. Federal Information Processing Standard (FIPS) 201, entitled Personal Identity Verification of Federal Employees and Contractors, was developed to satisfy the requirements of HSPD 12, approved by the Secretary of Commerce, and issued on February 25, 2005.
+
+FIPS 201 incorporates three technical publications specifying several aspects of the required administrative procedures and technical specifications that may change as the standard is implemented and used. NIST Special Publication 800-73, "Interfaces for Personal Identity Verification" specifies the interface and data elements of the PIV card; NIST Special Publication 800-76, Biometric Data Specification for Personal Identity Verification" specifies the technical acquisition and formatting requirements for biometric data of the PIV system; and NIST Special Publication 800-78, "Cryptographic Algorithms and Key Sizes for Personal Identity Verification" specifies the acceptable cryptographic algorithms and key sizes to be implemented and used for the PIV system.
+
+In addition, a number of guidelines, reference implementations, and conformance tests has been developed to: implement and use the PIV system; protect the personal privacy of all subscribers of the PIV system; create a PIV "card" that is "personalized" with data needed by the PIV system to later grant access to the subscriber to Federal facilities and information systems; assure appropriate levels of security for all applicable Federal applications; and provide interoperability among Federal organizations using the standards.
+
+The release of FIPS 201 marked the beginning of a learn-design-develop-test-validate phase for both the private sector and federal departments and agencies. By 2009, more than 300 standard-conformant products had been developed, validated, and brought to market in support of the PIV card and its infrastructure. Departments and agencies also developed and refined their PIV card issuance processes. PIV card issuance systems are have been operating, and close to 5 million PIV cards have been issued to federal employees and contractors, according to the Office of Management and Budget (OMB). Today, the emphasis has shifted from PIV card issuance to its deployment and use in logical and physical access applications.
