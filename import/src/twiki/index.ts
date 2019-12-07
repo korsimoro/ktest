@@ -3,6 +3,7 @@ import fs from 'fs-extra'
 import { Context } from '../context'
 import { NodeTiddler,TiddlerData,SimpleNodeTiddler } from './tiddlers'
 import { EdgeTypeTiddler,NodeTypeTiddler } from './tiddlymap'
+import klaw from 'klaw'
 
 export type tiddlydate = number;
 
@@ -46,7 +47,48 @@ export class TiddlyModel {
 		return n
 	}
 
-	load() {
+	loadItem(path:string):NodeTiddler {
+		const data = fs.readFileSync(path,'utf8')
+		const sections = data.split("\n\n")
+		const header = sections.shift().split("\n")
+		const body = sections.join("\n\n")
+		const model = {} as TiddlerData
+		const fields = new Map<string,string>()
+		for(let line of header) {
+			const l2=line.trim()
+			if(l2) {
+				const blocks = line.split(":")
+				const key = blocks.shift()
+				const value = blocks.join(":").trim()
+				fields[key] = value
+			}
+		}
+		const tiddler = new SimpleNodeTiddler({
+			created: fields['created'],
+			modified: fields['modified'],
+			title: fields['title'],
+			type: fields['type'],
+			guid: fields['tmap.id'],
+			fields: fields,
+			text: body,
+			element_type: fields['element.type'],
+			element_subtype: fields['category']
+		},this)
+		return tiddler
+	}
+
+	async load() {
+		const items = [] as any[] // files, directories, symlinks, etc
+		klaw(this.path)
+		  .on('data', item => {
+				const p = item.path
+				if(fs.statSync(p).isFile() && p.endsWith(".tid"))
+					items.push(this.loadItem(p))
+			})
+		  .on('end', () => {
+				console.log("Loaded Tiddly from ",this.path)
+				return items
+			}) // => [ ... array of files]
 	}
 
 	async save() {

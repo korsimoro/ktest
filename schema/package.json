@@ -5,8 +5,7 @@
   "author": "Eric Welton (Korsimoro) <eric@korsimoro.com>",
   "description": "Schema for Me2B Alliance",
   "contributors": [],
-  "bin": {
-  },
+  "bin": {},
   "main": "dist/index.js",
   "repository": {
     "type": "git",
