@@ -1,12 +1,12 @@
 import fs from 'fs-extra'
 import { schemas } from 'twiki-schema'
 import slugify from 'slugify'
-import { buildInboundMapper } from '../mappers'
-import { Context } from '../context'
-import { KumuModel,KumuElement } from '../kumu'
-import { Me2BModel,Me2BElement } from '../me2b'
-import { TiddlyModel } from '../twiki'
-import { NodeTiddler } from '../twiki/tiddlers'
+import { buildInboundMapper } from '../../mappers'
+import { Context } from '../../context'
+import { KumuModel,KumuElement } from '../../kumu'
+import { Me2BModel,Me2BElement } from '../../me2b'
+import { TiddlyModel } from '../../twiki'
+import { NodeTiddler } from '../../twiki/tiddlers'
 
 export interface TiddlerBuilder {
 	schema:any

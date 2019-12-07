@@ -47,7 +47,7 @@ export class TiddlyModel {
 		return n
 	}
 
-	loadItem(path:string):NodeTiddler {
+	loadItem(path:string):void {
 		const data = fs.readFileSync(path,'utf8')
 		const sections = data.split("\n\n")
 		const header = sections.shift().split("\n")
@@ -63,7 +63,7 @@ export class TiddlyModel {
 				fields[key] = value
 			}
 		}
-		const tiddler = new SimpleNodeTiddler({
+		this.createNodeTiddler({
 			created: fields['created'],
 			modified: fields['modified'],
 			title: fields['title'],
@@ -73,21 +73,18 @@ export class TiddlyModel {
 			text: body,
 			element_type: fields['element.type'],
 			element_subtype: fields['category']
-		},this)
-		return tiddler
+		})
 	}
 
 	async load() {
-		const items = [] as any[] // files, directories, symlinks, etc
 		klaw(this.path)
 		  .on('data', item => {
 				const p = item.path
 				if(fs.statSync(p).isFile() && p.endsWith(".tid"))
-					items.push(this.loadItem(p))
+					this.loadItem(p)
 			})
 		  .on('end', () => {
 				console.log("Loaded Tiddly from ",this.path)
-				return items
 			}) // => [ ... array of files]
 	}
 
