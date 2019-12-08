@@ -29,10 +29,11 @@ export class TiddlyModelImpl implements TiddlyModel {
 		this.nodesPath = this.ensurePath(path,"nodes")
 		this.system = this.ensurePath(path,"system")
 		this.templates = this.ensurePath(path,"templates")
-		const mapsDir=this.ensurePath(path,"maps")
+		const mapsDir = this.ensurePath(path,"maps")
 		this.mapViews = this.ensurePath(mapsDir,"views")
 		this.mapEdgeTypesPath = this.ensurePath(mapsDir,"edgeTypes")
 		this.mapNodeTypesPath = this.ensurePath(mapsDir,"nodeTypes")
+
 		this.nodeMap = new Map<string,NodeTiddler>()
 		this.edgeTypes = []
 		this.nodeTypes = []

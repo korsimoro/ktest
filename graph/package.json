@@ -1,0 +1,25 @@
+{
+  "name": "twiki-graph",
+  "preferGlobal": "false",
+  "version": "0.0.1",
+  "author": "Eric Welton (Korsimoro) <eric@korsimoro.com>",
+  "description": "Active Model for Me2B Alliance",
+  "contributors": [],
+  "bin": {},
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ewelton/ktest"
+  },
+  "keywords": [],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.3",
+    "typescript": "^3.6.3"
+  },
+  "bundleDependencies": [],
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
