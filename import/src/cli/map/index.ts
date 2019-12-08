@@ -1,6 +1,5 @@
 import { Context } from '../../context'
-import { NodeTiddler } from '../../twiki/tiddlers'
-import { SimpleTiddlyMap, TiddlyMap } from '../../twiki/tiddlymap'
+import { SimpleTiddlyMap, TiddlyMap, NodeTiddler } from '../../twiki'
 
 async function load(inbase:string) {
 

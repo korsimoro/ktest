@@ -1,7 +1,7 @@
 
 import { KumuModel } from './kumu'
 import { Me2BModel } from './me2b'
-import { TiddlyModel } from './twiki'
+import { TiddlyModel, TiddlyModelImpl } from './twiki'
 import { schemas } from 'twiki-schema'
 
 import path from 'path'
@@ -18,7 +18,7 @@ export class Context {
 
 		this.me2b = new Me2BModel(path.join(inbase,'me2b'),this)
 
-		this.tiddly = new TiddlyModel(path.join(inbase,'tiddly'),this)
+		this.tiddly = new TiddlyModelImpl(path.join(inbase,'tiddly'),this)
 
 		this.schemas = schemas
 	}

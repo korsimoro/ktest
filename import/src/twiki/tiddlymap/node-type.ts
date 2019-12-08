@@ -67,3 +67,6 @@ export class NodeTypeTiddler extends SimpleTiddler  {
 	}
 
 }
+
+export class SimpleNodeTypeTiddler extends NodeTypeTiddler  {
+}

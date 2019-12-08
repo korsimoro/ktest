@@ -1,5 +1,5 @@
-import { TiddlyMap } from '.'
 import { TiddlyModel } from '..'
+import { TiddlyMap } from '.'
 import fs from 'fs-extra'
 import uuid from 'uuid'
 import path from 'path'

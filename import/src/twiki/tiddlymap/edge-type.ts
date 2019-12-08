@@ -56,3 +56,6 @@ export class EdgeTypeTiddler extends SimpleTiddler  {
 	}
 
 }
+
+export class SimpleEdgeTypeTiddler extends EdgeTypeTiddler  {
+}
