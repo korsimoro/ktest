@@ -5,7 +5,7 @@ import { schemas } from 'twiki-schema'
 import { buildInboundMapper } from '../mappers'
 import { Context } from '../context'
 import path from 'path'
-type SchemaPropertyDef = any
+//type SchemaPropertyDef = any
 
 export interface TiddlerBuilder {
 	schema:any
@@ -115,7 +115,7 @@ export class Me2BModel
 	}
 
   async loadFile(eltfile:string,type:string,failFast = false) {
-		const elts = JSON.parse(await fs.readFile(path.join(this.base,eltfile)))
+		const elts = JSON.parse(await fs.readFile(path.join(this.base,eltfile),'utf8'))
 
 		const schema=schemas[type]
 		if(!schema) {

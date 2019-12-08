@@ -1,5 +1,6 @@
-import { TiddlerData,NodeTiddler,SimpleTiddler,SimpleNodeTiddler } from '../tiddlers'
-import { TiddlyMap } from '..'
+import { TiddlyModel,SimpleTiddler } from '..'
+import slugify from 'slugify'
+import path from 'path'
 
 export class NodeTypeTiddler extends SimpleTiddler  {
 	/*

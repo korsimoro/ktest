@@ -321,8 +321,8 @@ export class KumuModel
 	}
 
 	async load(failFast:boolean = false):Promise<void> {
-		const elts = JSON.parse(await fs.readFile(path.join(this.base,'elements.json')))
-		const conns = JSON.parse(await fs.readFile(path.join(this.base,'connections.json')))
+		const elts = JSON.parse(await fs.readFile(path.join(this.base,'elements.json'),'utf8'))
+		const conns = JSON.parse(await fs.readFile(path.join(this.base,'connections.json'),'utf8'))
 
 		//console.log("Building Elements");
 		for(let e of elts) {

@@ -1,7 +1,9 @@
-import { SimpleMap } from '.'
-import { TiddlyMap } from '..'
+import { TiddlyMap } from '.'
+import { TiddlyModel } from '..'
 import fs from 'fs-extra'
 import uuid from 'uuid'
+import path from 'path'
+import cytoscape from 'cytoscape'
 
 export class SimpleTiddlyMap implements TiddlyMap {
 	model:TiddlyModel

@@ -1,7 +1,8 @@
 import slugify from 'slugify'
 import fs from 'fs-extra'
 import { Context } from '../context'
-import { NodeTiddler,TiddlerData,SimpleNodeTiddler } from './tiddlers'
+import { NodeTiddler } from './node-tiddler'
+import { TiddlerData } from './tiddlers'
 import { EdgeTypeTiddler,NodeTypeTiddler } from './tiddlymap'
 import klaw from 'klaw'
 import { subtypeFields } from '../mappers'
@@ -51,7 +52,7 @@ export class TiddlyModel {
 	readTiddlerFile(path:string):any {
 		const data = fs.readFileSync(path,'utf8')
 		const sections = data.split("\n\n")
-		const header = sections.shift().split("\n")
+		const header = (sections.shift() || '').split("\n")
 		const body = sections.join("\n\n")
 		const fields = new Map<string,string>()
 		for(let line of header) {
@@ -59,8 +60,10 @@ export class TiddlyModel {
 			if(l2) {
 				const blocks = line.split(":")
 				const key = blocks.shift()
-				const value = blocks.join(":").trim()
-				fields[key] = value
+				if(key) {
+					const value = blocks.join(":").trim()
+					fields[key] = value
+				}
 			}
 		}
 
@@ -195,3 +198,6 @@ export class TiddlyModel {
 	}
 
 }
+
+export * from './tiddlers'
+export * from './node-tiddler'
