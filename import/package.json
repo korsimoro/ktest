@@ -7,7 +7,9 @@
   "contributors": [],
   "bin": {
     "convert": "./dist/convert.js",
-    "load": "./dist/load.js"
+    "load": "./dist/load.js",
+    "tsamesame": "./dist/tsamesame.js",
+    "map": "./dist/map.js"
   },
   "main": "./dist/convert.js",
   "repository": {

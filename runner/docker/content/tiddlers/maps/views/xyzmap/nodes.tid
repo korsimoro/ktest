@@ -1,0 +1,6 @@
+created: 20191208092140882
+filter: [contains:tmap.names[xyzmap]] [field:tmap.id[9815ff0e-f27d-4c59-af32-c41d5f0a25c9]]
+modified: 20191208092140882
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/xyzmap/filter/nodes
+type: text/vnd.tiddlywiki
+xfilter: [field:element.type[organization]]

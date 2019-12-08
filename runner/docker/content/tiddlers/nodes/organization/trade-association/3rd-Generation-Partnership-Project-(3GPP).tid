@@ -1,36 +1,37 @@
-created:1575207694065
-modified:1575207694065
-title:3rd Generation Partnership Project (3GPP)
-type:text/vnd.tiddlywiki
-activities:
-annual.budget:
-audience:
-date.ended:
-date.founded:
-digital.harms.addressed:
-element.type:organization
-funding:
-github.profile:
-key.people:
-linkedin.profile:
-location(s):
-me2b.relationship:
-org.name:3rd Generation Partnership Project (3GPP)
-org.type:Trade Association
-parent.org:
-partners:
-products.and.or.services:
-purpose:
-relevant.publications:
-scope:
-sector:
-status:
-tags:
-tech.focus:
-tmap.edges:{"3fb65fa6-a0f4-425e-beb0-6888ac968b65":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
-tmap.id:1ff1a52f-d5dd-4dc2-8558-12ee276b9bf1
-twitter.profile:
-website:http://www.3gpp.org
+activities: 
+annual.budget: 
+audience: 
+created: 15761018220605000
+date.ended: 
+date.founded: 
+digital.harms.addressed: 
+element.type: organization
+funding: 
+github.profile: 
+key.people: 
+linkedin.profile: 
+location(s): 
+me2b.relationship: 
+modified: 20191208071506887
+org.name: 3rd Generation Partnership Project (3GPP)
+org.type: Trade Association
+parent.org: 
+partners: 
+products.and.or.services: 
+purpose: 
+relevant.publications: 
+scope: 
+sector: 
+status: 
+tags: 
+tech.focus: 
+title: 3rd Generation Partnership Project (3GPP)
+tmap.edges: {"3fb65fa6-a0f4-425e-beb0-6888ac968b65":{"to":"c972d5c7-cade-463c-8672-9d3607393c60","type":"general-member"}}
+tmap.id: 1ff1a52f-d5dd-4dc2-8558-12ee276b9bf1
+tmap.names: xyzmap abcdef
+twitter.profile: 
+type: text/vnd.tiddlywiki
+website: http://www.3gpp.org
 
 The 3rd Generation Partnership Project (3GPP) unites [Seven] telecommunications standard development organizations (ARIB, ATIS, CCSA, ETSI, TSDSI, TTA, TTC), known as “Organizational Partners” and provides their members with a stable environment to produce the Reports and Specifications that define 3GPP technologies.
 

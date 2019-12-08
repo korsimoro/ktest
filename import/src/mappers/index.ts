@@ -160,6 +160,14 @@ export const inbound = {
   'Project or Product':projectOrProductMapper,
   'Publication':publicationMapper
 }
+export const subtypeFields = {
+  'event':'Category',
+  'working-group':"Category",
+  'person':undefined,
+  'organization':"Org Type",
+  'project-or-product':"Category",
+  'publication':"Publication Type"
+}
 
 import { JSONSchema6 } from 'json-schema'
 

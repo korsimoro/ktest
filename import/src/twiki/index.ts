@@ -4,6 +4,7 @@ import { Context } from '../context'
 import { NodeTiddler,TiddlerData,SimpleNodeTiddler } from './tiddlers'
 import { EdgeTypeTiddler,NodeTypeTiddler } from './tiddlymap'
 import klaw from 'klaw'
+import { subtypeFields } from '../mappers'
 
 export type tiddlydate = number;
 
@@ -47,12 +48,11 @@ export class TiddlyModel {
 		return n
 	}
 
-	loadItem(path:string):void {
+	readTiddlerFile(path:string):any {
 		const data = fs.readFileSync(path,'utf8')
 		const sections = data.split("\n\n")
 		const header = sections.shift().split("\n")
 		const body = sections.join("\n\n")
-		const model = {} as TiddlerData
 		const fields = new Map<string,string>()
 		for(let line of header) {
 			const l2=line.trim()
@@ -63,29 +63,66 @@ export class TiddlyModel {
 				fields[key] = value
 			}
 		}
+
+		return { fields, body }
+	}
+
+	loadNodeTiddler(path:string):void {
+		const { fields, body } = this.readTiddlerFile(path)
+
+		function xtract(name:string):any {
+			const x = fields[name]
+			fields[name] = undefined
+			return x
+		}
+		const created = xtract('created') as tiddlydate
+		const modified = xtract('modified') as tiddlydate
+		const title = xtract('title') as string
+		const type = xtract('type') as string
+		const slugify = this.slugify //ctx.me2b.slugify
+
+		function extractSubtype(fields:any) {
+			const t = fields['element.type']
+			const f = subtypeFields[t]
+			//console.log("T,F",t,f)
+			if(f) {
+				const st = fields[slugify(f)] || 'to-be-determined'
+				//console.log(slugify(f),st)
+				return st
+			}
+			return undefined
+		}
+
+		const et = fields['element.type']
+		if(!et) {
+			console.log("path:",path)
+		}
 		this.createNodeTiddler({
-			created: fields['created'],
-			modified: fields['modified'],
-			title: fields['title'],
-			type: fields['type'],
+			created: created,
+			modified: modified,
+			title: title,
+			type: type,
 			guid: fields['tmap.id'],
 			fields: fields,
 			text: body,
 			element_type: fields['element.type'],
-			element_subtype: fields['category']
+			element_subtype: extractSubtype(fields)
 		})
 	}
 
 	async load() {
-		klaw(this.path)
-		  .on('data', item => {
-				const p = item.path
-				if(fs.statSync(p).isFile() && p.endsWith(".tid"))
-					this.loadItem(p)
+		return new Promise<void>((resolve,reject) => {
+			klaw(this.nodesPath)
+			  .on('data', item => {
+					const p = item.path
+					if(fs.statSync(p).isFile() && p.endsWith(".tid"))
+						this.loadNodeTiddler(p)
+				})
+			  .on('end', () => {
+					console.log("Loaded Tiddly from ",this.path)
+					resolve()
+				}) // => [ ... array of files]
 			})
-		  .on('end', () => {
-				console.log("Loaded Tiddly from ",this.path)
-			}) // => [ ... array of files]
 	}
 
 	async save() {
