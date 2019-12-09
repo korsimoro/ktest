@@ -1,17 +1,44 @@
 import { Context } from '../../context'
-
-/*
-import { TiddlerFileBase,NodeTiddler } from '../tiddly'
-
-import { KumuConnectionType,KumuElementType } from '../kumu'
-import { EdgeTypeTiddler,NodeTypeTiddler } from '../tiddly'
-
-import { TiddlyMap,SimpleTiddlyMap,TiddlerViewFiles } from '../tiddly'
-*/
-
-
 import { createNodeTiddlerFromKumuElement,createNodeTiddlerFromMe2BElement } from './create-node-tiddler'
 
+export function createEdgeMap(elt:KumuElement,tb:TiddlerBuilder) {
+	const edgemap:any = {}
+
+	for(let o in elt.outbound) {
+		const c=elt.outbound[o]
+		edgemap[o] = {
+			to:c.to.guid,
+			type:c.type.name
+		}
+	}
+
+	tb.edgemap = edgemap
+}
+
+function linkProductsAndProjectsToOrganizations(ctx:Context) {
+}
+function linkPublicationsToOrganizations(ctx:Context) {
+}
+function linkWorkingGroupsToOrganizations(ctx:Context) {
+}
+function linkOrganizationsToOrganizations(ctx:Context) {
+}
+function linkOrganizationsToPeople(ctx:Context) {
+}
+function linkPublicationsToAuthors(ctx:Context) {
+}
+function createMe2BStar(ctx:Context) {
+}
+
+function analyzeMe2BDataToCreateGraphs(ctx:Context) {
+	linkProductsAndProjectsToOrganizations(ctx)
+	linkPublicationsToOrganizations(ctx)
+	linkWorkingGroupsToOrganizations(ctx)
+	linkOrganizationsToOrganizations(ctx)
+	linkOrganizationsToPeople(ctx)
+	linkPublicationsToAuthors(ctx)
+	createMe2BStar(ctx)
+}
 async function convert(inbase:string) {
 
 	const ctx = new Context(inbase)
@@ -22,8 +49,8 @@ async function convert(inbase:string) {
 	console.log("Load Me2B");
   await ctx.me2b.load()
 
-	console.log("Load Tiddly");
-	await ctx.tiddly.load()
+	//console.log("Load Tiddly");
+	//await ctx.tiddly.load()
 
 	console.log("Convert Kumu Elements -> Tiddlers");
 	for(let slug in ctx.kumu.elements) {
@@ -42,10 +69,11 @@ async function convert(inbase:string) {
 		ctx.tiddly.createNodeTypeTiddler(type.parts)
 	}
 
-	console.log("Convert Me22B Elements -> Tiddlers");
+	console.log("Convert Me2B Elements -> Tiddlers");
 	for(let slug in ctx.me2b.elements) {
 		createNodeTiddlerFromMe2BElement(ctx.me2b.elements[slug],ctx)
 	}
+	analyzeMe2BDataToCreateGraphs(ctx)
 
 	console.log("Writing Tiddlers");
 	await ctx.tiddly.save()

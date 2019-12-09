@@ -35,7 +35,12 @@ export interface Me2BElement {
 	fields:any
 }
 
+export class Me2BConnection {
+	from:Me2BElement
+	to:Me2BElement
+	type:string
 
+}
 
 // --------------------------------------------------------------------------
 // Implementation
