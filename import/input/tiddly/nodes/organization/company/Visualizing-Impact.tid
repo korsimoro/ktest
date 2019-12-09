@@ -1,8 +1,8 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973402
+modified:1575897973402
 title:Visualizing Impact
 type:text/vnd.tiddlywiki
-activities:creative, publication, research
+activities:creative: publication: research
 annual.budget:
 audience:
 date.ended:
@@ -13,7 +13,7 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
+linkedin.profile:https://www.linkedin.com/company/visualizing-impact/about/
 location(s):
 me2b.relationship:
 org.name:Visualizing Impact
@@ -24,12 +24,13 @@ products.and.or.services:
 purpose:human rights
 relevant.publications:
 scope:
-sector:for-profit
+sector:non-profit
 status:
-tags:
+tags:0 1 2 3
 tech.focus:
 tmap.edges:{}
-tmap.id:0485ae0c-856c-41b1-a928-381b669f3927
+tmap.id:54b25fce-4a95-4298-9cc9-a3493bd9021f
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose me2bstar-tag
 twitter.profile:
 website:https://visualizingimpact.org
 

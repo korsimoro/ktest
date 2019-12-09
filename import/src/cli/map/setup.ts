@@ -5,6 +5,8 @@ async function run(inbase:string,title:string) {
 
 	const ctx = new Context(inbase)
 	const map = new SimpleTiddlyMap(title,ctx.tiddly)
+	map.nodeFilter = '[contains:tmap.names['+title+']]'
+	map.edgeFilter = '[all[tiddlers]]'
 	await map.save()
 
 }

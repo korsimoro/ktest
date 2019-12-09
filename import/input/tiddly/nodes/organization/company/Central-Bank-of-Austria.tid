@@ -1,5 +1,5 @@
-created:1575213940182
-modified:1575213940182
+created:1575897973112
+modified:1575897973112
 title:Central Bank of Austria
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"b5039a60-0c92-407c-864b-b6dabd1c573b":{"to":"9799410e-93d9-4a88-b63b-e5f23e07dcf1","type":"funding-flow"}}
-tmap.id:60c7a9ca-f3f3-4461-83e6-6726495b20c9
+tmap.edges:{"017cee1c-dd31-4903-ba6e-6eafb673b451":{"to":"094a7336-7a68-4fc6-997c-795e629e9ed5","type":"funding-flow"}}
+tmap.id:5462e31f-6b5c-4795-ba42-2f1869088a88
 twitter.profile:
 website:
 

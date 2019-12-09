@@ -1,5 +1,5 @@
-created:1575213940176
-modified:1575213940176
+created:1575897973108
+modified:1575897973108
 title:United States Government
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"737efd3e-2687-41fd-adfa-8197108ab9ea":{"to":"8810b1a0-aa51-4855-8f2b-bf1313f506bd","type":"executive-member"},"6b088a1d-8c96-4f08-ae3e-427a4111cd73":{"to":"fa8ca1e7-770c-41f7-850b-d855a659d925","type":"funding-flow"},"0e851cc2-5e74-46a0-a073-d9386425ef77":{"to":"613e60c9-ea46-4f8e-853d-d5ac730d385f","type":"government-connection"}}
-tmap.id:059fe22d-4f56-4cda-b046-2025e1887b6c
+tmap.edges:{"a2f94b31-1d39-4ac6-887d-e6a3591a4b69":{"to":"fe5cdd7f-ef80-4070-ac70-97e623325fdb","type":"executive-member"},"077802da-0b19-421f-945c-fe1ec87263d3":{"to":"4d7a7d0c-304f-43c8-9406-66df3c0c3336","type":"funding-flow"},"4ebf500f-5aef-4384-8e8c-fe011cfe647a":{"to":"6e8b279d-65d8-44d7-ac2e-dfc0a88ef1ea","type":"government-connection"}}
+tmap.id:55e25a17-2c95-4336-b4ba-a00def1c7e80
 twitter.profile:
 website:
 

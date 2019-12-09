@@ -1,5 +1,5 @@
-created:1575213940195
-modified:1575213940195
+created:1575897973403
+modified:1575897973403
 title:Trustless Computing Certification Body (TCCB)
 type:text/vnd.tiddlywiki
 activities:
@@ -14,19 +14,23 @@ input.source:me2b
 license:
 me2b.participation:
 name:Trustless Computing Certification Body (TCCB)
-parent.org:
+parent.org:Trustless Computing Association
 partners:
 people:
-purpose:
+purpose:certification and compliance
 relevant.publications:
 status:
 supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:c4df976a-750b-47bb-8b06-0b805332f76f
-url:
+tmap.id:0d17b52b-1cfe-4e54-af6c-29151f65b1d7
+url:https://www.trustlesscomputing.org/
 version.or.edition:
 working.group:
 
+Since 2013, the Trustless Computing Association has been building a uniquely accountable, resilient and independent Trustless Computing Certification Body (“TCCB”) – and an initial compliant open ecosystem, computing base and 2mm-thin human computing device – aimed to achieve radically-unprecedented levels of trustworthiness for the confidentiality and integrity of the most critical IT systems, while concurrently ensuring legitimate lawful access, to prevent criminal abuse. 
 
+Initially for the most sensitive human communications and transactions of tens of millions of World citizens, it will evolve to certify root-of-trust sub-systems of the most society-critical  IT systems in the areas of social media, autonomous, AI, 5G, IoT, cyber-physical, and public security systems.
+
+It will be a private international standards setting and certification body that will issue a label that IT providers can apply for, in compliance with all current EU and Swiss laws, and downward compatibility with EU eIDAS Qualified and the future Swiss eID LoT3.

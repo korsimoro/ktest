@@ -1,5 +1,5 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973400
+modified:1575897973400
 title:CARIN Alliance
 type:text/vnd.tiddlywiki
 activities:
@@ -21,7 +21,7 @@ org.type:NGO
 parent.org:
 partners:
 products.and.or.services:
-purpose:Consumer support
+purpose:Consumer support: Health Care
 relevant.publications:
 scope:
 sector:non-profit
@@ -29,7 +29,8 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:77454f0b-9d2d-4c32-a99d-77003a116a97
+tmap.id:e0c0e56a-c0a4-4142-988a-59f04d53637d
+tmap.names:me2bstar me2bstar-tbd me2bstar-purpose
 twitter.profile:
 website:https://www.carinalliance.com/
 

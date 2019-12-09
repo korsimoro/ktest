@@ -6,7 +6,7 @@ import { subtypeFields } from '../mappers'
 import { TiddlyModel,tiddlydate  } from '.'
 import { TiddlerData  } from './tiddlers'
 import { NodeTiddler, SimpleNodeTiddler } from './node-tiddler'
-import { EdgeTypeTiddler,NodeTypeTiddler, SimpleEdgeTypeTiddler, SimpleNodeTypeTiddler } from './tiddlymap'
+import { EdgeTypeTiddler,NodeTypeTiddler, SimpleEdgeTypeTiddler, SimpleNodeTypeTiddler, SimpleTiddlyMap } from './tiddlymap'
 
 
 export class TiddlyModelImpl implements TiddlyModel {
@@ -22,6 +22,7 @@ export class TiddlyModelImpl implements TiddlyModel {
 	nodeTypes:NodeTypeTiddler[]
 	system:string
 	templates:string
+	namedMaps:Set<string>
 
 	constructor(path:string,ctx:Context) {
 		this.ctx = ctx
@@ -37,6 +38,11 @@ export class TiddlyModelImpl implements TiddlyModel {
 		this.nodeMap = new Map<string,NodeTiddler>()
 		this.edgeTypes = []
 		this.nodeTypes = []
+		this.namedMaps = new Set<string>()
+	}
+
+	registerNamedMap(name:string):void {
+		this.namedMaps.add(slugify(name,{lower:true}))
 	}
 
 	nodes() {
@@ -158,6 +164,13 @@ export class TiddlyModelImpl implements TiddlyModel {
 			await fs.writeFile(path,data)
 		}
 
+		console.log("Writing named maps")
+		await this.namedMaps.forEach(async (title) => {
+			const map = new SimpleTiddlyMap(title,this)
+			map.nodeFilter = '[contains:tmap.names['+title+']]'
+			map.edgeFilter = '[all[tiddlers]]'
+			await map.save()
+		})
 	}
 
 	slugify(x:string) : string {

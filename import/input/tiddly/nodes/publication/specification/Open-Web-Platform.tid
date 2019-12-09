@@ -1,5 +1,5 @@
-created:1575213940118
-modified:1575213940118
+created:1575897973064
+modified:1575897973064
 title:Open Web Platform
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:W3C
 tags:
 tech.focus:
-tmap.edges:{"d89ca99e-f29d-417f-8a6f-69d28f49ee8d":{"to":"0975c9e6-836d-4139-97a8-5a3cac2632f7","type":"specification-of-group"}}
-tmap.id:2a014165-8b6c-40ed-aea3-7b184a04cc4e
+tmap.edges:{"0080c091-dc0f-444a-8763-c1e40bbf5825":{"to":"788f87c6-77f2-4def-afc0-c478a5a678d0","type":"specification-of-group"}}
+tmap.id:7b2c4784-c531-43d7-8e1d-0f61debf3287
 url:https://www.w3.org/wiki/Open_Web_Platform
 version.or.edition:
 volume.frequency:

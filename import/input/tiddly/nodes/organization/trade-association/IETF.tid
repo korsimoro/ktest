@@ -1,5 +1,5 @@
-created:1575213940164
-modified:1575213940164
+created:1575897973092
+modified:1575897973092
 title:IETF
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"7ca308d4-d3bb-4436-8be7-337f04b04d92":{"to":"b0fd567e-ad67-4985-95a4-6d9e43e2c4d4","type":"general-member"},"d35d1daf-bb65-46d2-b32c-b7b71d4a56ba":{"to":"3b3627af-ef98-4430-89ad-aa03904b9126","type":"specification-of-group"},"3d1eaa3f-5bd3-4fe5-a2ab-6e1e277a4cb1":{"to":"7475b5e2-1780-42b1-a0f8-5693cbda241b","type":"organization-for-group"}}
-tmap.id:3eb935e2-e6e7-405a-acae-5b1dbac23342
+tmap.edges:{"3cacefee-f69d-4b46-b5d8-e20c3629537c":{"to":"563def5f-165a-48c4-8845-94ee14c13394","type":"general-member"},"b2f37bf8-8dcb-4228-b4e8-38a9262aee2e":{"to":"2edb2f9d-fc3b-4d39-afe9-428f007cf1da","type":"specification-of-group"},"e38e4e26-e52d-4af2-b23e-f4695cfce1b0":{"to":"d5263414-e3ee-4059-8a48-e73199ce4b94","type":"organization-for-group"}}
+tmap.id:c236ff18-7edc-4de4-a8da-43c739d2c8fd
 twitter.profile:
 website:
 

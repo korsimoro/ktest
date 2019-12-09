@@ -1,5 +1,5 @@
-created:1575213940169
-modified:1575213940169
+created:1575897973100
+modified:1575897973100
 title:Canadian Internet Registration Authority (CIRA)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"db672a5c-5340-4af5-818d-59ffe7bc5d6b":{"to":"b0fd567e-ad67-4985-95a4-6d9e43e2c4d4","type":"general-member"}}
-tmap.id:44d50962-14ca-4f5d-ab7f-f6a587d5b467
+tmap.edges:{"938eacbb-cf24-4a82-95f0-fba27aa66a5d":{"to":"563def5f-165a-48c4-8845-94ee14c13394","type":"general-member"}}
+tmap.id:e48fd3a9-0f94-4c7d-ada1-07c9b36259ba
 twitter.profile:
 website:https://cira.ca
 

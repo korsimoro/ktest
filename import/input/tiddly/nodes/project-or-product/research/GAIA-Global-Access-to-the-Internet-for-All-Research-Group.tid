@@ -1,5 +1,5 @@
-created:1575213940137
-modified:1575213940137
+created:1575897973075
+modified:1575897973075
 title:GAIA Global Access to the Internet for All Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"8a9d732a-b5b4-4deb-8f44-bb571f8661e4":{"to":"81cf0119-b160-4630-a363-b84671ad504a","type":"organization-for-group"}}
-tmap.id:b7b3b4c1-ac6e-4e3f-a747-d6ebc24578e1
+tmap.edges:{"de70a6a7-fdbf-4e26-9264-bd445ac1bb7e":{"to":"9518001c-05d8-49e1-9366-f9ad0f4eac0b","type":"organization-for-group"}}
+tmap.id:7559d422-d552-42b8-a265-a3776e464fc3
 url:https://irtf.org/gaia
 version.or.edition:
 working.group:

@@ -14,6 +14,9 @@ export interface Tiddler  {
 	title:string
 	type:string
 
+	wiki_text:string
+	fields:Map<string,TiddlerFieldDatum>
+
 	tiddlerdir:() => string
 	tiddlerfile:() => string
 	tiddlerdata:() => string
@@ -27,12 +30,13 @@ export interface TiddlerData {
 	title?:string
 	type?:string
 	guid?:string
-	fields?:Map<string,string>
+	fields?:Map<string,TiddlerFieldDatum>
 	text?:string
 	element_type?:string
 	element_subtype?:string
 }
 
+export type TiddlerFieldDatum = string|Set<string>
 
 // --------------------------------------------------------------------------
 // Impelementation
@@ -46,6 +50,9 @@ export class SimpleTiddler implements Tiddler
 	title:string
 	type:string
 
+	wiki_text:string
+	fields:Map<string,TiddlerFieldDatum>
+
 	constructor(data:TiddlerData,base:TiddlyModel) {
 		this.guid = uuid.v4()
 		this.base = base
@@ -55,6 +62,10 @@ export class SimpleTiddler implements Tiddler
 		this.modified = data.modified || Date.now()
 		this.type = data.type || TIDDLERTYPE
 		this.guid = data.guid || this.guid
+
+		this.wiki_text = ''
+		this.fields = new Map<string,TiddlerFieldDatum>()
+
 	}
 
 	tiddlerdir():string {
@@ -71,6 +82,19 @@ export class SimpleTiddler implements Tiddler
 			"title:" + this.title + "\n" +
 			"type:" + this.type + "\n";
 	}
+
+	getFieldData(key:string):string {
+		const val = this.fields[key]
+		if(typeof(val) == "string")
+			return val
+		else {
+			const vals = [] as string[]
+			val.forEach((v) => { vals.push(v) })
+			return vals.join(" ")
+		}
+	}
+
+
 
 	async writeTiddler() {
 		const dir = this.tiddlerdir()

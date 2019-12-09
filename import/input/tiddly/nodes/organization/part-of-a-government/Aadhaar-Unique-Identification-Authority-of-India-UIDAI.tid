@@ -1,5 +1,5 @@
-created:1575213940160
-modified:1575213940160
+created:1575897973089
+modified:1575897973089
 title:Aadhaar - Unique Identification Authority of India UIDAI
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"204e77c8-a53b-4bbb-93e6-01230c8d2fa4":{"to":"f3964e71-cc8b-4e0f-859e-29558e27ade4","type":"government-connection"}}
-tmap.id:0c60ee39-d287-4b8d-b881-1fd447083151
+tmap.edges:{"01c4418b-5cf2-46b4-8483-dd7fe7f83b36":{"to":"b6b78fc1-adac-4906-890e-360c43fe2db1","type":"government-connection"}}
+tmap.id:8e45af28-4ae7-45cc-ba86-6e2a3509cceb
 twitter.profile:
 website:
 

@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:ACLU
 type:text/vnd.tiddlywiki
 activities:
@@ -13,8 +13,8 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
-location(s):
+linkedin.profile:https://www.linkedin.com/company/aclu/
+location(s):NY
 me2b.relationship:
 org.name:ACLU
 org.type:NGO
@@ -23,14 +23,15 @@ partners:
 products.and.or.services:
 purpose:human rights
 relevant.publications:
-scope:
+scope:national
 sector:non-profit
 status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:817b2a9a-21e6-456e-906a-88e8b77764cc
-twitter.profile:
+tmap.id:ebd55b71-9b50-421d-bb0d-e40ab3b0b51e
+tmap.names:me2bstar me2bstar-purpose
+twitter.profile:https://twitter.com/ACLU
 website:https://www.aclu.org
 
 But the work of defending freedom never ends, and in our vibrant and passionate society, difficult struggles over individual rights and liberties aren’t likely to disappear anytime soon. The ACLU is committed to fight for freedom and the protection of constitutional rights for generations to come.

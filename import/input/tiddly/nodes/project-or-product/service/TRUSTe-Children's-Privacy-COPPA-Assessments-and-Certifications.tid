@@ -1,32 +1,32 @@
-created:1575213940195
-modified:1575213940195
-title:TRUSTe Children's Privacy / COPPA
-Assessments & Certifications
-type:text/vnd.tiddlywiki
-activities:
-audience:
-category:service
-date.begun:
-date.ended:
-digital.harms.addressed:
-element.type:project-or-product
-github.profile:
-input.source:me2b
-license:
-me2b.participation:
-name:TRUSTe Children's Privacy / COPPA
-Assessments & Certifications
-parent.org:TrustArc / Trust-e
-partners:
-people:
-purpose:
+activities: 
+audience: 
+category: service
+created: 15820721014003000
+date.begun: 
+date.ended: 
+digital.harms.addressed: 
+element.type: project-or-product
+github.profile: 
+input.source: me2b
+license: 
+me2b.participation: 
+modified: 20191209132644989
+name: TRUSTe Children's Privacy / COPPA
+parent.org: TrustArc / Trust-e
+partners: 
+people: 
+purpose: certification and compliance
+title: TRUSTe Children's Privacy / COPPA
+tmap.id: d37914fc-1a41-40c9-a27b-1990f743af5e
+type: text/vnd.tiddlywiki
+
 relevant.publications:
 status:
 supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:b5837f10-3cf8-40ff-8184-50d4695d72a0
+tmap.id:ddcec777-045d-4a19-8457-6ae710ba8b7d
 url:https://www.trustarc.com/products/coppa-certification/
 version.or.edition:
 working.group:

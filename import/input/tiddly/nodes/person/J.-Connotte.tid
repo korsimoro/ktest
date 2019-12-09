@@ -1,5 +1,5 @@
-created:1575213940153
-modified:1575213940153
+created:1575897973085
+modified:1575897973085
 title:J. Connotte
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:J. Connotte
 organization:
 tags:
-tmap.edges:{"f20ec52e-9bbd-4d1b-a429-c3263e92a641":{"to":"8ae8ce44-5d8c-414b-bcd5-245e958078b1","type":"author"},"f1d5de1e-a695-4d13-be19-bea228c3c994":{"to":"fc029f67-158b-4e8e-a563-d99b01ec8c12","type":"employee"}}
-tmap.id:9100a02a-46fc-477a-ab69-601d0695dfce
+tmap.edges:{"31e8e84d-7107-4a23-a051-c22d107e3097":{"to":"58b5ac26-fcc5-4bc6-8ce7-64aebae871b3","type":"author"},"5bb2dd6e-3fbd-4410-8f71-c2f8dfd17bce":{"to":"19796630-e6f2-4430-b074-2e7bf432f38c","type":"employee"}}
+tmap.id:b01614cc-fd93-45de-84e1-c844d0a70bc7
 twitter.profile:
 website:
 working.group:

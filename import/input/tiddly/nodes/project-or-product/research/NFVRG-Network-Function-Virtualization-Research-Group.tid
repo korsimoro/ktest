@@ -1,5 +1,5 @@
-created:1575213940138
-modified:1575213940138
+created:1575897973075
+modified:1575897973075
 title:NFVRG Network Function Virtualization Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"4adef301-1def-490a-a6af-038b7d3a6e08":{"to":"f4a924f3-150b-40b7-a89e-dc6416247d10","type":"connection"},"3ce671ac-b7da-443f-8086-0edd6bae2b78":{"to":"81cf0119-b160-4630-a363-b84671ad504a","type":"organization-for-group"}}
-tmap.id:30020db2-b421-4062-a155-73fe2bf4a7c6
+tmap.edges:{"6053c696-e5df-47c7-b22c-2614944fc08e":{"to":"ac2cafd7-c679-4414-9edf-82fb6835ab9c","type":"connection"},"d864c23c-d803-411b-b70f-19ae1b6d2a5c":{"to":"9518001c-05d8-49e1-9366-f9ad0f4eac0b","type":"organization-for-group"}}
+tmap.id:82c4cb5e-724a-4436-a2e4-14f3ffaf0885
 url:https://irtf.org/nfvrg
 version.or.edition:
 working.group:

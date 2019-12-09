@@ -50,8 +50,11 @@ export function createMe2BStar(ctx:Context) {
     }
     else {
       new Me2BConnection(M.title,p.title,rel,ctx.me2b)
-      M.fields['tmap.names']='me2bstar'
-      p.fields['tmap.names']='me2bstar'
+      M.addToListField('tmap.names','me2bstar')
+      p.addToListField('tmap.names','me2bstar')
+      M.addToListField('tmap.names','me2bstar-'+ctx.me2b.slugify(rel))
+      p.addToListField('tmap.names','me2bstar-'+ctx.me2b.slugify(rel))
+      console.log("MAP2:",'me2bstar-'+p.model.ctx.me2b.slugify(rel),p.title)
      }
     }
 

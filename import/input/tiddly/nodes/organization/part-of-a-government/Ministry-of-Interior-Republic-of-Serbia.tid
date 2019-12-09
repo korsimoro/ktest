@@ -1,5 +1,5 @@
-created:1575213940160
-modified:1575213940160
+created:1575897973090
+modified:1575897973090
 title:Ministry of Interior Republic of Serbia
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"4861344a-105e-48d9-a40e-9c0ed9847632":{"to":"ac5ca206-fc5c-476a-9860-e9e93c9a46b7","type":"government-connection"},"376be821-3c46-4c1a-a94b-260b097c2cf7":{"to":"ef283cd7-e50d-41bf-ac5c-916ff1848d28","type":"general-member"}}
-tmap.id:4d7c6788-d101-456b-a165-b43b67da8067
+tmap.edges:{"0e65b874-1cfb-4b0f-aacc-770dea14c2e2":{"to":"d01e2122-5450-4a1c-8b94-74af7b4866a9","type":"government-connection"},"27ebaa3a-5d8c-4a12-b960-e40ef9856972":{"to":"67ba748a-75a1-4bc3-a955-0219d32f6c74","type":"general-member"}}
+tmap.id:eb73c19b-c59a-4418-bfbb-a9864576d09c
 twitter.profile:
 website:
 

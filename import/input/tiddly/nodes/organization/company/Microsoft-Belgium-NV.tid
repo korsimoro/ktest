@@ -1,5 +1,5 @@
-created:1575213940163
-modified:1575213940163
+created:1575897973091
+modified:1575897973091
 title:Microsoft Belgium NV
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"db6c24ce-9016-45c1-acf0-ac88a66a2789":{"to":"dee4a1ea-7eae-4bc4-8c59-c5d76df957e4","type":"general-member"},"990b5219-3c7b-45a0-a1bb-89e955a844ec":{"to":"d8b87dbe-ad5e-485b-8d59-748b6943e907","type":"organization-for-group"}}
-tmap.id:ba97f7e2-6c5a-44dc-bc82-de6344db635c
+tmap.edges:{"de93c5e1-6c20-4b64-9b71-e82e8e403998":{"to":"0bb36de9-f2b3-40de-a697-1a7bee11010c","type":"general-member"},"a662a800-7abb-4d77-8baa-ae6cc07578bc":{"to":"a772bb79-3b81-4565-8d98-a234d8ad8ce9","type":"organization-for-group"}}
+tmap.id:523adbca-220b-4c28-ba0b-6fbc4ba6f464
 twitter.profile:
 website:http://www.microsoft.com/nl-be/default.aspx
 

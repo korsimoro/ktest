@@ -1,5 +1,5 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973401
+modified:1575897973401
 title:Mozilla (Corporation)
 type:text/vnd.tiddlywiki
 activities:software development
@@ -10,11 +10,11 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/mozilla
 input.source:me2b
 key.people:
-linkedin.profile:
-location(s):
+linkedin.profile:https://www.linkedin.com/company/mozilla-corporation/about/
+location(s):Mountainview, California
 me2b.relationship:
 org.name:Mozilla (Corporation)
 org.type:Company
@@ -23,13 +23,14 @@ partners:
 products.and.or.services:
 purpose:
 relevant.publications:
-scope:
+scope:global
 sector:for-profit
 status:
-tags:
+tags:0
 tech.focus:
-tmap.edges:{}
-tmap.id:bb09a16b-b1d4-4d3d-8994-c918ff383fdf
+tmap.edges:{"d26681c8-5d57-4531-a16f-68a14c2f7b4a":{"to":"4f2d8310-d59f-41d0-85b6-4a5f9a608993","type":"Provides"}}
+tmap.id:e9f977e7-3d62-48e8-9b7e-75c8bf351562
+tmap.names:me2bstar me2bstar-activity me2bstar-tag
 twitter.profile:
 website:https://www.mozilla.org/
 

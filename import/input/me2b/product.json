@@ -1,318 +1,608 @@
 [
     {
-        "Activities": "Consumer Support",
+        "Category": "Software product (service), reserach",
         "Description": "The Lumen database collects and analyzes legal complaints and requests for removal of online materials: helping Internet users to know their rights and understand the law. These data enable us to study the prevalence of legal threats and let Internet users see the source of content removals.",
         "Name": "Lumen Database",
+        "Parent Org": "Berkman Klein Center for Internet and Society at Harvard University",
         "Purpose": "education: Consumer support",
         "Status": "Inactive",
-        "URL": "https://lumendatabase.org/"
+        "Tags": "DMCA",
+        "URL": "https://lumendatabase.org/",
+        "field5": "academic"
     },
     {
         "Category": "service",
         "Description": "Onlinecensorship.org seeks to encourage companies to operate with greater transparency and accountability toward their users as they make decisions that regulate speech. We offer resources: information on how to appeal different media platforms: and original research on what content is taken down: why companies make certain decisions about content: and how content takedowns are affecting communities around the world. Has your post: photo: status: video or tweet been blocked or deleted?\nonlinecensorship.org gives social media users a place to report takedown notices and catalog content that has been removed. Simply follow our easy submission process to let us know how a platform has censored your content. ",
+        "Github Profile": "https://github.com/EFForg/onlinecensorship/",
         "Me2B Participation": "Content source for Me2B Certification?",
         "Name": "OnlineCensorship.org",
         "Parent Org": "Electronic Frontier Foundation; Visualizing Impact",
         "Purpose": "Consumer support",
         "Status": "Active",
+        "Twitter Profile": "https://www.twitter.com/censored",
         "URL": "https://onlinecensorship.org/"
     },
     {
         "Category": "research",
         "Date Begun": "2014",
         "Date Ended": "2017",
+        "Description": "Meaningful Consent in the Digital Economy (MCDE) is an EPSRC-funded research project that is examining issues related to giving and obtaining user consent online.\n\nMCDE is based at the University of Southampton, with industry and academic partners from across the world.",
+        "Digital Harms Addressed": "Breach of Confidentiality",
         "Name": "Meaningful Consent in the Digital Economy (MCDE)",
         "Parent Org": "South Hampton University",
+        "Purpose": "Consumer support: transparancy and accountability",
         "Status": "Inactive",
+        "Twitter Profile": "https://mobile.twitter.com/consentfully",
         "URL": "http://www.meaningfulconsent.org"
     },
     {
-        "Category": "Terms: Service",
-        "Description": "ToS Rating system",
-        "Name": "Terms of Service Didn't Read",
+        "Category": "Terms: Service: Software (Plugin)",
+        "Description": " Install the browser extensions to get instant information about the terms and privacy policies of websites you browse!\n\nPlease select your web browser: Mozilla Firefox - Google Chrome - Opera - Safari - Internet Explorer.",
+        "Github Profile": "https://github.com/tosdr/browser-extensions",
+        "Name": "TOSDR - Browser Extensions",
         "Parent Org": "Terms of Service Didn't Read",
-        "URL": "https://tosdr.org/"
+        "Purpose": "Consumer support: transparancy and accountability",
+        "Tags": "browser extension",
+        "Tech Focus": "Terms",
+        "Twitter Profile": "https://twitter.com/tosdr",
+        "URL": "https://tosdr.org/downloads.html"
     },
     {
         "Category": "Terms: Service",
-        "Description": "TermSAFE Certification that ToS are safe to click \"yes\"",
-        "Name": "TermSafe",
+        "Description": "TermSAFE\u2122 is here to help you and you can help others. If there is a popular website or app and you wish for us to review their Terms & Conditions, we are happy to do so at NO CHARGE. Simply fill out the request form below and click 'Submit'. Please check back within 48 hours for the Rating.",
+        "Name": "TermSafe Reviews",
         "Parent Org": "TermSafe",
-        "URL": "http://termsafe.com/"
-    },
-    {
-        "Category": "Icons for Meaning Making: Terms",
-        "Description": "Privacy icons and legal terms",
-        "Name": "Privacy Icons",
-        "Parent Org": "Privacy Icons",
-        "URL": "https://wiki.mozilla.org/Privacy_Icons"
-    },
-    {
-        "Description": "Enterprise policy and regulatory services.",
-        "Name": "iubenda",
-        "Parent Org": "iubenda",
-        "URL": "https://www.iubenda.com/en/"
-    },
-    {
-        "Description": "Data Portability Standard?",
-        "Name": "Dataportability . org",
-        "Parent Org": "Dataportability . org",
-        "URL": "http://dataportability.org/"
-    },
-    {
-        "Description": "Certification",
-        "Name": "The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS)",
-        "Parent Org": "The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS)",
-        "URL": "https://standards.ieee.org/industry-connections/ecpais.html"
-    },
-    {
-        "Description": "Enterprise privacy certification",
-        "Name": "TrustArc / Trust-e",
-        "Parent Org": "TrustArc / Trust-e",
-        "URL": "https://www.trustarc.com/products/privacy-platform/trustarc-privacy-data-governance-framework/"
-    },
-    {
-        "Description": "The Digital Standard is an ambitious: open: and collaborative effort to create a digital privacy and security standard to help guide the future design of consumer software: digital platforms and services: and Internet-connected products.\nThe standard defines and reflects important consumer values that must be addressed in product development: electronics and software-based products should be secure: consumer information should be kept private: ownership rights of consumers should be maintained: and products should be designed to combat harassment and help protect freedom of expression.\nOur goals are to enable consumer organizations to test: evaluate: and report on whether new products protect consumer security and privacy: and to empower consumers to make smarter choices about the products they buy.",
-        "Name": "The Digital Standard",
-        "Parent Org": "Consumer Reports: Disconnect: Ranking Digital Rights: The Cyber Independent Testing Lab:",
-        "URL": "https://www.thedigitalstandard.org/"
-    },
-    {
-        "Category": "software product (application): Software (Plugin)",
-        "Description": "Privacy Monitor apps and browser extensions",
-        "Name": "PrivacyMonitor",
-        "Parent Org": "PrivacyMonitor",
-        "URL": "https://www.privacymonitor.com"
-    },
-    {
-        "Category": "terms",
-        "Description": "No Stalking Human and Legal layer terms.",
-        "Name": "Customer Commons",
-        "Parent Org": "Customer Commons",
-        "URL": "http://customercommons.org/"
-    },
-    {
-        "Category": "Service",
-        "Name": "Trusted technology Ecosystem Directory.",
-        "Parent Org": "Digital Life Collective",
-        "URL": "https://diglife.com/"
-    },
-    {
-        "Category": "Terms",
-        "Name": "Information Governance Label (enterprise)",
-        "Parent Org": "Patient Privacy Rights",
-        "URL": "https://patientprivacyrights.org/"
-    },
-    {
-        "Category": "open source",
-        "Description": "Technical Specs: Reference Implementations: Industry coordination",
-        "Name": "Decentralized Identity Foundation - Reference Implementations",
-        "Parent Org": "Decentralized Identity Foundation",
-        "URL": "https://identity.foundation/"
-    },
-    {
-        "Description": "IoT Trust Framework:  https://www.internetsociety.org/resources/doc/2018/iot-trust-by-design",
-        "Name": "Online Trust Alliance (OTA)",
-        "Parent Org": "Online Trust Alliance (OTA)",
-        "URL": "https://www.internetsociety.org/iot/trust-framework/"
-    },
-    {
-        "Description": "Trustable Technology Certification:",
-        "Name": "Trustable Technology Mark",
-        "Parent Org": "Trustable Technology Mark",
-        "URL": "https://trustabletech.org/about/"
-    },
-    {
-        "Description": "DiscoTech:  \"DiscoTech\" is short for \"Discovering Technology.\" It is is a term coined by the Detroit Digital Justice Coalition which defines a replicable model for a multimedia: mobile neighborhood workshop fair. DiscoTechs are designed so that participants learn more about the impact and possibilities of technology within our communities.\n\nDiscoTechs feature interactive: multimedia workshops designed to demystify: engage: and inform the community about issues of Internet use and ownership: and our communications rights on and offline.",
-        "Name": "Detroit Community Technology Project -> Detroit Digital Justice Coalition",
-        "Parent Org": "Detroit Community Technology Project -> Detroit Digital Justice Coalition",
-        "URL": "https://alliedmedia.org/ddjc/discotech"
-    },
-    {
-        "Description": "Publicly available data from open sources (census.gov: NOAA: data.gov: etc.) are vital resources for students and researchers in a variety of disciplines. Unfortunately: processing these datasets is often tedious and cumbersome. Organizations follow distinctive practices for codifying datasets. Combining data from different sources requires mapping common entities (city: county: etc.) and resolving different types of keys/identifiers. This process is time consuming and can increase the likelihood for methodological errors.",
-        "Name": "Datacommons.org",
-        "Parent Org": "Google",
-        "URL": "https://www.datacommons.org/"
-    },
-    {
-        "Description": "Co-building user journeys compliant with the GDPR and respectful of privacy.",
-        "Name": "Data & Design by LINC",
-        "Parent Org": "Data & Design by LINC",
-        "URL": "https://design.cnil.fr/en/"
-    },
-    {
-        "Description": "To protect personal data: support innovation: preserve individual liberties",
-        "Name": "CNIL",
-        "Parent Org": "CNIL",
-        "URL": "https://www.cnil.fr/en/home"
+        "Purpose": "Consumer support: transparancy and accountability: certification and compliance",
+        "Tech Focus": "Terms",
+        "Twitter Profile": "http://www.twitter.com/term_SAFE",
+        "URL": "http://termsafe.com/requestreview.aspx"
     },
     {
         "Category": "service",
-        "Description": "A hub that helps you start: grow: or convert to platform co-ops.",
+        "Description": "A complete set of solutions to make your website or app compliant with the law, across multiple languages and legislations.\n\nIf you\u2019re not a legal professional, getting your website or app to be compliant with international privacy laws can be tedious and difficult. iubenda provides several comprehensive and customizable solutions that you can seamlessly integrate into your website or app.",
+        "Github Profile": "https://github.com/iubenda",
+        "Name": "iubenda Online Compliance Solutions",
+        "Parent Org": "iubenda",
+        "Purpose": "certification and compliance",
+        "Tags": "Top level products page",
+        "Twitter Profile": "https://twitter.com/iubenda",
+        "URL": "https://www.iubenda.com/en/overview"
+    },
+    {
+        "Category": "Software product (application), service",
+        "Description": "Easily generate and manage a Privacy and Cookie Policy that is professional, self-updating and customizable from 650+ clauses, available in 8 languages, drafted by an international legal team and up to date with the main international legislations.",
+        "Name": "IUBENDA PRIVACY AND COOKIE POLICY GENERATOR",
+        "Parent Org": "iubenda",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.iubenda.com/en/privacy-and-cookie-policy-generator"
+    },
+    {
+        "Category": "Software product (application), service",
+        "Description": "Easily generate a fully customizable cookie banner, seamlessly collect consent and implement prior blocking with asynchronous re-activation.",
+        "Name": "IUBENDA COOKIE SOLUTION",
+        "Parent Org": "iubenda",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.iubenda.com/en/cookie-solution"
+    },
+    {
+        "Category": "Software product (application), service",
+        "Description": "Easily generate and manage a Terms and Conditions document that is professional, customizable from over 100 clauses, available in 8 languages, drafted by an international legal team and up to date with the main international legislations.",
+        "Name": "IUBENDA TERMS AND CONDITIONS GENERATOR",
+        "Parent Org": "iubenda",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.iubenda.com/en/terms-and-conditions-generator"
+    },
+    {
+        "Category": "Software product (application), service",
+        "Description": "Record and manage GDPR consent and privacy preferences for each of your users. It smoothly integrates with your consent collection forms, syncs with your legal documents and includes a user-friendly dashboard for reviewing consent records of your activities.",
+        "Name": "iubenda Consent Solution",
+        "Parent Org": "iubenda",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.iubenda.com/en/consent-solution"
+    },
+    {
+        "Category": "Software product (application), service",
+        "Description": "The solution to easily document all the data processing activity within your organization",
+        "Name": "Iubenda Internal Privacy Management",
+        "Parent Org": "iubenda",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.iubenda.com/en/internal-privacy-management"
+    },
+    {
+        "Category": "service",
+        "Description": "iubenda is the easiest way to incorporate a SRL company in Italy. Whether you want to be the founder of a normal SRL or a tech startup (SRL innovativa), you will receive full legal support during the whole incorporation process.",
+        "Name": "Incorporate your company",
+        "Parent Org": "iubenda",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.iubenda.com/en/srl"
+    },
+    {
+        "Category": "service",
+        "Description": "With iubenda you can open your VAT in Italy, the easiest and safest way. Learn how you can access to tax benefits, pick your sector of choice, start invoicing today.",
+        "Name": "Open your Italian VAT online",
+        "Parent Org": "iubenda",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.iubenda.com/it/fide/partita-iva"
+    },
+    {
+        "Category": "research, terms",
+        "Description": "Data portability is the ability for people to reuse their data across interoperable applications. The DataPortability Project works to advance this vision by identifying, contextualizing and promoting efforts in the space.",
+        "Name": "Dataportability . org",
+        "Parent Org": "Dataportability . org",
+        "Purpose": "tech interoperability: usability",
+        "Relevant Publications": "https://web.archive.org/web/20120625101216/http://wiki.dataportability.org/display/dpmain/How+to+Get+Involved",
+        "Status": "Inactive(?)",
+        "Tech Focus": "Data Mobility",
+        "URL": "http://dataportability.org/"
+    },
+    {
+        "Category": "service",
+        "Description": "The goal of The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS) is to  create specifications for certification and marking processes that advance transparency, accountability and reduction in algorithmic bias in Autonomous and Intelligent Systems (A/IS). \n\nThe value of this certification process in the marketplace and society at large cannot be underestimated.  The proliferation of systems in the form of smart homes, companion robots, autonomous vehicles or any myriad of products and services that already exist today desperately need to easily and visually communicate to consumers and citizens whether they are deemed \u201csafe\u201d or \u201ctrusted\u201d by a globally recognized body of experts providing a publicly available and transparent series of marks. \n\n\u201cImplement\u201d standards for designing and/or engineering effective privacy and data governance controls into organizational processes products and technologies and maintain or enhance those controls throughout the lifecycle for the product, process or technology\n\nConduct privacy impact assessments (D/PIAs) presents a high inherent risk of harm to individuals and remediate identified risks",
+        "Name": "The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS)",
+        "Parent Org": "IEEE Standards Association",
+        "Purpose": "certification and compliance: human rights",
+        "URL": "https://standards.ieee.org/industry-connections/ecpais.html"
+    },
+    {
+        "Activities": "publication",
+        "Description": "More of us are buying smart products for the home that connect to the internet, like personal smart assistants, fitness trackers, toys, and home security systems.  The Connect Smart tips, co-developed by Consumers International and Internet Society, will help you make informed choices about the technology you use in your daily lives. We want to see all consumers getting the best from digital without having to compromise on safety and security.",
+        "Location(s)": "England: Wales",
+        "Name": "Connect Smart",
+        "Parent Org": "Consumers International\n",
+        "Purpose": "Consumer Support",
+        "Relevant Publications": "https://www.internetsociety.org/wp-content/uploads/2018/11/ConnectSmart.pdf",
+        "Tech Focus": "IOT\n",
+        "Twitter Profile": "https://twitter.com/Consumers_Int",
+        "URL": "https://www.consumersinternational.org/what-we-do/digital/internet-of-things/connect-smart/",
+        "field30": "http://www.linkedin.com/company/consumers-international/"
+    },
+    {
+        "Activities": "standard development: publication",
+        "Category": "research: open source",
+        "Description": "The Digital Standard is an ambitious, open, and collaborative effort to create a digital privacy and security standard to help guide the future design of consumer software, digital platforms and services, and Internet-connected products.\n\nThe standard defines and reflects important consumer values that must be addressed in product development: electronics and software-based products should be secure, consumer information should be kept private, ownership rights of consumers should be maintained, and products should be designed to combat harassment and help protect freedom of expression.\n\nOur goals are to enable consumer organizations to test, evaluate, and report on whether new products protect consumer security and privacy, and to empower consumers to make smarter choices about the products they buy.",
+        "Name": "The Digital Standard",
+        "Parent Org": "Consumer Reports: Disconnect: Ranking Digital Rights: The Cyber Independent Testing Lab",
+        "Purpose": "usability: certification and compliance",
+        "URL": "https://www.thedigitalstandard.org/"
+    },
+    {
+        "Category": "software product (application): Software (Plugin): terms",
+        "Description": "Privacy Monitor apps and browser extensions: Firefox: iOS: Android: Chrome: Firefox: Edge: Safari\n",
+        "Github Profile": "https://github.com/osano",
+        "Name": "PrivacyMonitor",
+        "Parent Org": "Osano",
+        "Purpose": "transparancy and accountability: Consumer support",
+        "Tags": "browser extension",
+        "URL": "https://www.privacymonitor.com"
+    },
+    {
+        "Category": "research: terms",
+        "Description": "Customer Commons\u2019 mission is to restore the balance of power, respect and trust between individuals and organizations that serve them, and does not take contributions from commercial entities.\n\nCustomer Commons began as a spin-off of ProjectVRM at Harvard\u2019s Berkman Klein Center for Internet and Society at Harvard University, and is anchored in a respect for the customer as an independent actor and a sovereign individual who ideally (for every actor in the marketplace) operates at full agency, with control over his or her choice of identifiers (or wish to remain anonymous), personal data, desires and intentions. Customer Commons also holds that an individual must be able to proffer his or her own terms of engagement, in ways that are practical and easy to understand by both sides\u2014and to agree to, in ways that can be visited and audited later.\n\nCustomer Commons believes free customers are more valuable than captive ones\u2014to themselves, to the companies they deal with, and to the whole economy.",
+        "Name": "Customer Commons",
+        "Parent Org": "Customer Commons: Project VRM: Berkman Klein Center for Internet and Society at Harvard University",
+        "Purpose": "education: Consumer support",
+        "URL": "http://customercommons.org/"
+    },
+    {
+        "Category": "service: research",
+        "Description": "We define Tech We Trust as those technologies that are equitable and accessible, putting our autonomy, privacy and dignity first.\n\nWe use \u2018tech\u2019 broadly to include hardware and software, networks and devices, storing and retrieving and computing and sending data, sensing and interacting with the physical world.",
+        "Name": "Tech We Trust",
+        "Parent Org": "Digital Life Collective",
+        "Purpose": "Consumer support: education",
+        "URL": "https://diglife.com/tech-we-trust/"
+    },
+    {
+        "Category": "service: research",
+        "Description": "Cooperation-as-a-Service (CaaS), is our Collective endeavor to support an ecosystem of groups and organizations interested in cooperating at scale.",
+        "Name": "Activate CaaS",
+        "Parent Org": "Digital Life Collective",
+        "Purpose": "governance, education",
+        "Tags": "Cross organizational collaboration\n",
+        "URL": "https://diglife.com/activate-caas/"
+    },
+    {
+        "Activities": "software development: movement building",
+        "Category": "open source, software product (application)",
+        "Description": "Beyond specifications, DIF members develop open source reference implementations of the technical components and protocols they create.",
+        "Name": "Decentralized Identity Foundation - Reference Implementations",
+        "Parent Org": "Decentralized Identity Foundation",
+        "Partners": "1kosmos: Accenture: aetna: Authenteq: auth0: BigchainDB: BlockPass: Blockchain-foundry: Blockstack: British Columbia Ministry of Citizens Services: botlabs: Civic: Consent: Danube: datum: Distributed ID: diwala: Dominode: Enigma: Enterprise Ethereum Alliance: Evernym: Equinix: gamecredits[\u03df]: Gem: GS1: Humanized-internet: Hyperledger: ID2020: Ideo: identos: IBM: IOTA: Jolocom: KYC-Chain: LNk-E: Mastercard: Meeco: MetaX: Microsoft: Mooti: netki: NuID: Nuggets: Ockam: Onfido: ONTology: Pillar: R_Block: R3: remme: RSA: SecureKey: <sitekit>: Sovrin: suru: Taqanu: Tierion: Trusted key: uPort: Validatedid: Veridium: zinc",
+        "Purpose": "tech interoperability",
+        "Tags": "Technical Specs: Reference Implementations: Cross organizational collaboration: Top level products page",
+        "Tech Focus": "Identity: Data Mobility",
+        "URL": "https://github.com/decentralized-identity",
+        "Working group": "Identifiers and Discovery: Storage and Compute: Authentication: Claims and Credentials"
+    },
+    {
+        "Description": "A Universal Resolver is an identifier resolver that works with any decentralized identifier system, including Decentralized Identifiers (DIDs)",
+        "Github Profile": "https://github.com/decentralized-identity/universal-resolver",
+        "Name": "Universal Resolver",
+        "Parent Org": "Decentralized Identity Foundation",
+        "Relevant Publications": "https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c",
+        "Tags": "implementation and drivers",
+        "Tech Focus": "Identity",
+        "URL": "https://uniresolver.io/"
+    },
+    {
+        "Description": "Similar to the Universal Resolver, the Universal Registrar also makes use of \"drivers\" to allow registration of various types of identifiers (e.g. different DID methods, or naming systems such as BNS or ENS).",
+        "Github Profile": "https://github.com/decentralized-identity/universal-registrar",
+        "Name": "Universal Registrar",
+        "Parent Org": "Decentralized Identity Foundation",
+        "Tags": "implementation and drivers",
+        "URL": "https://uniregistrar.io/"
+    },
+    {
+        "Description": "Polyfills for proposed or emerging DID-centric Web APIs",
+        "Name": "Web Polyfills",
+        "Parent Org": "Decentralized Identity Foundation",
+        "URL": "https://github.com/decentralized-identity/web-polyfills"
+    },
+    {
+        "Description": "This repo contains an open source implementation of a DIF identity hub for evaluation purposes. It is not intended for production use. The APIs and protocols used throughout are part of a proposed standard for decentralized data storage.\n\nIdentity hubs provide durable storage for information and data \"owned\" by a decentralized identity (DID). Hubs can run in multiple different enviornments - in the cloud, on a server, or on an edge device. All instances of identity hubs that are associated with a DID synchronize data between each other to ensure consistency. Currently, identity hubs support simple read and write of JSON data.",
+        "Github Profile": "https://github.com/decentralized-identity/identity-hub",
+        "Name": "Hub Reference",
+        "Parent Org": "Decentralized Identity Foundation",
+        "URL": "https://github.com/decentralized-identity/hub-reference",
+        "Working group": "Storage & Compute Working Group"
+    },
+    {
+        "Description": "Attestation API implementations for various languages and platforms.",
+        "Name": "Attestations",
+        "Parent Org": "Decentralized Identity Foundation",
+        "URL": "https://github.com/decentralized-identity/attestations/"
+    },
+    {
+        "Activities": "research: publication",
+        "Category": "research",
+        "Description": "The Trustable Technology Mark aims to highlight the work of those companies that put in the extra effort of building truly trustworthy devices.\nWho is behind this?\n\nThe Trustable Technology Mark is a ThingsCon initiative. It is developed with support from the Mozilla Foundation in the form of a Mozilla Fellowship for project lead and ThingsCon co-founder Peter Bihr.\n\nThingsCon is a global community & event platform for IoT practitioners. Our mission is to foster the creation of a human-centric & responsible Internet of Things (IoT).\n",
+        "Name": "Trustable Technology Mark",
+        "Parent Org": "Trustable Technology Mark",
+        "Purpose": "transparancy and accountability: education: Consumer Education",
+        "Tech Focus": "IOT\n",
+        "URL": "https://trustabletech.org/products/"
+    },
+    {
+        "Category": "research",
+        "Description": "The Data Commons Graph (DCG) is constructed by synthesizing a single Graph from many different data sources. It currently contains data from Wikipedia, the US Census, NOAA, FBI, etc. The browser can be used both to explore what data is available and to understand the graph structure, to help use the API.",
+        "Name": "Data Commons Graph (DCG)",
+        "Parent Org": "Datacommons.org: Google",
+        "Purpose": "education: Consumer support",
+        "Tech Focus": "Data Mobility",
+        "URL": "https://browser.datacommons.org/"
+    },
+    {
+        "Activities": "publication: outreach",
+        "Category": "research: service: publication",
+        "Description": "Data & Design by LINC is a platform for:\n\n    reflecting on design issues in personal data protection;\n    allowing designers to discuss personal data protection issues in their daily design practices;\n    co-constructing design practices aimed at building interfaces and pathways that respect privacy.\n\nData & Design proposes joint work with designers to create a set of content, methods and practices that may efficiently include data protection in digital product and service interfaces. This work is done in partnership with design professionals, design colleges and universities as well as design research programs through a range of formats like conferences, meetups, workshops, etc.\n\nIn this editorial space, design.cnil.fr, the CNIL teams share the results of these exchanges by offering educational content that illustrates best design practices in data protection.",
+        "Name": "Data & Design by LINC",
+        "Parent Org": "Data & Design by CNIL",
+        "Purpose": "education",
+        "URL": "https://design.cnil.fr/en/"
+    },
+    {
+        "Activities": "movement building",
+        "Category": "service: Cooperative: network or coalition",
+        "Description": "The Platform Cooperativism Consortium (PCC) is a hub for research, community building, and advocacy for co-ops that make the digital transition. \n\nThe PCC supports the growth and conversion of hundreds of platform co-op businesses with tens of thousands of worker-owners around the world.",
         "Name": "Platform Cooperativism Consortium",
         "Parent Org": "Platform Cooperativism Consortium",
+        "Partners": "Center for Civic Media MIT: Oxford Internet Institute: United States Federation of Worker Cooperatives (USFWC): Berkman Klein Center for Internet and Society at Harvard University: The U.S. Solidarity Economy Network: Civic Hall: Sustainable Economies Law Center: Dimmons.net: National Cooperative Business Association: IG Metall: Cooperative University College of Kenya: ICA group: FEBE Coop: P2P Foundation: SMart: Ver.di: Institute for the Study of Employee Ownership and Profit Sharing at the School of Management and Labor Relations at Rutgers University: The National Domestic Workers Alliance (NDWA): Alexander von Humboldt Institute for Internet Society: Commons Transition Coalition: Business Council of Co-operatives and Mutuals (Australia)",
+        "Purpose": "governance, education",
         "URL": "https://platform.coop/"
     },
     {
-        "Description": "Quickly and easily manage your data requests in bulk: saving you stress: time and money.",
-        "Name": "Rvoke",
-        "Parent Org": "Rvoke",
-        "URL": " \nhttps://rvoke.com"
+        "Activities": "software development",
+        "Category": "Software Product (application)",
+        "Description": "Here is a partial list of VRM and customertech development efforts, all notable for respecting individual autonomy and agency.",
+        "Name": "Project VRM - Development",
+        "Parent Org": "Project VRM",
+        "Purpose": "usability: Consumer support",
+        "Relevant Publications": "https://blogs.harvard.edu/vrm/development/",
+        "Tags": "Cross organizational collaboration",
+        "URL": "https://cyber.harvard.edu/projectvrm/VRM_Development_Work"
     },
     {
-        "Name": "The Usable Privacy Policy Project",
-        "Parent Org": "Usable Privacy Project",
-        "URL": "https://usableprivacy.org/"
-    },
-    {
-        "Category": "Service",
-        "Description": "Learn how identifiable you are on the Internet",
-        "Name": "Am Unique.org",
-        "Parent Org": "Am Unique.org",
+        "Activities": "Research: Service Provider",
+        "Category": "software product (application)",
+        "Description": "My browser fingerprint Are you unique? All time : Yes! (You can be tracked!) The following informations reveal your OS, browser, browser version as well as your timezone and preferred language. Moreover, we show the proportion of users sharing the same elements.",
+        "Name": "AmIUnique",
+        "Parent Org": "AmIUnique",
+        "Purpose": "Consumer Education",
+        "Tags": "web-app",
         "URL": "https://amiunique.org/"
     },
     {
+        "Activities": "publication: software development",
+        "Category": "open source: research",
+        "Description": "The Privacy Toolkit provides biomedical researchers with a catalog of design tools and patterns to use throughout the user journey of their mHealth studies and allow users to learn more about data privacy and management. The toolkit also provides accompanying use cases to help researchers decide on which patterns are most appropriate for their mHealth applications. By using privacy patterns, study participants can better understand the types of data that are being collected by the research study app and that they have the ability to change their data sharing permissions at any time. Having multiple touchpoints helps build a trusted partnership between the research team and the study participants.",
+        "Github Profile": "https://github.com/Sage-Bionetworks/DesignSystem",
+        "Location(s)": "Seattle, WA",
+        "Name": "Privacy Toolkit",
+        "Parent Org": "Sage Bionetworks",
+        "Purpose": "education: governance: usability",
+        "URL": "https://designmanual.sagebionetworks.org/privacy_toolkit.html"
+    },
+    {
+        "Activities": "research",
+        "Category": "Software product (service)",
+        "Description": "Open Humans is a platform that allows you to upload: connect: and privately store your personal data \u2013 such as genetic: activity: or social media data. Once you've added data: you can choose to donate it: you might choose to share some publicly : and you can join and contribute to diverse research projects. Thus: we turn the traditional research pipeline on its head: you are at the center and in control of when you share your data. We want to empower you to explore your data \u2013 for example: enabling you to analyze your genome or your Twitter data.",
+        "Github Profile": "https://github.com/OpenHumans",
+        "Name": "Open Humans",
+        "Parent Org": "Open Humans Foundation",
+        "Purpose": "ecosystem building",
+        "Relevant Publications": "https://blog.openhumans.org/",
+        "Twitter Profile": "https://twitter.com/OpenHumansOrg",
+        "URL": "https://www.openhumans.org",
+        "field5": "non-profit"
+    },
+    {
+        "Category": "Software product (application\n",
+        "Description": "theDataMap\u2122 is an online portal for documenting flows of personal data to produce a detailed description of personal data flows in the United States.\n\nA comprehensive data map will encourage new uses of personal data, help innovators find new data sources, and educate the public and inform policy makers on data sharing practices so society can act responsibly to reap benefits from sharing while addressing risks for harm. To accomplish this goal, the portal engages members of the public in a game-like environment to report and vet reports of personal data sharing.",
+        "Name": "theDataMap",
+        "Parent Org": "Patient Privacy Rights",
+        "Relevant Publications": "https://patientprivacyrights.org/thedatamap/",
+        "Tags": "personal data management",
+        "URL": "http://thedatamap.org/"
+    },
+    {
+        "Activities": "research, publication, standard development",
         "Category": "Terms",
+        "Description": "The CommonTerms project aims to reduce the need for consenting to online terms without good reasons. This could make the internet a much better place for all, and contribute to digital sustainability.",
         "Name": "Common Terms",
-        "URL": "http://commonterms.org/"
+        "Parent Org": "Metamatrix AB",
+        "Purpose": "usability, Consumer Support, transparancy and accountability",
+        "Relevant Publications": "https://web.archive.org/web/20161021120859/http://www.commonterms.net/",
+        "URL": "http://commonterms.org/",
+        "field25": "Internetfonden"
     },
     {
         "Category": "Terms",
+        "Description": "Axioms of the OpenNotice Project:\n\n    People and organizations will choose to register and maintain their own data to access the benefits of OpenNotice.\n    Electronic OpenNotice is more effecive than current Legal Notice protocols\n    OpenNotice will improve access to justice\n    The concept of OpenNotice will be so compelling that a competition for commercialization will generate sufficient interest to drive the project to implementatios",
+        "Github Profile": "https://github.com/OpenNotice/ConceptualArchitecture",
         "Name": "Open Notice",
-        "URL": "htttp://law.mit.edu/opennotice"
+        "Parent Org": "law.mit.edu",
+        "Purpose": "usability",
+        "URL": "https://github.com/HumanDynamics/law.MIT.edu/tree/master/OpenNotice"
     },
     {
-        "Category": "Terms",
+        "Category": "Terms, proof of concept",
         "Description": "Gamification of Privacy Terms. Website privacy policies: like their terms of use agreements: are onerously long: bafflingly complex legal documents that hundreds of millions of people accept without ever reading. As social media sites accrue more and more of our personal information while always developing new ways to exploit our data: they are increasingly targeted by hackers and law enforcement. In short: those long privacy statements: which we never read and which get longer all the time: matter more and more.\n\nThat\u2019s why a trio of Yale students have developed a free service for websites called Privacy Simplified. Answer a few questions about your site and PS will generate a series of icons you can display to clearly explain the most important aspects of your privacy policy.",
         "Name": "Zynga's Privacyville",
-        "URL": "https://readwrite.com/2011/07/07/privacyville_zyngas_new_game_to_educate_users_abou/"
+        "Parent Org": "Zynga",
+        "Partners": "Facebook",
+        "Relevant Publications": "https://readwrite.com/2011/07/07/privacyville_zyngas_new_game_to_educate_users_abou/",
+        "URL": "https://www.facebook.com/PrivacyVille/"
     },
     {
-        "Category": "Tearms: Icons for Meaning Making",
-        "Description": "Simplified UX for Terms of Service; masters thesis.",
+        "Category": "Terms: Icons for Meaning Making",
+        "Description": "Privacy policies are complicated, and we believe that you should know what's happening with your data when you use a service. In order to help, we've created a set of icons which cover the core components of any policy. Welcome to Privacy Simplified.",
         "Me2B Participation": "UX reference",
-        "Name": "Yale privacy icon work",
+        "Name": "Privacy Simplified",
+        "Parent Org": "Yale",
+        "Purpose": "usability, transparancy and accountability, Consumer support",
+        "Relevant Publications": "https://www.macleans.ca/society/technology/privacy-simplified/",
         "Status": "defunct?",
-        "URL": "https://www.macleans.ca/society/technology/privacy-simplified/"
+        "Tags": "\n",
+        "URL": "https://web.archive.org/web/20150524205519/http://yale.edu/self/psindex.html"
     },
     {
         "Category": "Terms",
-        "Description": "Developed in cooperation with Kantara Initiative:  A nutrition facts label for the information we share online.",
+        "Description": "We all click \u201cI Agree,\u201d but to what are we agreeing? Nearly every software vendor uses some form of the click-through agreement, or CTA, as part of the installation process. Yet this important and contractually binding information is presented in an unreadable, unusable, and unintuitive format.\n\nAs part of my MFA Thesis project at the Savannah College of Art and Design, I explored the state of the CTA, the information it contains, and how it may be presented in a readable, comprehensible manner through the application of graphic design and user experience.\n\nThese slides demonstrate a proposed redesign of legal agreements modeled after the Apple iTunes CTA, presented at bottom.",
         "Me2B Participation": "UX reference",
-        "Name": "I Agree To (master's thesis)",
+        "Name": "I Agree To...",
+        "Partners": "Kantara Initiative",
+        "People": "Gregg Bernstein",
         "Purpose": "usability",
+        "Tags": "Simplified UX for Terms of Service; masters thesis.",
         "URL": "http://gregg.io/mfa/"
     },
     {
+        "Activities": "standard development",
         "Category": "Icons for Meaning Making: Terms",
-        "Description": "Developed in   Kantara Initiative:  A nutrition facts label for the information we share online.",
+        "Description": "The Standard Label shows you the essential details you need to manage your online privacy. Who gets what data, how long they keep it, and what they do with it, with direct links to the actual legal and policy documents if you want the gritty details.\n\nThe written specification defines exactly what each section of the label means and how to present it, both visually and semantically.",
+        "Github Profile": "https://github.com/jandrieu/Standard-Label",
         "Me2B Participation": "UX reference.",
         "Name": "StandardLabel",
+        "People": "Joe Andrieu",
         "Purpose": "usability",
-        "URL": "standardlabel.org"
+        "Tags": "A nutrition facts label for the information we share online.",
+        "URL": "https://standardlabel.org",
+        "Working group": "Consent & Information Sharing Work Group (CISWG)"
     },
     {
-        "Category": "Software (Plugin)",
+        "Activities": "standard development",
+        "Category": "\n",
         "Description": "The Privacy Commons is a project that aims to do for Privacy what the Creative Commons. if you'd like to be involved please email hello at this domain.",
-        "Me2B Participation": "UX reference.",
-        "Status": "Inactive",
-        "URL": "standardlabel.com"
-    },
-    {
         "Name": "Privacy Commons",
-        "URL": "privacycommons.org"
+        "Parent Org": "Privacy Commons",
+        "Purpose": "Consumer support",
+        "URL": "https://web.archive.org/web/20190214082741/http://privacycommons.org/"
     },
     {
         "Category": "Terms",
+        "Description": "EmanciTerm is a name for the ability of an individual to set his or her own terms of engagement, or to express a preference for those terms. Or, as Customer Commons puts it, EmanciTerms are \"first party terms individuals can proffer in dealing with sites and services.\" Here is how those are described by Doc Searls (who started ProjectVRM and co-founded Customer Commons) in his book The Intention Economy: When Customers Take Charge",
         "Name": "EmanciTerms",
-        "URL": "https://blogs.harvard.edu/vrm/category/emanciterm/"
+        "Parent Org": "Project VRM",
+        "Purpose": "human rights",
+        "Relevant Publications": "https://blogs.harvard.edu/vrm/category/emanciterm/",
+        "URL": "https://cyber.harvard.edu/projectvrm/EmanciTerm"
     },
     {
         "Category": "Terms",
+        "Description": "The service is called Youluh (pronounced the same way EULA is often pronounced)\nIn a nutshell, this is a service for people who accept EULAs without reading them, and feel badly about it.\nIn other words, you check \"I have read the license terms and I agree,\" but you haven't, and you feel foolish for it, and not a little anxious about what you might have just agreed to.\nThis service will never say or imply that you do not have to read every word of every agreement.\nBut if you are going to agree to something without reading it, the service will give you a report card with:\n\n    How much of the EULA is stuff you've already agreed to before?\n    How much of the EULA is new, but common boilerplate?\n    How much of the EULA has been agreed to without reservation by many others on the service?\n    Anything in the EULA that is totally new, and you really should read this bit?\n    Anything in the EULA that has been commented on by other users?\n\nOur system for implementing the service is U.S. Patent Pending, but the development process will be open and use open source.  Details will be shared when the crowd funding campaign is ready.",
         "Me2B Participation": "Content source for Customer Commons Terms creation.",
         "Name": "Youluh",
+        "Parent Org": "Youluh",
+        "Purpose": "Consumer support",
         "Status": "Inactive?",
+        "Twitter Profile": "https://twitter.com/YouluhService",
         "URL": "http://www.x2xroads.com/"
     },
     {
-        "Description": "Research grant at Southampton University UK.  \n\nConsent increasingly underpins our digital activities - it underpins the legal contracts we \u201cagree\u201d to when using Social Networking Services and is an important concept in the new European Data Protection regulations.\n\nBut often the consent we give is meaningless! We tick the box without knowing what it means: or click the button just to get rid of the message. This poses problems for individuals who aren't aware of their rights and obligations: and for organisations that rely on this meaningless consent as a legal protection.",
+        "Activities": "publication",
+        "Category": "research",
+        "Description": "Welcome to the VPN Comparison!  This section is meant to be a resource to those who value their privacy, specifically those looking for information on VPNs (that isn\u2019t disguised advertising).  When I started down the path of retaking my own privacy, there was very little unbiased and reliable information with regard to VPNs.",
+        "Name": "That One Privacy Site - VPN Comparison",
+        "Parent Org": "That One Privacy Site",
+        "People": "That One Privacy Guy",
+        "Purpose": "Consumer Education",
+        "Tech Focus": "VPN",
+        "Twitter Profile": "https://twitter.com/ThatPrivacyGuy",
+        "URL": "https://thatoneprivacysite.net/",
+        "field5": "non-profit"
+    },
+    {
+        "Category": "research",
+        "Description": "Despite being asked to \"agree\" constantly to terms of service, we do not currently have \"meaningful consent.\" It is unclear whether having simple and meaningful consent mechanisms would change business fundamentally or enhance new kinds of economics around personal data sharing. Since consent is deemed necessary and part of a social contract for fairness, however, without meaningful consent, that social contract is effectively broken and the best intent of our laws undermined.\n\nOur research challenges to address this gap are interdisciplinary: meaningful consent has implications for transforming current digital economy data practices; change will require potentially new business models, and certainly new forms of interaction to highlight policy without over burdening citizens as we go about our business. We have set out a vision to achieve an understanding of meaningful consent through a combination of interdisciplinary expert and citizen activities to deliver useful policy, business and technology guidelines.",
+        "Location(s)": "UK",
         "Me2B Participation": "Certification Candidate",
         "Name": "Meaningful Consent",
+        "Parent Org": "Southampton University",
         "People": "M.C. Schraefel: Enrico Gerding",
+        "Purpose": "education: human rights",
         "Status": "Active",
+        "Tags": "workshop",
         "URL": "http://www.meaningfulconsent.org/"
     },
     {
-        "Description": "Part of Avast.com",
+        "Category": "software product (application)",
+        "Description": "HMA! Free Privacy Tools\n\nWe\u2019ve got the best privacy tools in the biz to make sure you\u2019re covering your ass even with a VPN in place. Your privacy choices matter. Don\u2019t forget it.\n\nBrowsing without a VPN is risky. Websites can target you based on your location all because of your little old IP address. Find out if you are exposed and how to cover your ass (and true location) with our VPN.\n\nA DNS leak happens when you're using a bad VPN. Fact. Once your DNS queries are leaked anyone and everyone can access everything you're browsing. Personal data, private messages, the whole shebang.\n\nDid you know your browser can still betray you even with a VPN on? True story. It\u2019s called a WebRTC leak and it\u2019s one hell of a privacy risk. Luckily, we\u2019ve got the lowdown on prevention within all kinds of browsers.",
+        "Digital Harms Addressed": "Exposure: Surveillance",
         "Me2B Participation": "Certification Candidate",
         "Name": "Hide My Ass",
+        "Parent Org": "Avast.com",
+        "Purpose": "Consumer support",
         "URL": "https://www.hidemyass.com/en-us/internet-privacy-tools"
     },
     {
-        "Category": "software product (application)",
+        "Category": "software product (application): open source",
+        "Description": "Say anything\nSend high-quality group, text, voice, video, document, and picture messages anywhere in the world without SMS or MMS fees.\nSpeak freely\nMake crystal-clear voice and video calls to people who live across town, or across the ocean, with no long-distance charges.\nStay private\nSignal messages and calls are always end-to-end encrypted and painstakingly engineered to keep your communication safe. We can't read your messages or see your calls, and no one else can either.\nControl time\nKeep your chat history tidy with messages that you can set to disappear. Choose different disappearing message intervals for each conversation. Everyone in the thread shares the same setting. Good memories will last even if the words vanish.",
         "Me2B Participation": "Certification Candidate",
-        "Name": "Signal"
+        "Name": "Signal",
+        "Parent Org": "Signal",
+        "URL": "https://signal.org/",
+        "field5": "non-profit"
     },
     {
-        "Category": "Service",
+        "Category": "Software product (service)",
+        "Description": "No tracking, no ad targeting, just searching.",
         "Me2B Participation": "Certification Candidate",
-        "Name": "DuckDuckGo"
+        "Name": "DuckDuckGo",
+        "Parent Org": "DuckDuckGo",
+        "Tags": "search",
+        "URL": "https://duckduckgo.com/",
+        "field5": "for-profit"
     },
     {
         "Category": "software product (application)",
+        "Description": "Experience unparalleled privacy and security.\n\nBrave fights malware and prevents tracking, keeping your information safe and secure. It\u2019s our top priority.\nWe\u2019re not in the personal data business.\n\nOur servers neither see nor store your browsing data \u2013 it stays private, on your devices, until you delete it. Which means we won\u2019t ever sell your data to third parties.\nCustomize your shield settings\n\nChoose your settings on a per-site or browser-wide basis. See how many ads and trackers are being blocked by Brave every day on the New Tab Page.\nSecurity meets simplicity",
         "Me2B Participation": "Certification Candidate",
-        "Name": "Brave Browser"
+        "Name": "Brave Browser",
+        "Parent Org": "Brave",
+        "Purpose": "usability",
+        "Tags": "web-browser",
+        "URL": "https://brave.com/"
     },
     {
         "Category": "open source",
+        "Description": "Control of your personal data is a human right.\nLifeScope is an open platform for personal data whereby ownership is returned to the user.",
+        "Github Profile": "https://github.com/lifescopelabs",
         "Me2B Participation": "Certification Candidate",
-        "Name": "Lifescope"
+        "Name": "Lifescope",
+        "Parent Org": "Lifescope",
+        "Purpose": "usability",
+        "Tags": "personal data management",
+        "Tech Focus": "Information Sharing Control",
+        "Twitter Profile": "https://twitter.com/lifescopelabs",
+        "URL": "https://lifescope.io/",
+        "field30": "https://www.linkedin.com/company/lifescope/"
     },
     {
         "Category": "open source",
+        "Description": "Solid is the technology that underpins a movement, being led by Sir Tim Berners-Lee to re-orient the web to its original vision.  To understand the \u2018why\u2019 of Solid, it\u2019s important to understand the evolution of the web and how it\u2019s diverged from Sir Tim\u2019s original and inspiring vision.\n\nThe first web browser was also an editor. The idea being that not only could everyone read content on the web, but they could also help create it. It was to be a collaborative space for all mankind.\n\nHowever, when the first browser that popularized the web came along, called Mosaic, it included multimedia and editing was taken out. It was considered too difficult a problem. This change was the first curtailing of the web\u2019s promise and spawned an effort led by Tim and others to get the write functionality back. It was dubbed the \u2018read-write web\u2019 and lead to Richard McManus' seminal article published in 2003.",
         "Me2B Participation": "Certification Candidate",
-        "Name": "Solid"
+        "Name": "Solid",
+        "Parent Org": "inrupt",
+        "Purpose": "usability",
+        "Tags": "personal data management",
+        "Tech Focus": "Information Sharing Control",
+        "URL": "https://solid.inrupt.com/"
     },
     {
+        "Activities": "outreach",
+        "Category": "service",
+        "Description": "Empowering digital trust.\n\nWe believe that privacy is a fundamental human right. But to protect it and establish trust with companies and brands, you need to know what is happening in your digital life.\n\nOur app empowers you to take control over the use of your personal data in a way that is simple and secure. Giving you One.Thing.Less to worry about.\n\nOne.Thing.Less is free, does not include ads and does not sell personal data.",
         "Me2B Participation": "Certification Candidate",
         "Name": "One.thing.Less",
-        "URL": "https://www.onethingless.com"
+        "Parent Org": "One.Thing.Less AG",
+        "Purpose": "usability, Consumer support",
+        "Twitter Profile": "https://twitter.com/OneThingLess",
+        "URL": "https://www.onethingless.com",
+        "field30": "https://www.linkedin.com/company/one.thing.less/"
     },
     {
+        "Category": "Software product (service)",
         "Description": "commodify.us is a web application that allows people to visualize and license their Facebook data directly to marketers. After exporting it from Facebook and uploading it to commodify.us: users can choose to license their anonymized data under private: fair use: or commercial licenses and effectively cut out the middle man.\n",
         "Me2B Participation": "Certification Candidate",
         "Name": "commidfy.us",
+        "Parent Org": "Commodify Inc",
+        "Purpose": "Consumer support",
+        "Tags": "open data, personal data management",
+        "Tech Focus": "analytics: Information Sharing Control",
         "URL": "http://commodify.us"
     },
     {
         "Category": "software product (application):",
-        "Description": "Firefox",
+        "Description": "Most consumers know Firefox as a web browser \u2013 but that\u2019s changing. We\u2019ve been busy building a suite of new products and services that empower users and demonstrate that we\u2019re the tech company that\u2019s on their side.\n\nTo even have a seat at the table, our products have to perform as well as everything else out there, and meet users\u2019 felt needs. But it\u2019s our dual purpose \u2013 improving online life for people and improving the internet \u2013 that truly sets us apart.\n\nWe help people believe that Firefox is the tech brand that has their best interests at heart, so that they are safer and more empowered online.\n\nFirefox fights for you.",
         "Me2B Participation": "Certification Candidate",
-        "Name": "Mozilla"
+        "Name": "FIrefox",
+        "Parent Org": "Mozilla (Corporation)",
+        "Purpose": "usability",
+        "Tags": "web-browser",
+        "URL": "https://www.mozilla.org/en-US/firefox/"
     },
     {
+        "Category": "Software (Plugin): open source",
         "Description": "Knowing who to trust with your personal data can be confusing. Shouldn\u2019t it be easy? With Privacy Monitor by Osano: it is!",
+        "Github Profile": "https://github.com/osano",
         "Me2B Participation": "Certification Candidate",
         "Name": "PrivacyMonitor",
+        "Parent Org": "Osano",
+        "Purpose": "usability, transparancy and accountability",
         "URL": "https://www.privacymonitor.com"
     },
     {
+        "Category": "Icons for Meaning Making, Software (Plugin)",
         "Description": "Privicons is a simple approach to expressing how you want your email to be treated by the recipient. Do you want it [X]kept secret? Or do you want the information to be [>]shared with the world? Think of it as washing tags for email privacy.",
         "Me2B Participation": "Certification Candidate",
         "Name": "Privicons",
+        "Parent Org": "Privicons",
+        "Purpose": "Consumer support: usability",
+        "Tags": "browser extension",
         "URL": "http://privicons.org/"
     },
     {
-        "Description": "Certificaiton",
-        "Name": "TrustArc / Trust-e",
+        "Category": "Software product (service)",
+        "Description": "The TrustArc privacy platform provides a comprehensive solution to manage your privacy program. The platform includes a centralized dashboard with privacy compliance KPIs, a regulatory news and privacy insights feed and the ability to monitor risk and program maturity level.\n\nThe platform and each of its modules are integrated and scalable, so they work together from the start and grow with you as your company needs change. As a SaaS solution, it\u2019s easy to implement and easy to support.",
+        "Name": "TrustArc Privacy Platform",
         "Parent Org": "TrustArc / Trust-e",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.trustarc.com/products/privacy-platform/"
+    },
+    {
+        "Category": "service",
+        "Description": "Demonstrate privacy compliance, reduce risk and build trust with an independent review powered by TrustArc technology and TRUSTe privacy experts.\n\nTrustArc and our TRUSTe subsidiary have over two decades of experience and a large team of privacy experts ready to help you demonstrate compliance with major privacy frameworks, including GDPR, EU Privacy Shield, APEC and other global frameworks.",
+        "Name": "TRUSTe Privacy Certification Services",
+        "Parent Org": "TrustArc / Trust-e",
+        "Purpose": "certification and compliance\n",
+        "Tags": "Top level products page",
         "URL": "https://www.trustarc.com/products/certifications/"
     },
     {
         "Category": "service",
-        "Description": "Demonstrate privacy compliance with TRUSTe APEC Cross Border Privacy Rules (CBPR) and Privacy Recognition for Processors (PRP) Certifications.",
+        "Description": "Demonstrate privacy compliance with TRUSTe APEC Cross Border Privacy Rules (CBPR) and Privacy Recognition for Processors (PRP) Certifications.\n\nThe Asia-Pacific Economic Cooperation (APEC) CBPR framework is a voluntary, enforceable program designed to ensure the continued free flow of personal information across APEC member economy borders, while establishing meaningful protection for the privacy and security of personal information. It is the first framework approved for the transfer of personal data between all APEC Member countries, with the U.S. being the first formal participant and the Federal Trade Commission (FTC) serving as the first enforcement authority.",
         "Name": "TRUSTe APEC CBPR and PRP\nPrivacy Certifications",
         "Parent Org": "TrustArc / Trust-e",
+        "Purpose": "certification and compliance\n",
         "URL": "https://www.trustarc.com/products/apec-certification/"
     },
     {
@@ -320,6 +610,7 @@
         "Description": "Demonstrate your commitment to kids' privacy with a COPPA certification.",
         "Name": "TRUSTe Children's Privacy / COPPA\nAssessments & Certifications",
         "Parent Org": "TrustArc / Trust-e",
+        "Purpose": "certification and compliance\n",
         "URL": "https://www.trustarc.com/products/coppa-certification/"
     },
     {
@@ -327,6 +618,7 @@
         "Description": "Ensure your business: products: and services demonstrate responsible data collection: processing and privacy management practices.",
         "Name": "TRUSTe Enterprise Privacy Certification",
         "Parent Org": "TrustArc / Trust-e",
+        "Purpose": "certification and compliance\n",
         "URL": "https://www.trustarc.com/products/enterprise-privacy-certification/"
     },
     {
@@ -334,6 +626,7 @@
         "Description": "Demonstrate EU-US Privacy Shield compliance for customer and employee data transfers with an independent third party review and verification.",
         "Name": "TRUSTe EU-US Privacy Shield Solutions",
         "Parent Org": "TrustArc / Trust-e",
+        "Purpose": "certification and compliance\n",
         "URL": "https://www.trustarc.com/products/eu-us-privacy-shield/"
     },
     {
@@ -341,6 +634,7 @@
         "Description": "Demonstrate privacy compliance with TRUSTe APEC Cross Border Privacy Rules (CBPR) and Privacy Recognition for Processors (PRP) Certifications.",
         "Name": "TRUSTe APEC CBPR and PRP\nPrivacy Certifications",
         "Parent Org": "TrustArc / Trust-e",
+        "Purpose": "certification and compliance\n",
         "URL": "https://www.trustarc.com/products/apec-certification/"
     },
     {
@@ -348,6 +642,7 @@
         "Description": "Demonstrate privacy compliance for EDAA requirements with an independent third party review and certification from TRUSTe.",
         "Name": "EDAA Privacy Certification",
         "Parent Org": "TrustArc / Trust-e",
+        "Purpose": "certification and compliance\n",
         "URL": "https://www.trustarc.com/products/edaa-certification/"
     },
     {
@@ -355,6 +650,7 @@
         "Description": "Demonstrate privacy compliance and a high commitment to following data collection best practices with an independent third party review and certification from TRUSTe.",
         "Name": "TRUSTe Data Collection Certification",
         "Parent Org": "TrustArc / Trust-e",
+        "Purpose": "certification and compliance\n",
         "URL": "https://www.trustarc.com/products/data-certification/"
     },
     {
@@ -362,6 +658,7 @@
         "Description": "Meet independent recourse mechanism and privacy dispute resolution requirements for EU US Privacy Shield and other regulatory requirements.",
         "Name": "TRUSTe Privacy Dispute Resolution",
         "Parent Org": "TrustArc / Trust-e",
+        "Purpose": "certification and compliance\n",
         "URL": "https://www.trustarc.com/products/dispute-resolution-services/"
     },
     {
@@ -369,113 +666,453 @@
         "Description": "TrustArc GDPR Validation provides an independent way to demonstrate GDPR compliance to customers and partners.",
         "Name": "TrustArc GDPR Validation",
         "Parent Org": "TrustArc / Trust-e",
+        "Purpose": "certification and compliance\n",
         "URL": "https://www.trustarc.com/products/gdpr-certification-validation/"
     },
     {
         "Category": "Icons for Meaning Making: Terms",
-        "Description": "Here are the proposed icons. These are the result of a number of working groups convened by Aza Raskin. We are seeking to develop boilerplate legal text to back up each of the icons. The initial designs provided here are by Michael Nieling & Ocupop: designers of the official HTML5 logos. They are not yet final.",
+        "Description": "The problem: users need to know how companies intend to use their data\u2014but privacy policies and terms of service are long-winded, complex documents that encapsulate a lot of situation-specific detail.\n\nThe solution: a set of Privacy Icons to \u201cbolt on to\u201d your existing privacy policy. When you add a Privacy Icon to your privacy policy, you\u2019re essentially saying: \u201cNo matter what the rest of this privacy policy says, the following is true and preempts anything else in this document.\u201d\n\nEach Privacy Icon makes an iron-clad guarantee about what a company will do with a user\u2019s data. Now, people can understand how their personal data will be transacted, with just a glance. At the same time, companies retain the flexibility needed to create comprehensive, detailed, and meaningful policies.\n\nPrivacy Icons are legal declarations, written in cooperation with privacy experts and a coalition of industry stakeholders. And soon, they will be machine readable\u2014enabling users to communicate their preferences through trusted agents (like web browsers).",
         "Name": "Privacy Icons",
+        "Parent Org": "Privacy Icons: Mozilla (Corporation)",
+        "People": "Aza Raskin: Gerrit Betz: Alex Fowler: Ben Moskowitz: Mark Surman: Sid Stamm: Alexandra Moss: Ben Adida: Mike Hanson: Elizabeth Stark: Dennys Antonialli: David Kettler: Tony Lai: Brian Kennish: Casey Oppenheim",
+        "Purpose": "Consumer support: usability",
+        "Tech Focus": "Terms\n",
         "URL": "https://wiki.mozilla.org/Privacy_Icons",
         "field24": "Active"
     },
     {
         "Activities": "certification",
+        "Category": "service",
         "Description": "The \"Respects Your Freedom\" computer hardware product certification program encourages the creation and sale of hardware that will do as much as possible to respect your freedom and your privacy: and will ensure that you have control over your device.The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom. We defend the rights of all software users.",
-        "Name": "The \"Respects Your Freedom\" computer hardware product certification program",
+        "Name": "Respects Your Freedom Certification",
         "Parent Org": "Free Software Foundation",
         "Purpose": "certification and compliance",
         "URL": "https://www.fsf.org/resources/hw/endorsement/respects-your-freedom",
         "field24": "Active"
     },
     {
-        "Description": "Knowing who to trust with your personal data can be confusing. Shouldn\u2019t it be easy? With Privacy Monitor by Osano: it is!",
-        "Name": "PrivacyMonitor",
-        "Parent Org": "Osano",
-        "People": "Privacy Monitor apps and browser extensions",
-        "URL": "https://www.privacymonitor.com",
-        "field24": "Active"
-    },
-    {
+        "Category": "research",
+        "Description": "Welcome to the Open Government Data Toolkit\n\nThe Open Government Data Toolkit is designed to help governments, Bank staff and users understand the basic precepts of Open Data, then get \u201cup to speed\u201d in planning and implementing an open government data program, while avoiding common pitfalls. We suggest that you begin reading here.\n\nGetting started with Open Data can be easier than many people think. If you have data in a re-usable electronic form, a publicly accessible online place to put it and an open license, then you\u2019re well on your way.\n\nWe update the OGD Toolkit frequently with new information. If you have suggestions or corrections, please send us feedback.",
         "Name": "Open Data ToolKit - Worldbank",
-        "URL": "http://opendatatoolkit.worldbank.org/en/starting.html"
+        "Parent Org": "The World Bank",
+        "Purpose": "human rights: tech interoperability",
+        "URL": "http://opendatatoolkit.worldbank.org/en/index.html"
     },
     {
         "Activities": "certification:",
-        "Description": "The Internet of Things (IoT) offer consumers: businesses: and governments across the globe countless benefits. As is true with most emerging technology: however: there remain some significant challenges. The Online Trust Alliance (OTA): an Internet Society initiative: believes that through leadership: innovation: and collaboration: we can overcome these challenges and create a safer and more trustworthy connected world. This requires a shared responsibility including industry embracing security and privacy by design: and adopting responsible privacy practices.",
-        "Name": "IoT Trust Framework:",
-        "Parent Org": "The Internet Society: Online Trust Alliance",
+        "Category": "service: terms",
+        "Description": "The IoT Trust Framework\u00ae includes a set of strategic principles necessary to help secure IoT devices and their data when shipped and throughout their entire life-cycle. Through a consensus driven multi-stakeholder process, criteria have been identified for connected home, office and wearable technologies including toys, activity trackers and fitness devices. The Framework outlines the need for comprehensive disclosures which need to be provided prior to product purchase, policies regarding data collection, usage and sharing, as well as the terms and conditions of security patching post-warranty. Security updates are essential to maximize the protection of IoT devices when vulnerabilities are discovered and attacks evolve. In addition, the Framework provides recommendations for manufacturers to enhance transparency and communication regarding devices\u2019 ability to be updated and a range of data privacy related issues.\n\nCore to addressing the inherent security risks and privacy issues is the application of the principles to the entire device solution or ecosystem. These include the device or sensor, the supporting applications, and the backend / cloud services. As many products coming to market rely on third-party or open source components and software, it is incumbent on developers to apply these principles and conduct supply chain security and privacy risk assessments.\n\nServing as a risk assessment guide for developers, purchasers and retailers, the Framework is the foundation for future IoT certification programs. It is the goal of OTA to highlight devices which meet these standards to help consumers, as well as the public and private sectors, make informed purchasing decisions. The Framework and related resources are available at https://otalliance.org/IoT.",
+        "Name": "IoT Trust Framework",
+        "Parent Org": "Internet Society: Online Trust Alliance",
         "People": "Steve Olshansky",
-        "URL": "https://www.internetsociety.org/resources/doc/2018/iot-trust-by-design"
+        "Purpose": "certification and compliance: transparancy and accountability: governance",
+        "Relevant Publications": "https://www.internetsociety.org/resources/doc/2018/iot-trust-by-design",
+        "Tech Focus": "IOT",
+        "URL": "https://www.internetsociety.org/iot/trust-framework/"
     },
     {
+        "Activities": "certification:",
+        "Category": "Software (Plugin): open source",
         "Description": "OpenWPM is a web privacy measurement framework which makes it easy to collect data for privacy studies on a scale of thousands to millions of websites. OpenWPM is built on top of Firefox: with automation provided by Selenium. It includes several hooks for data collection. Check out the instrumentation section below for more details.",
-        "Github Profile": "https://github.com/mozilla/OpenWPM#",
+        "Github Profile": "https://github.com/mozilla/OpenWPM",
         "Name": "Open WPM (Web Privacy Measurement)",
         "Parent Org": "Mozilla Foundation",
+        "Purpose": "transparancy and accountability, Consumer support",
+        "Relevant Publications": "https://webtap.princeton.edu/software/",
         "URL": "https://github.com/mozilla/OpenWPM"
     },
     {
+        "Activities": "certification:",
+        "Category": "software product (application): open source",
         "Description": "OpenWPM is a web privacy measurement framework which makes it easy to collect data for privacy studies on a scale of thousands to millions of websites. OpenWPM is built on top of Firefox: with automation provided by Selenium. It includes several hooks for data collection. Check out the instrumentation section below for more details.",
-        "Github Profile": "https://github.com/mozilla/OpenWPM#",
+        "Github Profile": "https://github.com/citp/OpenWPM",
         "Name": "Open WPM Mobile",
+        "Parent Org": "Mozilla Foundation",
+        "Purpose": "transparancy and accountability, Consumer support",
+        "Relevant Publications": "https://sensor-js.xyz/",
         "URL": "https://github.com/sensor-js/OpenWPM-mobile"
     },
     {
+        "Activities": "outreach",
+        "Category": "research",
+        "Description": "DCTP\u2019s mission is to use and develop technology rooted in community needs that strengthens human connections to each other and the planet. DCTP formed out of the Digital Stewards Program launched in 2014 and networks cultivated at the Allied Media Conference. DCTP offers technical support to various grassroots networks including the Detroit Digital Justice Coalition: the Allied Media Conference: New America Foundation: and transnational groups interested in fostering community technology.\n\nDiscoTech:  \"DiscoTech\" is short for \"Discovering Technology.\" It is is a term coined by the Detroit Digital Justice Coalition which defines a replicable model for a multimedia: mobile neighborhood workshop fair. DiscoTechs are designed so that participants learn more about the impact and possibilities of technology within our communities.\n\nDiscoTechs feature interactive: multimedia workshops designed to demystify: engage: and inform the community about issues of Internet use and ownership: and our communications rights on and offline.",
+        "Name": "Detroit Community Technology Project",
+        "Parent Org": "Detroit Digital Justice Coalition",
+        "Partners": "Allied Media Projects",
+        "Purpose": "Consumer Education",
+        "Relevant Publications": "https://alliedmedia.org/ddjc/discotech",
+        "URL": "https://alliedmedia.org/dctp",
+        "field5": "non-profit"
+    },
+    {
+        "Activities": "outreach",
+        "Category": "research",
         "Description": "DCTP is currently engaged in a local data justice campaign as part of a two year participatory national research project: called the \u201cOur Data Bodies Project:\u201d in collaboration with the New America Foundation and the Detroit Digital Justice Coalition.\n\nThe O.D.B. Project is a collaboration between academics and community-based organizations to explore the meaning and experience of privacy and data flows among poor and working class adults in three U.S. cities: Detroit: MI; Charlotte: NC; and Los Angeles: CA.",
-        "Name": "DCTP -> our Data Bodies Project",
+        "Name": "Our Data Bodies",
+        "Parent Org": "Detroit Community Technology Project",
+        "Partners": "Allied Media Projects: New America Foundation: Detroit Digital Justice Coalition",
+        "Purpose": "Consumer Education",
         "URL": "https://alliedmedia.org/dctp/datajustice"
     },
     {
+        "Activities": "outreach",
+        "Category": "research",
         "Description": "This project gathers stories from across Latin America about the mass collection and processing of data that governments: businesses and we ourselves carry out to monitor our cities: homes: wallets and bodies.",
         "Name": "Chupadatos (\"The Data Sucker\")",
+        "Parent Org": "CodingRights",
+        "Purpose": "Consumer Education",
         "URL": "https://chupadados.codingrights.org/en/"
     },
     {
+        "Activities": "outreach",
         "Description": "From July: 2016 to January: 2018: we will work together to ensure that more Detroit residents have the ability to leverage digital technologies for social and economic development.\n\nThe goals of this initiative are to:\n\nincrease Internet access through the distribution of shared Gigabit Internet connections in three underserved neighborhoods;\nincrease Internet adoption through a Digital Stewards training program that prepares residents of those same neighborhoods with the skills necessary to bring their communities online; and\nincrease pathways for youth into the opportunities of Detroit's burgeoning Innovation District through intermediate and advanced digital literacy trainings.",
         "Name": "Equitable Internet Initiative",
-        "Parent Org": "Allied Media Projects",
+        "Parent Org": "Allied Media Projects: Detroit Community Technology Project",
         "URL": "https://alliedmedia.org/dctp/eii"
     },
     {
+        "Category": "research",
         "Description": "#MoreThanCode aims to make the voices of these diverse practitioners heard. Our goals are to I. explore the current ecosystem; II. expand understanding of practitioner demographics; III. develop and share knowledge of practitioner experiences; IV. capture practitioner visions and values; and V. document stories of success and failure. We focus primarily on practitioners who work in the United States.",
+        "Github Profile": "https://github.com/opentechinstitute/morethancode",
         "Name": "#MoreThanCode",
-        "URL": "https://morethancode.cc/about/"
+        "Parent Org": "Open Technology Institute",
+        "URL": "https://morethancode.cc/"
     },
     {
-        "Description": "EXPloring opportunities and challenges for Emerging personal DaTa Ecosystems",
+        "Activities": "outreach",
+        "Category": "research",
+        "Description": "The full title of the project is \u201cEXPloring opportunities and challenges for Emerging personal DaTa Ecosystems: Empowering humans in the age of the GDPR \u2013 A Roadmap for Austria\u201c. The Vienna University of Economics and Business (WU Wien), the Vienna University of Technology (TU Wien) and OwnYourData are the project  partners in this project which is funded by the Austrian Research Promotion Agency (FFG). Here is a short description of the project:\n\nIn our increasingly digital societies, data is perceived as a key resource for economic growth. Among the highest-valued corporations today, many have business models that are essentially based on data of or about their users. This development has raised serious concerns about individuals\u2019 right to privacy and their ability to exercise control over their own data, as well as about the broader shifts of power between data subjects and data controllers that this development entails. Consequently, European policy makers have passed the General Data Protection Regulation (GDPR), which has imposed stricter regulations on personal data handling practices within the EU.",
         "Name": "Expedite Project",
+        "Parent Org": "EXPEDiTE",
+        "Purpose": "education",
         "URL": "https://www.expedite-project.eu/"
     },
     {
-        "Name": "Trustless Computing Certification Body (TCCB)"
+        "Description": "Since 2013, the Trustless Computing Association has been building a uniquely accountable, resilient and independent Trustless Computing Certification Body (\u201cTCCB\u201d) \u2013 and an initial compliant open ecosystem, computing base and 2mm-thin human computing device \u2013 aimed to achieve radically-unprecedented levels of trustworthiness for the confidentiality and integrity of the most critical IT systems, while concurrently ensuring legitimate lawful access, to prevent criminal abuse. \n\nInitially for the most sensitive human communications and transactions of tens of millions of World citizens, it will evolve to certify root-of-trust sub-systems of the most society-critical  IT systems in the areas of social media, autonomous, AI, 5G, IoT, cyber-physical, and public security systems.\n\nIt will be a private international standards setting and certification body that will issue a label that IT providers can apply for, in compliance with all current EU and Swiss laws, and downward compatibility with EU eIDAS Qualified and the future Swiss eID LoT3.",
+        "Name": "Trustless Computing Certification Body (TCCB)",
+        "Parent Org": "Trustless Computing Association",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.trustlesscomputing.org/"
     },
     {
-        "Description": "Rvoke is a cross-platform (iOS and Android) app for you to reduce your digital footprint and take control of your personal data.",
+        "Category": "Software product (application): service",
+        "Description": "Rvoke is a cross-platform (iOS and Android) app for you to reduce your digital footprint and take control of your personal data.\n\nOur Ethos\n\nThe internet is broken. Data breaches and misuse of personal data are a weekly (if not daily) occurrence.\n\nWe care strongly about privacy, data protection and your rights.\n\nWe wanted to do something about it, so we created Rvoke, giving you the power to exercise your data protection rights.\n\nWe also wanted to help organisations, many of whom do not have the capability or capacity to efficiently and accurately identify subjects, nor to respond to subject access requests.\n\nBy integrating with Rvoke, organisations can fully automate any request, speeding up the process and providing consumers with their data whenever they might request it.",
         "Name": "Rvoke",
-        "URL": "https://rvoke.com"
+        "Parent Org": "Rvoke",
+        "Purpose": "transparancy and accountability",
+        "Tags": "Quickly and easily manage your data requests in bulk: saving you stress: time and money.",
+        "URL": "https://rvoke.com/"
     },
     {
-        "Description": "Cut risks and costs with seamless KYC solutions for your business",
+        "Category": "Software product (application)",
+        "Description": "Cut risks and costs with seamless KYC solutions for your business\n\nWe\u2019re passionate data privacy technologists, building precision solutions designed to help businesses protect the enshrined data rights of their customers.\n\nOur technology combines proprietary and patented military grade encryption with an innovative and world leading approach to data containerisation, to deliver unrivalled data security products for business and individuals.\n\nWe have been building successful online products and services for over 20 years. Our supremely talented core team of engineers, visionaries and leaders drive our company forward.\n\nWe are committed to leading the way into a brave new world where we work to put an end to the abuses of privacy and data rights that have for so long gone unchecked.",
         "Name": "Atam.ID",
+        "Parent Org": "ATAM ID",
+        "Purpose": "usability",
         "URL": "https://atam.id"
     },
     {
-        "Name": "Usable Privacy Project",
-        "URL": "https://usableprivacy.org/"
+        "Category": "terms: research",
+        "Description": "Explore our Results\n\nThe Usable Privacy Policy Project develops techniques to semi-automatically analyze privacy policies with crowdsourcing, natural language processing, and machine learning. You can explore some of the project\u2019s privacy policy annotations which identify different data collection and use practices.\n\nData presented here are made available for research and teaching. Our results showcase both the power and limitations of human and machine annotation.",
+        "Name": "Explore Usable Privacy",
+        "Parent Org": "The Usable Privacy Policy Project",
+        "Purpose": "education: transparancy and accountability",
+        "URL": "https://explore.usableprivacy.org/"
     },
     {
-        "Category": "company",
-        "Name": "Helm:",
-        "URL": "https://thehelm.com/",
+        "Category": "Software product (service): hardware product",
+        "Description": "With full-disk encryption, secure boot, proximity-based security, encrypted backups, and vulnerability audits, Helm puts security first.\n\nHelm stores data securely using full disk encryption using keys that are managed by a Secure Enclave.\n\nThe Helm Personal Server runs a secure and minimal Linux-based operating system built using Yocto.\n\nIt leverages well-known open-source projects like Docker, Postfix, Dovecot, Let's Encrypt, Nextcloud and more bundled into easy-to-use services.\n\nHelm is engineered to dissipate heat through its aluminum base without using a fan resulting in a silent device.\n\nEach device comes with 120 GB of durable SSD storage and a slide-in tray designed for a 2.5\" hard drive, increasing storage up to 5 TB.\n\nThe Helm personal server connects with your existing home network. Network configuration is not required for email services.",
+        "Github Profile": "https://github.com/HelmSecure",
+        "Location(s)": "Bellview, WA",
+        "Name": "Helm Personal Server",
+        "Parent Org": "Helm",
+        "Tags": "personal data management",
+        "Tech Focus": "Information Sharing Control",
+        "URL": "https://www.thehelm.com/technology",
         "field5": "for-profit"
     },
     {
+        "Category": "software product (application)",
+        "Description": "Shows Facebook information you shared by default.",
+        "Name": "I Shared What?!",
+        "People": "JOE ANDRIEU",
+        "Tags": "facebook",
+        "URL": "https://web.archive.org/web/20190809094343/http://isharedwhat.com/",
+        "field24": "Inactive"
+    },
+    {
+        "Category": "software product (application)",
+        "Description": "Hijacks the Facebook sharing button and show you the data that would be shared not just the categories of data.",
+        "Name": "ShowMeFirst",
+        "People": "JOE ANDRIEU",
+        "Purpose": "Consumer support",
+        "Tags": "facebook",
+        "URL": "https://web.archive.org/web/20110609095518/http://www.showmefirst.info/",
+        "field24": "Inactive"
+    },
+    {
+        "Activities": "policy development",
+        "Description": "Sitra\u2019s IHAN\u00ae project aims to build the foundation for a fair and functioning data economy. The main objectives are to create a method for data exchange and to set up European level rules and guidelines for ethical use of data.",
+        "Location(s)": "Finland",
+        "Name": "SITRA - Fair Data Economy",
+        "Parent Org": "Sitra",
+        "Purpose": "Consumer support: transparancy and accountability",
+        "Relevant Publications": "https://www.sitra.fi/en/publications/roadmap-fair-data-economy/",
+        "Scope": "regional\n",
+        "Tech Focus": "Information Sharing Control",
+        "URL": "https://www.sitra.fi/en/topics/fair-data-economy/#latest"
+    },
+    {
+        "Activities": "policy development: events and convening: research",
+        "Description": "The Internet has changed the rules for what is and isn\u2019t possible in Washington, DC. We know that you can use the Internet to strike a nerve, reach hundreds of millions of people and channel their outrage into strategic action. So when governments, companies, or private individuals try to use technology to threaten your digital rights, we organize massive protests online and IRL to help millions of people just like you fight back \ud83e\udd4a",
         "Name": "Fight for the Future Projects",
+        "Parent Org": "Fight for the Future",
+        "Purpose": "Consumer support",
+        "Tags": "Top Level Products page\n",
         "URL": "https://www.fightforthefuture.org/projects/"
     },
     {
+        "Activities": "policy development",
+        "Description": "A bombshell court decision just reignited the fight for net neutrality. Lobbyists for big cable companies are already swarming Congress to push bad legislation that will allow ISPs to continue throttling Internet speeds and imposing unfair fees. But we have a strategy to fight them in DC and at the state level and restore net neutrality once and for all. Contact Congress now to demand your lawmakers pass the bipartisan Save the Internet Act.",
+        "Name": "Battle for the Net",
+        "Parent Org": "Fight for the Future",
+        "Purpose": "human rights: Consumer support",
+        "Tags": "petition",
+        "URL": "https://www.battleforthenet.com/"
+    },
+    {
+        "Activities": "policy development",
+        "Description": "Facial recognition surveillance technology is unreliable, biased, and a threat to basic rights and safety. Fill out the form below to tell your Congressional and local lawmakers to ban the government from using this dangerous technology.",
+        "Name": "Ban Facial Recognition",
+        "Parent Org": "Fight for the Future",
+        "Purpose": "human rights: Consumer support",
+        "Tags": "petition",
+        "URL": "https://www.banfacialrecognition.com/"
+    },
+    {
+        "Activities": "policy development",
+        "Description": "Facial recognition technology is incredibly invasive - it threatens human society and basic liberty in a way that far outweighs any potential benefits.\n\nBut right now there are almost no laws limiting its use. So far, politicians in D.C. have failed to act.\n\nWe\u2019re deploying a team across D.C. using Amazon\u2019s commercially available facial recognition software to scan and capture images of everyone they pass. We\u2019re finding and identifying government officials, members of Congress, and journalists to demonstrate how facial recognition works, how dangerous and invasive it is, and to highlight why we need to ban it now.",
+        "Name": "Scan Congress",
+        "Parent Org": "Ban Facial Recognition: Fight for the Future",
+        "Purpose": "human rights: Consumer support",
+        "Tags": "petition",
+        "URL": "https://www.scancongress.com/"
+    },
+    {
+        "Activities": "policy development",
+        "Description": "Amazon\u2019s business model is surveillance. They infiltrate our neighborhoods and homes with products that record everything we do. Amazon\u2019s practices and technology threaten our privacy, civil liberties, and security. Fill out the form below to demand lawmakers investigate Amazon\u2019s surveillance dragnet.",
+        "Name": "Investigate Amazon",
+        "Parent Org": "Fight for the Future",
+        "Purpose": "human rights: Consumer support",
+        "Tags": "petition",
+        "URL": "https://www.investigateamazon.com/"
+    },
+    {
+        "Activities": "policy development",
+        "Description": "Freedom of expression is a fundamental human right, but companies like Blizzard and Riot are silencing gamers who speak up about their own political oppression. Sign our petition to tell Blizzard and other game companies, \"Support free expression for gamers everywhere we play.\"",
+        "Name": "GAMERS FOR FREEDOM",
+        "Parent Org": "Fight for the Future",
+        "Purpose": "human rights: Consumer support",
+        "Tags": "petition",
+        "URL": "https://www.gamersforfreedom.com/"
+    },
+    {
+        "Activities": "policy development",
+        "Description": "Encryption is a basic form of security, like a lock on the front door of your house. It protects valuable digital information \u2014 everything from personal communications and bank account passwords to air traffic control systems and nuclear power plant controls. The US Department of Justice is once again demanding that tech companies create digital backdoors that break encryption, but this will only make all of us more vulnerable to privacy abuse, malicious hacking, and terrorist attacks.",
+        "Name": "Save Security",
+        "Parent Org": "Fight for the Future",
+        "Purpose": "human rights: Consumer support",
+        "Tags": "petition",
+        "URL": "https://www.savesecurity.org/"
+    },
+    {
+        "Activities": "policy development",
+        "Description": "The SEC has been shaping the future of crypto behind the scenes with settlements that set a dangerous precedent and stifle innovation.\n\nKik is unwilling to let that happen and has created DefendCrypto, a fund dedicated to supporting legal initiatives that impact the crypto industry. It is not just Kik that is impacted by the regulatory uncertainty. Many other projects are facing pressure behind the scenes, and many do not have the resources to fight and are being forced to simply fold and walk away. That is why Kik, along with other contributors, have already donated $2MM to assisting other projects that are dealing with fights of their own, and is calling on others to do the same.",
+        "Name": "Defend Crypto",
+        "Parent Org": "Fight for the Future",
+        "Purpose": "human rights: Consumer support",
+        "Tags": "petition",
+        "URL": "https://www.defendcrypto.org/"
+    },
+    {
+        "Activities": "policy development",
+        "Description": "Enough apologies. Mark Zuckerberg must resign. Under his leadership, Facebook has violated billions of people\u2019s basic rights, harvested and abused our data in nauseating ways, and shown reckless disregard for the human impact of its products.\n\nZuckerberg has been the sole leader of Facebook for its entire 15 years of existence. In that time, there has been no attempt to move away from a business model reliant on violating user privacy. Facebook\u2019s current business practices are fundamentally at odds with democracy and human rights.\n\nThere is no single silver bullet solution that will \u201cfix\u201d Facebook. But we can start by sending a clear message to its shareholders, corporate leadership, and the entire tech industry that we are fed up, and that no one should be immune from facing the consequences of their actions. Ousting Mark Zuckerberg is an important first step toward affecting real change.",
+        "Name": "Fire Mark Zuckerburg",
+        "Parent Org": "Fight for the Future",
+        "Purpose": "human rights: Consumer support",
+        "Tags": "petition",
+        "URL": "https://www.firemarkzuckerberg.com/"
+    },
+    {
+        "Activities": "policy development",
+        "Description": "Technologists have power and can build things used for tremendous good. But when abused, technology can also cause massive harm. Does the product you\u2019re building have the ability to unfairly target communities of color, endanger families seeking asylum, or expose survivors of abuse? We need tech workers to remain vigilant and speak out about the projects they are working on and those project\u2019s impact.",
+        "Name": "You are not alone",
+        "Parent Org": "Fight for the Future",
+        "Purpose": "human rights: Consumer support",
+        "Tags": "petition",
+        "URL": "https://www.speakout.tech/"
+    },
+    {
+        "Activities": "policy development",
+        "Description": "Salesforce is quietly maintaining a contract with US Customs and Border Protection, providing an operational backbone for the agency\u2019s human rights violations and separation of families at the border. Nonprofits are refusing donations from Salesforce, and vendors pulled out of their conference. Yesterday we protested and Salesforce felt it. We need to keep the pressure on Salesforce\u2019s CEOs. Use the button below to tell Salesforce to decide on their legacy & cancel their contract with border patrol.",
+        "Name": "Drop Salesforce",
+        "Parent Org": "Fight for the Future",
+        "Purpose": "human rights: Consumer support",
+        "Tags": "petition",
+        "URL": "https://www.dropsalesforce.com/"
+    },
+    {
+        "Activities": "policy development",
+        "Description": "Every day we learn more about how our data is being harvested and used against us. A group of technologists and human rights experts have developed this Security Pledge, a set of principles that \u2014 if enough companies adopted them \u2014 would ensure the Internet is used to expand democracy, not undermine it. Add your name to tell the companies you use to take the pledge.",
+        "Name": "Security Pledge",
+        "Parent Org": "Fight for the Future",
+        "Purpose": "human rights: Consumer support",
+        "Tags": "petition",
+        "URL": "https://www.securitypledge.com/"
+    },
+    {
+        "Category": "Software product (application)",
+        "Description": "Privacy rights are under attack. Defend yourself.\nThis guide gets you started with six easy steps.\nWhat device do you want to protect?\n\niOS devices - iPhone, iPad, iPod\nAndroid - Phones and Tablets\nWindows - Laptops and Desktops\nMac - Laptops and Desktops",
+        "Name": "#getsafe",
+        "Parent Org": "Fight for the Future",
+        "Purpose": "human rights: Consumer support",
+        "URL": "https://www.letsgetsafe.org/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "Operationalize Your Privacy, Security and Third-Party Risk Programs\n\nOneTrust products work together to give you the automation, workflows and record keeping you need to comply with GDPR, CCPA, ISO 270001 and hundreds of the world\u2019s privacy and security laws.",
         "Name": "One Trust",
         "Parent Org": "One Trust",
-        "URL": "https://www.onetrust.com/"
+        "Purpose": "certification and compliance",
+        "Tags": "Top Level Products page\n",
+        "URL": "https://www.onetrust.com/products/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "As the privacy landscape across the globe continues to take shape, privacy professionals must be able to quickly assess their organizational readiness for compliance and plan their privacy programs accordingly. As the definition of compliance changes and adapts to include the principle of accountability, a more proactive approach to privacy governance is required \u2013 starting with self-assessments.",
+        "Name": "OneTrust Maturity & Planning",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/products/maturity-planning/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "As new privacy regulations and certifications come into effect, privacy professionals must be able to quickly assess their organizational readiness for compliance. However, the definition of compliance is changing to include the principle of accountability. Demonstrating accountability requires a more proactive approach to privacy governance that starts with self-assessments.",
+        "Name": "Readiness & Accountability Tool",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/products/readiness-self-assessments/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "Organizations need actionable information to monitor and manage the complex legal and regulatory environments across privacy, security, and third-party risk compliance. DataGuidance by OneTrust is a dynamic regulatory research platform that gives organizations the tools they need to make the right decisions when building a successful compliance program.",
+        "Name": "DataGuidance by OneTrust",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/products/dataguidance-by-onetrust/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "Privacy Impact Assessment (PIAs) are essential in helping privacy professionals identify and guide the use of personal information across the organization. PIAs require tight collaboration between the privacy office and business leaders in order to address privacy-related regulatory requirements.\n\nAccording to the EU General Data Protection Regulation (GDPR), data privacy must be considered in the initial design stage of a project, and organizations are responsible for putting in place the appropriate policies, procedures and systems to enable this \u2018privacy by design\u2019 approach. In the event a project is likely to result in a high risk to the rights and freedoms of data subjects, the GDPR requires a Data Protection Impact Assessment (DPIA) in order to meet compliance.",
+        "Name": "PIA & DPIA Automation",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/products/assessment-automation/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "Data mapping and inventory are critical components of any privacy program. Understanding how data is flowing through the organization is a pre-requisite to being able to secure the data and analyze the data for risks. Maintaining an inventory also helps organizations more efficiently respond to data subject rights request to delete, correct, access, or port their data.\n\nIn the EU\u2019s new General Data Protection Regulation (GDPR), organizations are expected to maintain extensive and up-to-date internal records of their data processing activities. According to Article 30 of the GDPR, organizations will be held accountable for compliance with record keeping requirements, with equal responsibility given to both data controllers and data processors.",
+        "Name": "Data Mapping Automation",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/products/data-mapping-automation/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "OneTrust Incident & Breach Response helps centrally manage incidents, automate tasks, and maintain records for compliance and notification with global laws. The tool is powered by the Databreachpedia\u2122 Global Law Engine, an innovative solution that integrates breach notification laws directly into the OneTrust platform. With OneTrust Incident & Breach Response, build context-aware automated workflows that help your organization rapidly respond to incidents and enhance breach notification decision-making",
+        "Name": "Incident & Breach Management",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/products/incident-breach-management/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "Organizations around the world are assessing their online cookie consent policies to adhere to EU GDPR and ePrivacy standards. Companies must inform visitors about cookies and tracking technologies in use on their websites, as well as provide users with granular choice and control over their consent.\n\nLearn more about EU cookie requirements, compliance, and what to expect from the new ePrivacy Regulation with OneTrust's comprehensive guide.",
+        "Name": "Cookie Consent and Website Scanning",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/products/cookies/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "Global privacy regulations like the California Consumer Privacy Act (CCPA) and the General Data Protection Regulation (GDPR) have put a brighter spotlight on mobile app technologies and how apps collect data and share it with third-parties. Companies developing mobile solutions and delivering upon mobile-first strategies are seeking solutions to build intelligent, data-driven applications that respect user\u2019s privacy and build brand loyalty. OneTrust\u2019s technical privacy by design solution enables businesses to collect consent, scan for tracking technologies and unknown SDKs, and give both privacy and mobile app development teams visibility into how their app is sharing data with other third-parties.",
+        "Name": "Mobile App Consent",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/products/mobile-app-consent/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "The emergence of global privacy laws like the CCPA and GDPR now require businesses across the world to comply with\u202flarge volumes of\u202fconsumer\u202fand data subject\u202frights requests. Responding\u202fto\u202fthese\u202frequests is a time-consuming process full of manual tasks\u202f\u2013 making\u202fit a challenge to respond to the regulatory requirements for Consumer Rights Requests and the need to detect exactly where consumer data exists, in order to access, port, delete it, or comply with CCPA\u202fopt-outs.\n\nAs data models become more complex and consumers continue to exercise their consumer privacy rights, manual tasks to fulfill these requests is no longer scalable for businesses of all sizes.",
+        "Name": "OneTrust Targeted Data Discovery\u2122 Solution",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/products/targeted-data-discovery/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "Global privacy laws like the CCPA and GDPR have created many challenges for organizations trying to manage privacy policies and disclosures throughout their digital channels. The complexity of managing policies across the range of regulations, geographical regions, languages and digital platforms has become inefficient, unscalable for businesses of all sizes.\n\nCompanies need to be able to identify web forms, policies and disclosures that exist across their digital properties and update and publish them within specific time periods to adhere to the range of global privacy regulations.\n\nThe OneTrust Policy and Notice Management solution simplifies the complex process of creating, updating, and monitoring policies across websites and applications into one central location while eliminating the need of complex development work.",
+        "Name": "Policy and Notice Management",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/products/onetrust-policy-and-notice-management/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "Your vendors often handle your most sensitive data. This presents security and privacy challenges as third-party risk teams like yours struggle to vet and manage the vendors you rely on most. OneTrust Vendorpedia adds value to your vendor inventory, enabling faster assessment with risk mitigation workflows, ongoing monitoring, and powerful reporting to manage the entire vendor engagement lifecycle, from onboarding to offboarding.",
+        "Name": "Intelligent Third- Party Risk Management\n\n",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/solutions/vendor-third-party-risk/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "OneTrust Governance, Risk and Compliance Solution (GRC) offers an integrated risk management platform to deliver a complete, measured view of your business' risk portfolio.\n\n    Expedite to your time to value and ease the ongoing maintenance of incorporating risk management\n\n    Deliver the appropriate visibility and plan of action for a proactive risk management approach",
+        "Name": "OneTrust Governance, Risk and Compliance Solution",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/solutions/governance-risk-compliance/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "OneTrust Universal Consent & Preference Management integrates into your existing marketing and IT technologies to manage the entire consent lifecycle, from collection through withdrawal. Demonstrate accountability across various collection points, enable users to manage preferences, and centrally maintain a consent audit trail to help demonstrate accountability with regulations.",
+        "Name": "Preference Center Management",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/products/preference-center-management/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "The emergence of global privacy laws like the CCPA and GDPR introduce new data privacy rights for consumers and data subjects across the globe \u2013 requiring businesses of all sizes to comply with\u202flarge volumes of\u202fconsumer\u202fand data subject\u202frights requests. Responding\u202fto\u202fthese\u202frequests is a time-consuming process full of manual tasks,\u202fmaking\u202fit a challenge to respond to regulatory requirements and the need to detect exactly where consumer data exists, in order to access, port, delete it, or comply with CCPA\u202fopt-outs. As data models become more complex and consumers continue to exercise their data privacy rights, fulfilling these tasks manually is no longer a scalable solution for any organization.",
+        "Name": "OneTrust Consumer & Data Subject Rights Management",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/products/data-subject-access-requests-portal/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "The OneTrust integration ecosystem includes a catalog of pre-integrated applications that make it easy to integrate privacy into your existing application workflows. We offer the industry\u2019s broadest and deepest set of integrations, and are continuously adding new ones to our library. The OneTrust platform provides a powerful but flexible way to connect to your applications through APIs, SDKs, data feeds, system integration, and more.",
+        "Name": "OneTrust Integrations Marketplace\n",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://www.onetrust.com/integrations/"
+    },
+    {
+        "Category": "Software product (service)",
+        "Description": "DataGuidance global regulatory research helps third-party risk teams manage vendor relationships with confidence, from onboarding to offboarding.\n\nSearch for laws and frameworks to help you achieve global compliance within your specific industry, and monitor regulatory developments to identify and control risks in your portfolio of vendors.",
+        "Name": "OneTrust DataGuidance",
+        "Parent Org": "One Trust",
+        "Purpose": "certification and compliance",
+        "URL": "https://free.dataguidance.com/"
     }
 ]

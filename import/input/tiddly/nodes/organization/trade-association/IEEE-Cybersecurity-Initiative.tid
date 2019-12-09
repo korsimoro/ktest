@@ -1,5 +1,5 @@
-created:1575213940170
-modified:1575213940170
+created:1575897973102
+modified:1575897973102
 title:IEEE Cybersecurity Initiative
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"c84fd645-988c-48ae-99ef-fd647bcefb87":{"to":"b910697c-037c-4138-a8b2-66b4b50253b4","type":"sponsor"}}
-tmap.id:ffe59486-bf6d-4cfb-b58d-9b9346fff75a
+tmap.edges:{"0ac5353a-f5df-4f4b-bbb5-3413f621131a":{"to":"0a9ad6b2-6041-4f16-a2f8-941b5f621c51","type":"sponsor"}}
+tmap.id:4ecffef4-344a-4348-a166-6fceaf31194b
 twitter.profile:
 website:http://cybersecurity.ieee.org/about/
 

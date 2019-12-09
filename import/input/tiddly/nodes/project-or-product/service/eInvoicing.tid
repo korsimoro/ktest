@@ -1,5 +1,5 @@
-created:1575213940132
-modified:1575213940132
+created:1575897973070
+modified:1575897973070
 title:eInvoicing
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"d22f7f2e-6d6f-4102-9b43-111a8d3c49be":{"to":"36a09398-318d-46d3-916c-6fe8020bd565","type":"author"}}
-tmap.id:0ed48c3f-1df6-49f2-9ce5-a6acc9f57ea2
+tmap.edges:{"2e410378-be59-4477-b373-08e074acb28b":{"to":"83febd84-120d-4dcb-b6c7-690bfb220b28","type":"author"}}
+tmap.id:59b36d04-7975-45a6-bfa5-4fcf8ed9c67b
 url:https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eInvoicing
 version.or.edition:
 working.group:

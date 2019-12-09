@@ -1,5 +1,5 @@
-created:1575213940155
-modified:1575213940155
+created:1575897973086
+modified:1575897973086
 title:Economy & Society
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"59446bac-243e-46ea-90cb-163a3d15850d":{"to":"1e55eaf5-bee9-4cfc-9c99-4155e10734db","type":"government-connection"}}
-tmap.id:d7881413-a0e9-4d17-af45-8663db807f2b
+tmap.edges:{"29a86c56-518a-468b-a049-440550d3877d":{"to":"c62b2532-1bcb-4ee8-860b-4b01c06aee08","type":"government-connection"}}
+tmap.id:1bc251c5-ad46-4001-bc21-918eb5e3c56c
 twitter.profile:
 website:
 

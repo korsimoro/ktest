@@ -1,30 +1,32 @@
-created:1575213940195
-modified:1575213940195
-title:TRUSTe Data Collection Certification
-type:text/vnd.tiddlywiki
-activities:
-audience:
-category:service
-date.begun:
-date.ended:
-digital.harms.addressed:
-element.type:project-or-product
-github.profile:
-input.source:me2b
-license:
-me2b.participation:
-name:TRUSTe Data Collection Certification
-parent.org:TrustArc / Trust-e
-partners:
-people:
-purpose:
+activities: 
+audience: 
+category: service
+created: 15820721014003000
+date.begun: 
+date.ended: 
+digital.harms.addressed: 
+element.type: project-or-product
+github.profile: 
+input.source: me2b
+license: 
+me2b.participation: 
+modified: 20191209132644984
+name: TRUSTe Data Collection Certification
+parent.org: TrustArc / Trust-e
+partners: 
+people: 
+purpose: certification and compliance
+title: TRUSTe Data Collection Certification
+tmap.id: 2b5e6aff-f6bf-44f2-8a6c-dca5aa603687
+type: text/vnd.tiddlywiki
+
 relevant.publications:
 status:
 supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:1aa89e50-1717-4dd2-8020-3e38b20ba1d1
+tmap.id:cb9b5419-4568-40be-ad00-d5870bb6eeb9
 url:https://www.trustarc.com/products/data-certification/
 version.or.edition:
 working.group:

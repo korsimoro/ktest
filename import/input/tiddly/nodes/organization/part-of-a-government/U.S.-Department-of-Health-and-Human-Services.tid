@@ -1,5 +1,5 @@
-created:1575213940157
-modified:1575213940157
+created:1575897973088
+modified:1575897973088
 title:U.S. Department of Health and Human Services
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"740c6dfa-774e-44a1-aac9-990cb9333449":{"to":"508643ac-e8e3-464c-a6b7-1b8998b3b7eb","type":"sponsor"},"fbd21faa-1e82-4e7e-9637-740d9d22f664":{"to":"059fe22d-4f56-4cda-b046-2025e1887b6c","type":"government-connection"}}
-tmap.id:ef36d53d-39a4-48de-828d-87c7150163cf
+tmap.edges:{"fab72eea-1792-46d6-af7b-0d4255a0cde1":{"to":"ebf787cb-37bb-4750-84db-20bbfcad4eac","type":"sponsor"},"3cbd05bf-0a0d-47d7-b72c-f40c0d311144":{"to":"55e25a17-2c95-4336-b4ba-a00def1c7e80","type":"government-connection"}}
+tmap.id:2e71e70f-34a6-44b2-9040-8264066a23b0
 twitter.profile:
 website:
 

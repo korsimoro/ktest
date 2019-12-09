@@ -1,5 +1,5 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973401
+modified:1575897973401
 title:Open Data Foundation
 type:text/vnd.tiddlywiki
 activities:standard development
@@ -13,7 +13,7 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
+linkedin.profile:https://www.linkedin.com/company/open-data-foundation-inc-/about/
 location(s):
 me2b.relationship:
 org.name:Open Data Foundation
@@ -21,15 +21,16 @@ org.type:Foundation
 parent.org:
 partners:
 products.and.or.services:
-purpose:usability, interoperability
+purpose:usability: interoperability
 relevant.publications:
 scope:
 sector:non-profit
 status:
-tags:0
-tech.focus:
+tags:
+tech.focus:Data Mobility: analytics
 tmap.edges:{}
-tmap.id:9a515e39-6ad1-47fc-bf7e-1f3ec0c816f5
+tmap.id:404259e2-f89a-41f7-adbb-740090d623e0
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
 twitter.profile:
 website:http://opendatafoundation.org/
 

@@ -1,5 +1,5 @@
-created:1575213940167
-modified:1575213940167
+created:1575897973098
+modified:1575897973098
 title:Association Française pour le Nommage Internet en Coopération (AFNIC)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"18864a48-67c3-4a13-82d9-8c69d23ddbd0":{"to":"b0fd567e-ad67-4985-95a4-6d9e43e2c4d4","type":"general-member"}}
-tmap.id:f9e2f1cb-4305-40ad-b7da-313179fdb774
+tmap.edges:{"b6ef4261-fe0d-4457-bd6a-ce9bc1349430":{"to":"563def5f-165a-48c4-8845-94ee14c13394","type":"general-member"}}
+tmap.id:9311c442-e8f1-4862-bbd1-9b59f4516273
 twitter.profile:
 website:
 

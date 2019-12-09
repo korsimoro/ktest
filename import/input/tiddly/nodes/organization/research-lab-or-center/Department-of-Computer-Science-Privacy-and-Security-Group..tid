@@ -1,5 +1,5 @@
-created:1575213940154
-modified:1575213940154
+created:1575897973086
+modified:1575897973086
 title:Department of Computer Science, Privacy and Security Group.
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"13bbcacf-e948-4a93-b265-6c0e0288455a":{"to":"7576b964-d7c8-4dd1-849b-0927373eec0c","type":"convenor"}}
-tmap.id:5ccaae7d-89e2-4fac-b0f2-204214706489
+tmap.edges:{"e2fdcf51-3615-4b5f-a15d-45b15d6eff22":{"to":"9eebd82a-f47b-414f-af4a-bb127be0252d","type":"convenor"}}
+tmap.id:0717e952-d8cd-4c13-b3fd-4cf9d4df4d8c
 twitter.profile:
 website:http://prisec.kau.se
 

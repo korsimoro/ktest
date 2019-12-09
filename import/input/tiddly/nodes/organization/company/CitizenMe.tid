@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973402
+modified:1575897973402
 title:CitizenMe
 type:text/vnd.tiddlywiki
 activities:
@@ -10,11 +10,11 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/citizenme
 input.source:me2b
 key.people:
-linkedin.profile:
-location(s):
+linkedin.profile:https://www.linkedin.com/company/citizenme/
+location(s):London
 me2b.relationship:Certification Candidate.
 org.name:CitizenMe
 org.type:Company
@@ -26,11 +26,12 @@ relevant.publications:
 scope:
 sector:for-profit
 status:Active
-tags:0
-tech.focus:
+tags:
+tech.focus:Information Sharing Control, analytics
 tmap.edges:{}
-tmap.id:946e1355-d4ad-467c-97b8-bed6b5bd33f4
-twitter.profile:
+tmap.id:943f93e5-4bd9-4ad8-85a5-637d3b1f5d45
+tmap.names:me2bstar me2bstar-certification-candidate.
+twitter.profile:https://twitter.com/ctznme
 website:https://www.citizenme.com/
 
 CitizenMe’s mission is to bring people and companies together to share information for mutual benefit. It’s a democracy in the truest sense; ethical because it’s fully opted-in: powerful because we integrate data from multiple sources and effective because the insights we provide add tangible value. We believe it’s the way human data should be done: and our clients agree.

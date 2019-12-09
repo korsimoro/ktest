@@ -1,5 +1,5 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973401
+modified:1575897973401
 title:EPIC
 type:text/vnd.tiddlywiki
 activities:outreach
@@ -13,15 +13,15 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
-location(s):
+linkedin.profile:https://www.linkedin.com/company/epic-foundation/
+location(s):USA: UK: France: Switzerland
 me2b.relationship:
 org.name:EPIC
 org.type:Foundation
 parent.org:
 partners:
 products.and.or.services:
-purpose:human rights, transparancy and accountability
+purpose:human rights: transparancy and accountability
 relevant.publications:
 scope:
 sector:non-profit
@@ -29,8 +29,9 @@ status:
 tags:0
 tech.focus:
 tmap.edges:{}
-tmap.id:edce9aa1-9f8a-4d61-88d5-ac4d4f75a68e
-twitter.profile:
+tmap.id:0984f76a-274d-41e7-89f6-884c8ceeef2c
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose me2bstar-tag
+twitter.profile:https://twitter.com/epic_foundation
 website:https://epic.foundation/
 
 Epic Foundation backs outstanding nonprofits and social innovation to change the lives of disadvantaged youth.

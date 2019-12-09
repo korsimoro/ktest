@@ -1,8 +1,8 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:Open identity Exchange
 type:text/vnd.tiddlywiki
-activities:
+activities:research: publication
 annual.budget:
 audience:
 date.ended:
@@ -13,7 +13,7 @@ funding:
 github.profile:
 input.source:me2b
 key.people:https://openidentityexchange.org/wp-content/uploads/2019/10/Establishing-a-Trusted-Interoperable-Digital-Identity-Ecosystem-in-the-UK-White-Paper-Oct-2019.pdf
-linkedin.profile:
+linkedin.profile:https://www.linkedin.com/groups/8101604/
 location(s):
 me2b.relationship:
 org.name:Open identity Exchange
@@ -21,16 +21,17 @@ org.type:Trade Association
 parent.org:
 partners:
 products.and.or.services:
-purpose:
-relevant.publications:
+purpose:tech interoperability: ecosystem building
+relevant.publications:http://www.openidentityexchange.org/blog/
 scope:
-sector:
+sector:non-profit
 status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:31233447-9d8a-4028-a9fe-ba135c0f7744
-twitter.profile:
+tmap.id:07077f21-902b-406f-966c-33793fe07bbe
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/OpenIDExchange
 website:https://openidentityexchange.org/
 
 The Open Identity Exchange (OIX) is a technology agnostic, non-profit trade organisation of leaders from competing business sectors focused on building the volume and velocity of trusted transactions online. OIX enables members to expand existing identity services and serve adjacent markets. Members advance their market position through joint research and engaging in pilot projects to test real world use cases. The results of these efforts are published via OIX white papers and shared publicly via OIX workshops. OIX members work together to jointly fund and  participate in pilot projects (sometimes referred to as alpha projects). These pilots test business, legal, and/or technical concepts or theory and their interoperability in real world use cases. OIX operates the OIXnet trust registry, a global, authoritative registry of business, legal and technical requirements needed to ensure market adoption and global interoperability.

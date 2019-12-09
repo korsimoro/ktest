@@ -1,5 +1,5 @@
-created:1575213940195
-modified:1575213940195
+created:1575897973403
+modified:1575897973403
 title:Free Software Foundation
 type:text/vnd.tiddlywiki
 audience:
@@ -18,8 +18,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{}
-tmap.id:f83107a3-7f86-4821-bb83-31f94b3b428c
+tmap.edges:{"f3e80ada-86e7-4d40-a60a-4f98eed7e341":{"to":"ba7e3341-8b24-42e2-9af8-a6c54773d74a","type":"Provides"}}
+tmap.id:3a543279-2919-4725-91a9-bf862de105ce
 url:
 version.or.edition:
 volume.frequency:

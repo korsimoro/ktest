@@ -1,5 +1,5 @@
-created:1575213940156
-modified:1575213940156
+created:1575897973087
+modified:1575897973087
 title:DG Connect European Commission's Directorate General for Communications Networks, Content & Technology
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"98de7311-ab5c-4d3c-92ee-a6a588866d2d":{"to":"4783a577-fdde-4119-a05c-a365b4f9618f","type":"government-connection"},"6743cfca-0567-4c76-9c97-995f11392870":{"to":"138ffbe2-4129-406c-8f98-0850168c2e84","type":"government-connection"},"7db1fbab-d5da-44da-afdc-39c653a00471":{"to":"e6c12372-7bfc-4f01-aba2-801d4ee496c5","type":"convenor"}}
-tmap.id:a22ebb40-ee3f-4786-84af-e4836b17a4c0
+tmap.edges:{"7016c208-64a1-4b63-8d84-bd3186229851":{"to":"c8ed697d-2766-4497-a51a-4fbf15f42fc1","type":"government-connection"},"de3ccbb2-f437-4ed3-a897-08d9259f159e":{"to":"9a0b6366-f6a5-4962-9a67-301c29e2d9dc","type":"government-connection"},"7621aee0-2a5a-4221-9398-ef04d63ea255":{"to":"fea02d3c-da5b-45f0-83de-aadd06076500","type":"convenor"}}
+tmap.id:2b930ec9-7b90-41dd-8a66-867616bd8e20
 twitter.profile:
 website:https://ec.europa.eu/digital-single-market/dg-connect
 

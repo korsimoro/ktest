@@ -1,8 +1,8 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:ThingsCon
 type:text/vnd.tiddlywiki
-activities:events and convening, publication, outreach
+activities:events and convening: publication: outreach
 annual.budget:
 audience:
 date.ended:
@@ -13,8 +13,8 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
-location(s):
+linkedin.profile:https://www.linkedin.com/company/thingscon/
+location(s):Berlin, Germany
 me2b.relationship:
 org.name:ThingsCon
 org.type:Foundation
@@ -26,11 +26,12 @@ relevant.publications:
 scope:
 sector:non-profit
 status:
-tags:0
-tech.focus:
+tags:
+tech.focus:IOT
 tmap.edges:{}
-tmap.id:d373be71-e5a5-41a1-859f-35eb942c9d9f
-twitter.profile:
+tmap.id:2fa4fe24-c676-437e-bbf3-1f8b7e3a4bef
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/thingscon
 website:https://thingscon.org
 
 ThingsCon is a global initiative to explore and promote the development of fair, responsible, and human-centric technologies for the IoT and beyond.

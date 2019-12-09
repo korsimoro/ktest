@@ -1,5 +1,5 @@
-created:1575213940155
-modified:1575213940155
+created:1575897973086
+modified:1575897973086
 title:European Data Protection Supervisor (Contrôleur européen de la protection des données)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"fa882961-8ae2-4baf-819e-6a7617a95f1a":{"to":"6ba9b205-7c8b-4ad0-827c-9ce04545796d","type":"default"},"a588b170-a74e-448e-a064-f1dae047e6c9":{"to":"d597f26a-dc38-4f09-9f46-c1cd726822ab","type":"general-member"},"bcf2aa97-db61-479e-808d-81c6114e204e":{"to":"e6c12372-7bfc-4f01-aba2-801d4ee496c5","type":"sponsor"},"09d8bad0-0a38-437e-9410-87fb3f59c1eb":{"to":"eda46f96-3bbb-4a94-9ef1-85f0b5a8bfd1","type":"government-connection"}}
-tmap.id:1436888e-cb8d-45ad-9d03-20bbd789da03
+tmap.edges:{"85aa9ae7-34a4-416c-bea7-be9bbb6611eb":{"to":"461279ef-eacc-4f7b-8a92-06b2b07ec5f9","type":"default"},"bbacfc3e-9a73-47c9-a35c-fc036a50ac59":{"to":"461aa8df-9255-42d6-80b2-de93fcec1fdf","type":"general-member"},"0fcf4d82-aa94-4dcf-bfbb-8fee45a7993d":{"to":"fea02d3c-da5b-45f0-83de-aadd06076500","type":"sponsor"},"6135a17a-396c-48da-8baf-66b16ab4dee5":{"to":"07a33beb-67f0-4cd9-ace6-c888ac0ef5c5","type":"government-connection"}}
+tmap.id:eeb94d84-a3ce-4fbb-9e8b-dcad36624ff6
 twitter.profile:
 website:https://secure.edps.europa.eu/EDPSWEB/edps/EDPS
 

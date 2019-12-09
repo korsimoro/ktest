@@ -1,5 +1,5 @@
-created:1575213940155
-modified:1575213940155
+created:1575897973087
+modified:1575897973087
 title:National Interoperability Framework Observatory (NIFO)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"a60fd3c6-e63a-4716-af2d-c31f825d512a":{"to":"81e6eb2e-c199-4a98-a8ab-0cacaf0b8a63","type":"author"},"6f99ae0a-0407-4414-a2f3-0dc14e44ca29":{"to":"df38302e-6ea1-4688-a196-e0a723a09048","type":"author"}}
-tmap.id:4b7f6be4-cbed-44a9-8686-833aeadc3062
+tmap.edges:{"3ac8cead-edeb-4647-bbf6-e05836a37f9e":{"to":"92e4dbb1-4d58-4a9d-b6e2-53b718d80459","type":"author"},"e1846595-d73c-4ef4-a186-1852d8f89aae":{"to":"8afb3dbb-60be-41d7-a84e-c6dae5029a73","type":"author"}}
+tmap.id:495e2a87-ecd1-462a-9f7a-c87a4cc8052c
 twitter.profile:
 website:https://joinup.ec.europa.eu/community/nifo/home
 

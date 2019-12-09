@@ -1,5 +1,5 @@
-created:1575213940126
-modified:1575213940126
+created:1575897973067
+modified:1575897973067
 title:OpenID Connect Profile for SCIM Services
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"05804e88-e330-494d-8e75-082122f2fd32":{"to":"bf01d472-6c26-4c69-8622-3ae9fe7f5a28","type":"specification-of-group"}}
-tmap.id:0660a0e8-7ea5-46f2-a9cc-b70a0ffd2b01
+tmap.edges:{"eba28b54-61f3-4934-866a-bff045631f33":{"to":"be6b25c6-9751-4b5a-8257-377a3ed92ab8","type":"specification-of-group"}}
+tmap.id:9ce380fd-91b5-491a-b82f-0c388141057a
 url:http://openid.net/specs/openid-connect-scim-profile-1_0.html
 version.or.edition:
 volume.frequency:

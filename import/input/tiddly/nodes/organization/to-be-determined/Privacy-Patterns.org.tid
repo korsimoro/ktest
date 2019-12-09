@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:Privacy Patterns.org
 type:text/vnd.tiddlywiki
 activities:research
@@ -7,14 +7,14 @@ annual.budget:
 audience:
 date.ended:
 date.founded:
-digital.harms.addressed:
+digital.harms.addressed:Exposure
 element.type:organization
-funding:
-github.profile:
+funding:DHS: NIST
+github.profile:https://github.com/privacypatterns
 input.source:me2b
 key.people:
 linkedin.profile:
-location(s):
+location(s):San Francisco Bay Area
 me2b.relationship:
 org.name:Privacy Patterns.org
 org.type:to-be-determined
@@ -29,7 +29,8 @@ status:
 tags:0
 tech.focus:
 tmap.edges:{}
-tmap.id:54c2f3a5-fd08-43c7-b91c-2a7a8f9dfbe9
+tmap.id:440ccd22-9ce0-4b03-962a-b3cd0ee5a0b8
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose me2bstar-tag
 twitter.profile:
 website:https://privacypatterns.org/about/
 

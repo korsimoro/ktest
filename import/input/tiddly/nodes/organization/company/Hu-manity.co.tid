@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:Hu-manity.co
 type:text/vnd.tiddlywiki
 activities:
@@ -13,8 +13,8 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
-location(s):
+linkedin.profile:https://www.linkedin.com/company/hu-manity-co/
+location(s):Princeton, NJ
 me2b.relationship:
 org.name:Hu-manity.co
 org.type:Company
@@ -26,11 +26,12 @@ relevant.publications:
 scope:
 sector:for-profit
 status:
-tags:0,1
+tags:0
 tech.focus:
 tmap.edges:{}
-tmap.id:5fc987ec-c6a9-4ec6-9cd3-488961625490
-twitter.profile:
+tmap.id:7e5a908d-af7d-422b-80de-89fbd4cfca16
+tmap.names:me2bstar me2bstar-tag
+twitter.profile:https://twitter.com/hu_manityco
 website:https://hu-manity.co/
 
 We are redesigning privacy for our lives

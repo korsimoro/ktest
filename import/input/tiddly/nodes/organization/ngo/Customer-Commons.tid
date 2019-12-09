@@ -1,8 +1,8 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973400
+modified:1575897973400
 title:Customer Commons
 type:text/vnd.tiddlywiki
-activities:research, publication, movement building
+activities:research: publication: movement building
 annual.budget:
 audience:
 date.ended:
@@ -18,7 +18,7 @@ location(s):
 me2b.relationship:TBD
 org.name:Customer Commons
 org.type:NGO
-parent.org:
+parent.org:Berkman Klein Center for Internet and Society at Harvard University
 partners:
 products.and.or.services:
 purpose:Consumer support
@@ -29,8 +29,9 @@ status:Active
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:c3f987f5-c2c2-47ea-84ee-de333a42ed9f
-twitter.profile:
+tmap.id:717bbd66-64ee-4fe7-a806-852257586758
+tmap.names:me2bstar me2bstar-tbd me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/customercommons
 website:http://customercommons.org/
 
 Customer Commons’ mission is to restore the balance of power: respect and trust between individuals and organizations that serve them: and does not take contributions from commercial entities. 

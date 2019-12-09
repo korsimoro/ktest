@@ -1,5 +1,5 @@
-created:1575213940110
-modified:1575213940110
+created:1575897973059
+modified:1575897973059
 title:Account Chooser
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"82f031fb-48b0-45c7-90d4-2d1c458dec50":{"to":"7587e6fb-6b6b-44ae-a044-3d5c1322bab5","type":"organization-for-group"}}
-tmap.id:df40dc5d-78b8-4e52-80f5-7acb875c1158
+tmap.edges:{"d1ad3c75-5004-48ee-9c86-9b146f0f210b":{"to":"203f1679-9c41-4256-bc9b-2a3f21d8b0ef","type":"organization-for-group"}}
+tmap.id:44d316a4-be75-4c4f-a5df-647a25a9f9f2
 url:http://accountchooser.net
 
 Account Chooser is an industry effort to standardize that approach on both mobile and the desktop. It also provides a way for applications to start supporting identity providers to improve security without requiring a large user experience change. That security improvement is becoming more important as hackers become more sophisticated.

@@ -1,5 +1,5 @@
-created:1575213940111
-modified:1575213940111
+created:1575897973060
+modified:1575897973060
 title:Radboud University Nijmegen (RU) - Digital Security
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"4135a931-868b-4e88-8b3b-2cb9d07fa232":{"to":"fee9769f-d7f4-49d3-8aac-485f580252f9","type":"organization-for-group"}}
-tmap.id:ba8e7a45-baba-4d2c-a313-c0706deca47a
+tmap.edges:{"87fbbbcf-7c94-4662-87ab-8dd0ccdd88e0":{"to":"625e935d-dd59-430e-be55-421c9eaba2e8","type":"organization-for-group"}}
+tmap.id:dda5fe45-f8ec-4ef2-9e26-220211cc5054
 twitter.profile:
 website:http://www.ru.nl/ds/
 

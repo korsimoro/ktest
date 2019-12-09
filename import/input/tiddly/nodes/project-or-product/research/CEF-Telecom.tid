@@ -1,5 +1,5 @@
-created:1575213940134
-modified:1575213940134
+created:1575897973071
+modified:1575897973071
 title:CEF Telecom
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"53780768-d70a-4421-9e85-ab77e0233391":{"to":"3b0074f0-017a-4ea4-8c9d-1107e8476e80","type":"government-connection"},"ce8cf683-5481-4bcf-b30c-2247040cfe69":{"to":"f525a023-1b15-4bef-8d63-dee2a8a9b0ac","type":"author"}}
-tmap.id:c57d8537-c0f6-4ecd-b364-83ac4aa0c697
+tmap.edges:{"89e7edf8-aa01-4774-8c0b-dff50a3e3052":{"to":"3c7b6095-0691-4909-83fe-c94900e22d8c","type":"government-connection"},"38d9f8c3-829e-4130-a39a-95b20a95e553":{"to":"98d82fad-a238-4107-8d69-4b9f37cedc2d","type":"author"}}
+tmap.id:3eaed2c8-5824-4f90-b7aa-9b171a89be87
 url:
 version.or.edition:
 working.group:

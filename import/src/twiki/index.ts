@@ -20,6 +20,7 @@ export interface TiddlyModel {
 	nodeTypes:NodeTypeTiddler[]
 	system:string
 	templates:string
+	namedMaps:Set<string>
 
 	nodes:() => void
 	readTiddlerFile:(path:string) => any
@@ -34,6 +35,7 @@ export interface TiddlyModel {
 	createEdgeTypeTiddler:(parts:string[]) => EdgeTypeTiddler
 	createNodeTypeTiddler:(parts:string[]) => NodeTypeTiddler
 
+	registerNamedMap:(name:string) => void
 }
 
 

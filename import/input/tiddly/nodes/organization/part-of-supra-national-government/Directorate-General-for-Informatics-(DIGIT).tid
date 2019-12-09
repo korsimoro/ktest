@@ -1,5 +1,5 @@
-created:1575213940156
-modified:1575213940156
+created:1575897973087
+modified:1575897973087
 title:Directorate-General for Informatics (DIGIT)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"aa5224e9-055b-49e6-8e29-c128843f7ac1":{"to":"81e6eb2e-c199-4a98-a8ab-0cacaf0b8a63","type":"author"},"42707289-748d-42c7-b838-d80169f3b80c":{"to":"0ed48c3f-1df6-49f2-9ce5-a6acc9f57ea2","type":"government-connection"},"e7e7e0c0-08ba-46d5-8fbf-7d454599afa5":{"to":"4783a577-fdde-4119-a05c-a365b4f9618f","type":"government-connection"}}
-tmap.id:db254eee-eeaa-43e7-839c-e314de0f4f7b
+tmap.edges:{"3300cad8-0ce5-4f03-af32-56d2f81f9f66":{"to":"92e4dbb1-4d58-4a9d-b6e2-53b718d80459","type":"author"},"51444177-b869-45cf-b459-8516837c3bba":{"to":"59b36d04-7975-45a6-bfa5-4fcf8ed9c67b","type":"government-connection"},"7bf215ec-2a61-4b40-a7d5-aba2aa3c5000":{"to":"c8ed697d-2766-4497-a51a-4fbf15f42fc1","type":"government-connection"}}
+tmap.id:b6ae0ee2-532b-4877-aa14-ff3bbfaee4c4
 twitter.profile:
 website:
 

@@ -1,36 +1,39 @@
-created:1575213940194
-modified:1575213940194
-title:Information Commissioner's Office (ICO)
-type:text/vnd.tiddlywiki
-activities:regulation
-annual.budget:
-audience:
-date.ended:
-date.founded:
-digital.harms.addressed:
-element.type:organization
-funding:
-github.profile:
-input.source:me2b
-key.people:
-linkedin.profile:
-location(s):
-me2b.relationship:
-org.name:Information Commissioner's Office (ICO)
-org.type:Government Department
-parent.org:
-partners:
-products.and.or.services:
-purpose:transparancy and accountability, consumer support
-relevant.publications:
-scope:
+activities: regulation
+annual.budget: 
+audience: 
+created: 15820721014001000
+date.ended: 
+date.founded: 
+digital.harms.addressed: 
+element.type: organization
+funding: 
+github.profile: 
+input.source: me2b
+key.people: 
+linkedin.profile: http://linkedin.com/company/information-commissioner's-office
+location(s): UK
+me2b.relationship: 
+modified: 20191209132645908
+org.name: Information Commissioner's Office (ICO)
+org.type: Government Department
+parent.org: 
+partners: 
+products.and.or.services: 
+purpose: transparancy and accountability, consumer support
+relevant.publications: 
+scope: national
+title: Information Commissioner's Office (ICO)
+tmap.id: d51d6d80-2eeb-49b5-80df-4cb9c6011802
+type: text/vnd.tiddlywiki
+
 sector:government
 status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:50ea830b-a000-45f4-b275-35e160c44c6c
-twitter.profile:
+tmap.id:285153e1-8c1c-44d0-a144-c7132fc5fcf8
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/iconews
 website:https://ico.org.uk/
 
 The UK’s independent authority set up to uphold information rights in the public interest: promoting openness by public bodies and data privacy for individuals.

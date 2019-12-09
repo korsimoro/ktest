@@ -1,25 +1,26 @@
-created:1575213940194
-modified:1575213940194
-title:Trust::Data Consortium
-type:text/vnd.tiddlywiki
-activities:software development, standard development
-annual.budget:
-audience:
-date.ended:
-date.founded:
-digital.harms.addressed:
-element.type:organization
-funding:
-github.profile:
-input.source:me2b
-key.people:
-linkedin.profile:
-location(s):
-me2b.relationship:
-org.name:Trust::Data Consortium
-org.type:University Department
+activities: software development: standard development
+annual.budget: 
+audience: 
+created: 15820721014001000
+date.ended: 
+date.founded: 
+digital.harms.addressed: 
+element.type: organization
+funding: 
+github.profile: https://github.com/trustdata
+input.source: me2b
+key.people: 
+linkedin.profile: 
+location(s): Cambridge, MA
+me2b.relationship: 
+modified: 20191209132645088
+org.name: Trust::Data Consortium
+org.type: University Department
+title: Trust::Data Consortium
+tmap.id: 0ae35acd-2a14-4685-98e1-100217ead70a
+type: text/vnd.tiddlywiki
 
-parent.org:
+parent.org:MIT
 partners:
 products.and.or.services:
 purpose:usability
@@ -30,7 +31,8 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:1ddc9825-2854-4325-8ca7-082527fc84dd
+tmap.id:9df8379f-12b9-49db-b08d-27466d9057d3
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
 twitter.profile:
 website:https://trust.mit.edu
 

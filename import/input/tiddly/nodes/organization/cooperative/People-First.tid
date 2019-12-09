@@ -1,5 +1,5 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973400
+modified:1575897973400
 title:People First
 type:text/vnd.tiddlywiki
 activities:
@@ -21,7 +21,7 @@ org.type:Cooperative
 parent.org:
 partners:
 products.and.or.services:
-purpose:Consumer support, Human Rights
+purpose:Consumer support: Human Rights
 relevant.publications:
 scope:
 sector:non-profit
@@ -29,8 +29,9 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:9e57a2bd-2b9d-48a4-85d9-02ef745bf1b4
-twitter.profile:
+tmap.id:39b0976b-a02f-4511-ae92-e11540d3224c
+tmap.names:me2bstar me2bstar-purpose
+twitter.profile:https://twitter.com/thebusequation
 website:https://www.people-first.net
 
 Businesses and Institutions engage People First to help develop processes and shape organizational thinking to ensure people really are first in a company’s supply chain, community, and market.

@@ -1,4 +1,4 @@
-import { Tiddler,SimpleTiddler,TiddlerData,TiddlyModel } from '.'
+import { Tiddler,SimpleTiddler,TiddlerData,TiddlyModel,TiddlerFieldDatum } from '.'
 import path from 'path'
 import slugify from 'slugify'
 
@@ -6,8 +6,6 @@ export interface NodeTiddler extends Tiddler {
 	tmap_id:string
 	tmap_edges: string
 	element_type:string
-	wiki_text:string
-	fields:Map<string,string>
 }
 
 
@@ -17,13 +15,11 @@ export class SimpleNodeTiddler extends SimpleTiddler implements NodeTiddler
 	tmap_edges: string
 	element_type:string
 	element_subtype?:string
-	wiki_text:string
-	fields:Map<string,string>
 
 	sorted_keys:string[]
 	constructor(data:TiddlerData,base:TiddlyModel) {
 		super(data,base)
-		this.fields = data.fields || new Map<string,string>()
+		this.fields = data.fields || new Map<string,TiddlerFieldDatum>()
 		this.tmap_id = this.fields['tmap.id'] || ''
 		this.tmap_edges = this.fields['tmap.edges'] || ''
 		this.element_type = data.element_type || 'undefined'
@@ -49,7 +45,7 @@ export class SimpleNodeTiddler extends SimpleTiddler implements NodeTiddler
 		let field_data = ""
 		for (let k of this.sorted_keys) {
 			if(this.fields[k] !== undefined)
-				field_data = field_data + k + ":" + this.fields[k] + "\n"
+				field_data = field_data + k + ":" + this.getFieldData(k) + "\n"
 		}
 		return super.tiddlerdata() + field_data + "\n" + this.wiki_text + "\n"
 	}

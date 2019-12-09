@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:Center for Democracy & Technology
 type:text/vnd.tiddlywiki
 activities:
@@ -13,8 +13,8 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
-location(s):
+linkedin.profile:https://www.linkedin.com/company/center-for-democracy-&-technology/
+location(s):Washington, DC
 me2b.relationship:
 org.name:Center for Democracy & Technology
 org.type:NGO
@@ -26,11 +26,12 @@ relevant.publications:
 scope:
 sector:non-profit
 status:
-tags:0,1,2
+tags:0
 tech.focus:
 tmap.edges:{}
-tmap.id:d9ea95b4-eee2-4d21-b302-ec620e8686eb
-twitter.profile:
+tmap.id:d5c0a855-5e77-4983-9fac-dd9e317200b4
+tmap.names:me2bstar me2bstar-purpose me2bstar-tag
+twitter.profile:https://twitter.com/CenDemTech
 website:https://cdt.org/about/
 
 CDT is a champion of global online civil liberties and human rights: driving policy outcomes that keep the internet open: innovative: and free.

@@ -1,5 +1,5 @@
-created:1575213940195
-modified:1575213940195
+created:1575897973402
+modified:1575897973402
 title:OnlineCensorship.org
 type:text/vnd.tiddlywiki
 activities:
@@ -9,7 +9,7 @@ date.begun:
 date.ended:
 digital.harms.addressed:
 element.type:project-or-product
-github.profile:
+github.profile:https://github.com/EFForg/onlinecensorship/
 input.source:me2b
 license:
 me2b.participation:Content source for Me2B Certification?
@@ -24,7 +24,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:01f9a9bc-54f6-4fcd-9498-4bd1641ea9b1
+tmap.id:bf9624d2-b597-457c-8168-b728ec923e11
 url:https://onlinecensorship.org/
 version.or.edition:
 working.group:

@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:Trustable Technology Mark
 type:text/vnd.tiddlywiki
 activities:Certification
@@ -10,7 +10,7 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/thewavingcat/trustabletechnologymark
 input.source:me2b
 key.people:(referred by Steve Olshanksy)
 linkedin.profile:
@@ -18,19 +18,21 @@ location(s):
 me2b.relationship:
 org.name:Trustable Technology Mark
 org.type:to-be-determined
-parent.org:
+parent.org:ThingsCon, Mozilla
 partners:
 products.and.or.services:
-purpose:
+purpose:transparancy and accountability
 relevant.publications:
 scope:
 sector:
 status:
 tags:
-tech.focus:
+tech.focus:IOT
+
 tmap.edges:{}
-tmap.id:90f1d25a-ffa4-495d-9399-58cc25ace497
-twitter.profile:
+tmap.id:0d08b4fe-74fb-4007-8567-9a32f5773a29
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/trustable_tech
 website:https://trustabletech.org/about/
 
 The Trustable Technology Mark aims to highlight the work of those companies that put in the extra effort of building truly trustworthy devices.

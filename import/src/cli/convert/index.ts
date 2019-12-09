@@ -48,12 +48,10 @@ async function convert(inbase:string) {
 	analyzeMe2BDataToCreateGraphs(ctx)
 	for(let elt of ctx.me2b.findElementsByType("organization")) {
 		createAndLinkNodesForListField(elt,"activities","Activity")
-		/*
 		createAndLinkNodesForListField(elt,"purpose","Purpose")
 		createAndLinkNodesForListField(elt,"tags","Tag")
 		createAndLinkNodesForListField(elt,"Digital Harms Addressed","Digital Harm")
 		createAndLinkNodesForListField(elt,"Tech Focus","Tech Focus")
-		*/
 		//createAndLinkNodesForListField(elt,"People","Related Person")
 	}
 

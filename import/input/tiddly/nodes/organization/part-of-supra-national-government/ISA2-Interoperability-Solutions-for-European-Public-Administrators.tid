@@ -1,5 +1,5 @@
-created:1575213940154
-modified:1575213940154
+created:1575897973086
+modified:1575897973086
 title:ISA2 Interoperability Solutions for European Public Administrators
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"1314b8ee-4fa5-428d-a415-9272f31135fd":{"to":"177ebbd5-beb5-4cac-975e-c6c169454102","type":"author"},"e3c76eb3-0bb0-4551-914d-6d438ba22134":{"to":"4b7f6be4-cbed-44a9-8686-833aeadc3062","type":"government-connection"},"bc5f9de9-5534-4ac1-b5d3-5407229d87e7":{"to":"f9a026c0-1c4d-4985-b094-a2d297b39881","type":"government-connection"}}
-tmap.id:3ac6c6af-bf03-41c3-a889-eecf46852e5f
+tmap.edges:{"c8bb2be1-1071-435c-b0e0-d1f212157608":{"to":"89b2053b-9105-4db7-bb68-ca8a06631776","type":"author"},"7bc2fd53-2e31-4d70-b175-6be8ded7949f":{"to":"495e2a87-ecd1-462a-9f7a-c87a4cc8052c","type":"government-connection"},"5eb59b13-1513-44a6-acdc-15e7d6410ff7":{"to":"c32b2c30-e18d-412b-b966-6048605c4d76","type":"government-connection"}}
+tmap.id:089a9ca2-c41a-4b2a-b0c1-0e1a55fe11aa
 twitter.profile:
 website:http://ec.europa.eu/isa/isa2/index_en.htm
 

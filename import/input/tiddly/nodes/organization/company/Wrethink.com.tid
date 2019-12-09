@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973402
+modified:1575897973402
 title:Wrethink.com
 type:text/vnd.tiddlywiki
 activities:
@@ -10,11 +10,11 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/wrethink
 input.source:me2b
 key.people:
-linkedin.profile:
-location(s):
+linkedin.profile:https://www.linkedin.com/company/wrethink-inc./
+location(s):Del Mar, CA
 me2b.relationship:Certification Candidate
 org.name:Wrethink.com
 org.type:Company
@@ -26,11 +26,12 @@ relevant.publications:
 scope:
 sector:for-profit
 status:
-tags:0
-tech.focus:
+tags:
+tech.focus:Data storage: information sharing control
 tmap.edges:{}
-tmap.id:fc9a3d42-1cbc-4842-ba45-301bfda58a90
-twitter.profile:
+tmap.id:a0cf4224-1cca-4ed5-9f9a-80c02300d25c
+tmap.names:me2bstar me2bstar-certification-candidate
+twitter.profile:https://twitter.com/wrethink
 website:https://www.Wrethink.com
 
 Wrethink is a unique and simple-to-use complete system of hardware and software. We enable family members to pull together their personal archives and current materials in one place, so all of it is secure, private, and easy to access and share. We accomplish this for you through our unique system of artificial intelligence technologies that analyze and help you organize.

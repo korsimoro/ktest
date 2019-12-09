@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973402
+modified:1575897973402
 title:Disconnect Me
 type:text/vnd.tiddlywiki
 activities:software development: service provider
@@ -10,7 +10,7 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/disconnectme
 input.source:me2b
 key.people:
 linkedin.profile:
@@ -29,8 +29,9 @@ status:Defunct?
 tags:0
 tech.focus:
 tmap.edges:{}
-tmap.id:61b46028-1f57-4882-8cce-0508912e07db
-twitter.profile:
+tmap.id:cbb1e25f-2d28-4719-91d5-47ef156b7097
+tmap.names:me2bstar me2bstar-certification-candidate me2bstar-activity me2bstar-purpose me2bstar-tag
+twitter.profile:https://twitter.com/disconnectme
 website:https://disconnect.me/
 
 Our mission is to improve the internet and the world by empowering people to exercise their right to privacy. Free yourself from unwanted tracking and control sharing of your personal information. Enjoy a safer: faster: better internet!

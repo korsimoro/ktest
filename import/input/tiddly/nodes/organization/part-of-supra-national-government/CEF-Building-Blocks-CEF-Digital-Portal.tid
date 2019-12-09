@@ -1,5 +1,5 @@
-created:1575213940155
-modified:1575213940155
+created:1575897973086
+modified:1575897973086
 title:CEF Building Blocks / CEF Digital Portal
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"c1a5e433-faf4-49d4-ac49-907c59bfd645":{"to":"a58faf03-e26b-43a0-ac38-0702513af16e","type":"government-connection"},"6fa91758-68f1-4b28-ab70-fc91127f8b18":{"to":"4783a577-fdde-4119-a05c-a365b4f9618f","type":"government-connection"},"dffe1971-8183-42fa-a13e-2cfdd49fee00":{"to":"2ca39787-4367-4f00-8558-c80ee281339b","type":"government-connection"},"cc3a7aea-211c-4174-97c4-81e650372241":{"to":"0ed48c3f-1df6-49f2-9ce5-a6acc9f57ea2","type":"government-connection"},"385f5ce4-29bf-4152-943f-60971b379f03":{"to":"48e128dd-865f-4e25-9d64-e0c5a9f398a6","type":"government-connection"},"eeee5aa3-e5af-4286-b78e-78f7cb081f8c":{"to":"1bfc40cf-3a8e-4dfe-ba4b-11ed9f08eeae","type":"default"}}
-tmap.id:3b0074f0-017a-4ea4-8c9d-1107e8476e80
+tmap.edges:{"efdbd6da-7add-4cc1-a9f9-9ef2d87c1c62":{"to":"0c00de40-3cde-468e-ac08-31dc5f77b0b7","type":"government-connection"},"be3e88d7-d81d-4d77-bd77-939060ed32ce":{"to":"c8ed697d-2766-4497-a51a-4fbf15f42fc1","type":"government-connection"},"1e62f459-2e77-4974-9f56-e3a88f99777c":{"to":"3a3ad664-2d34-4da6-8697-9e1e39e094e6","type":"government-connection"},"1bd04fc9-905a-4521-bff5-cbbca385e124":{"to":"59b36d04-7975-45a6-bfa5-4fcf8ed9c67b","type":"government-connection"},"43a69261-78c8-42c8-9bf7-6a271ef1b816":{"to":"90906fcf-f125-49f5-b3b9-e2ad648692a3","type":"government-connection"},"6a9e9aab-68b7-4c88-b442-08e690909f60":{"to":"b77f602d-672e-48b6-9a33-c6d2085446db","type":"default"}}
+tmap.id:3c7b6095-0691-4909-83fe-c94900e22d8c
 twitter.profile:
 website:https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/CEF+Digital+Home
 

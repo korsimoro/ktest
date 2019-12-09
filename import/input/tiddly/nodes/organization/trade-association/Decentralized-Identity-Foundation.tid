@@ -1,5 +1,5 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973400
+modified:1575897973400
 title:Decentralized Identity Foundation
 type:text/vnd.tiddlywiki
 activities:software development: standard development: outreach
@@ -10,7 +10,7 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/decentralized-identity
 input.source:me2b
 key.people:
 linkedin.profile:
@@ -23,14 +23,15 @@ partners:
 products.and.or.services:
 purpose:ecosystem building
 relevant.publications:
-scope:
+scope:global
 sector:non-profit
 status:
 tags:
-tech.focus:
-tmap.edges:{}
-tmap.id:72de849d-7044-4919-80c0-54158392a9ab
-twitter.profile:
+tech.focus:Identity: Information Sharing Control
+tmap.edges:{"c11883b7-0d16-413e-a1f2-82514f4ff596":{"to":"dfe6ac9b-5334-4c99-9ea2-e80ae59e891a","type":"Provides"},"62ab6cb8-a6e5-4956-8bfc-045020dd94b5":{"to":"722053a6-aafb-4d58-931a-5af7b2bf2ff0","type":"Provides"},"db37b366-6ab6-40cd-b448-9dc8ea14400a":{"to":"cb98427e-0ac4-48eb-9be7-c52c346518a0","type":"Provides"},"df01b707-83a1-4a4b-bc53-3ea5cc6e483b":{"to":"6ef1ad88-879b-4e4d-babc-eb7b3b31c917","type":"Provides"},"18d5d9c9-5874-43a5-bd6d-98c7ebe2c70c":{"to":"35697d18-5be0-4caf-9193-74f00bee8783","type":"Provides"},"4668cef1-62c0-42bc-ab35-cc2acfe4c70c":{"to":"0597a50d-b6aa-4acd-93fa-ea7607dd2265","type":"Provides"}}
+tmap.id:a853f9a3-c843-46a0-a9af-722b015cf5d8
+tmap.names:me2bstar me2bstar-input-to-interoperability-specification me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/DecentralizedID
 website:https://identity.foundation/
 
 DIF is an engineering-driven organization focused on developing the foundational elements necessary to establish an open ecosystem for decentralized identity and ensure interop between all participants.

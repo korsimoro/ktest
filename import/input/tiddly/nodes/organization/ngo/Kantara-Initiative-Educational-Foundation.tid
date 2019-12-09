@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:Kantara Initiative Educational Foundation
 type:text/vnd.tiddlywiki
 activities:Movement Building
@@ -21,7 +21,7 @@ org.type:NGO
 parent.org:
 partners:
 products.and.or.services:
-purpose:Education, Consumer Education
+purpose:Education: Consumer Education
 relevant.publications:
 scope:
 sector:non-profit
@@ -29,7 +29,8 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:81feca41-aa58-4800-bf60-d0952fb24fd5
+tmap.id:c813709a-4668-4084-81b4-fffe98305570
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
 twitter.profile:
 website:https://edufoundation.kantarainitiative.org/
 

@@ -36,6 +36,8 @@ export interface Me2BElement {
 	fields:any
 
 	outbound:Me2BConnectionMap
+	addToListField:(key:string,newval:string) => void
+
 }
 
 export class Me2BConnection {
@@ -89,6 +91,25 @@ export class SimpleMe2BElement implements Me2BElement  {
 			this.slugmap[s] = val
 		}
 		this.outbound={}
+	}
+
+	addToListField(key:string,newval:string) {
+		const val = this.fields[key]
+		if(!val)
+			this.fields[key]=newval
+		else {
+			if(val instanceof Set) {
+				val.add(newval)
+				console.log("MAP:extending set",JSON.stringify(val.values()),val,newval,this.title)
+			}
+			else {
+				const newset = new Set<string>()
+				newset.add(val)
+				newset.add(newval)
+				this.fields[key] = newset
+				console.log("MAP:creating set",JSON.stringify(newset))
+			}
+		}
 	}
 
 }

@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973402
+modified:1575897973402
 title:One Trust
 type:text/vnd.tiddlywiki
 activities:
@@ -13,7 +13,7 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
+linkedin.profile:https://www.linkedin.com/company/onetrust
 location(s):
 me2b.relationship:
 org.name:One Trust
@@ -29,8 +29,9 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:75aab564-fcbc-425a-aa83-a4f14651acec
-twitter.profile:
+tmap.id:44059535-27ee-4e1d-8b00-d8b57e238967
+tmap.names:me2bstar me2bstar-purpose
+twitter.profile:https://twitter.com/OneTrust
 website:https://www.onetrust.com/
 
 OneTrust is the #1 most widely used privacy, security and third-party risk technology platform trusted by more than 4,000 companies to comply with the CCPA, GDPR, ISO27001 and hundreds of the world’s privacy and security laws. Our three primary offerings include OneTrust Privacy Management Software, OneTrust PreferenceChoice™ consent and preference management software and OneTrust Vendorpedia™ third-party risk management software and vendor risk exchange.

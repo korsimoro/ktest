@@ -1,5 +1,5 @@
-created:1575213940110
-modified:1575213940110
+created:1575897973059
+modified:1575897973059
 title:Web Authentication
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"c24b5edf-456e-4a03-a322-7aa0be57ad57":{"to":"0975c9e6-836d-4139-97a8-5a3cac2632f7","type":"organization-for-group"}}
-tmap.id:d08fdb6a-6eae-4861-9508-cd75851e4437
+tmap.edges:{"109856db-fc68-41e0-ab6f-5f9615fa1ec5":{"to":"788f87c6-77f2-4def-afc0-c478a5a678d0","type":"organization-for-group"}}
+tmap.id:c5ec1751-91ae-40e3-83d1-c11c3e598366
 url:https://www.w3.org/blog/webauthn/
 
 The mission of the Web Authentication Working Group, in the Security Activity, is to define a client-side API providing strong authentication functionality to Web Applications.

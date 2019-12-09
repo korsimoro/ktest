@@ -1,5 +1,5 @@
-created:1575213940160
-modified:1575213940160
+created:1575897973090
+modified:1575897973090
 title:Western Hemisphere Travel Initiative
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"064a5fa3-924f-463f-85ea-8dd5337c1cbd":{"to":"fa414b36-142a-4563-a57b-486d63ae6021","type":"government-connection"},"61ccc741-8366-4b94-ba31-c15ec8af3e75":{"to":"922cd2d2-f45c-47bc-96ba-bbb53f485434","type":"government-connection"}}
-tmap.id:3a967394-3f31-4f86-8fce-a9258393537d
+tmap.edges:{"9a6c61de-94b1-4084-a17c-9966a9296559":{"to":"5f3c9088-bf8c-4fc2-a812-79383d54f723","type":"government-connection"},"ebf9d162-b7aa-4607-957c-97ac1a259e0c":{"to":"627f10d0-4c53-419c-8df3-f657157d6331","type":"government-connection"}}
+tmap.id:6ac427d6-f5d2-43e4-a7f7-c4962f8a6731
 twitter.profile:
 website:https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative
 

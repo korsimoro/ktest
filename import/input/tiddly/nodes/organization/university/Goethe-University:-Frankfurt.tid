@@ -1,5 +1,5 @@
-created:1575213940111
-modified:1575213940111
+created:1575897973060
+modified:1575897973060
 title:Goethe University: Frankfurt
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"be240438-16ed-45bb-b18f-f4f9b90386df":{"to":"e87ae066-9c82-4749-b89e-e631b9a35e54","type":"general-member"},"fca8998e-c39e-486e-b710-9c0ef4bf5ca9":{"to":"e6c12372-7bfc-4f01-aba2-801d4ee496c5","type":"convenor"}}
-tmap.id:ccdb3e81-955f-4738-b45f-c535f396b08f
+tmap.edges:{"a3615046-d4cc-47dc-857b-d66802f31734":{"to":"f355bd45-679a-4979-a501-46c4d9281936","type":"general-member"},"1536e9f4-83c1-4ad4-a6ee-1f4486c98d95":{"to":"fea02d3c-da5b-45f0-83de-aadd06076500","type":"convenor"}}
+tmap.id:35909fc1-20fa-41b2-8654-5e4b262e514c
 twitter.profile:
 website:http://www.goethe-university-frankfurt.de/en
 

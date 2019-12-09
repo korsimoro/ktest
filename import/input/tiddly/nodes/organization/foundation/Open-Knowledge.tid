@@ -1,8 +1,8 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973401
+modified:1575897973401
 title:Open Knowledge
 type:text/vnd.tiddlywiki
-activities:research, publication
+activities:research: publication
 annual.budget:
 audience:
 date.ended:
@@ -10,7 +10,7 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/okfn/
 input.source:me2b
 key.people:
 linkedin.profile:
@@ -21,7 +21,7 @@ org.type:Foundation
 parent.org:
 partners:
 products.and.or.services:
-purpose:education, ecosystem building
+purpose:education: ecosystem building
 relevant.publications:
 scope:
 sector:non-profit
@@ -29,8 +29,9 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:3b407561-709f-4f05-ab15-8e2bfc86baa4
-twitter.profile:
+tmap.id:42b3c01e-53e1-43d9-b307-af9c7834b986
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/okfn
 website:https://okfn.org
 
 We believe open knowledge can empower everyone: enabling people to work together to tackle local and global challenges: understand our world: expose inefficiency: challenge inequality and hold governments and companies to account.

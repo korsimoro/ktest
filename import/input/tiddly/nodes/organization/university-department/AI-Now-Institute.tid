@@ -1,5 +1,5 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973400
+modified:1575897973400
 title:AI Now Institute
 type:text/vnd.tiddlywiki
 activities:Publication
@@ -13,12 +13,12 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
-location(s):
+linkedin.profile:https://www.linkedin.com/company/ai-now-institute/about/
+location(s):NYC
 me2b.relationship:Reference.
 org.name:AI Now Institute
 org.type:University Department
-parent.org:
+parent.org:New York University
 partners:
 products.and.or.services:
 purpose:research
@@ -29,8 +29,9 @@ status:Active
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:b20c207f-5fed-4bc9-a2eb-2ad8acf8b977
-twitter.profile:
+tmap.id:bb0b9b36-323b-4831-a445-f054cd880b8c
+tmap.names:me2bstar me2bstar-reference. me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/ainowinstitute
 website:https://ainowinstitute.org/
 
 The AI Now Institute at New York University is an interdisciplinary research center dedicated to understanding the social implications of artificial intelligence. Our work focuses on four core domains: Rights & Liberties: Labor & Automation: Bias & Inclusion: Safety & Critical Infrastructure.

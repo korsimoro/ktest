@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973402
+modified:1575897973402
 title:TheGoodData
 type:text/vnd.tiddlywiki
 activities:movement building
@@ -10,7 +10,7 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/thegooddata
 input.source:me2b
 key.people:
 linkedin.profile:
@@ -29,8 +29,9 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:abf3af7f-acbc-40cc-a0b8-6fbe45396956
-twitter.profile:
+tmap.id:dad204e8-6060-449a-a59b-99d5d0c0726a
+tmap.names:me2bstar me2bstar-certification-candidate me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/thegooddata
 website:http://www.thegooddata.org
 
 The worlds first data coop. TheGoodData help people regain ownership of their browsing data. 

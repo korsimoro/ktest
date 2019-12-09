@@ -1,5 +1,5 @@
-created:1575213940117
-modified:1575213940117
+created:1575897973063
+modified:1575897973063
 title:European Union
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"d3dbc854-0ea2-4d6a-b338-5d504e128a52":{"to":"033be66a-9dbd-473d-99a0-8d5d152d995b","type":"connection"}}
-tmap.id:eda46f96-3bbb-4a94-9ef1-85f0b5a8bfd1
+tmap.edges:{"29ae6193-2587-4a0f-a5e0-8e9b07bf5168":{"to":"0c04e537-45e4-41b8-8eb4-a52a7be7c9fd","type":"connection"}}
+tmap.id:07a33beb-67f0-4cd9-ace6-c888ac0ef5c5
 twitter.profile:
 website:
 

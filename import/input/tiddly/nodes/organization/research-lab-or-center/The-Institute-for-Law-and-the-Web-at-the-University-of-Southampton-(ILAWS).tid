@@ -1,5 +1,5 @@
-created:1575213940154
-modified:1575213940154
+created:1575897973086
+modified:1575897973086
 title:The Institute for Law and the Web at the University of Southampton (ILAWS)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"d8ea0135-f9a9-4a4c-b74d-f96d0fae2784":{"to":"66d18965-3afd-4981-ab34-f15dd349d517","type":"organization-for-group"},"3e362485-dd62-470d-9922-62f1df64936e":{"to":"ef283cd7-e50d-41bf-ac5c-916ff1848d28","type":"general-member"}}
-tmap.id:131c4539-dd3b-462e-b0ca-34a1e21af753
+tmap.edges:{"bc7b4f6c-7cb8-4d20-84e0-beec1e1a3160":{"to":"e2585e3b-d1a8-4036-b737-ec2bb48e315a","type":"organization-for-group"},"c6d78cf0-4f83-461b-aec6-5c8b9a53edc3":{"to":"67ba748a-75a1-4bc3-a955-0219d32f6c74","type":"general-member"}}
+tmap.id:54a3a7bc-510c-42f4-b66d-764e686e2ca8
 twitter.profile:
 website:http://www.southampton.ac.uk/ilaws/index.page
 

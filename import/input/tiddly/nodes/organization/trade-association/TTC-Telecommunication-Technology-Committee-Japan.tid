@@ -1,5 +1,5 @@
-created:1575213940167
-modified:1575213940167
+created:1575897973097
+modified:1575897973097
 title:TTC  Telecommunication Technology Committee, Japan
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"854c3b2a-3ae3-4dd6-beca-69a90f9b9896":{"to":"9c9f677b-d2bb-45a3-ba13-d825ca4f3477","type":"executive-member"},"d78b0d59-fad3-443a-8add-941aa9d65b29":{"to":"eb108cef-87a8-4a19-a673-9d169caa99ea","type":"general-member"}}
-tmap.id:6bb5a183-a299-49e2-9d0b-6fe69f125dde
+tmap.edges:{"73b337e1-b195-4869-b5fd-88b9211b6008":{"to":"670d6a30-8c95-4f75-a450-c4cc0c7b983f","type":"executive-member"},"9ad3f477-89d8-4ac1-b586-d2fe1068ad2f":{"to":"4c4d1127-4541-4d9c-8281-6bf45d8f3f0a","type":"general-member"}}
+tmap.id:0b4618c7-d828-44c4-9937-e39b8be4a69d
 twitter.profile:
 website:http://www.ttc.or.jp/e/
 

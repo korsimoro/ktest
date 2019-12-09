@@ -1,5 +1,5 @@
-created:1575213940181
-modified:1575213940181
+created:1575897973111
+modified:1575897973111
 title:Imprimerie Nationale
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"0ee07a2d-fbf5-484d-838b-733424ff0614":{"to":"426b6c12-870e-4a05-8b87-c8a0281776cc","type":"executive-member"}}
-tmap.id:a1a0b8b7-a86e-4e3b-a856-05f54dac9144
+tmap.edges:{"de77e299-b1a2-4617-a696-7dc3fef991dd":{"to":"b0deb384-41bb-406f-95f2-527b93f88415","type":"executive-member"}}
+tmap.id:855e9f00-bf12-44c8-be38-f06f736dc59e
 twitter.profile:
 website:http://www.imprimerienationale.fr/en/home.html
 

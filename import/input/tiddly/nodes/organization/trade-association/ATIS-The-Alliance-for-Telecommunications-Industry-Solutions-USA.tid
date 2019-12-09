@@ -1,5 +1,5 @@
-created:1575213940166
-modified:1575213940166
+created:1575897973094
+modified:1575897973094
 title:ATIS   The Alliance for Telecommunications Industry Solutions, USA
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"d590a663-3969-441f-983a-09c6d6587162":{"to":"eb108cef-87a8-4a19-a673-9d169caa99ea","type":"general-member"},"9670e99b-a9c0-4e29-8968-cb7b4632ab66":{"to":"9c9f677b-d2bb-45a3-ba13-d825ca4f3477","type":"executive-member"}}
-tmap.id:5e95f6ca-26ec-4f6c-afa2-d84b3f8b45f6
+tmap.edges:{"7d29ac72-cec8-4af8-b6cd-3be71c40e1f3":{"to":"4c4d1127-4541-4d9c-8281-6bf45d8f3f0a","type":"general-member"},"f9ee7a25-605d-452f-a104-21871561ac4d":{"to":"670d6a30-8c95-4f75-a450-c4cc0c7b983f","type":"executive-member"}}
+tmap.id:22afc5f4-1ba8-4246-87f7-7f101cf89e65
 twitter.profile:
 website:http://www.atis.org
 

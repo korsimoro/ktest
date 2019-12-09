@@ -1,38 +1,41 @@
-created:1575213940193
-modified:1575213940193
-title:MyData
-type:text/vnd.tiddlywiki
-activities:movement building
-annual.budget:
-audience:
-date.ended:
-date.founded:
-digital.harms.addressed:
+activities: movement building
+annual.budget: 
+audience: 
+created: 15820721014000000
+date.ended: 
+date.founded: 
+digital.harms.addressed: 
+modified: 20191209132645800
+title: MyData
+tmap.id: cce27c20-a01a-4635-bb3f-b2cb1a329b00
+type: text/vnd.tiddlywiki
+
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/mydataglobal
 input.source:me2b
 key.people:John Wunderlich
 Julian Ranger
 Henrik Biering
-linkedin.profile:
+linkedin.profile:https://www.linkedin.com/company/mydata-global/
 location(s):
 me2b.relationship:Reuse any work from MyData.org that advances the Code of Practice and Certification.  Explore creating Theme Hub(s) for specific Me2B tasks?   Relationship between these two "sibling" orgs is TBD on both sides. 
 org.name:MyData
 org.type:NGO
-parent.org:Information Sharing Control: Data Mobility: Data Storage: Terms Management
+parent.org:
 partners:
 products.and.or.services:
 purpose:tech interoperability
 relevant.publications:
-scope:
+scope:global
 sector:non-profit
 status:Active
 tags:
-tech.focus:
+tech.focus:Information Sharing Control: Data Mobility: Data Storage: Terms Management
 tmap.edges:{}
-tmap.id:af3ae500-5989-4c1a-ab6e-2422981dbdf0
-twitter.profile:
+tmap.id:96ae7eb0-56be-4044-8aae-c43c0c3652e0
+tmap.names:me2bstar me2bstar-reuse-any-work-from-mydata.org-that-advances-the-code-of-practice-and-certification.-explore-creating-theme-hub(s)-for-specific-me2b-tasks-relationship-between-these-two-"sibling"-orgs-is-tbd-on-both-sides. me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/mydataorg
 website:https://mydata.org/
 
 MyData Global’s mission is to empower individuals by improving their right to self-determination regarding their personal data.

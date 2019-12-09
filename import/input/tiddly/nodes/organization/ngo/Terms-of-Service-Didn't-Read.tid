@@ -1,8 +1,8 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973400
+modified:1575897973400
 title:Terms of Service Didn't Read
 type:text/vnd.tiddlywiki
-activities:
+activities:research, publication
 annual.budget:
 audience:
 date.ended:
@@ -10,27 +10,28 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/tosdr
 input.source:me2b
 key.people:
-linkedin.profile:
-location(s):
+linkedin.profile:https://www.linkedin.com/company/terms-of-service-didn-t-read/about/
+location(s):Berlin
 me2b.relationship:Content source for Me2B Certification?
 org.name:Terms of Service Didn't Read
 org.type:NGO
 parent.org:
 partners:
 products.and.or.services:
-purpose:
+purpose:Consumer Education, transparancy and accountability
 relevant.publications:
-scope:
+scope:global
 sector:non-profit
 status:Active
 tags:
 tech.focus:
-tmap.edges:{}
-tmap.id:7aa05bbe-0e6d-4391-a046-331520b1de3b
-twitter.profile:
+tmap.edges:{"03043ebe-2184-4ff8-9f18-968903a00791":{"to":"ce6ba334-4153-4fdd-94c2-3ae910ccc981","type":"Provides"}}
+tmap.id:b48b6a8d-fff1-4694-b62d-ec50d4708492
+tmap.names:me2bstar me2bstar-content-source-for-me2b-certification me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/tosdr
 website:https://tosdr.org/
 
 “I have read and agree to the Terms” is the biggest lie on the web. We aim to fix that.  

@@ -1,5 +1,5 @@
-created:1575213940110
-modified:1575213940110
+created:1575897973059
+modified:1575897973059
 title:IEEE Internet of Things
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"f7dbfaea-5cbe-4b77-af2c-22b5950da788":{"to":"23fdf833-77e2-4c86-8b14-f3266160a249","type":"convenor"},"35495eee-7ade-4928-a947-8c1df08a22e4":{"to":"e5835496-33bc-4af9-b4af-aa0f3457828d","type":"organization-for-group"},"d3be4df9-0b7b-4a5d-84f9-da90c11276cf":{"to":"e587d0cf-c014-4e2f-9d22-50d4a31825e3","type":"author"}}
-tmap.id:6ae1d658-7ddb-4a0a-bcef-a460193220d2
+tmap.edges:{"561a60ab-512d-4b66-be2a-1cb7b4d0e2c6":{"to":"41a331df-9e5e-40d7-af32-ee59ca5a7f34","type":"convenor"},"c9b05e88-3f5b-445d-b405-136869c12ec5":{"to":"a48ef19c-2f98-4fe1-b95f-85ecdb0b238a","type":"organization-for-group"},"f1625716-ee5b-47f8-bdcf-e7791797a0c3":{"to":"94c7bcc6-63d6-4cf4-af84-93b335b32688","type":"author"}}
+tmap.id:5a09c930-b41a-49ed-b1ba-aa2a1b750e47
 url:http://iot.ieee.org/about.html
 
 The mission of the IEEE IoT Initiative is to serve as the gathering place for the global technical community working on the Internet of Things; to provide the platform where professionals learn, share knowledge, and collaborate on this sweeping convergence of technologies, markets, applications, and the Internet, and together change the world.

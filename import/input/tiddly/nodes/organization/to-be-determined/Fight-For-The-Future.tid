@@ -1,8 +1,8 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:Fight For The Future
 type:text/vnd.tiddlywiki
-activities:outreach, publication
+activities:outreach: publication; policy development
 annual.budget:
 audience:
 date.ended:
@@ -10,11 +10,11 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/fightforthefuture
 input.source:me2b
 key.people:
-linkedin.profile:
-location(s):
+linkedin.profile:https://www.linkedin.com/company/fight-for-the-future/
+location(s):Boston, MA
 me2b.relationship:
 org.name:Fight For The Future
 org.type:to-be-determined
@@ -22,15 +22,16 @@ parent.org:
 partners:
 products.and.or.services:
 purpose:human rights
-relevant.publications:
+relevant.publications:https://medium.com/@fightfortheftr/
 scope:
 sector:non-profit
 status:
 tags:
 tech.focus:
-tmap.edges:{}
-tmap.id:507f4e36-f504-4458-a1a1-485ad865ff9a
-twitter.profile:
+tmap.edges:{"1d9ae57a-e6bc-4c93-a13c-407a05767bd7":{"to":"c76ffb98-d210-4543-ba88-277b80e9e052","type":"Provides"},"a606f62c-b9ba-406b-bb7f-9894f0bbe729":{"to":"3e58034b-b785-4225-bbac-f321fca1cf9a","type":"Provides"},"1bdc05a2-ba4f-49ae-bf5e-01f11dd0d75c":{"to":"cc852d03-6879-470d-849c-69371fa8404a","type":"Provides"},"e9c51ad2-ffe7-46a0-8bdd-64be0c981985":{"to":"b7dc4dba-a9fb-436c-ab6a-6a09cfe95844","type":"Provides"},"974b7899-c68e-4e4c-8b53-c892073c4f31":{"to":"0a0e5982-5ba6-4349-b9da-b27865de21eb","type":"Provides"},"41c42540-8dee-41fa-9c7d-ea06a6fe9c06":{"to":"e5438322-3825-4a75-831a-405931358333","type":"Provides"},"b26c834b-dcf7-4297-8aca-0ee6d47ab6e0":{"to":"54270821-dc6b-435e-bdb7-b98c1beab851","type":"Provides"},"efd9bd74-1e26-43a8-ab62-388783bf8a5b":{"to":"4764a892-e634-4749-b19d-4106c12e8caf","type":"Provides"},"195d1299-e09f-4dcf-98fc-59e42efba644":{"to":"8f8ef040-1362-4df4-8f31-37e50f892cc4","type":"Provides"},"d21f0f00-1193-407f-8991-0ee76bbe4f9e":{"to":"e4a40610-9f37-443b-b513-c6d56df207c9","type":"Provides"},"867059d5-f27f-410c-a235-58e9cb25a705":{"to":"580a43e9-d0cc-4cc2-a57d-3172290e44f1","type":"Provides"},"6100441a-bf0a-4270-a228-9d28b7b24c52":{"to":"60bdb086-901b-4ff6-9183-6bca300e1ad8","type":"Provides"}}
+tmap.id:b16087db-dcbe-4866-a083-6e5ab0fdccaa
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/fightfortheftr
 website:https://www.fightforthefuture.org/aboutus/
 
 Fight for the Future is a non-profit organization founded in 2011 whose mission is to ensure that the web continues to hold freedom of expression and creativity at its core. We seek to expand the internet's transformative power for good: to preserve and enhance its capacity to enrich and empower. We envision a world where everyone can access the internet affordably: free of interference or censorship and with full privacy.

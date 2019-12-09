@@ -1,8 +1,8 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:Privacy Rights Clearinghouse
 type:text/vnd.tiddlywiki
-activities:outreach, publication, advocacy
+activities:outreach: publication: advocacy
 annual.budget:
 audience:
 date.ended:
@@ -21,7 +21,7 @@ org.type:NGO
 parent.org:
 partners:
 products.and.or.services:
-purpose:Consumer support, human rights
+purpose:Consumer support: human rights
 relevant.publications:
 scope:
 sector:non-profit
@@ -29,7 +29,8 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:a94bef5b-f36e-45f4-a1a9-9fe2376be02d
+tmap.id:44a41f2f-72d6-4a68-849a-40beb9ea9a47
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
 twitter.profile:
 website:https://www.privacyrights.org/
 

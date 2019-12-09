@@ -1,8 +1,8 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:The Ethical Source Movement
 type:text/vnd.tiddlywiki
-activities:standard development, publication
+activities:standard development: publication
 annual.budget:
 audience:
 date.ended:
@@ -10,7 +10,7 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/ContributorCovenant/ethicalsource
 input.source:me2b
 key.people:
 linkedin.profile:
@@ -29,7 +29,8 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:dd799e37-d2b3-40a2-8ea3-bc5786c0ddf1
+tmap.id:d017fa52-9128-4e8d-8658-79f11ba7b60f
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
 twitter.profile:
 website:https://ethicalsource.dev/
 

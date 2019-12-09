@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:Coelition
 type:text/vnd.tiddlywiki
 activities:
@@ -21,16 +21,17 @@ org.type:Coalition or Network
 parent.org:
 partners:
 products.and.or.services:
-purpose:Consumer support, ecosystem building, tech interoperability
+purpose:Consumer support: ecosystem building: tech interoperability
 relevant.publications:
 scope:
 sector:non-profit
 status:
-tags:0
-tech.focus:
+tags:
+tech.focus:IOT
 tmap.edges:{}
-tmap.id:0614c60d-8f85-4b6e-a374-dfcd0f2a38ec
-twitter.profile:
+tmap.id:72ea48c0-7523-4acf-b0f1-bdd15b0902da
+tmap.names:me2bstar me2bstar-purpose
+twitter.profile:https://twitter.com/data2life
 website:https://coelition.org/
 
 People Data Experts. We support a global ecosystem for the responsible use of personal data. This ecosystem is built on openly standards that we actively support and help develop.We provide technology and expert advice for Data collected about People in the Internet of Things. The COEL specifications provide interoperability at the data layer with a knowledge base and data model. The roles and responsibilities of all the different actors are clearly defined alongside the data flows. It sets out the minimum requirements for a safe: operational ecosystem – leaving as much room as possible for innovation and competition. Finally: it is an interface specification that only defines how data is to be exchanged.

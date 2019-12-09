@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973402
+modified:1575897973402
 title:CNIL (French Data Protection Authority)
 type:text/vnd.tiddlywiki
 activities:
@@ -22,15 +22,15 @@ parent.org:French Data Protection Authority
 partners:
 products.and.or.services:
 purpose:
-relevant.publications:
-scope:
+relevant.publications:https://www.cnil.fr/en/media
+scope:national
 sector:government
 status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:70b0edcd-d6d0-47ab-9767-e5541ae959b6
-twitter.profile:
+tmap.id:39ad0444-3438-47fc-9f10-9f216cbde0b1
+twitter.profile:http://twitter.com/CNIL_en
 website:https://www.cnil.fr/en/home
 
 To protect personal data: support innovation: preserve individual liberties

@@ -1,8 +1,8 @@
-created:1575213940195
-modified:1575213940195
+created:1575897973403
+modified:1575897973403
 title:Equitable Internet Initiative
 type:text/vnd.tiddlywiki
-activities:
+activities:outreach
 audience:
 category:to-be-determined
 date.begun:
@@ -14,7 +14,7 @@ input.source:me2b
 license:
 me2b.participation:
 name:Equitable Internet Initiative
-parent.org:Allied Media Projects
+parent.org:Allied Media Projects: Detroit Community Technology Project
 partners:
 people:
 purpose:
@@ -24,7 +24,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:1c2a4375-9552-443b-8925-2ada07c5e6e6
+tmap.id:63686459-cf93-40cd-9448-7d2b972cce3b
 url:https://alliedmedia.org/dctp/eii
 version.or.edition:
 working.group:

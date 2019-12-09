@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:Adaptable Security
 type:text/vnd.tiddlywiki
 activities:
@@ -7,7 +7,7 @@ annual.budget:
 audience:
 date.ended:
 date.founded:
-digital.harms.addressed:
+digital.harms.addressed:Insecurity
 element.type:organization
 funding:
 github.profile:
@@ -26,11 +26,11 @@ relevant.publications:
 scope:
 sector:non-profit
 status:
-tags:0
+tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:383c109e-bbc6-41a1-bcc6-43b8fdc70547
-twitter.profile:
+tmap.id:0efdd53e-9079-496c-896a-eba2060fe90d
+twitter.profile:https://twitter.com/adapt_security
 website:https://adaptablesecurity.org/
 
 Adaptable Security (Ada for short) is a 501 (c)(3) non-profit organization founded by passionate and caring people who want to protect our society from cybercriminals.

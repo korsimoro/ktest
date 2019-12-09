@@ -1,5 +1,5 @@
-created:1575213940156
-modified:1575213940156
+created:1575897973087
+modified:1575897973087
 title:Digital Single Market
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"798def50-5af0-4c41-ae2c-d92e89516d5b":{"to":"d7881413-a0e9-4d17-af45-8663db807f2b","type":"government-connection"}}
-tmap.id:3b5222a9-69e4-4755-8e05-0f5727d7f6b1
+tmap.edges:{"05ea00e4-a3e0-4f5d-97f3-64101e6e19d1":{"to":"1bc251c5-ad46-4001-bc21-918eb5e3c56c","type":"government-connection"}}
+tmap.id:6ccf828d-5409-493c-bd37-f174be899a41
 twitter.profile:
 website:
 

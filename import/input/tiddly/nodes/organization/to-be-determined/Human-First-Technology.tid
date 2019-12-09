@@ -1,8 +1,8 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973401
+modified:1575897973401
 title:Human First Technology
 type:text/vnd.tiddlywiki
-activities:outreach, publication, events and convening
+activities:outreach: publication: events and convening
 annual.budget:
 audience:
 date.ended:
@@ -21,7 +21,7 @@ org.type:to-be-determined
 parent.org:
 partners:
 products.and.or.services:
-purpose:education, ecosystem building
+purpose:education: ecosystem building
 relevant.publications:
 scope:
 sector:
@@ -29,7 +29,8 @@ status:???
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:087d5127-242e-4b06-a64e-ce3cb930c39f
+tmap.id:fa97e624-bc05-4a1b-8f13-cedec5888cfd
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
 twitter.profile:
 website:http://humanfirst.tech/
 

@@ -1,30 +1,32 @@
-created:1575213940195
-modified:1575213940195
-title:TrustArc GDPR Validation
-type:text/vnd.tiddlywiki
-activities:
-audience:
-category:service
-date.begun:
-date.ended:
-digital.harms.addressed:
-element.type:project-or-product
-github.profile:
-input.source:me2b
-license:
-me2b.participation:
-name:TrustArc GDPR Validation
-parent.org:TrustArc / Trust-e
-partners:
-people:
-purpose:
+activities: 
+audience: 
+category: service
+created: 15820721014003000
+date.begun: 
+date.ended: 
+digital.harms.addressed: 
+element.type: project-or-product
+github.profile: 
+input.source: me2b
+license: 
+me2b.participation: 
+modified: 20191209132645040
+name: TrustArc GDPR Validation
+parent.org: TrustArc / Trust-e
+partners: 
+people: 
+purpose: certification and compliance
+title: TrustArc GDPR Validation
+tmap.id: 28ace531-d02b-441c-b794-53943a49f58b
+type: text/vnd.tiddlywiki
+
 relevant.publications:
 status:
 supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:c5699503-c191-49ec-b140-f7167b62f442
+tmap.id:0ac54139-2087-4387-95d4-69b560fea7ad
 url:https://www.trustarc.com/products/gdpr-certification-validation/
 version.or.edition:
 working.group:

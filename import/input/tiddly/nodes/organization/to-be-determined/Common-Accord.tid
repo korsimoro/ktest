@@ -1,8 +1,10 @@
-created:1575213940193
-modified:1575213940193
-title:Common Accord
-type:text/vnd.tiddlywiki
-activities:publication, curation
+activities: publication: curation
+created: 15820721014001000
+modified: 20191209132646818
+title: Common Accord
+tmap.id: ae09c4d5-c9fb-4ced-a78e-e2746677e2c3
+type: text/vnd.tiddlywiki
+
 annual.budget:
 audience:
 date.ended:
@@ -10,7 +12,7 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/CommonAccord/
 input.source:me2b
 key.people:
 linkedin.profile:
@@ -21,7 +23,7 @@ org.type:to-be-determined
 parent.org:
 partners:
 products.and.or.services:
-purpose:education, certification and compliance, governance, tech interoperability
+purpose:education: certification and compliance: governance: tech interoperability
 relevant.publications:
 scope:
 sector:
@@ -29,8 +31,9 @@ status:
 tags:0
 tech.focus:
 tmap.edges:{}
-tmap.id:6bd98675-c308-44e3-a132-31e3e935a612
-twitter.profile:
+tmap.id:fc16c3e5-efdc-477b-ab3d-599b50e9e67a
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose me2bstar-tag
+twitter.profile:https://twitter.com/commonaccord
 website:http://www.commonaccord.org
 
 CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents: including contracts: permits: organizational documents: and consents. We anticipate that there will be codes for each jurisdiction: in each language. For international dealings and coordination: there will be at least one "global" code.

@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:The Identity Ecosystem Steering Group (IDESG)
 type:text/vnd.tiddlywiki
 activities:Standard Development
@@ -13,7 +13,7 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
+linkedin.profile:https://www.linkedin.com/company/identity-ecosystem-steering-group
 location(s):
 me2b.relationship:
 org.name:The Identity Ecosystem Steering Group (IDESG)
@@ -29,8 +29,9 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:19dcb987-40d7-4b10-a106-d53a0b10674a
-twitter.profile:
+tmap.id:e56574e2-fce7-4990-b3d1-ceb7be6de4b4
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/id_eco_system
 website:https://idesg.edufoundation.kantarainitiative.org/
 
 The Identity Ecosystem Steering Group (IDESG) – a voluntary, public-private partnership built around the National Strategies for Trusted Identities in Cyberspace (NSTIC) – is the only independent body dedicated to redefining how people and organizations identify themselves online, by fostering the creation of privacy-enhancing trusted digital identities. We’re working to bring all netizens – consumers, educational institutions, online businesses and governments alike – into the thriving marketplace for strong, secure online identity credentials. 

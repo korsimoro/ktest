@@ -1,5 +1,5 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973401
+modified:1575897973401
 title:Open Data Institute
 type:text/vnd.tiddlywiki
 activities:outreach, advocacy
@@ -10,27 +10,28 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/theodi
 input.source:me2b
 key.people:
 linkedin.profile:
-location(s):
+location(s):London
 me2b.relationship:
 org.name:Open Data Institute
 org.type:Network or Coalition
 parent.org:
 partners:
 products.and.or.services:
-purpose:human rights, tech interoperabiltiy, transparancy and accountability, usability
+purpose:human rights: tech interoperabiltiy: transparancy and accountability: usability
 relevant.publications:
 scope:
 sector:non-profit
 status:
 tags:
-tech.focus:
+tech.focus:Data Mobility
 tmap.edges:{}
-tmap.id:55dd0423-f73b-4bcf-a484-87b9e9ea1c26
-twitter.profile:
+tmap.id:c607cc59-d5ad-45b6-9cab-7c6ac2b3bdd0
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/ODIHQ
 website:https://theodi.org/
 
 The ODI was co-founded in 2012 by the inventor of the web Sir Tim Berners-Lee and artificial intelligence expert Sir Nigel Shadbolt to show the value of open data, and to advocate for the innovative use of open data to affect positive change across the globe.

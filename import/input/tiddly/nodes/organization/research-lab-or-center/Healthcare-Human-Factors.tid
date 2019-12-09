@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:Healthcare Human Factors
 type:text/vnd.tiddlywiki
 activities:
@@ -13,7 +13,7 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
+linkedin.profile:https://linkedin.com/company/healthcare-human-factors
 location(s):
 me2b.relationship:
 org.name:Healthcare Human Factors
@@ -21,7 +21,7 @@ org.type:Research Lab or Center
 parent.org:
 partners:
 products.and.or.services:
-purpose:usability, Health care
+purpose:usability: Health care
 relevant.publications:
 scope:
 sector:
@@ -29,8 +29,9 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:2144cf6c-72fc-4db2-9cf6-6087027e5e37
-twitter.profile:
+tmap.id:c72ad4ec-419b-41ba-9c28-35ddb7ab69f4
+tmap.names:me2bstar me2bstar-purpose
+twitter.profile:https://twitter.com/healthcarehf
 website:https://humanfactors.ca/
 
 We’re embedded within one of the largest academic

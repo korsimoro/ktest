@@ -1,5 +1,5 @@
-created:1575213940163
-modified:1575213940163
+created:1575897973091
+modified:1575897973091
 title:GOV.UK Verify
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"3808ead1-aea9-4bf6-a9d5-1ff1ee2b3bb7":{"to":"c71efaad-f8bd-4613-b1fb-df099db5de98","type":"government-connection"}}
-tmap.id:61cc8062-5849-4701-9e19-288dd77fb274
+tmap.edges:{"5d1c0249-6487-4d13-9fee-e2691609489b":{"to":"ea1d669c-b297-4d4d-8a4c-a5773a37e844","type":"government-connection"}}
+tmap.id:abbedf0c-6137-4847-a39e-e045074200db
 twitter.profile:
 website:https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify
 

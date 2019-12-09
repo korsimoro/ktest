@@ -1,8 +1,8 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973400
+modified:1575897973400
 title:Ranking Digital Rights
 type:text/vnd.tiddlywiki
-activities:certification:
+activities:certification: accountability
 annual.budget:
 audience:
 date.ended:
@@ -10,7 +10,7 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/rankingdigitalrights
 input.source:me2b
 key.people:
 linkedin.profile:
@@ -18,19 +18,20 @@ location(s):
 me2b.relationship:Content source for Me2B Certification?
 org.name:Ranking Digital Rights
 org.type:NGO
-parent.org:
+parent.org:https://www.newamerica.org/oti/
 partners:
 products.and.or.services:
-purpose:
-relevant.publications:
-scope:
+purpose:transparancy and accountability
+relevant.publications:https://www.newamerica.org/oti/ranking-digital-rights/
+scope:global
 sector:non-profit
 status:Active
-tags:
+tags:0
 tech.focus:
 tmap.edges:{}
-tmap.id:e3ac7d40-c2e5-4ca5-9c05-289fdb89979c
-twitter.profile:
+tmap.id:134ef4b3-3b3c-4ee1-aba6-13f4378c0db9
+tmap.names:me2bstar me2bstar-content-source-for-me2b-certification me2bstar-activity me2bstar-purpose me2bstar-tag
+twitter.profile:https://twitter.com/rankingrights
 website:https://rankingdigitalrights.org/
 
 Ranking Digital Rights (RDR) works to promote freedom of expression and privacy on the internet by creating global standards and incentives for companies to respect and protect users’ rights.

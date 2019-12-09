@@ -1,5 +1,5 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973400
+modified:1575897973400
 title:Patient Privacy Rights
 type:text/vnd.tiddlywiki
 activities:publication: compliance
@@ -13,7 +13,7 @@ funding:
 github.profile:
 input.source:me2b
 key.people:Adrian Gropper
-linkedin.profile:
+linkedin.profile:https://www.linkedin.com/in/deborahcpeelmd/
 location(s):
 me2b.relationship:TBD
 org.name:Patient Privacy Rights
@@ -28,9 +28,10 @@ sector:non-profit
 status:
 tags:
 tech.focus:
-tmap.edges:{}
-tmap.id:d72e1b3e-e1bf-430f-9af1-194ab4c11f0d
-twitter.profile:
+tmap.edges:{"37cfdc82-b0fb-4554-925e-f2c752a433ee":{"to":"d79499d4-a717-40cb-82be-c22ce5bd4def","type":"Provides"}}
+tmap.id:c099b43b-7323-4446-ab28-09cc2ebdf159
+tmap.names:me2bstar me2bstar-tbd me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/dpeelmd
 website:https://patientprivacyrights.org/
 
 Patient Privacy Rights’ purpose is to honor and empower the individual’s right to privacy through personal control of health information wherever such information is collected and used. We educate: collaborate and partner with people to ensure privacy in law: policy: technology: and maximize the benefits from the use of personal health information with consent.

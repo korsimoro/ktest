@@ -1,5 +1,5 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973400
+modified:1575897973400
 title:GliaNet
 type:text/vnd.tiddlywiki
 activities:
@@ -13,7 +13,7 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
+linkedin.profile:https://www.linkedin.com/in/richardwhitt/
 location(s):
 me2b.relationship:Input to Ethical business models: Ecosystem definition: and Reference architectures.
 org.name:GliaNet
@@ -27,10 +27,11 @@ scope:
 sector:non-profit
 status:
 tags:
-tech.focus:
+tech.focus:Identity
 tmap.edges:{}
-tmap.id:f7798c36-915f-43db-af2c-9d324c6d8487
-twitter.profile:
+tmap.id:f4875140-3138-4dd0-b389-086bb463ac13
+tmap.names:me2bstar me2bstar-input-to-ethical-business-models:-ecosystem-definition:-and-reference-architectures. me2bstar-purpose
+twitter.profile:https://twitter.com/richardswhitt
 website:https://glia.net/project
 
 As this Project will explore over time: our individual Lifestreams truly can become our own: aided by TrustMediaries: entities chosen to operate as digital interfaces between myself and the Web. Other support elements can include personal Avatars: individualized Cloudlets: self-sovereign Identity Layers: and a host of distributed applications: devices: and services.  The aim is to shape: build: and launch that trustworthy and supportive online ecosystem as a virtual overlay to the Web.  Where innovation more readily translates into human progress.  And: the ultimate endgame is the promise of delivering a tech future centered on autonomous humans.

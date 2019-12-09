@@ -1,5 +1,5 @@
-created:1575213940159
-modified:1575213940159
+created:1575897973089
+modified:1575897973089
 title:Government Digital Service
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"402100ff-24d0-4cdd-92ca-9228c8634627":{"to":"c71efaad-f8bd-4613-b1fb-df099db5de98","type":"government-connection"},"904ba284-2354-4a17-8d4f-40e49797737a":{"to":"61cc8062-5849-4701-9e19-288dd77fb274","type":"connection"}}
-tmap.id:b5a117bf-529c-4d8a-85d4-9b134299966f
+tmap.edges:{"2abf391e-dc2c-41cd-a407-13c8d94bc43d":{"to":"ea1d669c-b297-4d4d-8a4c-a5773a37e844","type":"government-connection"},"5c2ab664-c380-4f8c-9f71-4c1232e3570c":{"to":"abbedf0c-6137-4847-a39e-e045074200db","type":"connection"}}
+tmap.id:d39c8631-18ad-4c4f-9850-ca448b7fef93
 twitter.profile:
 website:
 

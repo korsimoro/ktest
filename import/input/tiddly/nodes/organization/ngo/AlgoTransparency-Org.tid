@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:AlgoTransparency Org
 type:text/vnd.tiddlywiki
 activities:
@@ -13,7 +13,7 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
+linkedin.profile:https://www.linkedin.com/company/algotransparency
 location(s):
 me2b.relationship:
 org.name:AlgoTransparency Org
@@ -29,8 +29,9 @@ status:
 tags:0
 tech.focus:
 tmap.edges:{}
-tmap.id:f2838a1b-29bf-4527-b0de-f830b898d4f3
-twitter.profile:
+tmap.id:cf00f230-d418-4c50-a987-c5a87ca83e64
+tmap.names:me2bstar me2bstar-purpose me2bstar-tag
+twitter.profile:https://twitter.com/HelloAlgo
 website:https://algotransparency.org
 
 We want to see which information the YouTube algorithm is showing to people. This algorithms is responsible for more than 700,000,000 hours of watch time every day, and it is not fully understood, even by the people who build it.

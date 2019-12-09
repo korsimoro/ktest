@@ -1,5 +1,5 @@
-created:1575213940150
-modified:1575213940150
+created:1575897973081
+modified:1575897973081
 title:epSOS
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:0
 terms.of.service:
-tmap.edges:{"fda2633c-7e56-4e96-ac1a-409b6efc8eeb":{"to":"07143e32-3237-4646-948a-8be029f62394","type":"connection"},"4a0225f5-66a0-4e3f-8ace-31b243021288":{"to":"14722f58-cec6-4b5f-85e7-58b4dc26d11f","type":"connection"}}
-tmap.id:1e016be7-7e44-4380-8ff5-714c7f40afb9
+tmap.edges:{"c36c97c9-dd65-4c65-932c-6d09f303a6e8":{"to":"5b2ef281-78d1-4963-930b-f7bd7dfc7d55","type":"connection"},"c82fb0a9-ffe8-40eb-b578-71481b6b2244":{"to":"25fe8ce3-6ff7-4070-acaa-6b9ca5ebb60a","type":"connection"}}
+tmap.id:4be2fb32-8d24-46ec-b442-6fcfa78bb7f4
 url:http://www.epsos.eu
 version.or.edition:
 working.group:

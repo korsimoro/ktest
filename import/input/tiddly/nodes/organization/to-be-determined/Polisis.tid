@@ -1,8 +1,8 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:Polisis
 type:text/vnd.tiddlywiki
-activities:
+activities:standard development
 annual.budget:
 audience:
 date.ended:
@@ -21,16 +21,17 @@ org.type:to-be-determined
 parent.org:
 partners:
 products.and.or.services:
-purpose:
+purpose:transparency and accountability
 relevant.publications:
 scope:
 sector:
 status:
 tags:
-tech.focus:
+tech.focus:Data Mobility
 tmap.edges:{}
-tmap.id:e98559e4-fdab-4460-99fd-8a06392714ea
-twitter.profile:
+tmap.id:4ea9f242-ed3c-42ec-a8fe-b8e9d4cd7ff1
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/pribotapp
 website:https://pribot.org/polisis
 
 Assesses Privacy Policies and presents results in visual format.

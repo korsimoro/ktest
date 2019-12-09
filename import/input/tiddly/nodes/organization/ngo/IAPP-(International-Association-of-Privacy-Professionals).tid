@@ -1,27 +1,28 @@
-created:1575213940193
-modified:1575213940193
-title:IAPP (International Association of Privacy Professionals)
-type:text/vnd.tiddlywiki
-activities:movement building, research, outreach, publication
-annual.budget:
-audience:
-date.ended:
-date.founded:
-digital.harms.addressed:
-element.type:organization
-funding:
-github.profile:
-input.source:me2b
-key.people:
-linkedin.profile:
-location(s):
-me2b.relationship:
-org.name:IAPP (International Association of Privacy Professionals)
-org.type:NGO
-parent.org:
-partners:
-products.and.or.services:
-purpose:Consumer support
+activities: movement building, research, outreach, publication
+annual.budget: 
+audience: 
+created: 15820721014001000
+date.ended: 
+date.founded: 
+digital.harms.addressed: 
+element.type: organization
+funding: 
+github.profile: 
+input.source: me2b
+key.people: 
+linkedin.profile: https://www.linkedin.com/company/iapp---international-association-of-privacy-professionals/
+location(s): 
+me2b.relationship: 
+modified: 20191209132645957
+org.name: IAPP (International Association of Privacy Professionals)
+org.type: NGO
+parent.org: 
+partners: 
+products.and.or.services: 
+purpose: Consumer support
+title: IAPP (International Association of Privacy Professionals)
+tmap.id: 651e0c91-bae0-4585-983b-008bf7af7b5c
+type: text/vnd.tiddlywiki
 
 relevant.publications:
 scope:
@@ -30,8 +31,9 @@ status:
 tags:0
 tech.focus:
 tmap.edges:{}
-tmap.id:da599cf4-8105-4134-921d-df0d80b39746
-twitter.profile:
+tmap.id:e7f8137e-67be-45f3-8273-bfdbe5798d1c
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose me2bstar-tag
+twitter.profile:https://twitter.com/PrivacyPros
 website:https://iapp.org/
 
 The International Association of Privacy Professionals (IAPP) is a resource for professionals who want to develop and advance their careers by helping their organizations successfully manage these risks and protect their data. In fact, we’re the world’s largest and most comprehensive global information privacy community.

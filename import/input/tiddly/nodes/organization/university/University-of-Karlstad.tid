@@ -1,5 +1,5 @@
-created:1575213940114
-modified:1575213940114
+created:1575897973062
+modified:1575897973062
 title:University of Karlstad
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"6ae1b849-697a-4cb6-850a-5a70951ba7fe":{"to":"5ccaae7d-89e2-4fac-b0f2-204214706489","type":"organization-for-group"}}
-tmap.id:81121e52-db98-4e93-b0be-0132c58a6df4
+tmap.edges:{"ba4b2cd6-2e45-44c3-9f96-b8ac8492ae98":{"to":"0717e952-d8cd-4c13-b3fd-4cf9d4df4d8c","type":"organization-for-group"}}
+tmap.id:d5d72fe7-b168-41d4-b508-16b0e0466122
 twitter.profile:
 website:https://www.kau.se/en/
 

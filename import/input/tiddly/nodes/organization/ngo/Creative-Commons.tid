@@ -1,8 +1,8 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973400
+modified:1575897973400
 title:Creative Commons
 type:text/vnd.tiddlywiki
-activities:publication
+activities:publication: standard development
 annual.budget:
 audience:
 date.ended:
@@ -10,11 +10,11 @@ date.founded:
 digital.harms.addressed:
 element.type:organization
 funding:
-github.profile:
+github.profile:https://github.com/creativecommons
 input.source:me2b
 key.people:Lawrence Lessig
-linkedin.profile:
-location(s):
+linkedin.profile:https://www.linkedin.com/company/creative-commons/
+location(s):Mountainview, CA
 me2b.relationship:Exemplar for Customer Commons Information Sharing Terms.
 org.name:Creative Commons
 org.type:NGO
@@ -23,14 +23,15 @@ partners:
 products.and.or.services:
 purpose:governance
 relevant.publications:
-scope:
+scope:global
 sector:non-profit
 status:Active?
 tags:
-tech.focus:
+tech.focus:Information Sharing Control
 tmap.edges:{}
-tmap.id:5b061171-2061-4847-9c78-b6665e9d8157
-twitter.profile:
+tmap.id:5897a8cd-c428-4154-8975-dd0877400b2b
+tmap.names:me2bstar me2bstar-exemplar-for-customer-commons-information-sharing-terms. me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/creativecommons
 website:https://creativecommons.org
 
 Creative Commons helps you legally share your knowledge and creativity to build a more equitable: accessible: and innovative world. We unlock the full potential of the internet to drive a new era of development: growth and productivity.

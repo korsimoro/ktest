@@ -1,8 +1,8 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:Build Tech We Trust
 type:text/vnd.tiddlywiki
-activities:outreach, movement building
+activities:outreach: movement building
 annual.budget:
 audience:
 date.ended:
@@ -21,7 +21,7 @@ org.type:to-be-determined
 parent.org:
 partners:
 products.and.or.services:
-purpose:human rights, consumer support
+purpose:human rights: consumer support
 relevant.publications:
 scope:
 sector:
@@ -29,8 +29,9 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:aa9505d0-c795-43d3-8522-d718028c1b44
-twitter.profile:
+tmap.id:5d0b3fa4-d808-4afe-8381-4ca6f037f93b
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/buildtechtrust
 website:https://www.buildtechwetrust.com/
 
 Organizing Tech Against Hate. Technology platforms promised us connection: access: and democracy but instead are radicalizing and fragmenting communities by providing an unprecedented ability to coordinate attacks and amplify hate. Five years ago: when relentless harassment in the gamer community against three women game developers happened: underrepresented people sounded an alarm. People of color: the LGBTQIA+ community: and others warned and continue to warn us about how tech platforms are used to abuse: and how it keeps getting worse. In a time where mass shootings have become tragically more commonplace: the recent string of shootings in Gilroy: El Paso: and Dayton have shaken us to our core.

@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:All Tech is Human
 type:text/vnd.tiddlywiki
 activities:
@@ -13,7 +13,7 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
+linkedin.profile:https://www.linkedin.com/company/all-tech-is-human/
 location(s):
 me2b.relationship:
 org.name:All Tech is Human
@@ -21,7 +21,7 @@ org.type:to-be-determined
 parent.org:
 partners:
 products.and.or.services:
-purpose:usability, ecosystem building, human rights
+purpose:usability: ecosystem building: human rights
 relevant.publications:
 scope:
 sector:non-profit
@@ -29,8 +29,9 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:b87a8b76-3747-48db-bfe2-211dcf8ff335
-twitter.profile:
+tmap.id:ffd64b47-9411-4582-b0c3-408c953e3248
+tmap.names:me2bstar me2bstar-purpose
+twitter.profile:https://twitter.com/AllTechIsHuman
 website:https://alltechishuman.org/
 
 All Tech Is Human is an accelerator for tech change. We are speeding up the process of progress by bringing together multiple stakeholders, promoting knowledge-sharing & collaboration, and developing an essential hub for the tech change ecosystem. All Tech Is Human acts as a catalyst & connector for tech change, uniting the private & public sectors, informing policymakers, media, & technologists, and allowing for greater participation by the general public.

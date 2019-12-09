@@ -1,5 +1,5 @@
-created:1575213940180
-modified:1575213940180
+created:1575897973110
+modified:1575897973110
 title:IEEE Technical Committee on Security and Privacy
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"89994199-ac96-46e5-9092-d58fe5deb076":{"to":"9978a177-8b00-4ca3-b56f-8dbef48de3c7","type":"convenor"},"0e56f7dd-82ed-4e02-98c9-35fbe10d0a97":{"to":"b910697c-037c-4138-a8b2-66b4b50253b4","type":"sponsor"},"0e8f7fe3-44c1-45a9-a121-6c6d05de7225":{"to":"40413509-1d36-4a30-9f29-87dbec9997ce","type":"convenor"},"278848c3-4502-45ac-b435-2409d2bfae7b":{"to":"e5835496-33bc-4af9-b4af-aa0f3457828d","type":"organization-for-group"}}
-tmap.id:2c95727e-3caa-46ec-bb9a-0a0654072fbf
+tmap.edges:{"86f0eb5a-f4c2-450b-a39f-f5b6ce359861":{"to":"c19d5678-3f47-4b91-87d9-a676bb8acd05","type":"convenor"},"a253d398-869a-4c2d-b089-b6157076deb3":{"to":"0a9ad6b2-6041-4f16-a2f8-941b5f621c51","type":"sponsor"},"bfd70ce5-dbe6-470f-9a45-a043c52a38f5":{"to":"ac657cbf-71a1-49d6-826f-06ba12a48edb","type":"convenor"},"7988f014-af5b-4a67-9c7c-646a210edd42":{"to":"a48ef19c-2f98-4fe1-b95f-85ecdb0b238a","type":"organization-for-group"}}
+tmap.id:0e8478fa-e2b6-4af4-8189-58afe0bd7c5a
 url:http://www.ieee-security.org
 
 The goal of the TCSP is to foster excellence in computer security and privacy research. We provide three of the finest conferences in the field. We are also "information central" for announcements of all research conferences in our field through continuously updated online resources. Our newsletter, published six times a year, contains recent announcements, news from the headlines, and other news about TCSP.

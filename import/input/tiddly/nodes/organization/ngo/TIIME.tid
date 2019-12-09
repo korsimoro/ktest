@@ -1,8 +1,8 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:TIIME
 type:text/vnd.tiddlywiki
-activities:
+activities:advocacy: service provider: formal training and classes
 annual.budget:
 audience:
 date.ended:
@@ -13,15 +13,15 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
-location(s):
+linkedin.profile:http://linkedin.com/company/tiime
+location(s):Luxomburg, France: Connecticut
 me2b.relationship:
 org.name:TIIME
 org.type:NGO
 parent.org:
 partners:
 products.and.or.services:
-purpose:education,
+purpose:education
 relevant.publications:
 scope:
 sector:
@@ -29,8 +29,9 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:0cc82e42-72c4-46b3-bfe8-e62f2ce660f9
-twitter.profile:
+tmap.id:c461f6d9-b50b-4e44-a991-13a3da68e044
+tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+twitter.profile:http://twitter.com/tiimenow
 website:https://www.tiime.org/
 
 TIIME is an advocacy, advisory and education provider in Sustainability and Impact solutions. Increase awareness on best practice and opportunities related to sustainability and impact initiatives. Empower business and finance with relevant knowledge, tools and partnerships to transition effectively and successfully. Support organisations in defining their impact goals and developing sustainable strategies and solutions adapted to organisational culture and capacity.

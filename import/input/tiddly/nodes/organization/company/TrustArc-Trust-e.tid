@@ -1,5 +1,5 @@
-created:1575213940193
-modified:1575213940193
+created:1575897973400
+modified:1575897973400
 title:TrustArc / Trust-e
 type:text/vnd.tiddlywiki
 activities:service provider: certification
@@ -13,8 +13,8 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
-location(s):
+linkedin.profile:https://www.linkedin.com/company/trustarc/
+location(s):San Francisco, CA
 me2b.relationship:???
 org.name:TrustArc / Trust-e
 org.type:Company
@@ -23,14 +23,15 @@ partners:
 products.and.or.services:
 purpose:certification and compliance
 relevant.publications:
-scope:
+scope:global
 sector:for-profit
 status:Active
 tags:
 tech.focus:
-tmap.edges:{}
-tmap.id:136db818-d83d-4576-b1b7-350c2b4b1050
-twitter.profile:
+tmap.edges:{"f4cd56b2-f873-4c7f-b79a-4750a102413f":{"to":"8b99b594-e8b9-44d6-a994-0a6798008ab4","type":"Provides"},"003d47b0-3d5e-4ddc-95d5-e61622defec3":{"to":"804595eb-9a61-4bd6-bd3a-dd4ac1b48efd","type":"Provides"},"d9988cc6-7eb4-46f6-8ea6-ec5a2e2e7384":{"to":"038b8f9a-e23b-4c1b-a44c-ec49b2ba8f25","type":"Provides"},"d2920d0c-0f66-4fb3-93cf-9734c2481bb1":{"to":"ddcec777-045d-4a19-8457-6ae710ba8b7d","type":"Provides"},"a60a4067-61c5-4b1c-99ee-a873b8a65dd7":{"to":"c0025ebd-22c6-4f19-8a34-f8e5f47abedb","type":"Provides"},"c561e797-0613-4d8a-8263-790feba818d0":{"to":"c92d5cdf-e8d1-468d-a6fe-925a562f67ed","type":"Provides"},"4e4ec78d-3113-4713-85fc-0db05a8cd8ac":{"to":"038b8f9a-e23b-4c1b-a44c-ec49b2ba8f25","type":"Provides"},"ce9b3e88-16f1-40cd-9053-e90fc73e8fda":{"to":"9a39f553-05f8-4157-8c9d-96677116eb67","type":"Provides"},"7897985d-fc8b-4557-b72d-46007da6788a":{"to":"cb9b5419-4568-40be-ad00-d5870bb6eeb9","type":"Provides"},"696237d5-5065-4de5-807d-e32ec50bb3e2":{"to":"522f572a-5269-41dc-84cd-1624a776aabc","type":"Provides"},"97ef1ac3-efb4-431b-9c99-d8ee12c29d86":{"to":"0ac54139-2087-4387-95d4-69b560fea7ad","type":"Provides"}}
+tmap.id:351db745-1596-48b6-bf48-a7a2142e4121
+tmap.names:me2bstar me2bstar- me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/TrustArc
 website:https://www.trustarc.com/products/privacy-platform/trustarc-privacy-data-governance-framework/
 
 "Powering Privacy Compliance For Customers Worldwide"  Certifications for Enterprises:  TRUST-e: GDPR: COPPA: APEC CBPR and PRP: EU- US: EU Privacy Shield: EDAA: et al.

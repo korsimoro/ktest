@@ -1,19 +1,22 @@
-created:1575213940193
-modified:1575213940193
-title:iubenda
-type:text/vnd.tiddlywiki
-activities:service provider: certification
-annual.budget:
-audience:
-date.ended:
-date.founded:
-digital.harms.addressed:
-element.type:organization
-funding:
-github.profile:
+activities: service provider: certification
+annual.budget: 
+audience: 
+created: 15820721014000000
+date.ended: 
+date.founded: 
+digital.harms.addressed: 
+element.type: organization
+funding: 
+github.profile: https://github.com/iubenda
+modified: 20191209132645853
+title: iubenda
+tmap.id: d7b73888-f329-4992-9bf8-45ce5a725485
+type: text/vnd.tiddlywiki
+
 input.source:me2b
 key.people:
-linkedin.profile:
+linkedin.profile:https://www.linkedin.com/company/iubenda/
+
 location(s):
 me2b.relationship:Me2B Certification Candidate? Content source for Me2B Certification?
 org.name:iubenda
@@ -28,9 +31,10 @@ sector:for-profit
 status:Defunct?
 tags:
 tech.focus:
-tmap.edges:{}
-tmap.id:a9b433a2-1e57-4b36-8c6e-da2d7252f02b
-twitter.profile:
+tmap.edges:{"1440913e-7241-4fd8-bf32-6d6d88671a6e":{"to":"b8eff33a-172e-473f-89c6-f68ad4b9e7e2","type":"Provides"},"07ccc645-fd9c-4b25-bbbd-c8bbf35c87d7":{"to":"9c8a1d70-b3c7-4a98-b689-6ff722cdd1af","type":"Provides"},"20a15470-ae0c-4a06-831b-b6615c6b045d":{"to":"3b9cf73e-8d0d-4d29-90cc-6264394d6f8c","type":"Provides"},"82848bcf-ce92-4538-88a1-70a55876048d":{"to":"f1da7840-426d-48fe-a2b8-6439316d6906","type":"Provides"},"73e08f99-4f22-489b-9aac-d5f21ad47b05":{"to":"3dd3ed7c-5b82-4e26-bd7e-dbfedd9aee66","type":"Provides"},"1e67c56f-f999-40a6-8a54-8ffe3aef11c4":{"to":"58406d8f-40fd-41f9-bcb3-79f714a65262","type":"Provides"},"b1fb30b8-a75b-49bc-a243-1f710acd0d79":{"to":"53d78e3f-8f82-4a79-95e1-e0eefff19714","type":"Provides"},"e7dbfe27-127a-474a-a634-39255f4e2411":{"to":"3cd486ba-dae0-432b-9d3b-80a8dfbbfd1e","type":"Provides"}}
+tmap.id:dd51dfc1-1401-49e9-b8bd-6c032dad8546
+tmap.names:me2bstar me2bstar-me2b-certification-candidate-content-source-for-me2b-certification me2bstar-activity me2bstar-purpose
+twitter.profile:https://twitter.com/iubenda
 website:https://www.iubenda.com/en/
 
 We help with the legal requirements: so you can focus on the business

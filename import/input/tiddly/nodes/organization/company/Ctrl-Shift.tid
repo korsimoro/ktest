@@ -1,5 +1,5 @@
-created:1575213940194
-modified:1575213940194
+created:1575897973401
+modified:1575897973401
 title:Ctrl-Shift
 type:text/vnd.tiddlywiki
 activities:
@@ -13,8 +13,8 @@ funding:
 github.profile:
 input.source:me2b
 key.people:
-linkedin.profile:
-location(s):
+linkedin.profile:https://www.linkedin.com/company/ctrl-shift
+location(s):London
 me2b.relationship:
 org.name:Ctrl-Shift
 org.type:Company
@@ -29,8 +29,8 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:a54bab7d-0943-4043-bb22-ab332ce9685d
-twitter.profile:
+tmap.id:8c5c6a60-e138-45bf-b4d6-9424b7ef5cd1
+twitter.profile:https://twitter.com/ctrlshift
 website:https://www.ctrl-shift.co.uk/
 
 Ctrl-Shift is powered by an extensive network of expert strategy consultants, business analysts, consultants and researchers and is headed up by our highly experienced management team.
