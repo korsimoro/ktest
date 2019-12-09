@@ -1,0 +1,5 @@
+created: 20191208092140882
+modified: 20191208092140882
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/me2bstar/filter/nodes
+type: text/vnd.tiddlywiki
+filter: [contains:tmap.names[me2bstar]]

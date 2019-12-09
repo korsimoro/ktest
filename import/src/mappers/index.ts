@@ -126,9 +126,14 @@ export const mappers:any = {
   },
   me2b_set_title_and_field(column_name:string) {
     function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
-      //console.log("Running Title",elt.slugmap,me2b_slugify(column_name))
-      elt.title = elt.slugmap[elt.model.slugify(column_name)]
-      return elt.slugmap[elt.model.slugify(column_name)]
+      const cname=elt.model.slugify(column_name)
+      //console.log("Running Title",elt.slugmap,cname)
+      elt.title = elt.slugmap[cname]
+      if(!elt.title) {
+        console.log("WARNING: untiltled element:"+elt.type+", using column "+cname+" and fields "+JSON.stringify(elt.fields))
+        elt.title=elt.guid
+      }
+      return elt.slugmap[cname]
     }
     return mapper
   },
@@ -136,7 +141,7 @@ export const mappers:any = {
     function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
       let st = elt.slugmap[elt.model.slugify(column_name)]
       if(!st) st = 'to-be-determined'
-      elt.subtype = st
+      elt.subtype = elt.model.slugify(st).trim()
       return st
     }
     return mapper

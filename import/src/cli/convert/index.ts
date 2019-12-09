@@ -1,34 +1,9 @@
 import { Context } from '../../context'
 import { createNodeTiddlerFromKumuElement,createNodeTiddlerFromMe2BElement } from './create-node-tiddler'
-
-export function createEdgeMap(elt:KumuElement,tb:TiddlerBuilder) {
-	const edgemap:any = {}
-
-	for(let o in elt.outbound) {
-		const c=elt.outbound[o]
-		edgemap[o] = {
-			to:c.to.guid,
-			type:c.type.name
-		}
-	}
-
-	tb.edgemap = edgemap
-}
-
-function linkProductsAndProjectsToOrganizations(ctx:Context) {
-}
-function linkPublicationsToOrganizations(ctx:Context) {
-}
-function linkWorkingGroupsToOrganizations(ctx:Context) {
-}
-function linkOrganizationsToOrganizations(ctx:Context) {
-}
-function linkOrganizationsToPeople(ctx:Context) {
-}
-function linkPublicationsToAuthors(ctx:Context) {
-}
-function createMe2BStar(ctx:Context) {
-}
+import {linkProductsAndProjectsToOrganizations, linkPublicationsToOrganizations,
+	linkWorkingGroupsToOrganizations, linkOrganizationsToOrganizations,
+	linkOrganizationsToPeople, linkPublicationsToAuthors, createMe2BStar }  from '../../me2b/graphitude'
+import { createAndLinkNodesForListField } from '../../me2b/metamodel'
 
 function analyzeMe2BDataToCreateGraphs(ctx:Context) {
 	linkProductsAndProjectsToOrganizations(ctx)
@@ -46,8 +21,6 @@ async function convert(inbase:string) {
 	console.log("Load Kumu");
 	await ctx.kumu.load()
 
-	console.log("Load Me2B");
-  await ctx.me2b.load()
 
 	//console.log("Load Tiddly");
 	//await ctx.tiddly.load()
@@ -69,11 +42,31 @@ async function convert(inbase:string) {
 		ctx.tiddly.createNodeTypeTiddler(type.parts)
 	}
 
-	console.log("Convert Me2B Elements -> Tiddlers");
-	for(let slug in ctx.me2b.elements) {
-		createNodeTiddlerFromMe2BElement(ctx.me2b.elements[slug],ctx)
-	}
+
+	console.log("Load Me2B");
+  await ctx.me2b.load()
 	analyzeMe2BDataToCreateGraphs(ctx)
+	for(let elt of ctx.me2b.findElementsByType("organization")) {
+		createAndLinkNodesForListField(elt,"activities","Activity")
+		/*
+		createAndLinkNodesForListField(elt,"purpose","Purpose")
+		createAndLinkNodesForListField(elt,"tags","Tag")
+		createAndLinkNodesForListField(elt,"Digital Harms Addressed","Digital Harm")
+		createAndLinkNodesForListField(elt,"Tech Focus","Tech Focus")
+		*/
+		//createAndLinkNodesForListField(elt,"People","Related Person")
+	}
+
+	console.log("Convert Me2B Connection Types -> Edge Type Tiddlers");
+	console.log("Set=",ctx.me2b.connectionTypes)
+	ctx.me2b.connectionTypes.forEach((type) => {
+		ctx.tiddly.createEdgeTypeTiddler([type])
+	})
+
+	console.log("Convert Me2B Elements -> Tiddlers");
+	for(let guid in ctx.me2b.elementGuidMap) {
+		createNodeTiddlerFromMe2BElement(ctx.me2b.elementGuidMap[guid],ctx)
+	}
 
 	console.log("Writing Tiddlers");
 	await ctx.tiddly.save()

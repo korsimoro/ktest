@@ -19,6 +19,9 @@ export class NodeTypeTiddler extends SimpleTiddler  {
 
 	scope:string
 	style:string
+	faIcon:string
+	twIcon:string
+
 	constructor(parts:string[],base:TiddlyModel) {
 		super({
 			title:"$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/"+parts.join("/")
@@ -39,12 +42,16 @@ export class NodeTypeTiddler extends SimpleTiddler  {
 
 		this.scope='[field:element.type['+this.filepart+']]'
 		this.style='{"color":{"border":"'+this.randomRGBA()+'","background":"'+this.randomRGBA()+'"}}'
+		this.faIcon='f'+Math.round(1300*Math.random())
+		this.twIcon=''
 	}
 
 	tiddlerdata():string {
 		return super.tiddlerdata() +
 		"scope: "+this.scope+"\n"+
-		"style: "+this.style+"\n";
+		"style: "+this.style+"\n"+
+		"fa-icon: "+this.faIcon+"\n"+
+		"tw-icon: "+this.twIcon+"\n";
 	}
 
 	randomRGBA():string {

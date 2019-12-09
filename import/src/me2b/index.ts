@@ -18,6 +18,7 @@ export interface TiddlerBuilder {
 
 // --------------------------------------------------------------------------
 // Declaration
+export type Me2BConnectionMap = {[id:string]:Me2BConnection}
 
 // every connection or element has a guid, which is used internally,
 // and is bound to the model (which serves as a factory for the entities)
@@ -33,13 +34,27 @@ export interface Me2BElement {
 
 	slugmap:{[key:string]:string}
 	fields:any
+
+	outbound:Me2BConnectionMap
 }
 
 export class Me2BConnection {
+	guid:string
+	model:Me2BModel
 	from:Me2BElement
 	to:Me2BElement
 	type:string
 
+	constructor(from:string,to:string,type:string,model:Me2BModel) {
+		this.guid = uuid.v4()
+		this.model = model
+		this.from = model.locateElementByLabel(from)
+		this.to = model.locateElementByLabel(to)
+		this.type = type
+		this.model.connectionTypes.add(type)
+		this.from.outbound[this.guid] = this
+		console.log("LINKED:",this.from.title,type,this.to.title,this.model.connectionTypes.size)
+	}
 }
 
 // --------------------------------------------------------------------------
@@ -57,6 +72,8 @@ export class SimpleMe2BElement implements Me2BElement  {
 	slugmap:{[key:string]:string}
 	fields:any
 
+	outbound:Me2BConnectionMap
+
   constructor(src:any,type:string,model:Me2BModel) {
 		this.guid = uuid.v4()
 		this.model = model
@@ -71,6 +88,7 @@ export class SimpleMe2BElement implements Me2BElement  {
 			const val = ''+src[key]
 			this.slugmap[s] = val
 		}
+		this.outbound={}
 	}
 
 }
@@ -84,25 +102,68 @@ export class Me2BModel
 {
 	ctx:Context
 	base:string
-	elements:Me2BElementMap
+	elementGuidMap:Me2BElementMap
+	elementTitleSlugMap:Me2BElementMap
+	connectionTypes:Set<string>
 
 	constructor(base:string,ctx:Context) {
 		this.base = base
 		this.ctx = ctx
-		this.elements = {}
+		this.elementGuidMap = {}
+		this.elementTitleSlugMap = {}
+		this.connectionTypes = new Set<string>()
 	}
 
 	encounterElement(elt:Me2BElement) {
-		this.elements[elt.guid] = elt
+		this.elementGuidMap[elt.guid] = elt
+		if(!elt.title)
+			throw new Error("Untitled element:"+JSON.stringify(elt.fields))
+		this.elementTitleSlugMap[elt.model.slugify(elt.title)] = elt
 		elt.fields['input.source']='me2b'
 	}
 
 	locateElementByLabel(label:string):Me2BElement {
-		const result = this.elements[this.slugify(label)]
+		const result = this.elementTitleSlugMap[this.slugify(label)]
 		if(!result) {
 			console.log("locateElementByLabel - FAILED TO FIND",label,"=>",this.slugify(label))
 			//for(let x of Object.keys(this.elements).sort())
 			//	console.log(x)
+		}
+		return result
+	}
+
+	ensureElementWithLabel(label:string,type:string):Me2BElement {
+		const result = this.elementTitleSlugMap[this.slugify(label)]
+		if(result) {
+			if(result.type != type) {
+				console.log("Type Mismatch, ensureElementWithLabel" + label + ":" + result.type + ":" + type)
+			}
+			return result
+		}
+
+		const elt = new SimpleMe2BElement({
+			},"metamodel",this)
+		elt.title=label
+		elt.subtype=type
+		this.encounterElement(elt)
+		return elt
+	}
+
+	findElementsByType(type:string):Me2BElement[] {
+		const result = [] as Me2BElement[]
+		for(let ek in this.elementGuidMap) {
+			const e = this.elementGuidMap[ek]
+			if(e.type == type)
+				result.push(e)
+		}
+		return result
+	}
+	findElementsBySubtype(subtype:string):Me2BElement[] {
+		const result = [] as Me2BElement[]
+		for(let ek in this.elementGuidMap) {
+			const e = this.elementGuidMap[ek]
+			if(e.subtype == subtype)
+				result.push(e)
 		}
 		return result
 	}

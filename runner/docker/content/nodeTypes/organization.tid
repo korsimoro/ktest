@@ -1,9 +1,10 @@
 created: 15760922154607000
 description: This is a general description of the node type.
-fa-icon: f206
-modified: 20191208093058058
+fa-icon: 
+modified: 20191209090753747
 priority: 1
 scope: [field:element.type[organization]]
 style: {"color":{"border":"rgba(82,123,145,103)","background":"rgba(208,43,166,118)"},"shape":"database"}
 title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/organization
+tw-icon: $:/core/icon
 type: text/vnd.tiddlywiki

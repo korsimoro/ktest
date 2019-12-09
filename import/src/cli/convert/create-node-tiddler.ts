@@ -106,6 +106,22 @@ export function createNodeTiddlerFromMe2BElement(elt:Me2BElement,ctx:Context):No
 {
 	elt.fields['element.type']=elt.type
 
+	function createEdgeMap(elt:Me2BElement):any {
+		const edgemap:any = {}
+
+		for(let o in elt.outbound) {
+			const c=elt.outbound[o]
+			edgemap[o] = {
+				to:c.to.guid,
+				type:c.type
+			}
+		}
+
+		return edgemap
+	}
+	const em = createEdgeMap(elt)
+	elt.fields['tmap.edges'] = JSON.stringify(em)
+
 	const result = ctx.tiddly.createNodeTiddler({
 		title:elt.title,
 		fields:elt.fields,

@@ -4,7 +4,7 @@ import { mappers } from '../mappers'
 export const inbound : any = {
   "Name" : {
     "kumu": mappers.label(),
-    "me2b": mappers.me2b_set_title_and_field('Name')
+    "me2b": mappers.me2b_set_title_and_field('Label')
   },
   "Description" : {
     "kumu": mappers.skip(),
