@@ -47,6 +47,6 @@ export class SimpleNodeTiddler extends SimpleTiddler implements NodeTiddler
 			if(this.fields[k] !== undefined)
 				field_data = field_data + k + ":" + this.getFieldData(k) + "\n"
 		}
-		return super.tiddlerdata() + field_data + "\n" + this.wiki_text + "\n"
+		return super.tiddlerdata() + field_data + "\n" + this.wiki_text
 	}
 }
