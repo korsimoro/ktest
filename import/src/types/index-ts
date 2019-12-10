@@ -14,18 +14,9 @@ export interface ModelType {
 
 	parent?:ModelType
 	description?:string
-}
 
-// model of the model types
-export interface ModelTypeModel {
-	guid:string
-	name:string
-
-	depth:number
-	parts:string[]
-
-	parent?:ModelType
-	description?:string
+	twIcon?:string				// tiddlywiki icon
+	faIcon?:string				// font awesome
 }
 
 
@@ -40,6 +31,9 @@ export class BaseModelType implements ModelType {
 	parent?:ModelType
 	description?:string
 
+	twIcon?:string				// tiddlywiki icon
+	faIcon?:string				// font awesome
+
 	constructor(type:string,model:ModelModel) {
 		super({},model)
 
@@ -47,13 +41,17 @@ export class BaseModelType implements ModelType {
 		this.depth = p.length
 		this.parts =[]
 		for(let idx in p)
-			this.parts[idx]=model.slugify(p[idx])
+			this.parts[idx]=model.slugify(p[idx].trim())
 		this.name = this.parts[this.depth-1]
+		this.twIcon = ''
+		this.faIcon = ''
 	}
 }
 
 export class BaseModelElementType extends BaseModelType implements ModelElementType {
+
 	parent?:ModelElementType
+
 	constructor(type:string,model:ModelModel) {
 		super(type,model)
 		if(this.depth>1) {
@@ -63,7 +61,9 @@ export class BaseModelElementType extends BaseModelType implements ModelElementT
 	}
 }
 export class BaseModelConnectionType extends BaseModelType implements ModelConnectionType {
+
 	parent?:ModelConnectionType
+
 	constructor(type:string,model:ModelModel) {
 		super(type,model)
 		if(this.depth>1) {
