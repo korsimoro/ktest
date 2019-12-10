@@ -1,0 +1,37 @@
+created:1575973326431
+modified:1575973326431
+title:Privacy By Design
+type:text/vnd.tiddlywiki
+activities:software development
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:https://github.com/privacybydesign
+input.source:me2b
+key.people:
+linkedin.profile:https://github.com/privacybydesign
+location(s):Netherlands
+me2b.relationship:
+org.name:Privacy By Design
+org.type:Foundation
+parent.org:
+partners:
+products.and.or.services:
+purpose:Consumer support: usability
+relevant.publications:
+scope:
+sector:
+status:
+tags:privacy
+tech.focus:Identity
+tmap.edges:{}
+tmap.id:4e0a2ecd-a330-48cb-85e9-6abad411cef4
+tmap.names:me2ball me2ball-activity me2ball-purpose me2ball-tag me2ball-tech-focus
+twitter.profile:https://twitter.com/irma_privacy
+website:https://privacybydesign.foundation/en/
+
+IRMA offers a way for privacy-friendly authentication. When authenticating, you as a user reveal only relevant properties (attributes) of yourself, using an IRMA app on your mobile phone — for instance that you are older than 16. In addition, with this app you can also digitally sign messages, where you identify yourself as a signer also with personal attributes. In this way you can sign for instance with your name and address, or with your medical registration, when you are a doctor, or just with your email address if you do not wish to disclose anything else.

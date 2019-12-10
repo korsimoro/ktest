@@ -1,0 +1,12 @@
+created:1575973326437
+modified:1575973326437
+title:service provider
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Activity
+tmap.edges:{"41e7c0ce-52ab-44b4-a31b-f8ed20b88b1d":{"to":"87344ffd-e956-44bd-ada8-c9fa8ae90084","type":"Activity"},"361d4244-ef1a-4727-8a81-2e73f4eb4c1c":{"to":"0a229d65-4f97-40c0-89c9-0f6215f7faed","type":"Activity"},"db39eb75-1dd1-409d-8803-16aba83fca1a":{"to":"2fe25df6-7eaf-4f4c-b0d8-c4264f537ffb","type":"Activity"},"ab2acdca-ac5d-43a4-a068-235d0e91e8ff":{"to":"6b4d6894-0b91-4d2a-9ff6-8368c99e6f7f","type":"Activity"},"c7e2c954-0771-427c-a0cc-c5b100504bde":{"to":"ab2ce3c1-bc38-4735-80ac-2389da0c27c3","type":"Activity"},"a35303fc-243d-40a0-868e-3b5666cf9a75":{"to":"3224d93f-4a9f-41d0-bf04-cbdaf86063b0","type":"Activity"},"6e499c55-3d8c-4fb0-8680-d845f9c34d01":{"to":"5390732b-9cac-467a-9455-62fff840da3a","type":"Activity"},"74366b53-766c-41d9-8e31-9b6e584d3975":{"to":"c545ff0c-590a-4da6-bef3-c636b45a8aa5","type":"Activity"},"808529ff-227c-467a-879d-48f0936abc4f":{"to":"6b9a7192-424e-4e2f-be4b-962b6548f8d2","type":"Activity"},"a7852ec2-d346-472a-b294-a723a48df5db":{"to":"802c5532-2b64-408d-b12b-a68d49c7d223","type":"Activity"},"4c7e6cba-c995-4b5e-b8f1-684cf8f6f2e8":{"to":"9d3a4aae-28e2-4ca2-aeef-05dca3aab8f5","type":"Activity"},"7c65a31c-d79c-4a17-9922-2f23a98527ee":{"to":"97ac121b-88e1-4329-8ec8-7f49dba654ea","type":"Activity"}}
+tmap.names:me2bstar me2bstar-activity me2ball me2ball-activity
+tw-icon:$:/images/fa5/solid/shower
+
+

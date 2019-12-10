@@ -1,0 +1,12 @@
+created:1575973326438
+modified:1575973326438
+title:usability
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Purpose
+tmap.edges:{"773b6fa3-36f5-466a-9baf-17f6311504a9":{"to":"c0a34a8e-317a-4ca1-bcc5-444d97e3b5c2","type":"Purpose"},"1d891209-3a9e-43c8-a35d-92b80988b8d7":{"to":"4e0a2ecd-a330-48cb-85e9-6abad411cef4","type":"Purpose"},"876ea339-6601-4180-90e4-65a64cc1f68f":{"to":"40d789dc-26e8-458a-99b7-acd5689dc11d","type":"Purpose"},"8b0d00d9-4189-4338-8e3a-4f1f4922d57f":{"to":"e5ce4309-9ca2-4c27-b1be-954efd146ff3","type":"Purpose"},"94134afc-18ce-4a5a-8239-3d5fc32695bb":{"to":"88a735d3-796f-4d47-9f1d-ef3f8e7818aa","type":"Purpose"},"5ebc2e39-972b-408d-85f1-67cadf4f55e2":{"to":"188043ad-0b69-4f0e-a229-4ab72c7dde99","type":"Purpose"},"f60ad1eb-690d-4842-9927-a8ec126ea351":{"to":"9be05350-f192-4e7c-b8e8-905028ce54b9","type":"Purpose"},"cc3f9a82-cd9d-4c43-9372-fa4649c39e2a":{"to":"0be4a66a-4753-4ce3-92ad-4963ee69a31c","type":"Purpose"},"eec5861e-63e2-4836-b0b7-2430a424799e":{"to":"fc3020b1-a65a-483f-98d0-ee19f0ce64f3","type":"Purpose"},"0cdc03a7-4b27-4afb-9e8f-dabe3b6f0f61":{"to":"5ec16703-e1ad-46e3-9528-4cbc1a07db20","type":"Purpose"}}
+tmap.names:me2bstar me2bstar-purpose me2ball me2ball-purpose
+tw-icon:$:/images/fa5/solid/shuttle-van
+
+

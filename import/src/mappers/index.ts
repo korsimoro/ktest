@@ -140,6 +140,8 @@ export const mappers:any = {
     function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
       let st = elt.slugmap[elt.model.slugify(column_name)]
       if(!st) st = 'to-be-determined'
+      st = st.trim()
+      if(!st) st = 'to-be-determined'
       elt.subtype = elt.model.slugify(st).trim()
       return st
     }

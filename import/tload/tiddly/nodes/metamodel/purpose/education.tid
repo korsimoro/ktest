@@ -1,0 +1,12 @@
+created:1575973326435
+modified:1575973326435
+title:education
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Purpose
+tmap.edges:{"140ecacd-5ec2-4eb7-a453-8668edaf2fc6":{"to":"aef1a927-c787-4b23-a26f-7ece61e7ffcb","type":"Purpose"},"97a35dd6-373f-412f-b5ae-e6b41bbb8628":{"to":"5ced231b-974c-4642-b72e-c9eaa0d46e05","type":"Purpose"},"08aecb8f-c79b-46ba-82c6-b7c162f61978":{"to":"e3eae2e8-04eb-4a44-97d3-d8edd9d3e09a","type":"Purpose"},"b7451105-efdd-4758-a179-6cbd040e330e":{"to":"14355ad3-8d5c-454e-bffc-56dc73248f5f","type":"Purpose"},"c4e9bda9-6f2b-4652-adf8-88580ddf8ea0":{"to":"79e18952-09c9-4206-8baa-7f723ef5d731","type":"Purpose"},"ad14bd63-6d3d-477a-99df-7d4249b0f4c4":{"to":"41122de0-c78b-487a-a8f2-67e71cf294a6","type":"Purpose"},"598d8033-a559-4c39-b29c-9a884eb9170f":{"to":"3224d93f-4a9f-41d0-bf04-cbdaf86063b0","type":"Purpose"},"23c720a0-5377-42a7-a81d-334c26382338":{"to":"13be5005-3003-430f-bbee-9e332478f348","type":"Purpose"},"0fdf1dbb-6fd7-41f8-aafe-e66e9460cb9f":{"to":"a4a47a5a-d9ca-48e5-84ff-cf57a103fad6","type":"Purpose"},"443d878d-6796-41d0-958f-31096e04b324":{"to":"276ff5ab-e475-4863-a439-5cda96326835","type":"Purpose"},"2148baad-551c-4cc8-be79-1e26fe3214af":{"to":"bda1302d-8c36-4358-a46b-f6cd93e78292","type":"Purpose"},"886e1cd2-4814-41cd-af7c-7bcb55f305f6":{"to":"3b02f5fa-4149-4dcd-833c-024184857c94","type":"Activity"}}
+tmap.names:me2bstar me2bstar-purpose me2ball me2ball-purpose me2bstar-activity me2ball-activity
+tw-icon:$:/images/fa5/solid/shuttle-van
+
+

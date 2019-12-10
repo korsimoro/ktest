@@ -1,0 +1,37 @@
+created:1575973326431
+modified:1575973326431
+title:That One Privacy Site
+type:text/vnd.tiddlywiki
+activities:publication
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
+key.people:That One Privacy Guy
+linkedin.profile:
+location(s):
+me2b.relationship:
+org.name:That One Privacy Site
+org.type:independent
+parent.org:
+partners:
+products.and.or.services:
+purpose:Consumer Education
+relevant.publications:
+scope:
+sector:non-profit
+status:
+tags:
+tech.focus:VPN
+tmap.edges:{"19da97d9-316b-40ab-8697-99819903265d":{"to":"78249937-63cf-49a2-bc41-f7288cd91995","type":"Provides"}}
+tmap.id:d1e89b6a-da75-4b07-8896-75df1947f7e1
+tmap.names:pop-to-orgs all-organizations me2ball me2ball-activity me2ball-purpose me2ball-tech-focus
+twitter.profile:https://twitter.com/ThatPrivacyGuy
+website:https://thatoneprivacysite.net/
+
+Welcome to That One Privacy Site!  I intend for this site to be a resource to those who value their privacy, specifically those looking for information on VPNs (that isn’t disguised advertising).  There are some other good resources that cover privacy based topics quite well, but when I started down the path of retaking my own privacy, there was very little reliable and detailed information with regard to VPNs.

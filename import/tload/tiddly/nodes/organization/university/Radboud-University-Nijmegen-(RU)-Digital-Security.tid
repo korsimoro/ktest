@@ -1,0 +1,39 @@
+created:1575973325996
+modified:1575973325996
+title:Radboud University Nijmegen (RU) - Digital Security
+type:text/vnd.tiddlywiki
+activities:
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
+org.name:Radboud University Nijmegen (RU) - Digital Security
+org.type:University
+parent.org:
+partners:
+products.and.or.services:
+purpose:
+relevant.publications:
+scope:
+sector:
+status:
+tags:
+tech.focus:
+tmap.edges:{"f2ab1da2-8705-4a57-b715-13f6c541560b":{"to":"aaafeb31-cdf6-4277-aef5-a4de8d1a628e","type":"organization-for-group"}}
+tmap.id:6248ff8a-2ddc-443e-88ff-5f92a61e120d
+twitter.profile:
+website:http://www.ru.nl/ds/
+
+Welcome!
+Digital security is an increasingly important issue in our society. The Digital Security group works on a broad range of topics in computer security, including applied cryptography, security protocols, smartcards and RFID, and the security and correctness of software. We are also interested in societal aspects of digital security, such as privacy and e-voting, and interaction with disciplines outside computer science such as cryptography and law. You can read this Dutch page on Computer Security to get an idea of some of the issues related to our research.
+
+Our research and collaboration
+The Digital Security group collaborates with SIDN, TNO, and TILT in the Privacy & Identity Lab, (PI.lab), an expertise centre doing research into solutions for electronic identities and the protection of online privacy. We are an associate member of ECRYPT II. Our group promotes open standards and open source and has started many open source smart card projects. Outside the field of security research, we are active in ICT4kids to improve the possibilities for children in South Africa.

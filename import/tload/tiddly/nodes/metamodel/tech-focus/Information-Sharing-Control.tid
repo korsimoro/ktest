@@ -1,0 +1,12 @@
+created:1575973326436
+modified:1575973326436
+title:Information Sharing Control
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Tech Focus
+tmap.edges:{"49c40674-7923-4757-b46b-5e3b96ab4cbb":{"to":"aef1a927-c787-4b23-a26f-7ece61e7ffcb","type":"Tech Focus"},"7e873d18-25f7-4838-8d23-40dfb562e109":{"to":"a68dd3a3-c06a-40f3-a5e0-bce2ac7348ce","type":"Tech Focus"},"8a907ff3-576c-45bd-b790-6013f4505d5d":{"to":"ce42416c-08c1-4bf6-888b-9a04c488e778","type":"Tech Focus"},"12c93956-2dd2-44a2-9ac1-5f031dcbb2a0":{"to":"477f5dfe-a056-46f3-a7dc-d0f98bf2b3c3","type":"Tech Focus"},"a2996eb0-3fb8-47d0-a9a1-3e8da068e1fc":{"to":"67120fd8-a8dd-4f77-a96b-f947774b3201","type":"Tech Focus"},"8ed24183-97b0-43b3-980e-089ade05947e":{"to":"905af7dd-d507-4d03-a441-3d8a2d87caab","type":"Tech Focus"},"5ba4a0dc-5dc3-43b6-b962-e3230d9aae8b":{"to":"4ce559ab-df24-4ae0-983c-d6dee4b6d8e6","type":"Tech Focus"},"c6d3659f-ebb8-4099-9946-e0dbce979311":{"to":"2e0f3714-b1a8-4815-bad4-f292631debe6","type":"Tech Focus"},"fc32ec27-dc20-4bad-a6b9-c2ec0fec8761":{"to":"8a0cac8c-9f0e-44a5-97d4-09d8f239ecc8","type":"Tech Focus"},"451a8dd3-f8fd-4e96-b344-c58db8007845":{"to":"5529fcc0-8bcb-4ff3-89d3-0e8545c16b27","type":"Tech Focus"},"f6db7d39-108e-41a3-8faf-74e69f5e6146":{"to":"56b057f8-929e-4c7e-8aae-bab8b3918efc","type":"Tech Focus"},"166db457-106e-4f83-9d7e-56bb27ea208f":{"to":"a138f2fd-f913-4cf1-ac52-d7e278d2dd06","type":"Tech Focus"},"57033330-4aac-478a-9e81-f91a25ac3af8":{"to":"802c5532-2b64-408d-b12b-a68d49c7d223","type":"Tech Focus"}}
+tmap.names:me2bstar me2bstar-tech-focus me2ball me2ball-tech-focus
+tw-icon:$:/images/fa5/solid/fire-extinguisher
+
+

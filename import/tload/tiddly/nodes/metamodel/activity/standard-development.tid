@@ -1,0 +1,12 @@
+created:1575973326436
+modified:1575973326436
+title:standard development
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Activity
+tmap.edges:{"2b5fa71c-2eaa-4482-b953-6abc7fd5c1a9":{"to":"ce42416c-08c1-4bf6-888b-9a04c488e778","type":"Activity"},"d746be15-500f-40f2-8865-8ab2fdc3be5f":{"to":"477f5dfe-a056-46f3-a7dc-d0f98bf2b3c3","type":"Activity"},"1ecd496b-148d-48a5-a5e9-f2127fe1a9c7":{"to":"fe469031-b021-4002-b770-90b459f7208d","type":"Activity"},"a98dc568-8bd1-42d2-a0bd-0d2d5cb3d797":{"to":"40d789dc-26e8-458a-99b7-acd5689dc11d","type":"Activity"},"4570252a-fb45-429f-a9b2-6ab3012a58fb":{"to":"e5ce4309-9ca2-4c27-b1be-954efd146ff3","type":"Activity"},"6e0ed45a-a0b2-4453-9fe2-a9e6757aaa96":{"to":"905af7dd-d507-4d03-a441-3d8a2d87caab","type":"Activity"},"c52390de-1edc-4b8c-9745-5d1c2250078b":{"to":"86b9dce6-53d5-4edf-a4c0-27e422f8e9ad","type":"Activity"},"218eb822-ec25-4a6c-8667-8a8059c6488c":{"to":"2f5907d2-a36f-4892-9b34-60cd3959bfbd","type":"Activity"},"609ee612-7313-47b5-87f0-0493bcbe1c7c":{"to":"a7b15647-2b5a-4187-94c6-80a016e3405e","type":"Activity"},"0dc019a2-f15a-4a59-ac34-bb148cd0a676":{"to":"7ea05177-58ff-43c8-90cf-2375fa11e8c3","type":"Activity"},"3cd9ae11-3978-4a20-9e04-ac1b2b5ee54a":{"to":"accb528e-5e8c-4744-9006-9e191c18e104","type":"Activity"},"b9db8d3f-4566-4dfa-b397-f77bec09141b":{"to":"fc3020b1-a65a-483f-98d0-ee19f0ce64f3","type":"Activity"},"0d87c475-9c46-4c26-8d76-7a17e801d691":{"to":"9c3f68cc-07e5-445d-a0fc-7863ad9640cf","type":"Activity"},"412e2efa-59d3-4782-be5c-154e7c7889d1":{"to":"8fadbd21-7571-473c-ba17-e218512bca05","type":"Activity"},"446d8784-7f64-48b3-a2c0-5ae7e87ffc5f":{"to":"46a06bab-4b35-4b89-adaf-732bb5ca5eab","type":"Activity"},"4db80f3a-2da4-467c-8932-1ef564d1cf1b":{"to":"6945b3b2-6338-41fb-8779-524dcb0ddc52","type":"Activity"},"73e3a5f6-53cf-44dc-b4aa-f21b6fb1d26c":{"to":"2e0f3714-b1a8-4815-bad4-f292631debe6","type":"Activity"},"17c61f5c-1d46-4ce4-9fa0-743b5c9a26fa":{"to":"8363adcd-1b47-43fa-9747-a2edd26c46d7","type":"Activity"},"e0eaa02a-d11c-4fd5-9ffa-b761128aec1a":{"to":"b146f329-c909-4f00-bc99-2d6e59327dbd","type":"Activity"},"89e69c05-9481-406e-834b-52b5af5e9be9":{"to":"7ef826c7-929f-4d95-91a8-5746a7dc493c","type":"Activity"},"c98dfce8-a7d0-4da1-a02e-ad62c7625ce8":{"to":"4addc53c-b025-4b9a-91aa-53319d06ff88","type":"Activity"},"4f7b2618-e5d3-4cd7-a300-b541e704b5df":{"to":"99ff7c57-28ad-429e-b65c-97df84a10cf6","type":"Activity"}}
+tmap.names:me2bstar me2bstar-activity me2ball me2ball-activity
+tw-icon:$:/images/fa5/solid/shower
+
+

@@ -1,0 +1,33 @@
+created:1575973326433
+modified:1575973326433
+title:Decentralized Identity Foundation - Reference Implementations
+type:text/vnd.tiddlywiki
+activities:software development: movement building
+audience:
+category:open source, software product (application)
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:
+name:Decentralized Identity Foundation - Reference Implementations
+parent.org:Decentralized Identity Foundation
+partners:1kosmos: Accenture: aetna: Authenteq: auth0: BigchainDB: BlockPass: Blockchain-foundry: Blockstack: British Columbia Ministry of Citizens Services: botlabs: Civic: Consent: Danube: datum: Distributed ID: diwala: Dominode: Enigma: Enterprise Ethereum Alliance: Evernym: Equinix: gamecredits[ϟ]: Gem: GS1: Humanized-internet: Hyperledger: ID2020: Ideo: identos: IBM: IOTA: Jolocom: KYC-Chain: LNk-E: Mastercard: Meeco: MetaX: Microsoft: Mooti: netki: NuID: Nuggets: Ockam: Onfido: ONTology: Pillar: R_Block: R3: remme: RSA: SecureKey: <sitekit>: Sovrin: suru: Taqanu: Tierion: Trusted key: uPort: Validatedid: Veridium: zinc
+people:
+purpose:tech interoperability
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:Technical Specs Reference Implementations Cross organizational collaboration Top level products page
+terms.of.service:
+tmap.edges:{}
+tmap.id:52863050-1475-42b1-9d33-ac64e9332e4e
+tmap.names:pop-to-orgs all-organizations
+url:https://github.com/decentralized-identity
+version.or.edition:
+working.group:Identifiers and Discovery: Storage and Compute: Authentication: Claims and Credentials
+
+Beyond specifications, DIF members develop open source reference implementations of the technical components and protocols they create.

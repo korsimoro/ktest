@@ -1,0 +1,32 @@
+created:1575973326434
+modified:1575973326434
+title:ShowMeFirst
+type:text/vnd.tiddlywiki
+activities:
+audience:
+category:software product (application)
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:
+name:ShowMeFirst
+parent.org:
+partners:
+people:JOE ANDRIEU
+purpose:Consumer support
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:facebook
+terms.of.service:
+tmap.edges:{}
+tmap.id:418779f7-4112-4bb9-b7c6-97a90c4adbbf
+url:https://web.archive.org/web/20110609095518/http://www.showmefirst.info/
+version.or.edition:
+working.group:
+
+Hijacks the Facebook sharing button and show you the data that would be shared not just the categories of data.

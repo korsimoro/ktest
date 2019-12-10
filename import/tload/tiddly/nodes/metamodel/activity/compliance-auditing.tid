@@ -1,0 +1,12 @@
+created:1575973326437
+modified:1575973326437
+title:compliance auditing
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Activity
+tmap.edges:{"bc04d16e-0972-4d3a-a46c-69e1cdec3d37":{"to":"6b4d6894-0b91-4d2a-9ff6-8368c99e6f7f","type":"Activity"},"fbb0173a-0323-4200-9358-0bdc299bb120":{"to":"6945b3b2-6338-41fb-8779-524dcb0ddc52","type":"Activity"},"ded5219a-46f9-42ae-90d1-9fe491572419":{"to":"62608eee-6019-46b1-9bb7-71714b2462e1","type":"Activity"}}
+tmap.names:me2bstar me2bstar-activity me2ball me2ball-activity
+tw-icon:$:/images/fa5/solid/shower
+
+

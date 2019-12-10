@@ -1,0 +1,39 @@
+created:1575973326432
+modified:1575973326432
+title:The Cyber Independent Testing Lab:
+type:text/vnd.tiddlywiki
+activities:
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
+org.name:The Cyber Independent Testing Lab:
+org.type:Company
+parent.org:
+partners:
+products.and.or.services:
+purpose:Consumer Education
+relevant.publications:
+scope:
+sector:for-profit
+status:
+tags:security auditing
+tech.focus:
+tmap.edges:{}
+tmap.id:97ddc00b-e2d3-43bc-a606-e0628673e151
+tmap.names:me2ball me2ball-purpose me2ball-tag
+twitter.profile:
+website:https://cyber-itl.org
+
+The Main Question “How difficult is it for an attacker to find a new exploit for this software?”
+
+Attackers have limited resources, and just like anyone else, they don't like to waste their time doing something the hard way if an easier path is available. They have tricks and heuristics they use to assess the relative difficulty to exploit software, so that they can focus on the easy targets and low hanging fruit. Mudge has had a long career of doing just that (legally, and for research purposes), so he's developed his own personal toolkit of measurements to take when assessing software risk. By consulting with other luminaries of the security field who have extensive exploit development experience, we've been able to build up the list of static analysis metrics and features which we currently assess.

@@ -1,0 +1,12 @@
+created:1575973326438
+modified:1575973326438
+title:VPN
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Tech Focus
+tmap.edges:{"d425613c-1c4b-4bb9-a8dc-8a0275e368bc":{"to":"d1e89b6a-da75-4b07-8896-75df1947f7e1","type":"Tech Focus"}}
+tmap.names:me2bstar me2bstar-tech-focus me2ball me2ball-tech-focus
+tw-icon:$:/images/fa5/solid/fire-extinguisher
+
+

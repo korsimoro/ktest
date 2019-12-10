@@ -1,0 +1,30 @@
+created:1575973326005
+modified:1575973326005
+title:Identification cards-Integrated circuit cards-Programming interfaces (24727)
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:Identification cards-Integrated circuit cards-Programming interfaces (24727)
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:Integrated Circuit Cards with Contacts WG4
+tags:
+tech.focus:
+tmap.edges:{"3de12edb-7281-4328-a632-03b7f710545f":{"to":"255be7aa-4f92-43e3-9437-f97a98589290","type":"specification-of-group"}}
+tmap.id:7cb81b34-b213-410f-bd7b-bb27de1fde0e
+url:
+version.or.edition:
+volume.frequency:
+working.group:
+
+This part of ISO/IEC 24727 specifies
+― system architecture and principles of operation,
+― a capabilities discovery mechanism,
+― security rationale

@@ -1,0 +1,37 @@
+created:1575973326431
+modified:1575973326431
+title:Mozilla (Corporation)
+type:text/vnd.tiddlywiki
+activities:software development
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:https://github.com/mozilla
+input.source:me2b
+key.people:
+linkedin.profile:https://www.linkedin.com/company/mozilla-corporation/about/
+location(s):Mountainview, California
+me2b.relationship:
+org.name:Mozilla (Corporation)
+org.type:Company
+parent.org:
+partners:
+products.and.or.services:
+purpose:
+relevant.publications:
+scope:global
+sector:for-profit
+status:
+tags:privacy
+tech.focus:
+tmap.edges:{"ac5d8a22-728e-45d9-8856-cdc1345c4142":{"to":"b5c03219-2160-4b24-95b5-a1c8445df553","type":"Provides"}}
+tmap.id:070b8a0a-80a5-46d5-90bc-f0fac1d826d4
+tmap.names:pop-to-orgs all-organizations me2ball me2ball-activity me2ball-tag
+twitter.profile:
+website:https://www.mozilla.org/
+
+Mozilla makes browsers, apps, code and tools that put people before profit.

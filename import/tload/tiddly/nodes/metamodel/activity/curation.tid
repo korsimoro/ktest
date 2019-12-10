@@ -1,0 +1,12 @@
+created:1575973326438
+modified:1575973326438
+title:curation
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Activity
+tmap.edges:{"cd7454cb-55f9-4faf-94a8-01a93db17f23":{"to":"79e18952-09c9-4206-8baa-7f723ef5d731","type":"Activity"},"3037aabe-0973-4ea1-a067-ec6067e19959":{"to":"79e18952-09c9-4206-8baa-7f723ef5d731","type":"Tag"}}
+tmap.names:me2bstar me2bstar-activity me2ball me2ball-activity me2bstar-tag me2ball-tag
+tw-icon:$:/images/fa5/solid/shower
+
+

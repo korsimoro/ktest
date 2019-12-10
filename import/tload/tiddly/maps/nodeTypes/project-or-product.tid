@@ -1,0 +1,8 @@
+created:1575973326061
+modified:1575973326061
+title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/project-or-product
+type:text/vnd.tiddlywiki
+scope: [field:element.type[project-or-product]]
+style: {"color":{"border":"rgba(164,224,56,203)","background":"rgba(15,234,140,30)"}}
+fa-icon: 
+tw-icon: $:/images/fa5/brands/linux

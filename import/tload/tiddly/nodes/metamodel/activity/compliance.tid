@@ -1,0 +1,12 @@
+created:1575973326437
+modified:1575973326437
+title:compliance
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Activity
+tmap.edges:{"5901c30b-c5a8-40ec-b966-71d42055194a":{"to":"af22d18e-99ef-4473-9d64-259e4a2405ef","type":"Activity"}}
+tmap.names:me2bstar me2bstar-activity me2ball me2ball-activity
+tw-icon:$:/images/fa5/solid/shower
+
+

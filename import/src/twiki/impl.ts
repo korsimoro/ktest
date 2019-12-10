@@ -7,7 +7,7 @@ import { TiddlyModel,tiddlydate  } from '.'
 import { TiddlerData  } from './tiddlers'
 import { NodeTiddler, SimpleNodeTiddler } from './node-tiddler'
 import { EdgeTypeTiddler,NodeTypeTiddler, SimpleEdgeTypeTiddler, SimpleNodeTypeTiddler, SimpleTiddlyMap } from './tiddlymap'
-
+import { logTiddlyLoader } from '../logging'
 
 export class TiddlyModelImpl implements TiddlyModel {
 
@@ -76,6 +76,7 @@ export class TiddlyModelImpl implements TiddlyModel {
 	}
 
 	loadNodeTiddler(path:string):void {
+		logTiddlyLoader.debug("Loading Tiddler from " + path)
 		const { fields, body } = this.readTiddlerFile(path)
 
 		function xtract(name:string):any {
@@ -103,7 +104,7 @@ export class TiddlyModelImpl implements TiddlyModel {
 
 		const et = fields['element.type']
 		if(!et) {
-			console.log("path:",path)
+			logTiddlyLoader.warn("No Element Type found on node tiddler " + path + JSON.stringify(fields))
 		}
 		this.createNodeTiddler({
 			created: created,
@@ -120,6 +121,8 @@ export class TiddlyModelImpl implements TiddlyModel {
 
 	async load():Promise<void> {
 		return new Promise<void>((resolve,reject) => {
+			const nodesPath = this.nodesPath
+			logTiddlyLoader.debug("Load Tiddly Nodes from "+nodesPath)
 			klaw(this.nodesPath)
 			  .on('data', item => {
 					const p = item.path
@@ -127,7 +130,7 @@ export class TiddlyModelImpl implements TiddlyModel {
 						this.loadNodeTiddler(p)
 				})
 			  .on('end', () => {
-					console.log("Loaded Tiddly from ",this.path)
+					logTiddlyLoader.info("Loaded Tiddly from " + nodesPath)
 					resolve()
 				}) // => [ ... array of files]
 			})

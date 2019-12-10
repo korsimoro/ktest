@@ -1,0 +1,36 @@
+created:1575973325989
+modified:1575973325989
+title:Security Evaluation, Testing and Specification WG3
+type:text/vnd.tiddlywiki
+activities:
+category:w/in a Working Group
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:Security Evaluation, Testing and Specification WG3
+parent.org:ISO/IEC JTC1/SC17
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"11ca4600-4345-4fdd-82d2-642d476215b4":{"to":"7896f57b-0b91-4e03-9dfe-bf234cf067ee","type":"organization-for-group"}}
+tmap.id:7c2c9728-c476-4436-97ae-0d330d66b100
+url:
+
+The terms of reference of this working group are:
+
+The scope covers aspects related to security engineering, with particular emphasis on, but not limited to standards for IT security specification, evaluation, testing and certification of IT systems, components, and products. This will include consideration of computer networks, distributed systems, associated application services, biometrics, etc.
+The following aspects may be distinguished:
+* security evaluation criteria;
+* methodology for application of the criteria;
+* security functional and assurance specification of IT systems, components and products;
+* testing methodology for determination of security functional and assurance conformance;
+* administrative procedures for testing, evaluation, certification, and accreditation schemes.
+
+This work will reflect the needs of relevant sectors in society, as represented through ISO/IEC National Bodies and other organizations in liaison, expressed in standards for security functionality and assurance.
+Account will be taken of related ISO/IEC and ISO standards for quality management and testing so as not to duplicate these efforts.

@@ -1,0 +1,33 @@
+created:1575973325985
+modified:1575973325985
+title:Study Group 17
+type:text/vnd.tiddlywiki
+activities:
+category:Specification Work
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:Study Group 17
+parent.org:ITU-T  International Telecommunication Union
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"9878b7e9-cf4f-43ad-ad9d-dd30dbd2ca03":{"to":"2f605f67-85ec-4ec4-82e6-e725b519c1e3","type":"organization-for-group"},"02fc0900-cbda-4d8b-9406-2a831ef2505f":{"to":"ac285028-8dea-4415-87d7-8ca1aa63c11e","type":"connection"}}
+tmap.id:bcf95c9a-d9d9-4981-a170-d89153f16289
+url:http://www.itu.int/en/ITU-T/studygroups/2013-2016/17/Pages/default.aspx
+
+Work to build confidence and security in the use of information and communication technologies (ICTs) continues to intensify in a bid to facilitate more secure network infrastructure, services and applications. Over seventy standards (ITU-T Recommendations) focusing on security have been published.
+
+ITU-T Study Group 17 (SG17) coordinates security-related work across all ITU-T Study Groups. Often working in cooperation with other standards development organizations (SDOs) and various ICT industry consortia, SG17 deals with a broad range of standardization issues.
+
+To give a few examples, SG17 is currently working on cybersecurity; security management; security architectures and frameworks; countering spam; identity management; the protection of personally identifiable information; and the security of applications and services for the Internet of Things (IoT), smart grid, smartphones, web services, social networks, cloud computing, mobile financial systems, IPTV and telebiometrics.
+
+One key reference for security standards in use today is Recommendation ITU-T X.509 for electronic authentication over public networks. ITU-T X.509, a cornerstone in designing applications relating to public key infrastructure (PKI), is used in a wide range of applications; from securing the connection between a browser and a server on the web, to providing digital signatures that enable e-commerce transactions to be conducted with the same confidence as in a traditional system. Without wide acceptance of the standard, the rise of e-business would have been impossible.
+
+Cybersecurity remains high on SG17’s agenda. Additionally, SG17 is coordinating standardization work covering e-health, open identity trust framework, Near Field Communication (NFC) security, and Child Online Protection.

@@ -1,0 +1,8 @@
+created:1575973326061
+modified:1575973326061
+title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/publication
+type:text/vnd.tiddlywiki
+scope: [field:element.type[publication]]
+style: {"color":{"border":"rgba(67,142,126,249)","background":"rgba(116,213,44,98)"}}
+fa-icon: 
+tw-icon: $:/images/fa5/brands/galactic-republic

@@ -1,0 +1,12 @@
+created:1575973326438
+modified:1575973326438
+title:IOT
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Tech Focus
+tmap.edges:{"7d7c91f3-c0d1-4afe-b535-f5da4292cc5d":{"to":"86b9dce6-53d5-4edf-a4c0-27e422f8e9ad","type":"Tech Focus"},"d06f63d2-6865-4a74-a210-9efb1fa49d90":{"to":"d8e16f09-16d4-4c5a-9e28-c8403b59da58","type":"Tech Focus"},"77a9d0ca-8846-4b43-bfd2-923efd5bb257":{"to":"22f25653-afa8-4392-8124-a714a4e6b40b","type":"Tech Focus"},"67244ab9-cbff-4400-aacf-ffb016383f74":{"to":"2f5907d2-a36f-4892-9b34-60cd3959bfbd","type":"Tag"},"45c7ad33-9f24-4c33-827b-7db9e7144654":{"to":"b146f329-c909-4f00-bc99-2d6e59327dbd","type":"Tech Focus"},"40ef2c0a-1fee-4e9f-8670-1464346989d1":{"to":"822f022e-b243-4d0d-b77f-d29d2e830ffe","type":"Tech Focus"},"1d0940b2-adab-43fb-ad46-66f706936759":{"to":"cbead53d-3b8a-4673-9124-898872594b10","type":"Tag"}}
+tmap.names:me2bstar me2bstar-tech-focus me2ball me2ball-tech-focus me2bstar-tag me2ball-tag
+tw-icon:$:/images/fa5/solid/fire-extinguisher
+
+

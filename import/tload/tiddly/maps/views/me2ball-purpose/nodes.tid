@@ -1,0 +1,4 @@
+type: text/vnd.tiddlywiki
+filter:[contains:tmap.names[me2ball-purpose]]
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/me2ball-purpose/filter/nodes
+

@@ -1,0 +1,12 @@
+created:1575973326437
+modified:1575973326437
+title:software development
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Activity
+tmap.edges:{"07704cce-87e8-411d-95d5-ea406799303a":{"to":"6b4d6894-0b91-4d2a-9ff6-8368c99e6f7f","type":"Activity"},"b4929ebe-45a4-4472-8d28-b9ca5ddbce76":{"to":"477f5dfe-a056-46f3-a7dc-d0f98bf2b3c3","type":"Activity"},"7d7b180b-1b3c-49d7-b442-338bae906e52":{"to":"070b8a0a-80a5-46d5-90bc-f0fac1d826d4","type":"Activity"},"7881f604-9bcb-4211-a1d2-2a684a506cff":{"to":"4e0a2ecd-a330-48cb-85e9-6abad411cef4","type":"Activity"},"a19920ea-7048-443f-a27f-6a39fc816611":{"to":"188043ad-0b69-4f0e-a229-4ab72c7dde99","type":"Activity"},"7b6e8ea2-e435-455a-88a4-421854300d26":{"to":"8881a804-52d8-4bfd-945e-c63c5cdaf75e","type":"Activity"},"ac46209a-036a-4c6a-b63a-f2e235bd468b":{"to":"fc3020b1-a65a-483f-98d0-ee19f0ce64f3","type":"Activity"},"1944d088-8149-48f2-a0b6-5519f9d3467c":{"to":"60fb8715-290a-4a22-aaf6-3cf794d83fec","type":"Activity"},"e365198c-5f0f-4eb9-9d88-eb290074cbcd":{"to":"c545ff0c-590a-4da6-bef3-c636b45a8aa5","type":"Activity"},"eafe3fc4-1555-48f8-bc0e-df90a2cbcc31":{"to":"78219443-5de2-4432-af6c-0db9c3538939","type":"Activity"},"50074213-c12d-4543-9516-0ff577961fe6":{"to":"97ac121b-88e1-4329-8ec8-7f49dba654ea","type":"Activity"}}
+tmap.names:me2bstar me2bstar-activity me2ball me2ball-activity
+tw-icon:$:/images/fa5/solid/shower
+
+

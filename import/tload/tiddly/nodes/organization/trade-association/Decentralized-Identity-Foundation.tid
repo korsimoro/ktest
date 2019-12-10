@@ -1,0 +1,39 @@
+created:1575973326431
+modified:1575973326431
+title:Decentralized Identity Foundation
+type:text/vnd.tiddlywiki
+activities:software development: standard development: outreach
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:https://github.com/decentralized-identity
+input.source:me2b
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:Input to interoperability specification
+org.name:Decentralized Identity Foundation
+org.type:Trade Association
+parent.org:
+partners:
+products.and.or.services:
+purpose:ecosystem building
+relevant.publications:
+scope:global
+sector:non-profit
+status:
+tags:
+tech.focus:Identity: Information Sharing Control
+tmap.edges:{"fc28936e-4873-4a07-b500-428154399426":{"to":"52863050-1475-42b1-9d33-ac64e9332e4e","type":"Provides"},"4d665343-e64a-474f-8924-814063919dbf":{"to":"b64aa9b6-c1e7-47db-8fe5-968fcea8158c","type":"Provides"},"443bd1ee-8556-4273-ace8-7e3778d4340c":{"to":"ee0b47e1-8d7f-4a89-89e7-77bcdf9347ff","type":"Provides"},"0e63656a-c16d-45b6-ac3c-3b4ecda71ca1":{"to":"c243d36d-b077-47ba-b651-2b557f0d2f66","type":"Provides"},"7882ef34-d91d-4a35-a845-8d3e04787ada":{"to":"48a83c00-2120-495d-9922-028e8e9d0893","type":"Provides"},"c3d0ec43-70de-43e9-96f9-238ef8b43058":{"to":"62b95aa0-e0b9-4402-8d05-610a008be83e","type":"Provides"}}
+tmap.id:477f5dfe-a056-46f3-a7dc-d0f98bf2b3c3
+tmap.names:pop-to-orgs all-organizations me2bstar me2bstar-input-to-interoperability-specification me2ball me2ball-activity me2ball-purpose me2ball-tech-focus
+twitter.profile:https://twitter.com/DecentralizedID
+website:https://identity.foundation/
+
+DIF is an engineering-driven organization focused on developing the foundational elements necessary to establish an open ecosystem for decentralized identity and ensure interop between all participants.
+
+DIF is a registered 501(c)(6) membership organization. All code is licensed under Apache 2: W3C terms govern IPR: and content is available via Creative Commons 4 Attribution.

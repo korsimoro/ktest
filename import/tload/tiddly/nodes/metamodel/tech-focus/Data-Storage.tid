@@ -1,0 +1,12 @@
+created:1575973326436
+modified:1575973326436
+title:Data Storage
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Tech Focus
+tmap.edges:{"04bfbb66-5d06-4fd5-a312-e9e26499620a":{"to":"a68dd3a3-c06a-40f3-a5e0-bce2ac7348ce","type":"Tech Focus"},"8a5e5743-15d7-49f4-9bbb-3f995cd47ba2":{"to":"56b057f8-929e-4c7e-8aae-bab8b3918efc","type":"Tech Focus"},"67b87340-75ed-4d68-8bd6-f0201d345c52":{"to":"a138f2fd-f913-4cf1-ac52-d7e278d2dd06","type":"Tech Focus"}}
+tmap.names:me2bstar me2bstar-tech-focus me2ball me2ball-tech-focus
+tw-icon:$:/images/fa5/solid/fire-extinguisher
+
+

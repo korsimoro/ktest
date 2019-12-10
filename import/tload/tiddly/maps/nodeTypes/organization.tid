@@ -1,0 +1,8 @@
+created:1575973326061
+modified:1575973326061
+title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/organization
+type:text/vnd.tiddlywiki
+scope: [field:element.type[organization]]
+style: {"color":{"border":"rgba(183,147,191,91)","background":"rgba(164,169,203,19)"}}
+fa-icon: 
+tw-icon: $:/images/fa5/brands/font-awesome-flag

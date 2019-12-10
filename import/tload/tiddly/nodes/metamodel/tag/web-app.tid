@@ -1,0 +1,12 @@
+created:1575973326438
+modified:1575973326438
+title:web-app
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Tag
+tmap.edges:{"d480caf4-d895-440a-9097-efa447b3ca02":{"to":"ab2ce3c1-bc38-4735-80ac-2389da0c27c3","type":"Tag"}}
+tmap.names:me2bstar me2bstar-tag me2ball me2ball-tag
+tw-icon:$:/images/fa5/solid/flask
+
+

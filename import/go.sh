@@ -1,8 +1,8 @@
 #!/bin/bash
 if tsc; then
 	rm -rf output/*
-	./init.sh
-	./bin/convert
-	#./bin/pub-anal
-	#./bin/lookup IEEE
+	rm -rf input/tiddly/nodes
+	rm -rf input/tiddly/maps
+	./bin/tload
+	git status
 fi

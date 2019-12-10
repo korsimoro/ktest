@@ -1,0 +1,12 @@
+created:1575973326436
+modified:1575973326436
+title:governance
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Purpose
+tmap.edges:{"39e96829-ae31-418f-8551-e1c84d589fa4":{"to":"ce42416c-08c1-4bf6-888b-9a04c488e778","type":"Purpose"},"e691a8e3-1a6f-4c08-8dff-5e99362f9b74":{"to":"79e18952-09c9-4206-8baa-7f723ef5d731","type":"Purpose"},"3e5832dd-68e2-4fa8-a8d0-f2c825ffee0e":{"to":"8fadbd21-7571-473c-ba17-e218512bca05","type":"Purpose"},"ac4cd66d-b2ee-49f0-b302-1743698d6c29":{"to":"8363adcd-1b47-43fa-9747-a2edd26c46d7","type":"Purpose"},"d4683e62-aacd-496b-b71f-4e0f118d8626":{"to":"b146f329-c909-4f00-bc99-2d6e59327dbd","type":"Purpose"},"23ea7117-b149-4f1a-b8ce-eeb52e4b55cc":{"to":"e62b1704-6633-4113-bac7-1a7d88aec653","type":"Purpose"},"0d0762b1-33a8-4318-8674-17a87d49b127":{"to":"8a0cac8c-9f0e-44a5-97d4-09d8f239ecc8","type":"Purpose"},"53c86a78-0839-4afc-b80a-4ac88d419dc7":{"to":"6cd46fde-c8e0-4877-a890-43493b614360","type":"Purpose"}}
+tmap.names:me2bstar me2bstar-purpose me2ball me2ball-purpose
+tw-icon:$:/images/fa5/solid/shuttle-van
+
+

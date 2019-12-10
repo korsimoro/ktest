@@ -1,0 +1,12 @@
+created:1575973326436
+modified:1575973326436
+title:tech interoperability
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Purpose
+tmap.edges:{"b7785112-8273-42e4-9d09-22f0a1e98fd7":{"to":"a68dd3a3-c06a-40f3-a5e0-bce2ac7348ce","type":"Purpose"},"fc1674e4-6dd3-4ffd-8dce-f4c5438ad8ac":{"to":"5ced231b-974c-4642-b72e-c9eaa0d46e05","type":"Purpose"},"97f01eb8-832f-460a-92f4-bae3406abb37":{"to":"188043ad-0b69-4f0e-a229-4ab72c7dde99","type":"Purpose"},"a23d4098-efa8-492f-a855-06cffe4a4152":{"to":"79e18952-09c9-4206-8baa-7f723ef5d731","type":"Purpose"},"104afd41-38b3-416c-908c-70203562b211":{"to":"8fadbd21-7571-473c-ba17-e218512bca05","type":"Purpose"},"a45f2568-e7ef-46da-954e-9ec100dbae10":{"to":"46a06bab-4b35-4b89-adaf-732bb5ca5eab","type":"Purpose"},"1a221d6c-8b66-4424-a887-88f2cd7dd79a":{"to":"c8184d06-41ca-437e-93df-65d88a9572b2","type":"Purpose"},"decaf7a1-4055-46d1-ad32-24972239e236":{"to":"b146f329-c909-4f00-bc99-2d6e59327dbd","type":"Purpose"},"4a7533d9-4bbf-4b68-88c7-ab816ceab90f":{"to":"166884ea-895d-4d32-aa88-a3193c25a032","type":"Purpose"},"dd460685-9200-409d-bc91-7114273b6fc4":{"to":"822f022e-b243-4d0d-b77f-d29d2e830ffe","type":"Purpose"}}
+tmap.names:me2bstar me2bstar-purpose me2ball me2ball-purpose
+tw-icon:$:/images/fa5/solid/shuttle-van
+
+

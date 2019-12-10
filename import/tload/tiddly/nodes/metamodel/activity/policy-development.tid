@@ -1,0 +1,12 @@
+created:1575973326437
+modified:1575973326437
+title:policy development
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Activity
+tmap.edges:{"4c058c76-55a5-4806-b013-c77d482308ab":{"to":"67120fd8-a8dd-4f77-a96b-f947774b3201","type":"Activity"},"89718f3c-a2a2-496d-bb8e-7a58af991f9d":{"to":"88568301-f3d1-41e5-9b03-a12dbd07bb63","type":"Activity"},"c93feacd-1829-4927-9ae5-2d49dde2a471":{"to":"3db24b8b-17ce-46bb-8fb5-97b1d25727c0","type":"Activity"},"c9d0f435-3284-4584-8cb9-de83c1998358":{"to":"eac70808-96d5-4f38-987a-f81e03a148f8","type":"Activity"},"212e39c1-c379-4cbd-960a-809fd01e0525":{"to":"76270394-7e3d-4a73-a064-7eeee7e13ca8","type":"Activity"},"00795473-b623-417b-8758-d502bf204c79":{"to":"6cd46fde-c8e0-4877-a890-43493b614360","type":"Activity"},"bc113182-92c9-486e-b3b7-d26699d55f41":{"to":"3b02f5fa-4149-4dcd-833c-024184857c94","type":"Activity"},"df7ff127-2883-4577-9684-dd20cb431a08":{"to":"a16795ce-ca8e-48f4-9a69-00d935d69300","type":"Activity"}}
+tmap.names:me2bstar me2bstar-activity me2ball me2ball-activity
+tw-icon:$:/images/fa5/solid/shower
+
+

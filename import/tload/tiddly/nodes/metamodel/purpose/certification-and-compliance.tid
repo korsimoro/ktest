@@ -1,0 +1,12 @@
+created:1575973326437
+modified:1575973326437
+title:certification and compliance
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Purpose
+tmap.edges:{"82610588-a5b0-4149-a112-ec5de51a2cfe":{"to":"87344ffd-e956-44bd-ada8-c9fa8ae90084","type":"Purpose"},"440e91d3-4ff2-4bb4-9224-63e8b05961b1":{"to":"0a229d65-4f97-40c0-89c9-0f6215f7faed","type":"Purpose"},"de3d5eb2-c088-421e-8b6b-d82240619502":{"to":"2fe25df6-7eaf-4f4c-b0d8-c4264f537ffb","type":"Purpose"},"a52f2df1-be59-4273-b8fb-81573504a877":{"to":"79e18952-09c9-4206-8baa-7f723ef5d731","type":"Purpose"},"23fe8f3d-283c-4b7b-ac4a-20b649232643":{"to":"601f83ae-8dda-4716-b9b0-846db4d7efef","type":"Purpose"},"86c9ce1d-bce3-4c46-aefe-6076b9bc38eb":{"to":"a7b15647-2b5a-4187-94c6-80a016e3405e","type":"Purpose"},"e8bddd1d-560b-486d-8475-25be736640ec":{"to":"7ea05177-58ff-43c8-90cf-2375fa11e8c3","type":"Purpose"},"56ce17c9-8be4-4684-b4ae-51ba6bb20147":{"to":"accb528e-5e8c-4744-9006-9e191c18e104","type":"Purpose"},"adad30ea-94fb-48cd-ba14-02fad80ebac2":{"to":"9c3f68cc-07e5-445d-a0fc-7863ad9640cf","type":"Purpose"},"bcb0b5db-4137-418b-b096-3ef345acadc4":{"to":"0ff1cc80-7e4b-45d5-88b8-59e01181c120","type":"Purpose"},"4741133b-6857-4753-833e-b8387a840472":{"to":"c9768549-a588-4be9-bf57-049337543010","type":"Purpose"}}
+tmap.names:me2bstar me2bstar-purpose me2ball me2ball-purpose
+tw-icon:$:/images/fa5/solid/shuttle-van
+
+

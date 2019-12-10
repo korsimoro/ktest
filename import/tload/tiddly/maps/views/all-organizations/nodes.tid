@@ -1,0 +1,4 @@
+type: text/vnd.tiddlywiki
+filter:[contains:tmap.names[all-organizations]]
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/all-organizations/filter/nodes
+

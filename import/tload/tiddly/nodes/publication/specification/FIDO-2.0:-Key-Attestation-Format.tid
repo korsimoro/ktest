@@ -1,0 +1,31 @@
+created:1575973326000
+modified:1575973326000
+title:FIDO 2.0: Key Attestation Format
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:FIDO 2.0: Key Attestation Format
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:
+tags:
+tech.focus:
+tmap.edges:{"93554088-35c2-4c5d-8fac-bafb6c73d37f":{"to":"500da0fb-b586-442c-98a1-4b11434455df","type":"organization-for-group"},"c2e67faf-e38f-4c62-b0a7-12111619b86d":{"to":"712c9f03-475e-436e-8571-d4b2067bbc0e","type":"organization-for-group"}}
+tmap.id:8ab990de-bd75-452e-ab30-102024b36907
+url:http://www.w3.org/Submission/2015/SUBM-fido-key-attestation-20151120/
+version.or.edition:
+volume.frequency:
+working.group:
+
+FIDO specifications support different user verification methods (PIN based, fingerprint based, etc.) and authenticator implementations, e.g. in a rich operating system, in a trusted execution environments (TEE) or in a secure element/TPM. The resulting authentication strength depends on the user verification method and the protection mechanisms implemented by the authenticator.
+
+FIDO uses the concept of attestation to provide a cryptographic proof of the authenticator model to the relying party. The relying party can derive the authenticator security characteristics from this proof.
+
+This specification defines generic data structures that cover the semantics of FIDO Authenticator attestation. This specification also provides a profile of these structures when a TPM [TPM] acts as a crypto kernel. More profiles are expected to be added as the specification evolves.

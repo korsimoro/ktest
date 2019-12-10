@@ -1,0 +1,12 @@
+created:1575973326437
+modified:1575973326437
+title:Consumer Education
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Purpose
+tmap.edges:{"c76620d2-cbeb-42dc-bf3b-625fb73f39a4":{"to":"ecc3b5a6-0a8d-432c-9661-32332c081c7c","type":"Purpose"},"beb78f01-6699-4d34-8696-096141779bc1":{"to":"d1e89b6a-da75-4b07-8896-75df1947f7e1","type":"Purpose"},"6b18a492-8723-4e58-83fb-291ab84df722":{"to":"13be5005-3003-430f-bbee-9e332478f348","type":"Purpose"},"e2e6e157-2e35-4fdb-b48a-9bbff531fe65":{"to":"5390732b-9cac-467a-9455-62fff840da3a","type":"Purpose"},"ee01faa1-5a6e-4c7f-8827-35134d2242cf":{"to":"60fb8715-290a-4a22-aaf6-3cf794d83fec","type":"Purpose"},"9ea84f0c-107e-4a4b-9f09-6e231c150d88":{"to":"3b02f5fa-4149-4dcd-833c-024184857c94","type":"Purpose"},"4ad7d012-10ac-4786-9fd1-5ff985e8a9ec":{"to":"97ddc00b-e2d3-43bc-a606-e0628673e151","type":"Purpose"},"5efc8b9f-a728-4a05-ab07-070f317792a9":{"to":"62608eee-6019-46b1-9bb7-71714b2462e1","type":"Purpose"}}
+tmap.names:me2bstar me2bstar-purpose me2ball me2ball-purpose
+tw-icon:$:/images/fa5/solid/shuttle-van
+
+

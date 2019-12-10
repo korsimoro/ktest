@@ -1,0 +1,33 @@
+created:1575973326433
+modified:1575973326433
+title:Web Polyfills
+type:text/vnd.tiddlywiki
+activities:
+audience:
+category:to-be-determined
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:
+name:Web Polyfills
+parent.org:Decentralized Identity Foundation
+partners:
+people:
+purpose:
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:
+terms.of.service:
+tmap.edges:{}
+tmap.id:c243d36d-b077-47ba-b651-2b557f0d2f66
+tmap.names:pop-to-orgs all-organizations
+url:https://github.com/decentralized-identity/web-polyfills
+version.or.edition:
+working.group:
+
+Polyfills for proposed or emerging DID-centric Web APIs

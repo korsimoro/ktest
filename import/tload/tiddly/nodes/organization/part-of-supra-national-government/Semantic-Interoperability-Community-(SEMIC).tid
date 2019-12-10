@@ -1,0 +1,37 @@
+created:1575973326030
+modified:1575973326030
+title:Semantic Interoperability Community (SEMIC)
+type:text/vnd.tiddlywiki
+activities:
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
+org.name:Semantic Interoperability Community (SEMIC)
+org.type:Part of Supra-National Government
+parent.org:
+partners:
+products.and.or.services:
+purpose:
+relevant.publications:
+scope:
+sector:
+status:
+tags:
+tech.focus:
+tmap.edges:{"30fb57a3-c879-49a5-92eb-87b4ffee7e1d":{"to":"ae697078-b3f4-4e39-a40c-e3faf1f09d04","type":"organization-for-group"}}
+tmap.id:ff8799c8-73ae-43eb-8593-0b06bc2f7a58
+twitter.profile:
+website:https://joinup.ec.europa.eu/community/semic/description
+
+The Semantic Interoperability Community (SEMIC) is a European Commission initiative aiming to improve the semantic interoperability of interconnected e-Government systems. It is funded under Action 1.1 (Improving semantic interoperability in European e-Government systems) of the Interoperability Solutions for European Public Administrations (ISA) Programme.
+
+Semantic interoperability refers to the preservation of meaning in the exchange of electronic information (see also European Interoperability Framework). It means that, in the context of an information exchange, the receiver and the sender of information can understand and interpret it the same way. The lack of semantic interoperability between European e-Government systems is one of the major obstacles in the provision of cross-border and cross-sector digital public services.

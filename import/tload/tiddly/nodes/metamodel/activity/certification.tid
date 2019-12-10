@@ -1,0 +1,12 @@
+created:1575973326436
+modified:1575973326436
+title:certification
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Activity
+tmap.edges:{"c14f9641-c48b-4a39-a071-a79cbf502b39":{"to":"767a4022-cf58-42ea-8198-c73da93c37a6","type":"Activity"},"f4258030-cec4-45ab-a3ae-fd6479e253b2":{"to":"87344ffd-e956-44bd-ada8-c9fa8ae90084","type":"Activity"},"bc95de1b-a17c-4c50-8100-c2fdf777b54d":{"to":"0a229d65-4f97-40c0-89c9-0f6215f7faed","type":"Activity"},"4bd2b89f-9a96-45cb-a14c-dfabcbadff0c":{"to":"2fe25df6-7eaf-4f4c-b0d8-c4264f537ffb","type":"Activity"},"6e395656-9853-4f25-8efc-7029c4f20baa":{"to":"d8e16f09-16d4-4c5a-9e28-c8403b59da58","type":"Activity"}}
+tmap.names:me2bstar me2bstar-activity me2ball me2ball-activity
+tw-icon:$:/images/fa5/solid/shower
+
+

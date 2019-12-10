@@ -1,0 +1,12 @@
+created:1575973326438
+modified:1575973326438
+title:security
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Tag
+tmap.edges:{"21cecd05-cf07-4a7c-ae76-54d68701d11c":{"to":"2f5907d2-a36f-4892-9b34-60cd3959bfbd","type":"Tag"},"ab32ca9b-78d8-4522-8093-018b77fdb343":{"to":"9c3f68cc-07e5-445d-a0fc-7863ad9640cf","type":"Tag"}}
+tmap.names:me2bstar me2bstar-tag me2ball me2ball-tag
+tw-icon:$:/images/fa5/solid/flask
+
+

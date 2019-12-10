@@ -1,0 +1,12 @@
+created:1575973326438
+modified:1575973326438
+title:community support
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Tag
+tmap.edges:{"050a0295-9226-43d0-9de0-abd9876ede20":{"to":"9bd8d05d-8684-453b-b893-de6c9536b425","type":"Tag"},"b61d878d-280e-4a6e-afb3-f372ddbe7786":{"to":"c28da400-4186-435c-afd7-4542be4fe7de","type":"Activity"}}
+tmap.names:me2bstar me2bstar-tag me2ball me2ball-tag me2bstar-activity me2ball-activity
+tw-icon:$:/images/fa5/solid/flask
+
+

@@ -1,0 +1,12 @@
+created:1575973326435
+modified:1575973326435
+title:movement building
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Activity
+tmap.edges:{"34b5fb33-7052-4aca-bee7-0d6bbc2a7999":{"to":"aef1a927-c787-4b23-a26f-7ece61e7ffcb","type":"Activity"},"b3ca4bdc-c003-4a95-a5fe-129fa2e835b5":{"to":"a68dd3a3-c06a-40f3-a5e0-bce2ac7348ce","type":"Activity"},"49119d13-280c-478c-ae49-a21f737f357c":{"to":"1d7458d6-948e-4b3d-a0e8-ca777d0c81b4","type":"Activity"},"50e780e8-5def-45f0-9aaa-5f1bfee082ae":{"to":"5ced231b-974c-4642-b72e-c9eaa0d46e05","type":"Activity"},"2ad91366-5d0f-41e9-b9ad-af9937ffe8b6":{"to":"88568301-f3d1-41e5-9b03-a12dbd07bb63","type":"Activity"},"b537f9b9-5ab7-41d9-b0fa-a4c4c14e20c1":{"to":"69356b14-6d5b-4c2f-8234-5c840868d135","type":"Activity"},"967e7305-2125-49e9-a011-e09a378e3f2f":{"to":"13be5005-3003-430f-bbee-9e332478f348","type":"Activity"},"3d694103-642e-4b74-8a89-396d9f3125f3":{"to":"058fc4fd-bfaf-4caf-88cd-80dbff22c5a3","type":"Activity"},"cd6a4700-5857-48f0-a94b-b72b67a79f30":{"to":"44b68d39-04e4-45dd-981c-bd9ec914ba52","type":"Activity"},"7150440f-0612-4b89-a337-ec5c4612e995":{"to":"276ff5ab-e475-4863-a439-5cda96326835","type":"Activity"},"2827c39a-62fc-4cd6-b6a6-a0c0db2f58a3":{"to":"8caac0fb-0643-4431-a5fc-059888375294","type":"Activity"},"ee11e3d0-d278-472d-9e43-d5f4bf1564bd":{"to":"8363adcd-1b47-43fa-9747-a2edd26c46d7","type":"Activity"},"3611e295-4406-4864-bf3e-d2a961c06408":{"to":"6cd46fde-c8e0-4877-a890-43493b614360","type":"Activity"},"d4e2130f-7f73-4fda-8a59-ff703349a23a":{"to":"a6eb0a54-3f46-4304-add7-b5a991efa118","type":"Activity"},"fad7ebfb-405e-4928-933d-1c9d7d425708":{"to":"c91fd6ab-5d72-4bb4-b7dd-3f074b9cd0e9","type":"Activity"},"a3268557-0735-49f1-915d-9867855f2ef5":{"to":"9d3a4aae-28e2-4ca2-aeef-05dca3aab8f5","type":"Activity"},"04f591ec-8c43-4cf6-899e-017498102c18":{"to":"6677f9b7-0c17-43ef-bcda-42f98bb817da","type":"Activity"}}
+tmap.names:me2bstar me2bstar-activity me2ball me2ball-activity
+tw-icon:$:/images/fa5/solid/shower
+
+

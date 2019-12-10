@@ -1,0 +1,37 @@
+created:1575973326431
+modified:1575973326431
+title:SITRA
+type:text/vnd.tiddlywiki
+activities:policy development
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
+key.people:
+linkedin.profile:
+location(s):Finland
+me2b.relationship:
+org.name:SITRA
+org.type:Government Department
+parent.org:Sitra
+partners:
+products.and.or.services:
+purpose:Consumer support: transparancy and accountability
+relevant.publications:https://www.sitra.fi/en/publications/roadmap-fair-data-economy/
+scope:regional
+sector:
+status:
+tags:
+tech.focus:Information Sharing Control
+tmap.edges:{"1cc4b40b-8675-4f86-ad4c-ceef2db7ba4b":{"to":"c108a0a5-8dff-466b-ac18-b66f574c020f","type":"Provides"},"c8564a49-b12e-41ac-9670-d22baec19ea4":{"to":"67120fd8-a8dd-4f77-a96b-f947774b3201","type":"Sponsors"}}
+tmap.id:67120fd8-a8dd-4f77-a96b-f947774b3201
+tmap.names:pop-to-orgs all-organizations orgs-to-orgs me2ball me2ball-activity me2ball-purpose me2ball-tech-focus
+twitter.profile:
+website:https://www.sitra.fi
+
+Sitra, the Finnish Innovation Fund, is an independent public foundation which operates directly under the supervision of the Finnish Parliament.

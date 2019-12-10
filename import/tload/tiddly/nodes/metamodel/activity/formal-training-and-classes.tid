@@ -1,0 +1,12 @@
+created:1575973326438
+modified:1575973326438
+title:formal training and classes
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Activity
+tmap.edges:{"c504abc5-65c2-4642-a627-fd545c223be4":{"to":"3224d93f-4a9f-41d0-bf04-cbdaf86063b0","type":"Activity"},"7b2746fb-1adc-4057-bac2-3c4f4a8ec742":{"to":"905af7dd-d507-4d03-a441-3d8a2d87caab","type":"Activity"},"1695d32d-1176-4e71-a6f9-c2553c2c4234":{"to":"7ef826c7-929f-4d95-91a8-5746a7dc493c","type":"Activity"}}
+tmap.names:me2bstar me2bstar-activity me2ball me2ball-activity
+tw-icon:$:/images/fa5/solid/shower
+
+

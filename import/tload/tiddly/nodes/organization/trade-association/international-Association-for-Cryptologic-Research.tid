@@ -1,0 +1,35 @@
+created:1575973326042
+modified:1575973326042
+title:international Association for Cryptologic Research
+type:text/vnd.tiddlywiki
+activities:
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
+org.name:international Association for Cryptologic Research
+org.type:Trade Association
+parent.org:
+partners:
+products.and.or.services:
+purpose:
+relevant.publications:
+scope:
+sector:
+status:
+tags:
+tech.focus:
+tmap.edges:{"0162e532-c7a2-4801-a148-4696678a203d":{"to":"49122135-8722-4c94-b8f3-f24736cc13b0","type":"convenor"},"22531bde-7666-4c22-9e3a-bb8f869b02c7":{"to":"b6058c18-15e4-4a5e-9567-5eeffa79486e","type":"convenor"},"fd691a5d-cfa9-4e0f-a4d6-c5b602fcb31c":{"to":"8303e45e-310f-4971-9978-ee86007f769d","type":"convenor"}}
+tmap.id:e0a0fef1-9afa-43c9-a299-a96ac6b1ff55
+twitter.profile:
+website:https://www.iacr.org
+
+The International Association for Cryptologic Research (IACR) is a non-profit scientific organization whose purpose is to further research in cryptology and related fields. Cryptology is the science and practice of designing computation and communication systems which are secure in the presence of adversaries.

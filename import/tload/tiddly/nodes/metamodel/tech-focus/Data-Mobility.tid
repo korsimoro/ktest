@@ -1,0 +1,12 @@
+created:1575973326436
+modified:1575973326436
+title:Data Mobility
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Tech Focus
+tmap.edges:{"15c5d94c-af62-484f-8f6e-7cf5797da94a":{"to":"a68dd3a3-c06a-40f3-a5e0-bce2ac7348ce","type":"Tech Focus"},"f0ff19ba-45fb-468b-b78b-670eb5b1842b":{"to":"40d789dc-26e8-458a-99b7-acd5689dc11d","type":"Tech Focus"},"abf0f51e-a9d6-4892-8514-1c1584765115":{"to":"e5ce4309-9ca2-4c27-b1be-954efd146ff3","type":"Tech Focus"},"8c6d3e24-dedb-4008-a753-b98475115cd3":{"to":"88a735d3-796f-4d47-9f1d-ef3f8e7818aa","type":"Tech Focus"},"9392ecef-1756-4367-ba8b-c5fbc072b13a":{"to":"905af7dd-d507-4d03-a441-3d8a2d87caab","type":"Tech Focus"},"c15511cb-f827-458f-90d1-64274740a897":{"to":"4addc53c-b025-4b9a-91aa-53319d06ff88","type":"Tech Focus"},"3eabdf26-fe7f-46ed-91ae-e5ebf410f065":{"to":"7c51f5d0-9b94-4e2d-a9d4-96f528743556","type":"Tech Focus"},"a8d68696-aa89-4b31-a05a-474408a32215":{"to":"d88a7362-665f-4c17-b341-0b69b44eef51","type":"Tech Focus"}}
+tmap.names:me2bstar me2bstar-tech-focus me2ball me2ball-tech-focus
+tw-icon:$:/images/fa5/solid/fire-extinguisher
+
+

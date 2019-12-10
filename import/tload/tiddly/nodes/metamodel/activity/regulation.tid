@@ -1,0 +1,12 @@
+created:1575973326438
+modified:1575973326438
+title:regulation
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Activity
+tmap.edges:{"aaba9059-f09d-4740-baff-90cd47c99947":{"to":"0d05fe6d-5901-4656-850f-8592f96afb41","type":"Activity"},"3a33f91a-a76b-4029-ba8d-794e930fdd8e":{"to":"eac70808-96d5-4f38-987a-f81e03a148f8","type":"Activity"}}
+tmap.names:me2bstar me2bstar-activity me2ball me2ball-activity
+tw-icon:$:/images/fa5/solid/shower
+
+

@@ -1,0 +1,12 @@
+created:1575973326438
+modified:1575973326438
+title:transparency and accountability
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Purpose
+tmap.edges:{"e53ed025-6552-45d8-a35e-89e1431684d7":{"to":"44b68d39-04e4-45dd-981c-bd9ec914ba52","type":"Purpose"},"f0b1c4f7-dd4a-4563-ae85-4476d2fb23a8":{"to":"6945b3b2-6338-41fb-8779-524dcb0ddc52","type":"Purpose"},"00ff380a-f272-4abd-a2c4-cae9451fc438":{"to":"e62b1704-6633-4113-bac7-1a7d88aec653","type":"Purpose"},"82c0bf83-6fd2-48c9-9f21-d941fd50f63a":{"to":"4addc53c-b025-4b9a-91aa-53319d06ff88","type":"Purpose"}}
+tmap.names:me2bstar me2bstar-purpose me2ball me2ball-purpose
+tw-icon:$:/images/fa5/solid/shuttle-van
+
+

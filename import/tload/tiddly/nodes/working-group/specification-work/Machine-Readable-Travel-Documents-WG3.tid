@@ -1,0 +1,25 @@
+created:1575973325989
+modified:1575973325989
+title:Machine Readable Travel Documents WG3
+type:text/vnd.tiddlywiki
+activities:
+category:Specification Work
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:Machine Readable Travel Documents WG3
+parent.org:ISO/IEC JTC1/SC17
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"5af780bc-a0e7-4d04-a77d-5a46fc9ce138":{"to":"e1d09aa7-446e-43c6-9ec6-117f78c48376","type":"organization-for-group"},"20739c09-e96a-4bf5-b064-c9c70f94c029":{"to":"4f884e7f-8854-4fb9-8bb6-42c0adecb92d","type":"author"}}
+tmap.id:83be905a-765b-4020-b75c-cb624606b46b
+url:
+
+To prepare a revised text of ISO/IEC 7501; monitor the standards referenced; consider and define standards for machine readable travel documents and related machine readable cards; co-ordination of JTC1 liaison with ICAO for maintenance of ICAO 9303, machine readable passports and related ICAO documents.

@@ -1,0 +1,38 @@
+created:1575973325993
+modified:1575973325993
+title:Cryptography and Security Mechanisms WG2
+type:text/vnd.tiddlywiki
+activities:
+category:Specification Work
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:Cryptography and Security Mechanisms WG2
+parent.org:ISO/IEC JTC 1 / SC27 IT Security Techniques
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"42e3ade8-76d6-4e50-ba3b-2a8a5d5d23bc":{"to":"7896f57b-0b91-4e03-9dfe-bf234cf067ee","type":"organization-for-group"}}
+tmap.id:736562de-5bbd-48be-b0d4-53b901958deb
+url:
+
+WG 2 provides a center of expertise for the standardization of IT Security techniques and mechanisms within JTC 1.
+Terms of Reference:
+* identify the need and requirements for these techniques and mechanisms in IT systems and applications;
+* develop terminology, general models and standards for these techniques and mechanisms for use in security services.
+
+The scope covers both cryptographic and non-cryptographic techniques and mechanisms including:
+* confidentiality;
+* entity authentication;
+* non-repudation;
+* key management;
+* data integrity such as message authentication;
+** hash-functions;
+** digital signatures.
+The mechanisms in general include several options with respect to the techniques used including symmetric cryptographic, asymmetric cryptographic and non-cryptographic.

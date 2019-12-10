@@ -1,0 +1,12 @@
+created:1575973326438
+modified:1575973326438
+title:advocacy
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Activity
+tmap.edges:{"39f63943-c86b-47d4-bb81-9904476f0461":{"to":"88a735d3-796f-4d47-9f1d-ef3f8e7818aa","type":"Activity"},"5642503c-7f65-4454-b257-0925f51a419c":{"to":"3224d93f-4a9f-41d0-bf04-cbdaf86063b0","type":"Activity"},"3112340b-264a-4aa5-9786-474caa0336aa":{"to":"826f4629-9a32-4f3d-a981-d652fedc1860","type":"Activity"},"a29794a3-7e8a-4cb5-a98a-743eb503b118":{"to":"9bd8d05d-8684-453b-b893-de6c9536b425","type":"Tag"}}
+tmap.names:me2bstar me2bstar-activity me2ball me2ball-activity me2bstar-tag me2ball-tag
+tw-icon:$:/images/fa5/solid/shower
+
+

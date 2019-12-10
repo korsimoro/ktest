@@ -1,0 +1,43 @@
+created:1575973326010
+modified:1575973326010
+title:STORK
+type:text/vnd.tiddlywiki
+activities:
+audience:
+category:Research
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+license:
+me2b.participation:
+name:STORK
+parent.org:
+partners:
+people:
+purpose:
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:Europe
+terms.of.service:
+tmap.edges:{"485c1ffe-40bf-40dd-88ef-fd1afc320722":{"to":"ce6980cb-6b24-411d-a197-3f9c7193fc83","type":"connection"}}
+tmap.id:b233895d-8713-4d87-9115-38a1a4afd112
+url:https://www.eid-stork.eu
+version.or.edition:
+working.group:
+
+The aim of the STORK project is to establish a European eID Interoperability Platform that will allow citizens to establish new e-relations across borders, just by presenting their national eID.
+
+Cross-border user authentication for such e-relations will be applied and tested by the project by means of five pilot projects that will use existing government services in EU Member States. In time however, additional service providers will also become connected to the platform thereby increasing the number of cross-border services available to European users. 
+
+Thus in the future, you should be able to start a company, get your tax refund, or obtain your university papers without physical presence; all you will need to access these services is to enter your personal data using your national eID, and the STORK platform will obtain the required guarantee (authentication) from your government.
+
+User-centric Approach = Privacy Guarantee
+
+The role of the STORK platform is to identify a user who is in a session with a service provider, and to send his data to this service. Whilst the service provider may request various data items, the user always controls the data to be sent. The explicit consent of the owner of the data, the user, is always required before his data can be sent to the service provider.
+
+The platform will not store any personal data, so no data can be lost.
+
+This user centric approach was not taken to satisfy some philosophical preferences, but in line with the legislative requirements of all the various countries involved that oblige concrete measures to be taken to guarantee that a citizen's fundamental rights, such as his privacy, are respected.

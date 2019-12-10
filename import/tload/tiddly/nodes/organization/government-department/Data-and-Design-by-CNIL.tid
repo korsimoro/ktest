@@ -1,0 +1,37 @@
+created:1575973326432
+modified:1575973326432
+title:Data & Design by CNIL
+type:text/vnd.tiddlywiki
+activities:
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
+org.name:Data & Design by CNIL
+org.type:Government Department
+parent.org:French Data Protection Authority
+partners:
+products.and.or.services:
+purpose:
+relevant.publications:
+scope:national
+sector:government
+status:
+tags:
+tech.focus:
+tmap.edges:{"db841e6d-92a1-454e-9f51-683dcc0232a5":{"to":"913016de-0ec4-4bba-85f8-364ca63b09b7","type":"Provides"}}
+tmap.id:03b719b5-5113-419d-8581-a980b8abe0b6
+tmap.names:pop-to-orgs all-organizations
+twitter.profile:http://twitter.com/LINCnil
+website:https://design.cnil.fr/
+
+Part of CNIL: French Data Protection Agency focusing on gdpr friendly/supportive design.

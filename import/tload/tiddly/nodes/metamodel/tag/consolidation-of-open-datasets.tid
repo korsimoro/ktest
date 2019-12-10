@@ -1,0 +1,12 @@
+created:1575973326438
+modified:1575973326438
+title:consolidation of open datasets
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Tag
+tmap.edges:{"208e6e10-9d44-448e-9674-3269e24ddd85":{"to":"7c51f5d0-9b94-4e2d-a9d4-96f528743556","type":"Tag"},"efc940ce-f73e-49e5-81c3-895ac5e5b257":{"to":"d88a7362-665f-4c17-b341-0b69b44eef51","type":"Tag"}}
+tmap.names:me2bstar me2bstar-tag me2ball me2ball-tag
+tw-icon:$:/images/fa5/solid/flask
+
+

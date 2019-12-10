@@ -1,0 +1,25 @@
+created:1575973325991
+modified:1575973325991
+title:AB/Connect Working Group
+type:text/vnd.tiddlywiki
+activities:
+category:Specification Work
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:AB/Connect Working Group
+parent.org:OpenID Foundation
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"2c9edeab-4fe1-4573-a810-ec29b5aecf8d":{"to":"9d982b82-4857-40ea-8c2b-a5d35e6f4259","type":"organization-for-group"}}
+tmap.id:6370fafe-0e66-43d7-b05d-5bf570e94138
+url:
+
+OpenID Connect WG is a combined WG of Artifact Binding (AB) WG and Connect WG

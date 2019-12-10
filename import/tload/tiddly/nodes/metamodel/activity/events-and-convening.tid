@@ -1,0 +1,12 @@
+created:1575973326437
+modified:1575973326437
+title:events and convening
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Activity
+tmap.edges:{"3b228d4f-522f-49eb-b9a9-830b6a06b89c":{"to":"14355ad3-8d5c-454e-bffc-56dc73248f5f","type":"Activity"},"4d32d4ca-1270-4b84-9ab8-3abfce92d014":{"to":"ba07dfda-1e37-476c-9755-2cc1cb2503e7","type":"Activity"},"bead7931-687a-494f-badc-9bc9336dec2a":{"to":"22f25653-afa8-4392-8124-a714a4e6b40b","type":"Activity"},"dd9a5075-4dc0-4e7a-a9fa-6103b34016b4":{"to":"9c3f68cc-07e5-445d-a0fc-7863ad9640cf","type":"Activity"},"3a767e2b-c5b3-4c15-bf62-470bd6189486":{"to":"bf53f6f2-17ce-4c67-a19b-9258e2db7849","type":"Activity"},"0c1c3401-bc9f-43ea-99b8-257059617b24":{"to":"276ff5ab-e475-4863-a439-5cda96326835","type":"Activity"},"a5801883-db96-4b21-be3b-18372d5f10c2":{"to":"8caac0fb-0643-4431-a5fc-059888375294","type":"Activity"},"45e9e45a-0aa8-420c-93d8-d2ec4275c7de":{"to":"1cd09a50-e627-4a83-8d6b-c30fe2fa838f","type":"Activity"}}
+tmap.names:me2bstar me2bstar-activity me2ball me2ball-activity
+tw-icon:$:/images/fa5/solid/shower
+
+

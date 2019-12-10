@@ -1,0 +1,27 @@
+created:1575973325999
+modified:1575973325999
+title:Health Relationship Trust Profile for OpenID Connect 1.0
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):Justin Richer
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:Health Relationship Trust Profile for OpenID Connect 1.0
+publication.type:Specification
+purpose:
+sector:
+sponsoring.org:HEART Working Group
+tags:
+tech.focus:
+tmap.edges:{"2571cf90-5acc-472e-ac4e-a6963f555f8a":{"to":"c89e1a2d-8640-4189-8fd4-74b5ea15247b","type":"specification-of-group"}}
+tmap.id:d489886f-5096-4c9c-a1e1-6299713cf890
+url:http://openid.bitbucket.org/HEART/openid-heart-oidc.html
+version.or.edition:
+volume.frequency:
+working.group:
+
+This specification profiles the OpenID Connect protocol to increase baseline security, provide greater interoperability, and structure deployments in a manner specifically applicable to (but not limited to) the healthcare domain.

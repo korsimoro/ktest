@@ -1,0 +1,46 @@
+created:1575973326432
+modified:1575973326432
+title:Project VRM
+type:text/vnd.tiddlywiki
+activities:outreach: publication
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
+org.name:Project VRM
+org.type:research
+parent.org:Berkman Klein Center for Internet and Society at Harvard University
+partners:
+products.and.or.services:
+purpose:Consumer Support
+relevant.publications:https://cyber.harvard.edu/projectvrm/Main_Page
+scope:
+sector:academic
+status:
+tags:IOT
+tech.focus:
+tmap.edges:{"6f88e06e-ce64-4e58-b390-e0ca9a84ca16":{"to":"fec08e44-393a-42c3-9098-6e20061ed766","type":"Provides"},"66f1282b-7e1b-44ee-9ea3-71cd139fadc8":{"to":"44212d48-e811-49c5-9530-d0b074eb6175","type":"Provides"}}
+tmap.id:cbead53d-3b8a-4673-9124-898872594b10
+tmap.names:pop-to-orgs all-organizations me2ball me2ball-activity me2ball-purpose me2ball-tag
+twitter.profile:https://twitter.com/VRM
+website:https://blogs.harvard.edu/vrm/
+
+ProjectVRM is a development and research project of the Berkman Klein Center for Internet & Society at Harvard University. It has two purposes:
+
+    To encourage development of tools by which individuals can take control of their relationships with organizations — especially in commercial marketplaces.
+    To encourage and conduct research on VRM-related theories, usage of VRM tools, and effects as adoption of VRM tools takes place.
+
+The project was created by Doc Searls when he became a fellow at the Center in 2006. Since then it has grown to play a driving role in many different development categories. (A partial and ever-changing list of those, and their occupants, is here.)
+
+VRM stands for Vendor Relationship Management, the customer-side counterpart of Customer Relationship Management, the $48 billion business by which companies attempt to relate to customers (for example through call centers).
+
+Doc sees VRM as “a way to fulfill one of the promises of The Cluetrain Manifiesto” — the widely-cited website and book written in 1999 by Doc and three other authors (one of which is David Weinberger, also of the Center). That promise was embodied in this statement, written by Christopher Locke:

@@ -1,0 +1,33 @@
+created:1575973326433
+modified:1575973326433
+title:Universal Resolver
+type:text/vnd.tiddlywiki
+activities:
+audience:
+category:to-be-determined
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:https://github.com/decentralized-identity/universal-resolver
+input.source:me2b
+license:
+me2b.participation:
+name:Universal Resolver
+parent.org:Decentralized Identity Foundation
+partners:
+people:
+purpose:
+relevant.publications:https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c
+status:
+supported.identity.technologies:
+tags:implementation and drivers
+terms.of.service:
+tmap.edges:{}
+tmap.id:b64aa9b6-c1e7-47db-8fe5-968fcea8158c
+tmap.names:pop-to-orgs all-organizations
+url:https://uniresolver.io/
+version.or.edition:
+working.group:
+
+A Universal Resolver is an identifier resolver that works with any decentralized identifier system, including Decentralized Identifiers (DIDs)

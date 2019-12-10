@@ -1,0 +1,12 @@
+created:1575973326437
+modified:1575973326437
+title:incubation
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Activity
+tmap.edges:{"2b447804-58ba-4eef-8969-d39f7415d589":{"to":"5ced231b-974c-4642-b72e-c9eaa0d46e05","type":"Activity"}}
+tmap.names:me2bstar me2bstar-activity me2ball me2ball-activity
+tw-icon:$:/images/fa5/solid/shower
+
+

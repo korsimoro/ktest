@@ -109,7 +109,7 @@ export class SimpleMe2BElement implements Me2BElement  {
 		for (let key in src ) {
 			const s = model.slugify(key)
 			const val = ''+src[key]
-			this.slugmap[s] = val
+			this.slugmap[s] = val.trim()
 		}
 		this.outbound={}
 	}

@@ -1,0 +1,12 @@
+created:1575973326436
+modified:1575973326436
+title:privacy
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Tag
+tmap.edges:{"06ba6526-d036-48cb-baed-bafd4ab9598d":{"to":"767a4022-cf58-42ea-8198-c73da93c37a6","type":"Tag"},"94d0a810-9b99-488e-b888-1e91f0db7967":{"to":"070b8a0a-80a5-46d5-90bc-f0fac1d826d4","type":"Tag"},"ac763448-8fff-4270-bf8e-7e3ee00bcb24":{"to":"69356b14-6d5b-4c2f-8234-5c840868d135","type":"Tag"},"ffc7ef78-39ee-43ab-9d03-77653f9b959a":{"to":"4e0a2ecd-a330-48cb-85e9-6abad411cef4","type":"Tag"},"b21d80e3-5cdd-4859-9c5d-c190b40c1361":{"to":"2da85874-978c-47aa-90a6-870cd911391a","type":"Tag"},"4498bf55-0945-4203-affd-3803d25067cd":{"to":"26c5a8fe-254b-48d9-ae9c-af6b6c5e5067","type":"Tag"},"f397f5bd-1e53-4f61-a484-d288371f5904":{"to":"d7eff862-b040-4e24-a3b1-39cef421fe6c","type":"Tag"},"01e18e3c-08b4-4997-9066-81ee4539dc91":{"to":"a8b5dc94-18d2-41ba-a6e3-0d8ba34e1f27","type":"Tag"}}
+tmap.names:me2bstar me2bstar-tag me2ball me2ball-tag
+tw-icon:$:/images/fa5/solid/flask
+
+

@@ -1,0 +1,12 @@
+created:1575973326438
+modified:1575973326438
+title:interoperability
+type:text/vnd.tiddlywiki
+element.type:metamodel
+input.source:me2b
+metamodel.subtype:Purpose
+tmap.edges:{"5bde2544-d615-4aad-9201-137c9111a86e":{"to":"40d789dc-26e8-458a-99b7-acd5689dc11d","type":"Purpose"},"ed9d60ea-da62-47b0-ad11-2e69ef80899a":{"to":"e5ce4309-9ca2-4c27-b1be-954efd146ff3","type":"Purpose"}}
+tmap.names:me2bstar me2bstar-purpose me2ball me2ball-purpose
+tw-icon:$:/images/fa5/solid/shuttle-van
+
+
