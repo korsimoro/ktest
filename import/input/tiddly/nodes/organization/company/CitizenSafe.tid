@@ -1,5 +1,5 @@
-created:1575938164914
-modified:1575938164914
+created:1575939740764
+modified:1575939740764
 title:CitizenSafe
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"b00c09db-ba11-45f7-9330-bbd327692a3a":{"to":"95b325bd-92d6-4279-8be2-6054c2a87902","type":"certified-idp"},"c6308af4-32a7-4839-ab1f-ea3219df4386":{"to":"9a38b6fc-2199-4b27-a6ed-6fe96a762e2d","type":"general-member"}}
-tmap.id:c8b94e9e-f535-4337-bfb0-6dee324ee2dc
+tmap.edges:{"3e36d3c1-5138-4c4c-9628-9b4bd5361437":{"to":"28c4d3b0-21b7-4be3-baee-dccf1e59f90a","type":"certified-idp"},"8bf95b50-ba84-4b8a-9158-618dd9df0985":{"to":"c5af8068-8aea-4b39-85ca-741e3d4b68f8","type":"general-member"}}
+tmap.id:34821b18-054b-4eab-ae53-cb0835d0facd
 twitter.profile:
 website:https://www.citizensafe.co.uk
 

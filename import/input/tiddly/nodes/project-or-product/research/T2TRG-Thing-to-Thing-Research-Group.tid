@@ -1,5 +1,5 @@
-created:1575938164873
-modified:1575938164873
+created:1575939740724
+modified:1575939740724
 title:T2TRG Thing-to-Thing Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"2261efd8-9703-430a-ab7f-40f67cfdb646":{"to":"f6dd38fb-bbc3-46d9-8da4-25b085235290","type":"organization-for-group"},"81abfa96-14c5-40f7-8590-172e2a651920":{"to":"ee40e67f-7c1a-4e3c-968e-958ce600e45f","type":"connection"}}
-tmap.id:18d75edd-85b7-48c2-a756-e946709dca24
+tmap.edges:{"46513c15-e3b7-4d67-983d-1fc1e0750424":{"to":"906e3f9b-e4c1-4d11-a840-0159aeb2ba37","type":"organization-for-group"},"cd688a7c-0cde-4350-8b57-d89cb6344a68":{"to":"72ed3234-4c72-44a4-8e82-a10dabb7d98c","type":"connection"}}
+tmap.id:d519e5db-e1c2-44fe-9770-b5fefcc4ddcc
 url:https://irtf.org/t2trg
 version.or.edition:
 working.group:

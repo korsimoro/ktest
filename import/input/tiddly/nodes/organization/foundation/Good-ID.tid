@@ -1,14 +1,13 @@
-activities: funding: movement building: outreach
-annual.budget: 
-audience: 
-created: 15821122172302000
-date.ended: 
-date.founded: 
-digital.harms.addressed: exclusion
-modified: 20191210003631872
-title: Good ID
-tmap.id: 970f93a4-1b33-4f96-bb68-dadffb75cd92
-type: text/vnd.tiddlywiki
+created:1575939741177
+modified:1575939741177
+title:Good ID
+type:text/vnd.tiddlywiki
+activities:funding: movement building: outreach
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:exclusion
 
 element.type:organization
 funding:
@@ -31,7 +30,7 @@ status:Active
 tags:
 tech.focus:identity: Information Sharing Control
 tmap.edges:{}
-tmap.id:14cb50a5-0113-4c61-95a4-bb8630a205b9
+tmap.id:ef4f0f74-3a80-475b-a2bf-15ae048a3a5e
 tmap.names:me2bstar me2bstar-get:-reference-source-for-unifying-vocabularyesp.-identity.-good-identity-principles.-background-info-materials-and-research.-give:-re-broadcast-communication-and-education-materials-as-aligned. me2ball me2ball-activity me2ball-purpose me2ball-digital-harm me2ball-tech-focus
 twitter.profile:https://twitter.com/goodid
 website:https://www.good-id.org/en/

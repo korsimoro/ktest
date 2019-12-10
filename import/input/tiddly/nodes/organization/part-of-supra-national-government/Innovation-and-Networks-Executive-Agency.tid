@@ -1,5 +1,5 @@
-created:1575938164887
-modified:1575938164887
+created:1575939740739
+modified:1575939740739
 title:Innovation and Networks Executive Agency
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"0309d1fe-74ee-4b08-8ae0-3b2257e6db3f":{"to":"d27f83c5-9563-4b87-bdbd-5fc5a4612c37","type":"funding-flow"}}
-tmap.id:2cfc6ebf-a276-4829-b37c-595c646f31c3
+tmap.edges:{"ca6a104c-cfee-4505-a3ec-92356ef0b232":{"to":"bb531eb3-1e2a-4a8c-ba0b-6a26e52760ee","type":"funding-flow"}}
+tmap.id:24d4a938-c0c6-4313-abaf-4be4e99b3e91
 twitter.profile:
 website:
 

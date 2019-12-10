@@ -1,5 +1,5 @@
-created:1575938164874
-modified:1575938164874
+created:1575939740725
+modified:1575939740725
 title:e-SENS   Electronic Simple European Networked Services
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"62b15780-2d36-4970-bb0a-6358af19ce81":{"to":"1f5b2dd2-c5ec-448a-8132-49168a95eacb","type":"connection"}}
-tmap.id:6e96ba4d-38a7-4b5e-a161-b316b6cde1cd
+tmap.edges:{"368dc218-74e6-4760-a680-17a32511b2fa":{"to":"6d7fe0c5-0015-461e-bb33-6a5f9faab1a4","type":"connection"}}
+tmap.id:0c0d0d6d-e90c-451b-b372-8bcc12f46cde
 url:http://www.esens.eu
 version.or.edition:
 working.group:

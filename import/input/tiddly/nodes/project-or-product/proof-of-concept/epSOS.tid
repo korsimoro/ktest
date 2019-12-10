@@ -1,5 +1,5 @@
-created:1575938164882
-modified:1575938164882
+created:1575939740733
+modified:1575939740733
 title:epSOS
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:Europe|Health|over
 terms.of.service:
-tmap.edges:{"eb4e9fb5-6361-4312-b633-15af0b08eb7a":{"to":"3ea270c1-3de5-4756-9aad-0e1479e597ba","type":"connection"},"83367739-34c7-4498-8fa5-c10dcd530254":{"to":"f355d937-3c9c-4cd1-aadc-3326a9cf9c49","type":"connection"}}
-tmap.id:1a991c3a-d15c-4741-9cfd-0009c856820c
+tmap.edges:{"09a5df58-e760-4658-8834-85eb020194ae":{"to":"2fa39b5a-c7d7-4252-ab1c-5ccb8def4a53","type":"connection"},"f306cab9-48d1-47a6-9e60-41fe57dc3c25":{"to":"f9e8f538-76b2-45dd-833c-68579ca39fa8","type":"connection"}}
+tmap.id:7c99b79b-eab0-4786-be41-dcf1b808f436
 url:http://www.epsos.eu
 version.or.edition:
 working.group:

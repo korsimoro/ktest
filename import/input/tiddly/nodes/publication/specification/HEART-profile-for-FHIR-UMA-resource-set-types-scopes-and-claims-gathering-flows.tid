@@ -1,5 +1,5 @@
-created:1575938164863
-modified:1575938164863
+created:1575939740714
+modified:1575939740714
 title:HEART profile for FHIR UMA resource set types, scopes, and claims-gathering flows
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:HEART Working Group
 tags:
 tech.focus:
-tmap.edges:{"52a06748-23a8-45e9-8457-93dcaeadf879":{"to":"bec9d8e7-733f-4f52-a02b-c71712f644ee","type":"specification-of-group"}}
-tmap.id:cd8137e5-1c43-47e4-b539-7daa3d5debfc
+tmap.edges:{"9e8f826f-8c74-479e-8551-df8ecbc23ac3":{"to":"f2cf2062-07bd-4de2-848c-6e881dd89c53","type":"specification-of-group"}}
+tmap.id:aa0fd36c-abd5-449e-9a7d-6286e103d2e2
 url:
 version.or.edition:
 volume.frequency:

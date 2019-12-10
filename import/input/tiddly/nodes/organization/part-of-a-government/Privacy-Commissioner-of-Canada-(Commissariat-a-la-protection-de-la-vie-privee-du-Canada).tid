@@ -1,5 +1,5 @@
-created:1575938164892
-modified:1575938164892
+created:1575939740743
+modified:1575939740743
 title:Privacy Commissioner of Canada (Commissariat à la protection de la vie privée du Canada)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"0c91f9e8-d9a5-48e6-becb-1faef84bb48a":{"to":"1b459396-3a05-4253-a31a-963d96f8fc88","type":"government-connection"},"c4ab5735-b11a-49ad-9349-ace606221e0b":{"to":"08f3af85-ae9e-4d58-a246-01aad535b741","type":"general-member"}}
-tmap.id:cc7e826b-dc87-4a63-afba-ec61b7d8e7a8
+tmap.edges:{"fc8396f7-03f8-48ab-ac79-aaebeb9ae5b7":{"to":"145d61c4-e6d3-41e3-9780-d0f593b1bd3b","type":"government-connection"},"ee5fe0e2-84ac-4b31-a5f7-723710715e84":{"to":"2e2d5050-0bb5-4c93-bbd2-0ddeef48a7c0","type":"general-member"}}
+tmap.id:a9e9f133-e45d-4458-aa9d-20d65be9c0a4
 twitter.profile:
 website:https://www.priv.gc.ca/index_e.ASP
 

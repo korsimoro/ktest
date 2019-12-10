@@ -1,5 +1,5 @@
-created:1575938165233
-modified:1575938165233
+created:1575939741179
+modified:1575939741179
 title:Data & Design by CNIL
 type:text/vnd.tiddlywiki
 activities:
@@ -28,8 +28,8 @@ sector:government
 status:
 tags:
 tech.focus:
-tmap.edges:{"ffa6bf52-414b-48bc-8650-29769ec8d319":{"to":"6a3e0c9b-1dbc-4cab-8b8f-641cebfb3b26","type":"Provides"}}
-tmap.id:06caebcb-4140-4081-b846-4080c09b1c24
+tmap.edges:{"820199d1-642c-4736-9b92-66d32a84bbd8":{"to":"1fe15f1c-d045-46fe-beec-166506eac6da","type":"Provides"}}
+tmap.id:c577d7ca-d94f-4120-92e1-9176164737ab
 tmap.names:pop-to-orgs all-organizations
 twitter.profile:http://twitter.com/LINCnil
 website:https://design.cnil.fr/

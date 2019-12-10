@@ -1,37 +1,36 @@
-activities: service provider
-annual.budget: 
-audience: 
-created: 15821122172304000
-date.ended: 
-date.founded: 
-digital.harms.addressed: 
-element.type: organization
-funding: 
-github.profile: 
-input.source: me2b
-key.people: 
-linkedin.profile: 
-location(s): 
-me2b.relationship: Certification Candidate
-modified: 20191210003630941
-org.name: Commodify Inc
-org.type: Company
-parent.org: 
-partners: 
-products.and.or.services: 
-purpose: Consumer Support
-relevant.publications: 
-scope: 
-sector: for-profit
-status: 
-tags: 
-tech.focus: Information Sharing Control: analytics
-title: Commodify Inc
-tmap.id: a700a7ea-b357-48c1-a603-f5db30950069
-type: text/vnd.tiddlywiki
+created:1575939741179
+modified:1575939741179
+title:Commodify Inc
+type:text/vnd.tiddlywiki
+activities:service provider
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:Certification Candidate
+org.name:Commodify Inc
+org.type:Company
+parent.org:
+partners:
+products.and.or.services:
+purpose:Consumer Support
+relevant.publications:
+scope:
+sector:for-profit
+status:
+tags:
+tech.focus:Information Sharing Control: analytics
 
-tmap.edges:{"5127a482-93bd-43e8-b69a-f839f2838be2":{"to":"936f0461-457e-4518-807a-4a5fdd7fed40","type":"Provides"}}
-tmap.id:bf1ba4ed-6156-43b1-b336-a9e0303b217b
+tmap.edges:{"bbe81704-9e7b-481a-8aea-96c5a915ad94":{"to":"cdc49845-38a5-4173-a824-3232c201eb3f","type":"Provides"}}
+tmap.id:2ca1449a-e779-4d33-96da-e49f0d7afd22
 tmap.names:pop-to-orgs all-organizations me2bstar me2bstar-certification-candidate me2ball me2ball-activity me2ball-purpose me2ball-tech-focus
 twitter.profile:
 website:http://commodify.us

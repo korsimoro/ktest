@@ -1,5 +1,5 @@
-created:1575938164908
-modified:1575938164908
+created:1575939740760
+modified:1575939740760
 title:Gemalto
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"445a8471-254e-4373-9ab5-72d741dd4ba0":{"to":"eeafdc23-4ce9-479e-81c4-c5b2332adadf","type":"general-member"},"c40075c2-a7dd-442d-a763-d213adbf2801":{"to":"0671eff4-b7da-4f66-8c6d-09319572d496","type":"executive-member"}}
-tmap.id:63b800ea-742e-43f5-9e48-22b1ef4b4e8a
+tmap.edges:{"7200cf69-6a5e-4201-80f3-b60f6f14ddda":{"to":"eb8c4d44-6d24-48a0-9951-21c37e77ee63","type":"general-member"},"28e80c24-0934-41c3-95b9-04ef4b5a6f16":{"to":"4f749829-e73d-4c04-8288-3fbadc5f0bec","type":"executive-member"}}
+tmap.id:4918164a-63ae-4326-9eeb-d45abd6b8dc2
 twitter.profile:
 website:http://www.gemalto.com
 

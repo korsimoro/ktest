@@ -1,5 +1,5 @@
-created:1575938164861
-modified:1575938164861
+created:1575939740712
+modified:1575939740712
 title:Graz University of Technology
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"151ec5dc-f000-44eb-919c-4341f8b953f8":{"to":"953a9bb6-d47d-4c98-898c-ba6fb05b24fb","type":"funding-flow"}}
-tmap.id:7ab66e9f-92cf-47f8-b877-b8d4c0dc2204
+tmap.edges:{"95912a65-79fb-486d-9a30-5d7d818df0af":{"to":"6710b5d3-2300-4b92-8cb2-43652c6e2cc3","type":"funding-flow"}}
+tmap.id:e6897b6e-046a-4fd5-b1f7-e9378298809c
 twitter.profile:
 website:https://www.iaik.tugraz.at/content/partnerships/a-sit/
 

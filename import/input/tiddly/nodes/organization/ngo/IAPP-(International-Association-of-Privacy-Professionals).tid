@@ -1,28 +1,27 @@
-activities: movement building, research, outreach, publication
-annual.budget: 
-audience: 
-created: 15821122172302000
-date.ended: 
-date.founded: 
-digital.harms.addressed: 
-element.type: organization
-funding: 
-github.profile: 
-input.source: me2b
-key.people: 
-linkedin.profile: https://www.linkedin.com/company/iapp---international-association-of-privacy-professionals/
-location(s): 
-me2b.relationship: 
-modified: 20191210003631565
-org.name: IAPP (International Association of Privacy Professionals)
-org.type: NGO
-parent.org: 
-partners: 
-products.and.or.services: 
-purpose: Consumer support
-title: IAPP (International Association of Privacy Professionals)
-tmap.id: 8b36d9a1-7937-4b27-9079-2cbb1f2a85e4
-type: text/vnd.tiddlywiki
+created:1575939741177
+modified:1575939741177
+title:IAPP (International Association of Privacy Professionals)
+type:text/vnd.tiddlywiki
+activities:movement building, research, outreach, publication
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
+key.people:
+linkedin.profile:https://www.linkedin.com/company/iapp---international-association-of-privacy-professionals/
+location(s):
+me2b.relationship:
+org.name:IAPP (International Association of Privacy Professionals)
+org.type:NGO
+parent.org:
+partners:
+products.and.or.services:
+purpose:Consumer support
 
 relevant.publications:
 scope:
@@ -31,7 +30,7 @@ status:
 tags:privacy
 tech.focus:
 tmap.edges:{}
-tmap.id:e1a64a56-acaa-44f3-8c75-d4c8a17577fb
+tmap.id:b8af96ec-e480-44a8-8573-f70627e01f5f
 tmap.names:me2ball me2ball-activity me2ball-purpose me2ball-tag
 twitter.profile:https://twitter.com/PrivacyPros
 website:https://iapp.org/

@@ -16,6 +16,27 @@ export interface TiddlerBuilder {
 	edgemap:any
 }
 
+const images = [
+	"$:/images/fa5/solid/shopping-cart",
+	"$:/images/fa5/solid/shower",
+	"$:/images/fa5/solid/shuttle-van",
+	"$:/images/fa5/solid/snowflake",
+  "$:/images/fa5/solid/fire-extinguisher",
+  "$:/images/fa5/solid/flask",
+  "$:/images/fa5/solid/hamburger",
+  "$:/images/fa5/solid/people-carry",
+  "$:/images/fa5/solid/pepper-hot"
+]
+let index = 0
+const imap={}
+function getIcon(t:string) {
+	const v = imap[t]
+	if(!v) {
+		imap[t] = images[index]
+		index = index + 1
+	}
+	return imap[t]
+}
 // --------------------------------------------------------------------------
 // Declaration
 export type Me2BConnectionMap = {[id:string]:Me2BConnection}
@@ -167,6 +188,7 @@ export class Me2BModel
 		elt.title=label
 		elt.subtype=type
 		elt.fields['metamodel.subtype']=type
+		elt.fields['tw-icon']=getIcon(type)
 		this.encounterElement(elt)
 		return elt
 	}

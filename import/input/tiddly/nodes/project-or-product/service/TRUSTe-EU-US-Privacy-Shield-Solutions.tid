@@ -1,24 +1,23 @@
-activities: 
-audience: 
-category: service
-created: 15821122172305000
-date.begun: 
-date.ended: 
-digital.harms.addressed: 
-element.type: project-or-product
-github.profile: 
-input.source: me2b
-license: 
-me2b.participation: 
-modified: 20191210003635682
-name: TRUSTe EU-US Privacy Shield Solutions
-parent.org: TrustArc / Trust-e
-partners: 
-people: 
-purpose: certification and compliance
-title: TRUSTe EU-US Privacy Shield Solutions
-tmap.id: 99a57f27-e3a6-4c21-8a58-814f7ef8b6ac
-type: text/vnd.tiddlywiki
+created:1575939741181
+modified:1575939741181
+title:TRUSTe EU-US Privacy Shield Solutions
+type:text/vnd.tiddlywiki
+activities:
+audience:
+category:service
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:
+name:TRUSTe EU-US Privacy Shield Solutions
+parent.org:TrustArc / Trust-e
+partners:
+people:
+purpose:certification and compliance
 
 relevant.publications:
 status:
@@ -26,7 +25,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:27e34414-f4a5-4fbf-9ab3-45f79a1fd1de
+tmap.id:737d8587-a4cd-4a5d-93e6-b5a8879705ef
 tmap.names:pop-to-orgs all-organizations
 url:https://www.trustarc.com/products/eu-us-privacy-shield/
 version.or.edition:

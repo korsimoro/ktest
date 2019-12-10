@@ -1,5 +1,5 @@
-created:1575938164898
-modified:1575938164898
+created:1575939740750
+modified:1575939740750
 title:Open Identity Exchange
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"b8e50e46-eaf7-42f8-a545-00bf4fa4c946":{"to":"9a38b6fc-2199-4b27-a6ed-6fe96a762e2d","type":"connection"},"406f6d04-1235-45a8-9b71-8d5fc2a9631e":{"to":"63323618-681c-4e7e-b09f-af1ff77ed478","type":"convenor"},"797ebf25-bc67-46c2-a008-691506d76586":{"to":"09dba191-aa04-4da8-9226-9f1b6260b107","type":"convenor"}}
-tmap.id:b0b0d908-60f1-49e7-967a-e6c37a11854f
+tmap.edges:{"15b1ff2a-1878-49b8-843a-573fcb349b68":{"to":"c5af8068-8aea-4b39-85ca-741e3d4b68f8","type":"connection"},"38c6446f-cdc0-4031-a4b9-71610e57b552":{"to":"51cdd3a9-b0b2-412a-b23a-8e29cbdd5f07","type":"convenor"},"66d2b854-504a-44a0-a0bb-ed17586a676b":{"to":"51854612-b494-4b19-9ce2-20a9659da976","type":"convenor"}}
+tmap.id:17944331-e8af-43b6-b0d3-2312056ebba3
 twitter.profile:
 website:
 

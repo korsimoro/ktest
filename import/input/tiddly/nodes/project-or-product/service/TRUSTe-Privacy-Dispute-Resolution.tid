@@ -1,24 +1,23 @@
-activities: 
-audience: 
-category: service
-created: 15821122172305000
-date.begun: 
-date.ended: 
-digital.harms.addressed: 
-element.type: project-or-product
-github.profile: 
-input.source: me2b
-license: 
-me2b.participation: 
-modified: 20191210003635394
-name: TRUSTe Privacy Dispute Resolution
-parent.org: TrustArc / Trust-e
-partners: 
-people: 
-purpose: certification and compliance
-title: TRUSTe Privacy Dispute Resolution
-tmap.id: 8c8733db-3077-4fda-bc34-b5af89622c50
-type: text/vnd.tiddlywiki
+created:1575939741181
+modified:1575939741181
+title:TRUSTe Privacy Dispute Resolution
+type:text/vnd.tiddlywiki
+activities:
+audience:
+category:service
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:
+name:TRUSTe Privacy Dispute Resolution
+parent.org:TrustArc / Trust-e
+partners:
+people:
+purpose:certification and compliance
 
 relevant.publications:
 status:
@@ -26,7 +25,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:c1630748-3791-4739-a379-81b3e27efb06
+tmap.id:719f1d61-cafa-4753-9111-deec24532801
 tmap.names:pop-to-orgs all-organizations
 url:https://www.trustarc.com/products/dispute-resolution-services/
 version.or.edition:

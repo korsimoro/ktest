@@ -1,5 +1,5 @@
-created:1575938164906
-modified:1575938164906
+created:1575939740756
+modified:1575939740756
 title:The Federal Computing Centre of Austria – Bundesrechenzentrum (BRZ)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"1be24ec5-7180-4466-ad37-7facca870d7c":{"to":"953a9bb6-d47d-4c98-898c-ba6fb05b24fb","type":"funding-flow"},"7bf990fb-d786-449c-a683-0ba015af350e":{"to":"c4e1fffe-001e-49a2-8fd1-60d27ba7f3d8","type":"general-member"}}
-tmap.id:57eb8bc9-630e-4b46-ad4a-a2421d898d81
+tmap.edges:{"ca4980a6-3b07-4830-8ef1-3d7368d4b8bc":{"to":"6710b5d3-2300-4b92-8cb2-43652c6e2cc3","type":"funding-flow"},"4cc36123-d5b1-4da8-90d4-6f33d7aed4c8":{"to":"cd563815-b742-4375-b8f6-8e9fd9e2854c","type":"general-member"}}
+tmap.id:56c9ccec-3fc1-45fd-830b-a62cd0b88abd
 twitter.profile:
 website:https://en.brz.gv.at
 

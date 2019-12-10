@@ -1,8 +1,8 @@
-created:1575938164916
-modified:1575938164916
+created:1575939740767
+modified:1575939740767
 title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/publication
 type:text/vnd.tiddlywiki
 scope: [field:element.type[publication]]
-style: {"color":{"border":"rgba(114,207,140,136)","background":"rgba(173,234,139,141)"}}
+style: {"color":{"border":"rgba(61,225,52,193)","background":"rgba(29,245,226,150)"}}
 fa-icon: 
 tw-icon: $:/images/fa5/brands/galactic-republic

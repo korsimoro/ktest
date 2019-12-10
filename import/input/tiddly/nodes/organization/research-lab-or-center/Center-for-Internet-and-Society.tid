@@ -1,5 +1,5 @@
-created:1575938164885
-modified:1575938164885
+created:1575939740737
+modified:1575939740737
 title:Center for Internet and Society
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"d0516a96-1859-4815-b6c0-6a55f609d693":{"to":"48eff332-dc7a-4ecf-ba3f-d583f1ecfe30","type":"organization-for-group"}}
-tmap.id:37e469a4-f77f-444d-abcd-002979f1c170
+tmap.edges:{"341fcb8a-8d6f-4604-b466-40cfa99b9db9":{"to":"f610f794-68c4-42c9-878e-249ee8510ebb","type":"organization-for-group"}}
+tmap.id:16c6906d-307c-4808-b64b-b9261f2f5fe5
 twitter.profile:
 website:
 

@@ -1,5 +1,5 @@
-created:1575938164900
-modified:1575938164900
+created:1575939740750
+modified:1575939740750
 title:mobile Ecosystem Forum
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"a3513c91-2250-43cc-812d-e6148e3d7225":{"to":"758bd2ca-6b48-4a03-bda5-cb9e83d94409","type":"organization-for-group"}}
-tmap.id:3ce942a1-f473-45ed-8b57-352c9199cdeb
+tmap.edges:{"0de61af0-a4f5-4654-ac7b-0604cc698587":{"to":"16c84cfd-a2b3-45d9-bfb0-9c1effc38ba3","type":"organization-for-group"}}
+tmap.id:696cba61-5158-4716-b3af-17d15114cc68
 twitter.profile:
 website:http://mobileecosystemforum.com/
 

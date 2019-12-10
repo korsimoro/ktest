@@ -1,5 +1,5 @@
-created:1575938164901
-modified:1575938164901
+created:1575939740751
+modified:1575939740751
 title:DSS - XSD supporting ITU-T X.509 certificate version 3 rules in the eIDAS trusted list
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"1fd9a8ca-f798-4cd1-a354-424ad998b2e4":{"to":"deb26dfa-9f40-47c3-b265-22d347ceefb7","type":"default"}}
-tmap.id:fa3d3067-5d7b-4fdf-9ed1-1639d272c9ed
+tmap.edges:{"31775263-ef7a-42da-b465-59f219c0caee":{"to":"84a37af6-d56e-49b8-81da-38f5f5c1cf96","type":"default"}}
+tmap.id:b105554f-2e70-477b-bdd9-2047c93c9349
 url:
 version.or.edition:
 working.group:

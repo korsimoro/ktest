@@ -1,5 +1,5 @@
-created:1575938164911
-modified:1575938164911
+created:1575939740761
+modified:1575939740761
 title:Barclays
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"562d76b5-6615-4c60-8d3a-2122dfe01331":{"to":"95b325bd-92d6-4279-8be2-6054c2a87902","type":"certified-idp"},"bf29af70-1d29-40da-8c44-366620388d4d":{"to":"9a38b6fc-2199-4b27-a6ed-6fe96a762e2d","type":"executive-member"}}
-tmap.id:406e0d47-fd55-4bcc-9145-c887e4862778
+tmap.edges:{"19242730-aead-401e-ab4c-f870d6895d95":{"to":"28c4d3b0-21b7-4be3-baee-dccf1e59f90a","type":"certified-idp"},"6f143bdd-802c-49aa-b9b3-9d8cea7c25ed":{"to":"c5af8068-8aea-4b39-85ca-741e3d4b68f8","type":"executive-member"}}
+tmap.id:6652f51a-2580-4f68-8cec-6e4e0b95e700
 twitter.profile:
 website:http://www.barclays.co.uk/identity
 

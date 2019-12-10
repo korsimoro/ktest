@@ -1,24 +1,25 @@
-activities: 
-audience: 
-category: service
-created: 15821122172305000
-date.begun: 
-date.ended: 
-digital.harms.addressed: 
-element.type: project-or-product
-github.profile: 
-input.source: me2b
-license: 
-me2b.participation: 
-modified: 20191210003635708
-name: TRUSTe APEC CBPR and PRP
-parent.org: TrustArc / Trust-e
-partners: 
-people: 
-purpose: certification and compliance
-title: TRUSTe APEC CBPR and PRP
-tmap.id: 3a8f3a1b-752d-42ad-b058-61535f86ea93
-type: text/vnd.tiddlywiki
+created:1575939741181
+modified:1575939741181
+title:TRUSTe APEC CBPR and PRP
+Privacy Certifications
+type:text/vnd.tiddlywiki
+activities:
+audience:
+category:service
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:
+name:TRUSTe APEC CBPR and PRP
+Privacy Certifications
+parent.org:TrustArc / Trust-e
+partners:
+people:
+purpose:certification and compliance
 
 relevant.publications:
 status:
@@ -26,7 +27,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:aee742f8-b334-414b-a029-3b5d9b00b3f6
+tmap.id:3734b6e2-7379-4e82-9c2e-40869d097d3d
 tmap.names:pop-to-orgs all-organizations
 url:https://www.trustarc.com/products/apec-certification/
 version.or.edition:

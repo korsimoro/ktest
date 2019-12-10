@@ -1,5 +1,5 @@
-created:1575938164895
-modified:1575938164895
+created:1575939740746
+modified:1575939740746
 title:Internet Society ISOC
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"4a2d78f8-f0ea-4bdc-a223-b0cb640db752":{"to":"067c133f-0006-4b27-922b-64550dc930eb","type":"convenor"},"4349592c-159b-47c1-b2ba-b855d6c53497":{"to":"cbe19515-63c1-474f-bccb-10723ba060cd","type":"organization-for-group"},"e93bf1e0-c7f8-42c8-9c13-c8f0b0b094aa":{"to":"a10cccef-ab1c-4067-9984-34c8570895c9","type":"vice-chair"}}
-tmap.id:9582f9bb-3af9-46c1-ae03-f06a12eb3a45
+tmap.edges:{"e86aeac0-470a-4f53-b707-f8300e423077":{"to":"8602eb9c-2ff5-4428-8adc-3e6f7f40724d","type":"convenor"},"c78e0ac7-6fd8-412e-ab24-c92d934dacd6":{"to":"83271853-5274-477f-82bc-01489c2970a0","type":"organization-for-group"},"f205c020-81d0-4831-b09e-1703e6570acb":{"to":"488015d9-90e8-41bb-9745-0185f1e0bae3","type":"vice-chair"}}
+tmap.id:8a683184-bbb1-4a37-ab78-e3e0a44bc819
 twitter.profile:
 website:http://www.isoc.org
 

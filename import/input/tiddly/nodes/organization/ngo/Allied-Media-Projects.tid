@@ -1,24 +1,23 @@
-activities: movement building: events and convening: publication
-annual.budget: 
-audience: 
-created: 15821122172303000
-date.ended: 
-date.founded: 
-digital.harms.addressed: 
-element.type: organization
-funding: 
-github.profile: 
-input.source: me2b
-key.people: 
-linkedin.profile: https://www.linkedin.com/company/alliedmedia/
-location(s): Mississauga, Ontario
-me2b.relationship: 
-modified: 20191210003629674
-org.name: Allied Media Projects
-org.type: NGO
-title: Allied Media Projects
-tmap.id: df281c23-447c-49ee-ade1-f0a445e8ff21
-type: text/vnd.tiddlywiki
+created:1575939741178
+modified:1575939741178
+title:Allied Media Projects
+type:text/vnd.tiddlywiki
+activities:movement building: events and convening: publication
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
+key.people:
+linkedin.profile:https://www.linkedin.com/company/alliedmedia/
+location(s):Mississauga, Ontario
+me2b.relationship:
+org.name:Allied Media Projects
+org.type:NGO
 
 parent.org:
 partners:
@@ -30,8 +29,8 @@ sector:non-profit
 status:
 tags:
 tech.focus:
-tmap.edges:{"ddd378ec-9dbb-47da-aa11-2cd3e4f89dda":{"to":"5386d484-a932-4241-997d-a46832016908","type":"Sponsors"}}
-tmap.id:3ac384bf-e2ad-40ca-a2db-8f40f9695ebf
+tmap.edges:{"59ab982b-e97f-4629-b1a0-7f8e488cb69d":{"to":"ac2d12f5-c5d1-497c-bbf3-3c32865ea5a0","type":"Sponsors"}}
+tmap.id:84cf472b-eeb0-4c71-882b-c40aa6087fb7
 tmap.names:orgs-to-orgs all-organizations me2ball me2ball-activity me2ball-purpose
 twitter.profile:https://twitter.com/allied_media
 website:https://alliedmedia.org/

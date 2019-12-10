@@ -1,5 +1,5 @@
-created:1575938164887
-modified:1575938164887
+created:1575939740738
+modified:1575939740738
 title:Semantic Interoperability Community (SEMIC)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"09b07f91-cf49-4383-ade4-c767140cd7fd":{"to":"fb44a67d-118f-48d8-9631-daf9af0322a3","type":"organization-for-group"}}
-tmap.id:62fc6292-5cfe-448c-84de-9456b88f1352
+tmap.edges:{"da140b12-7f44-4a1f-a613-244d22d22868":{"to":"742f7dc0-35f7-408d-8327-25fc422644ff","type":"organization-for-group"}}
+tmap.id:11cedf00-c3cb-4d05-9a26-a6c87837f249
 twitter.profile:
 website:https://joinup.ec.europa.eu/community/semic/description
 

@@ -1,5 +1,5 @@
-created:1575938164912
-modified:1575938164912
+created:1575939740763
+modified:1575939740763
 title:OneTrust
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"652c5152-b7cd-4881-a5ea-47fbeea9c19b":{"to":"dd68a0ba-877c-4885-bd12-da0da02e10bf","type":"sponsor"}}
-tmap.id:0941f881-46df-4c53-8fdc-073bf044580e
+tmap.edges:{"c2f4fb72-3119-4d90-a1fa-bb073d4fc014":{"to":"d214f1b7-d868-4e54-99a0-b063b6d32d7b","type":"sponsor"}}
+tmap.id:82441528-7927-49fe-94a8-2ca725eb0fc0
 twitter.profile:
 website:http://onetrust.com
 

@@ -1,5 +1,5 @@
-created:1575938164892
-modified:1575938164892
+created:1575939740743
+modified:1575939740743
 title:US National Information Exchange Model
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"3e7b7264-0c19-40c7-8dfe-c0d845008255":{"to":"fb44a67d-118f-48d8-9631-daf9af0322a3","type":"connection"}}
-tmap.id:4cfcf319-0627-4a3f-bad4-263b6cd74d33
+tmap.edges:{"c97cd50b-7dd5-4a43-a6f4-6d70da3ff681":{"to":"742f7dc0-35f7-408d-8327-25fc422644ff","type":"connection"}}
+tmap.id:083b8a5a-3a68-4e3c-9afa-9d8dc888564f
 twitter.profile:
 website:https://www.niem.gov/Pages/default.aspx
 

@@ -1,24 +1,23 @@
-activities: 
-audience: 
-category: service
-created: 15821122172305000
-date.begun: 
-date.ended: 
-digital.harms.addressed: 
-element.type: project-or-product
-github.profile: 
-input.source: me2b
-license: 
-me2b.participation: 
-modified: 20191210003632218
-name: EDAA Privacy Certification
-parent.org: TrustArc / Trust-e
-partners: 
-people: 
-purpose: certification and compliance
-title: EDAA Privacy Certification
-tmap.id: 76009075-5af1-4a94-91bc-202c88f6772f
-type: text/vnd.tiddlywiki
+created:1575939741181
+modified:1575939741181
+title:EDAA Privacy Certification
+type:text/vnd.tiddlywiki
+activities:
+audience:
+category:service
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:
+name:EDAA Privacy Certification
+parent.org:TrustArc / Trust-e
+partners:
+people:
+purpose:certification and compliance
 
 relevant.publications:
 status:
@@ -26,7 +25,7 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:09c529ee-d932-4d12-b4a7-d61ac4ec23ed
+tmap.id:4b549322-e933-4c64-a3b0-97e15ab976de
 tmap.names:pop-to-orgs all-organizations
 url:https://www.trustarc.com/products/edaa-certification/
 version.or.edition:

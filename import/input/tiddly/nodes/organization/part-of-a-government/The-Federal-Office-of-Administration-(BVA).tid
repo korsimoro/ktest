@@ -1,5 +1,5 @@
-created:1575938164889
-modified:1575938164889
+created:1575939740742
+modified:1575939740742
 title:The Federal Office of Administration (BVA)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"7083ac38-d985-4ab1-b700-72c4e5f6cae7":{"to":"316e18db-1559-4aaf-a1f0-e5fd55fae83b","type":"government-connection"},"8f0e3888-2bfe-4802-8aea-3549131bcdf6":{"to":"c4e1fffe-001e-49a2-8fd1-60d27ba7f3d8","type":"default"}}
-tmap.id:04e9fd9c-8a0c-4910-bc75-aee8dcdf0a55
+tmap.edges:{"d82013b3-20de-4a2f-be6d-77d1d811999b":{"to":"0126fedc-aab0-496c-9cd1-076ac759c459","type":"government-connection"},"0f41754a-c071-4015-8623-9c8acaf5a715":{"to":"cd563815-b742-4375-b8f6-8e9fd9e2854c","type":"default"}}
+tmap.id:afca0e70-cd44-4f5d-811b-c5be6306dadc
 twitter.profile:
 website:http://www.bva.bund.de/EN/Home/home_node.html
 

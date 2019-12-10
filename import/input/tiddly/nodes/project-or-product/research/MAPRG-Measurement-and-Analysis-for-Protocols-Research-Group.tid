@@ -1,5 +1,5 @@
-created:1575938164873
-modified:1575938164873
+created:1575939740724
+modified:1575939740724
 title:MAPRG Measurement and Analysis for Protocols Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"4a4e51b8-60f6-4053-a52a-284fcce06745":{"to":"f6dd38fb-bbc3-46d9-8da4-25b085235290","type":"organization-for-group"}}
-tmap.id:ea2f106c-5ef2-4a8d-b1a7-1770589f160d
+tmap.edges:{"80d95e31-0a2f-4c4b-9c97-9ce3915d0d44":{"to":"906e3f9b-e4c1-4d11-a840-0159aeb2ba37","type":"organization-for-group"}}
+tmap.id:c1719177-a179-4b9d-8d8b-6d74f701f2d6
 url:https://irtf.org/maprg
 version.or.edition:
 working.group:

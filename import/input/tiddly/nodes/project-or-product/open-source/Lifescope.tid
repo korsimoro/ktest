@@ -1,5 +1,5 @@
-created:1575938165235
-modified:1575938165235
+created:1575939741181
+modified:1575939741181
 title:Lifescope
 type:text/vnd.tiddlywiki
 activities:
@@ -23,8 +23,8 @@ status:
 supported.identity.technologies:
 tags:personal data management
 terms.of.service:
-tmap.edges:{"9f8a79fe-5216-4dce-bb36-978184f52989":{"to":"53af5b12-3bb4-4d93-8fd2-bcf5e085ec36","type":"Provides"}}
-tmap.id:53af5b12-3bb4-4d93-8fd2-bcf5e085ec36
+tmap.edges:{"734b6bf7-450f-42cd-8287-c1dc3957c979":{"to":"0439d8a6-1a5a-4175-8a81-d10cb8a73208","type":"Provides"}}
+tmap.id:0439d8a6-1a5a-4175-8a81-d10cb8a73208
 tmap.names:pop-to-orgs all-organizations
 url:https://lifescope.io/
 version.or.edition:

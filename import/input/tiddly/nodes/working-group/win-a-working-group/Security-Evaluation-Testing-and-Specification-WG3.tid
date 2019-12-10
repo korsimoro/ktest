@@ -1,5 +1,5 @@
-created:1575938164854
-modified:1575938164854
+created:1575939740704
+modified:1575939740704
 title:Security Evaluation, Testing and Specification WG3
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"ca162667-b978-467c-9693-6a40141bb5e4":{"to":"35e880f6-aedd-47f1-8c0c-7812c0e18f42","type":"organization-for-group"}}
-tmap.id:4cbfe23e-7d9a-487a-888e-c3e4d0780518
+tmap.edges:{"44333f8a-c0ea-4782-9b9b-a7a56616f5f6":{"to":"292716c9-2b4f-45aa-970a-0d973b139736","type":"organization-for-group"}}
+tmap.id:7dc403a3-54a4-4e0c-86de-02e20d262839
 url:
 
 The terms of reference of this working group are:

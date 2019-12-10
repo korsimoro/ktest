@@ -1,5 +1,5 @@
-created:1575938164862
-modified:1575938164862
+created:1575939740713
+modified:1575939740713
 title:State of Virginia
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"5a067c3a-f47d-49bf-af6e-77d647fb9dff":{"to":"999e136b-1895-4049-91da-7a4b0999cb0d","type":"author"},"22bce6d7-9d69-4281-85ee-6c20177020fb":{"to":"b5461032-ce0a-4247-a139-af036fd738ef","type":"government-connection"}}
-tmap.id:5eb906cc-aad4-4b1e-8e60-fdc2166998d0
+tmap.edges:{"226df51c-cfd6-4228-aa51-66e4eaaa8f8e":{"to":"8253c66b-097f-4b31-91b4-4cbf6d30f8bb","type":"author"},"998bf08a-6c57-4a40-85a7-86a5f076d4cf":{"to":"17b9562e-16aa-496b-a46a-69cb0f9ea4d8","type":"government-connection"}}
+tmap.id:0327eaf4-3feb-4b4e-a313-893abf58f467
 twitter.profile:
 website:
 

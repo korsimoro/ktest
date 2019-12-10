@@ -1,5 +1,5 @@
-created:1575938164895
-modified:1575938164895
+created:1575939740746
+modified:1575939740746
 title:IEEE Standards Organization
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f5600e05-e3c2-4642-ace6-2a5f43cfccd7":{"to":"858bc107-2b14-47d7-9fa3-23272a177df7","type":"connection"},"8e8e0f46-82b6-49e7-87ce-b9f138580895":{"to":"18c20479-61eb-4782-8d58-c69de0288b5e","type":"general-member"}}
-tmap.id:8b500d90-5d36-48eb-ade5-89bdd6318189
+tmap.edges:{"a13928e2-4a63-4e1f-995f-7f2318e33e70":{"to":"b7515700-7b31-4eed-9620-fe4bb316d000","type":"connection"},"8da2e8f9-b194-4406-a9a3-d8049ad13e9d":{"to":"b541c81b-4963-4ee3-8740-52aab74d730c","type":"general-member"}}
+tmap.id:8934392a-3a3b-432b-a920-e57124f3c464
 twitter.profile:
 website:http://standards.ieee.org
 

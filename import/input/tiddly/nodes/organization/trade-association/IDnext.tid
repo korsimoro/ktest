@@ -1,5 +1,5 @@
-created:1575938164900
-modified:1575938164900
+created:1575939740750
+modified:1575939740750
 title:IDnext
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:Europe
 tech.focus:
-tmap.edges:{"a8da2355-c109-4845-9cbb-2c0d54110fad":{"to":"b622d2cf-a40e-45c5-b88c-e026350bb947","type":"convenor"},"b6be609c-c7fb-4d52-a9b6-d707e91a19e8":{"to":"995b0339-c2d5-4494-ad83-cf7d7e53eb3c","type":"executive-member"}}
-tmap.id:bd9d0738-e9fc-433b-9ac4-568f681db20c
+tmap.edges:{"d89ccec6-eea0-409e-af95-cf04cc7f7d8a":{"to":"5c1fc5af-36d9-44b7-af2b-880531e10f51","type":"convenor"},"703ebde5-5b25-4fe6-9482-b43bbf23dcfa":{"to":"800f23c6-38c3-43fe-a248-8a2e0614b3b9","type":"executive-member"}}
+tmap.id:c1a02983-55ad-47b1-b512-d90546cdf6bc
 twitter.profile:
 website:
 

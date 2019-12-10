@@ -1,5 +1,5 @@
-created:1575938164908
-modified:1575938164908
+created:1575939740760
+modified:1575939740760
 title:Flightmap
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:ProjectManagement|Europe
 tech.focus:
-tmap.edges:{"6b4e7c69-717d-4514-b8c7-6b7370c59000":{"to":"eeafdc23-4ce9-479e-81c4-c5b2332adadf","type":"general-member"}}
-tmap.id:a9efbc71-7c47-4fec-8e17-989f6bdc2848
+tmap.edges:{"de5b6891-fd45-446f-b02b-455086cc5438":{"to":"eb8c4d44-6d24-48a0-9951-21c37e77ee63","type":"general-member"}}
+tmap.id:db6784cc-140a-4c33-b426-65bcf667a8bf
 twitter.profile:
 website:http://www.bicore.nl/flightmap/
 

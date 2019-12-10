@@ -1,5 +1,5 @@
-created:1575938165232
-modified:1575938165232
+created:1575939741177
+modified:1575939741177
 title:TrustArc / Trust-e
 type:text/vnd.tiddlywiki
 activities:service provider: certification
@@ -28,8 +28,8 @@ sector:for-profit
 status:Active
 tags:
 tech.focus:
-tmap.edges:{"c40938e1-cc90-4982-987c-18648b2eb4c8":{"to":"d5476176-150a-4e57-8968-e890e2040f08","type":"Provides"},"f9770dab-87aa-46e6-aa3f-ad72d3ad7f1d":{"to":"1a018674-2f71-4edd-ba4e-d2e27a72814b","type":"Provides"},"4a4b0c16-baa1-4b02-81fb-668dbcc0c6d0":{"to":"aee742f8-b334-414b-a029-3b5d9b00b3f6","type":"Provides"},"88f04507-c586-48c5-b968-f5dfca5ae69a":{"to":"eb170e4a-6a7e-43f5-b590-744b555f4ae2","type":"Provides"},"d1a33f8b-c844-410d-b062-6dc81f2c9029":{"to":"733cca35-bba7-4ed1-93e5-cc969d393bf7","type":"Provides"},"c59ec6d1-d5a6-4779-bbd8-c870d95170d9":{"to":"27e34414-f4a5-4fbf-9ab3-45f79a1fd1de","type":"Provides"},"8d648596-1641-4c44-8ac2-ed82b500746c":{"to":"aee742f8-b334-414b-a029-3b5d9b00b3f6","type":"Provides"},"285d825d-a122-413d-898f-f592d6dceb64":{"to":"09c529ee-d932-4d12-b4a7-d61ac4ec23ed","type":"Provides"},"32dd2b13-68f0-4923-83b7-e7c9ac2349ce":{"to":"8e4861cf-207f-4a60-bfda-ff00c43a7ada","type":"Provides"},"07cbf8af-2b52-4378-aa7c-0b44c2105c52":{"to":"c1630748-3791-4739-a379-81b3e27efb06","type":"Provides"},"6e98e8c7-698d-4e01-bbf9-6d6d1f0a73c5":{"to":"3989db48-94a3-47f0-acda-7e848191ab86","type":"Provides"}}
-tmap.id:6a4c522d-7bdb-40af-87c3-3c8582a93b1f
+tmap.edges:{"528491a2-2aba-4569-9be6-fe0486be07bd":{"to":"c759d888-ed51-4267-8dca-43af312c0034","type":"Provides"},"ccbb8522-ae49-47ee-807d-2ff1a43e8e8c":{"to":"ee897963-6822-4542-8887-cc98493448f2","type":"Provides"},"23bb2b33-dde6-461c-91a8-0a7934e5c54a":{"to":"3734b6e2-7379-4e82-9c2e-40869d097d3d","type":"Provides"},"9d7b0ec1-cbc7-4713-8592-d6a7671358d1":{"to":"df4a8efa-f0bd-4283-94df-0ea00a34f3f0","type":"Provides"},"70914858-4cdf-4501-a9ee-d0864715d60a":{"to":"cf4a07d4-04e3-42a2-9c08-d3171fb936bf","type":"Provides"},"cc91157d-94f2-4405-89c9-7cc6f6587978":{"to":"737d8587-a4cd-4a5d-93e6-b5a8879705ef","type":"Provides"},"e2303263-88c1-44d1-a014-07941742369c":{"to":"3734b6e2-7379-4e82-9c2e-40869d097d3d","type":"Provides"},"b35b1e60-ec9f-456d-821b-ab2442818a66":{"to":"4b549322-e933-4c64-a3b0-97e15ab976de","type":"Provides"},"26e324b0-a372-4521-aec1-d00f2727d9eb":{"to":"f825bc99-bd31-43fe-8b31-c2704f00d114","type":"Provides"},"bce916a5-78ff-4bd1-9dce-7afb9f9a0d1a":{"to":"719f1d61-cafa-4753-9111-deec24532801","type":"Provides"},"2f087067-aba9-4b4f-97d5-d4f2f69edfcd":{"to":"b954ae68-63a2-4b69-b420-dd2fd7cbb50d","type":"Provides"}}
+tmap.id:d77ad17b-7785-4871-a8fd-bbf9b2fd47ef
 tmap.names:pop-to-orgs all-organizations me2bstar me2bstar- me2ball me2ball-activity me2ball-purpose
 twitter.profile:https://twitter.com/TrustArc
 website:https://www.trustarc.com/products/privacy-platform/trustarc-privacy-data-governance-framework/

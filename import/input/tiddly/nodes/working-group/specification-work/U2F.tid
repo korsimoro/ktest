@@ -1,5 +1,5 @@
-created:1575938164858
-modified:1575938164858
+created:1575939740709
+modified:1575939740709
 title:U2F
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"fb7588b9-2a12-41a5-8cf8-5a617651f79c":{"to":"07b4bff7-3fd3-46dd-8404-8ab53b550e1c","type":"organization-for-group"}}
-tmap.id:a5885d3f-7529-4567-b3cb-78a1ff9f7e56
+tmap.edges:{"d7ebf496-9f70-4e30-85f4-e6e0563b783e":{"to":"3f610afb-63ca-4657-bca0-bb70ef56ab2e","type":"organization-for-group"}}
+tmap.id:88da8259-5ab0-4f25-84d0-4b0ce5434b1e
 url:
 
 Second Factor UX (U2F)

@@ -1,5 +1,5 @@
-created:1575938165233
-modified:1575938165233
+created:1575939741178
+modified:1575939741178
 title:Fight For The Future
 type:text/vnd.tiddlywiki
 activities:outreach: publication; policy development
@@ -28,8 +28,8 @@ sector:non-profit
 status:
 tags:
 tech.focus:
-tmap.edges:{"0ed3ff0b-c743-4ced-92b4-08a42adc5992":{"to":"931e84ed-9ea4-46ea-a743-b8d07ecd7fc4","type":"Provides"},"db2b970c-9416-4d87-b85b-0bc9c385f10c":{"to":"498d946d-0b23-45f5-b977-ba38083f8b56","type":"Provides"},"3c5946b3-de7d-447e-b5ad-751da372bd11":{"to":"b37ee84c-3373-496d-a64c-1cef3c36db96","type":"Provides"},"52fd7489-6973-4ab7-b94c-155c1387354c":{"to":"89a4654d-11de-45f6-95ad-e55a43890676","type":"Provides"},"84f18039-7cee-4e12-ac38-f3e864d23ec5":{"to":"3b1dcf0a-f574-43cb-af41-8b690df2a778","type":"Provides"},"0882009d-a4e3-4d91-8979-6a55f2dca037":{"to":"ba3ec8fc-d6b7-4244-b923-80ae12d63cd1","type":"Provides"},"d3aaf5c1-0014-46e1-bd35-d41dfe6af419":{"to":"dd9b10a3-28f5-42e0-8dc7-64eb4ebc566b","type":"Provides"},"f906d8d0-1a42-4866-8479-2cf0ffb51cc0":{"to":"412da88a-6e77-4cea-9bac-c00299e72cac","type":"Provides"},"458c2a7a-796b-4e5d-b880-32d19c55ff71":{"to":"20b9e9e0-4aff-45de-90f9-3896de4a52b0","type":"Provides"},"fa426c14-8d9a-46dd-a4e4-f8e0fd79cf71":{"to":"4fcd165d-726a-4b7e-adb6-835cf75d4eb8","type":"Provides"},"6937233e-dc06-477b-b1d1-c9861f9157cb":{"to":"0ae68611-8186-4203-bf4c-aee1ed232384","type":"Provides"},"6023b913-4be8-480c-9fab-eb4e70032bfb":{"to":"f4cc6920-d0f5-4b03-82ed-8da8562213bc","type":"Provides"}}
-tmap.id:f1c53e92-026a-4497-941a-c256f3bcabe0
+tmap.edges:{"d189c5af-806c-4c71-9ef9-604c03d6f041":{"to":"d7afa7a6-3dab-4379-8f79-ccf490883c98","type":"Provides"},"0fcb221f-ae76-4d7a-a8d9-7cd4b588be4b":{"to":"f5e8d5d3-f11a-44cc-aee8-dd21d31e90ba","type":"Provides"},"8b3d993d-e2ba-478d-aaf5-6cbc7b8db412":{"to":"562328d9-0e12-4fdf-81f1-b4b644922cd2","type":"Provides"},"b4cbf3a0-f58d-4ddb-8c99-d4702d0fe2d2":{"to":"657fdc9e-ce76-42cd-a81e-5cd0886a8ff6","type":"Provides"},"0844f4ff-cdc8-4914-999d-cd43d71d0172":{"to":"2b6d7efb-8752-461f-8a22-f3ddede9bdf5","type":"Provides"},"a3802c58-092a-484e-85e1-28863a97b2dc":{"to":"f9f570d2-785a-4976-b066-82b474e2dbb7","type":"Provides"},"32fab4dd-5400-4999-86bc-0c941c3f99fa":{"to":"878f5a4e-4ba7-437a-a60e-525ca38caf25","type":"Provides"},"a05d0dfa-052f-45b8-9e23-4b6886da34a8":{"to":"2fc1c672-4ba5-4a61-aa24-accee3f9352f","type":"Provides"},"203b5f17-5a93-4941-a0af-50bbafe9a3cf":{"to":"3720def2-ad09-4d9d-a2fd-97e50d697cde","type":"Provides"},"772cff4d-d54e-427e-89b6-9e6031d47351":{"to":"4cd24f80-0dc7-460a-ba6c-19d5a9cf20de","type":"Provides"},"464aa45b-0d8c-4ea9-8cb5-28af7c03420d":{"to":"083714c8-a53d-4966-881e-521d3b0aa304","type":"Provides"},"d7156b9a-53cb-45d2-a785-6519b7c2edf5":{"to":"b799b2fc-738d-4d9b-be04-ca95faadb5bb","type":"Provides"}}
+tmap.id:02879b3a-b895-4544-9cdc-fbbe7f9361c0
 tmap.names:pop-to-orgs all-organizations me2ball me2ball-activity me2ball-purpose
 twitter.profile:https://twitter.com/fightfortheftr
 website:https://www.fightforthefuture.org/aboutus/

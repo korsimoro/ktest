@@ -1,5 +1,5 @@
-created:1575938165232
-modified:1575938165232
+created:1575939741177
+modified:1575939741177
 title:Patient Privacy Rights
 type:text/vnd.tiddlywiki
 activities:publication: compliance
@@ -28,8 +28,8 @@ sector:non-profit
 status:
 tags:
 tech.focus:
-tmap.edges:{"995bbc9f-0f9c-4ac7-b11d-7fd44c26da30":{"to":"2b7f251e-3aa4-4195-9e65-1006dc934039","type":"Provides"}}
-tmap.id:518b5af2-e282-4354-ab29-fb17890dc014
+tmap.edges:{"f9bce9c2-90eb-4320-bbbc-bbf3aed11321":{"to":"c920727c-8a69-4436-a945-d545ad9d645d","type":"Provides"}}
+tmap.id:7979ac1f-474a-4937-b179-bbd5de570d74
 tmap.names:pop-to-orgs all-organizations me2bstar me2bstar-tbd me2ball me2ball-activity me2ball-purpose
 twitter.profile:https://twitter.com/dpeelmd
 website:https://patientprivacyrights.org/

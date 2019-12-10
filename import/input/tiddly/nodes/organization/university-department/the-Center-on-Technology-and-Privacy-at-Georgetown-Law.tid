@@ -1,37 +1,36 @@
-activities: research: policy development
-annual.budget: 
-audience: 
-created: 15821122172304000
-date.ended: 
-date.founded: 
-digital.harms.addressed: 
-element.type: organization
-funding: 
-github.profile: https://github.com/gtownlawlib
-input.source: me2b
-key.people: 
-linkedin.profile: https://www.linkedin.com/school/georgetownlaw/
-location(s): Washington, DC
-me2b.relationship: 
-modified: 20191210003641389
-org.name: the Center on Technology & Privacy at Georgetown Law
-org.type: University Department
-parent.org: 
-partners: 
-products.and.or.services: 
-purpose: human rights
-relevant.publications: 
-scope: national
-sector: Academic
-title: the Center on Technology & Privacy at Georgetown Law
-tmap.id: ed7bbedf-03e5-44b9-9d3e-c1f738206b23
-type: text/vnd.tiddlywiki
+created:1575939741179
+modified:1575939741179
+title:the Center on Technology & Privacy at Georgetown Law
+type:text/vnd.tiddlywiki
+activities:research: policy development
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:https://github.com/gtownlawlib
+input.source:me2b
+key.people:
+linkedin.profile:https://www.linkedin.com/school/georgetownlaw/
+location(s):Washington, DC
+me2b.relationship:
+org.name:the Center on Technology & Privacy at Georgetown Law
+org.type:University Department
+parent.org:
+partners:
+products.and.or.services:
+purpose:human rights
+relevant.publications:
+scope:national
+sector:Academic
 
 status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:0d5dbb4d-ee7d-4f36-963e-c4ced796f476
+tmap.id:54586bfc-48c2-4bd1-9140-44856fada259
 tmap.names:me2ball me2ball-activity me2ball-purpose
 twitter.profile:https://twitter.com/georgetownlaw
 website:https://www.law.georgetown.edu/privacy-technology-center/

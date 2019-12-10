@@ -1,5 +1,5 @@
-created:1575938164888
-modified:1575938164888
+created:1575939740740
+modified:1575939740740
 title:Innovate UK
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"508e9d47-980d-40c2-8016-45611afd2efd":{"to":"f9251c56-4e53-406c-8e0e-99861a84dd67","type":"government-connection"},"c18ef095-55b4-490f-965d-ac831326701e":{"to":"f9d9c64a-c165-41ca-a8e9-67613bdf0c67","type":"connection"}}
-tmap.id:b11fa010-f2e3-4daf-81a6-1285d132101b
+tmap.edges:{"8bfd25f0-4093-4360-8424-0dab78e53dfd":{"to":"404a85dd-3a7c-477c-ba48-3c6137624ad0","type":"government-connection"},"5eed85aa-9dd0-489b-8bc0-70fe85e0f4ae":{"to":"60a249c0-f714-4c03-b0b1-e24871c15769","type":"connection"}}
+tmap.id:0a634616-b524-40f0-b09d-1cda1ae7ff2d
 twitter.profile:
 website:
 

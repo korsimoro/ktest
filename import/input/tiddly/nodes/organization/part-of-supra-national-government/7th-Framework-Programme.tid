@@ -1,5 +1,5 @@
-created:1575938164887
-modified:1575938164887
+created:1575939740739
+modified:1575939740739
 title:7th Framework Programme
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:Europe
 tech.focus:
-tmap.edges:{"9aae2be5-3a6b-4ad1-9034-4ab18bd56982":{"to":"1a991c3a-d15c-4741-9cfd-0009c856820c","type":"funding-flow"},"151e4839-45eb-456c-9ae8-4049034054c1":{"to":"6e96ba4d-38a7-4b5e-a161-b316b6cde1cd","type":"funding-flow"},"ecd68f46-fc48-4a44-a4ce-a3b783727e27":{"to":"d4f0d766-618e-4511-82f7-e32f7d377827","type":"default"},"963d41ba-3ef8-4e46-8af6-7b067d0d3065":{"to":"c9376362-0f7e-41c9-ad7d-7cfc3a540ca7","type":"funding-flow"},"ffee47b0-48ff-47ae-9e02-dd9beb1e8269":{"to":"7ed44251-5bcc-4c5f-938e-8f04f31edde0","type":"funding-flow"},"079d4c60-dc14-4ead-82f8-485355f103b0":{"to":"fe1fc640-8289-446a-bf1b-7fbf78d3bae2","type":"funding-flow"},"3144ed04-9d81-4049-8d30-a2be35517bbe":{"to":"0148a280-5497-4847-ad40-913bc64bb626","type":"funding-flow"},"548ff835-2fdf-438a-8a8d-6ec4c57bc502":{"to":"9edad8d3-4283-4dbd-8be1-da148a7ea158","type":"funding-flow"},"a027217b-6ee4-429a-8d9d-f40508c57376":{"to":"f2b1b34e-ee2f-4bbc-bc0b-5e8ff77cfac6","type":"funding-flow"},"03a91839-d12b-4659-8d11-4eeccebd1930":{"to":"869a3627-cef9-49e1-a56b-638ae9669d05","type":"funding-flow"},"1b949b53-e7a1-42ed-9058-d7559858c3f0":{"to":"93fce5a7-7962-4ff9-84a0-b05aca9dd8d3","type":"funding-flow"},"7c7b522e-d2e7-44c5-9338-8268bc6e790e":{"to":"5631c7ef-79b3-420f-97e3-4227aa67a1e6","type":"connection"},"c7204d1b-82b9-4c1d-bcab-0cff92018c02":{"to":"524101ec-3139-4eda-a628-6a4daa9c57d2","type":"funding-flow"}}
-tmap.id:fd9d8b9d-88a8-4325-9708-8fd7aa467c48
+tmap.edges:{"b952c710-003c-4f88-9099-8861c9658820":{"to":"7c99b79b-eab0-4786-be41-dcf1b808f436","type":"funding-flow"},"03d122a8-5ece-4a69-8a4d-feaec6d7f25c":{"to":"0c0d0d6d-e90c-451b-b372-8bcc12f46cde","type":"funding-flow"},"f75f48b5-89dd-49a3-8882-0bff48965306":{"to":"69442f02-04bc-44b3-bbd4-3f1d86dc0d25","type":"default"},"ac709f7e-6b79-4562-a86b-919306136b2a":{"to":"cc8758f5-c83a-4eab-9b1f-8bec0e332a83","type":"funding-flow"},"8b946187-a181-4fa6-a4cb-3e3ec99e33d7":{"to":"f59fc0ee-2faf-4944-9f22-0d1256779625","type":"funding-flow"},"efcf7cc9-1227-45e5-a06d-0edfd441c139":{"to":"a03ab652-c956-4671-ab8a-a0e25823b056","type":"funding-flow"},"f1333dcf-6882-4d7f-856e-b885128d67f2":{"to":"1daea967-ad9f-4f97-a055-dee517776bc8","type":"funding-flow"},"1d4969b3-9290-408d-abd8-71d3ffe539a1":{"to":"1125e11f-8058-4459-be3f-d5eb9493968c","type":"funding-flow"},"656365b1-fc7e-41da-b313-03436ff960d3":{"to":"781dfc15-c0ec-457a-829f-079b58451895","type":"funding-flow"},"51591883-f37a-48c1-a7e2-3ce3bcc0b6c7":{"to":"b14bd325-bb0e-4b5c-9ed3-a580165e6525","type":"funding-flow"},"8ffc7553-b466-478b-b4fa-205949894887":{"to":"2dd13d7b-543d-4140-b797-b7548ccb5820","type":"funding-flow"},"c27188e5-061b-466c-938a-f963edf5b20a":{"to":"888e5c32-74c6-42ad-8a23-fdbdce2a853d","type":"connection"},"61858d3d-795f-43ed-98e7-943f5cbba73e":{"to":"d23cd9cd-4717-470d-be60-a35ffc0a5f2a","type":"funding-flow"}}
+tmap.id:81b7e5fc-e5ab-4d91-8d82-6f62ac05b8d1
 twitter.profile:
 website:
 

@@ -1,5 +1,5 @@
-created:1575938164887
-modified:1575938164887
+created:1575939740739
+modified:1575939740739
 title:Connecting Europe Facility
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"6c5dc82c-b6de-4e7a-a530-bb4f3c25d476":{"to":"92fcbd58-f72c-449f-a57d-63fdca941ee6","type":"government-connection"},"c4d0cb70-e0b3-4615-b175-4e6b908cfde2":{"to":"f6f93bc8-9621-4c4d-ac70-bf9813574c8e","type":"government-connection"},"8dc7e9c1-5462-4146-9f7a-4f3e5164b2ca":{"to":"d27f83c5-9563-4b87-bdbd-5fc5a4612c37","type":"government-connection"},"7c9af71e-6f69-4aff-a4a8-8bec5eea209b":{"to":"d4f0d766-618e-4511-82f7-e32f7d377827","type":"funding-flow"}}
-tmap.id:b4669df0-ebb2-4adc-84b5-40c776a012c7
+tmap.edges:{"c566104f-080f-4217-b80c-24e90aea4ef2":{"to":"214a7713-79fb-4d5a-827b-5a5010fb8576","type":"government-connection"},"e3d3b7e3-c5a1-4d88-ab12-5d92a123c3ab":{"to":"5f4bee01-6d7b-4090-bd9f-cbee59ba20ac","type":"government-connection"},"649a96dd-0652-4aa1-a295-3f6d6ee9a992":{"to":"bb531eb3-1e2a-4a8c-ba0b-6a26e52760ee","type":"government-connection"},"c9f74969-886d-494e-980a-1733c1f329e6":{"to":"69442f02-04bc-44b3-bbd4-3f1d86dc0d25","type":"funding-flow"}}
+tmap.id:d6bd29fb-3efc-4885-8e11-483f3741416a
 twitter.profile:
 website:https://ec.europa.eu/digital-single-market/en/connecting-europe-facility
 

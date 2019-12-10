@@ -1,5 +1,5 @@
-created:1575938164870
-modified:1575938164870
+created:1575939740722
+modified:1575939740722
 title:Driver's License Data Verification (DLDV) Service
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"ca408f49-ef99-4fb4-a5dd-aec13c107d35":{"to":"2703d429-691c-42a1-a796-372bc2e08356","type":"organization-for-group"}}
-tmap.id:f9ae7c6f-5abb-4a7a-bae6-b3150a775fb8
+tmap.edges:{"b999cc5f-d0ce-4a51-a21c-61c39ca80b78":{"to":"736f5711-bcf8-43a1-9221-b638185c491b","type":"organization-for-group"}}
+tmap.id:659b2be2-556a-490a-86a0-092bceaf5e20
 url:http://www.aamva.org/DLDV/
 version.or.edition:
 working.group:

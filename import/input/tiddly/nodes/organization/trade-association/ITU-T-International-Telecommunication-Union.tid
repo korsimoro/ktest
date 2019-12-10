@@ -1,5 +1,5 @@
-created:1575938164896
-modified:1575938164896
+created:1575939740748
+modified:1575939740748
 title:ITU-T  International Telecommunication Union
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"5277b009-31b0-433e-9667-5ac7da1221ee":{"to":"b274750b-2a81-43e4-a456-7db0d1b6399d","type":"government-connection"},"2816ca4b-c1d6-44a8-9cdf-9f05f4992bb6":{"to":"7f262cff-62c0-4f47-a904-6d01057928b9","type":"affiliate"},"d9df0719-3dda-43d7-9a83-9518da33a4b1":{"to":"18c20479-61eb-4782-8d58-c69de0288b5e","type":"general-member"}}
-tmap.id:3792a4da-3251-416b-a493-97832ba9f462
+tmap.edges:{"b7f92b58-1396-496f-ad36-df4bf299e6ab":{"to":"69637789-f12e-4881-9c8f-ed258c2bf571","type":"government-connection"},"64f17a40-8304-4f90-b53f-51ba019cd15d":{"to":"a14ddcf4-285d-42b2-96e0-d39f817a1d7a","type":"affiliate"},"cf1b46d8-deef-4445-9ec9-28dee2faebfc":{"to":"b541c81b-4963-4ee3-8740-52aab74d730c","type":"general-member"}}
+tmap.id:899d46be-dc37-4fb3-a03b-066299b2fabd
 twitter.profile:
 website:https://www.itu.int/en/ITU-T/Pages/default.aspx
 

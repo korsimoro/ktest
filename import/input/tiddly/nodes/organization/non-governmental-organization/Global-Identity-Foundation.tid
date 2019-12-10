@@ -1,5 +1,5 @@
-created:1575938164902
-modified:1575938164902
+created:1575939740752
+modified:1575939740752
 title:Global Identity Foundation
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"a2a63ddc-a130-4bae-946d-942ef82772a2":{"to":"7fa75e11-9c81-4bca-8e3b-e4cac2b925d3","type":"author"},"ff456d2a-16a3-47c6-9f5a-bed9b6e06e48":{"to":"76590683-674f-4c88-875d-692faf72f916","type":"author"},"b2ae5c2e-10de-42ee-a1f2-cf856599a90c":{"to":"04a1007c-d82d-47dd-93a6-9ad63cdce1a1","type":"author"},"a33ced8d-56c3-410c-abe0-eaad8f6b2395":{"to":"e6c188bf-671f-488a-96b7-52fe3e270ae7","type":"employee"},"45611379-5e41-4596-813f-6d7a9c03ab5d":{"to":"ab9be857-a3e6-4593-8941-c147b7c8ac30","type":"author"},"1cfc14cb-7536-419b-a9b2-c522fc99761c":{"to":"9d0386e5-924e-44b2-bf6e-940a329269ab","type":"employee"}}
-tmap.id:7fd2df54-8f99-45d9-9fa9-9f4975ebd36b
+tmap.edges:{"ac38d508-a510-4cd0-b924-0f61821e5713":{"to":"21102c55-39b6-40c4-b21d-86269b215c6c","type":"author"},"7b2cafd1-3936-4f3d-859b-b71be4bb2897":{"to":"0d3e8328-2605-40cc-ac49-364e34631f48","type":"author"},"91a3f519-320c-4eea-8498-fc9871045ba1":{"to":"3a1bee3b-9a12-4ef5-9361-b2e091bc36aa","type":"author"},"ac5740c5-03ca-4d89-954a-3289a2fdd49b":{"to":"d9abc7cd-2730-466f-b572-ff4d49c26783","type":"employee"},"4da46c46-4d11-46d1-96b5-cc3d37b698b5":{"to":"ca3f6c3a-3c37-4027-b4a2-b8afa9e00464","type":"author"},"2b3201bf-6400-476a-80aa-b1fafb5f1519":{"to":"f074ff23-c175-4291-adb6-b0450ed406ee","type":"employee"}}
+tmap.id:eb7d3482-3ae4-4ed3-8cd7-61799b433e3b
 twitter.profile:
 website:http://www.globalidentityfoundation.org/index.html
 

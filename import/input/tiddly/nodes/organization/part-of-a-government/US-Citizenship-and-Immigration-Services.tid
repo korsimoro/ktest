@@ -1,5 +1,5 @@
-created:1575938164888
-modified:1575938164888
+created:1575939740740
+modified:1575939740740
 title:US Citizenship and Immigration Services
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"642fa5bb-4372-43b0-b45e-9aa10d3b8acd":{"to":"7bb6e917-ecf0-4a06-a366-25f87e4efe75","type":"government-connection"}}
-tmap.id:36097371-5f83-455f-bd28-7488c1a1fe5d
+tmap.edges:{"565524fa-e06c-4815-8b22-b07bebcc7487":{"to":"aea2a80a-2304-4c19-8db5-dae7b73079f5","type":"government-connection"}}
+tmap.id:ad1e1634-631e-41e4-9139-dcff2ba25b8c
 twitter.profile:
 website:
 

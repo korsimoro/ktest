@@ -1,37 +1,36 @@
-activities: regulation
-annual.budget: 
-audience: 
-created: 15821122172303000
-date.ended: 
-date.founded: 
-digital.harms.addressed: 
-element.type: organization
-funding: 
-github.profile: 
-input.source: me2b
-key.people: 
-linkedin.profile: http://linkedin.com/company/information-commissioner's-office
-location(s): UK
-me2b.relationship: 
-modified: 20191210003635055
-org.name: Information Commissioner's Office (ICO)
-org.type: Government Department
-parent.org: 
-partners: 
-products.and.or.services: 
-purpose: transparancy and accountability, consumer support
-relevant.publications: 
-scope: national
-title: Information Commissioner's Office (ICO)
-tmap.id: e7d4d8f8-5156-44a7-bdfb-4412132f7987
-type: text/vnd.tiddlywiki
+created:1575939741178
+modified:1575939741178
+title:Information Commissioner's Office (ICO)
+type:text/vnd.tiddlywiki
+activities:regulation
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
+key.people:
+linkedin.profile:http://linkedin.com/company/information-commissioner's-office
+location(s):UK
+me2b.relationship:
+org.name:Information Commissioner's Office (ICO)
+org.type:Government Department
+parent.org:
+partners:
+products.and.or.services:
+purpose:transparancy and accountability, consumer support
+relevant.publications:
+scope:national
 
 sector:government
 status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:2e1be244-1fa6-4ba1-959e-b8485ae810f9
+tmap.id:a17685de-d7ee-4ba5-85ba-5215dbfbc097
 tmap.names:me2ball me2ball-activity me2ball-purpose
 twitter.profile:https://twitter.com/iconews
 website:https://ico.org.uk/

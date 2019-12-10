@@ -1,5 +1,5 @@
-created:1575938164872
-modified:1575938164872
+created:1575939740723
+modified:1575939740723
 title:Records and Information from DMVs for E-Verify (RIDE)
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"08d2fbcd-6d90-48e1-9d01-2300e50be876":{"to":"2703d429-691c-42a1-a796-372bc2e08356","type":"default"},"2d056bec-eb67-4ce1-976a-4330f434831a":{"to":"2703d429-691c-42a1-a796-372bc2e08356","type":"organization-for-group"}}
-tmap.id:905a5fa2-0b92-4889-8df7-e60e8de14e52
+tmap.edges:{"496cc64f-c468-493b-a79b-c87725da6baa":{"to":"736f5711-bcf8-43a1-9221-b638185c491b","type":"default"},"6c7b0237-5d81-463f-a6e7-9ed0104931a7":{"to":"736f5711-bcf8-43a1-9221-b638185c491b","type":"organization-for-group"}}
+tmap.id:65e7fec3-8e39-48d6-a6c9-51ae4343c083
 url:http://www.aamva.org/RIDE/
 version.or.edition:
 working.group:

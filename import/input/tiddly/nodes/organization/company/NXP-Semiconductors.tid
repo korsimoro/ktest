@@ -1,5 +1,5 @@
-created:1575938164913
-modified:1575938164913
+created:1575939740764
+modified:1575939740764
 title:NXP Semiconductors
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f0e0eb92-3395-495e-88ab-b2acd8aaa984":{"to":"eeafdc23-4ce9-479e-81c4-c5b2332adadf","type":"general-member"}}
-tmap.id:4df5f7bb-47ee-408b-a809-66ae0f5f00b3
+tmap.edges:{"4db562c6-8a32-4e94-ae53-c8ff3addf37c":{"to":"eb8c4d44-6d24-48a0-9951-21c37e77ee63","type":"general-member"}}
+tmap.id:43ff2809-dee2-4c69-9972-267c44bcfb12
 twitter.profile:
 website:http://www.nxp.com/
 

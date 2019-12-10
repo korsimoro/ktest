@@ -1,5 +1,5 @@
-created:1575938165232
-modified:1575938165232
+created:1575939741177
+modified:1575939741177
 title:Decentralized Identity Foundation
 type:text/vnd.tiddlywiki
 activities:software development: standard development: outreach
@@ -28,8 +28,8 @@ sector:non-profit
 status:
 tags:
 tech.focus:Identity: Information Sharing Control
-tmap.edges:{"ca74f60f-aeb1-40b1-a8b6-6e389efa7209":{"to":"c608f5ee-07f8-4ed5-935c-a3e5130ce481","type":"Provides"},"6102e0ac-4589-4c0a-a84b-f6fa6cc55fb6":{"to":"92900d67-364a-4ec3-9f68-b776c5721c68","type":"Provides"},"b6e74296-6f31-4cc6-a0b9-4bebde303f26":{"to":"99cccda4-50d8-4de7-9a32-ec4f38b2255b","type":"Provides"},"ab1ed81f-f4f2-43fc-aed8-24acc7672f73":{"to":"c21b66ea-a983-4f87-aba0-4e47ad89e54b","type":"Provides"},"eec0f43c-b072-4e63-be57-5581866b9906":{"to":"2e3c5e3d-bf47-49e8-b603-302a681707a6","type":"Provides"},"fdb295b3-8557-4174-8306-21ee51899290":{"to":"4ba35d0a-c656-4e1c-9db8-88e5b03d8f52","type":"Provides"}}
-tmap.id:98848d7a-7bf5-44bb-b872-a31e6ae41ffc
+tmap.edges:{"5722572e-38f9-4f23-8551-9fa2e5844f3b":{"to":"6c45297f-a2fb-42f5-9a67-8d2d1e9b29db","type":"Provides"},"368d5cfc-39cd-4c96-8ca5-06fde8849063":{"to":"b82d666e-31b1-450a-8d24-ed5b0ea6a328","type":"Provides"},"07aade25-481c-498c-9617-f5c47d845a91":{"to":"32e0f9f3-0260-4157-bb66-2125befe2b15","type":"Provides"},"26174eaf-25b1-4a58-ba50-7b9c879732b2":{"to":"99a941a1-965c-41c7-bfc2-41154de0914b","type":"Provides"},"c8f75499-3077-433c-bb38-2e4fcdf8b640":{"to":"8da69713-ede2-4c34-82d4-b7f46564be59","type":"Provides"},"07fc79dd-905b-4767-b87c-38715902577e":{"to":"30010d51-02ec-4acf-8877-8b5cbab012ef","type":"Provides"}}
+tmap.id:008e031c-c39a-4300-8c8b-af93f7cbbf5d
 tmap.names:pop-to-orgs all-organizations me2bstar me2bstar-input-to-interoperability-specification me2ball me2ball-activity me2ball-purpose me2ball-tech-focus
 twitter.profile:https://twitter.com/DecentralizedID
 website:https://identity.foundation/

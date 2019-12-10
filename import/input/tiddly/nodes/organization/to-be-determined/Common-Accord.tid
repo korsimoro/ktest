@@ -1,9 +1,8 @@
-activities: publication: curation
-created: 15821122172303000
-modified: 20191210003630927
-title: Common Accord
-tmap.id: 656f2ff3-ebd4-407f-bcb5-31be97d37957
-type: text/vnd.tiddlywiki
+created:1575939741177
+modified:1575939741177
+title:Common Accord
+type:text/vnd.tiddlywiki
+activities:publication: curation
 
 annual.budget:
 audience:
@@ -31,7 +30,7 @@ status:
 tags:curation
 tech.focus:
 tmap.edges:{}
-tmap.id:672ab84b-db2c-45dc-8f12-4f53492f36f0
+tmap.id:6cb86a4a-d76b-45b1-949f-df8f8ef04990
 tmap.names:me2ball me2ball-activity me2ball-purpose me2ball-tag
 twitter.profile:https://twitter.com/commonaccord
 website:http://www.commonaccord.org

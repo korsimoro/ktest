@@ -1,5 +1,5 @@
-created:1575938164912
-modified:1575938164912
+created:1575939740763
+modified:1575939740763
 title:Post Office
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"a8a1e52f-652f-4c7f-b972-b08a30a90124":{"to":"95b325bd-92d6-4279-8be2-6054c2a87902","type":"certified-idp"}}
-tmap.id:335a9400-4d3a-43fe-8078-c92c22417bb7
+tmap.edges:{"f20a8c0e-7fea-4854-8bcf-823d6ebd6226":{"to":"28c4d3b0-21b7-4be3-baee-dccf1e59f90a","type":"certified-idp"}}
+tmap.id:c4cb7b52-0745-40c4-b65e-40eacd2a640a
 twitter.profile:
 website:http://www.postoffice.co.uk/government-verify
 

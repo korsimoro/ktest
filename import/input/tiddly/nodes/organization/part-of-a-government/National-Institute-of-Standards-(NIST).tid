@@ -1,5 +1,5 @@
-created:1575938164888
-modified:1575938164888
+created:1575939740740
+modified:1575939740740
 title:National Institute of Standards (NIST)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"b32e0188-7b26-4f4a-9878-445bfde890fd":{"to":"b5461032-ce0a-4247-a139-af036fd738ef","type":"government-connection"}}
-tmap.id:2796d973-489b-442e-81ee-1d387c15a26f
+tmap.edges:{"aff524c9-a8c5-491b-8ba4-3b1b07ee1fa5":{"to":"17b9562e-16aa-496b-a46a-69cb0f9ea4d8","type":"government-connection"}}
+tmap.id:0b16f711-d039-49c9-8ad8-6be53b24ad01
 twitter.profile:
 website:
 
