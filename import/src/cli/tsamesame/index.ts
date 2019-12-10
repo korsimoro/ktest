@@ -14,7 +14,7 @@ async function load(inbase:string) {
 
 export = (args:string[]) => {
 
-	load('input').then(()=>{
+	load('tload').then(()=>{
 		console.log("done");
 	})
 }
