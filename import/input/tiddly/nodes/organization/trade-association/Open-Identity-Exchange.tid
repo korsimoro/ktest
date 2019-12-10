@@ -1,8 +1,8 @@
-created:1575897973401
-modified:1575897973401
-title:Open identity Exchange
+created:1575938164898
+modified:1575938164898
+title:Open Identity Exchange
 type:text/vnd.tiddlywiki
-activities:research: publication
+activities:
 annual.budget:
 audience:
 date.ended:
@@ -11,27 +11,25 @@ digital.harms.addressed:
 element.type:organization
 funding:
 github.profile:
-input.source:me2b
-key.people:https://openidentityexchange.org/wp-content/uploads/2019/10/Establishing-a-Trusted-Interoperable-Digital-Identity-Ecosystem-in-the-UK-White-Paper-Oct-2019.pdf
-linkedin.profile:https://www.linkedin.com/groups/8101604/
+key.people:
+linkedin.profile:
 location(s):
 me2b.relationship:
-org.name:Open identity Exchange
+org.name:Open Identity Exchange
 org.type:Trade Association
 parent.org:
 partners:
 products.and.or.services:
-purpose:tech interoperability: ecosystem building
-relevant.publications:http://www.openidentityexchange.org/blog/
+purpose:
+relevant.publications:
 scope:
-sector:non-profit
+sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{}
-tmap.id:07077f21-902b-406f-966c-33793fe07bbe
-tmap.names:me2bstar me2bstar-activity me2bstar-purpose
-twitter.profile:https://twitter.com/OpenIDExchange
-website:https://openidentityexchange.org/
+tmap.edges:{"b8e50e46-eaf7-42f8-a545-00bf4fa4c946":{"to":"9a38b6fc-2199-4b27-a6ed-6fe96a762e2d","type":"connection"},"406f6d04-1235-45a8-9b71-8d5fc2a9631e":{"to":"63323618-681c-4e7e-b09f-af1ff77ed478","type":"convenor"},"797ebf25-bc67-46c2-a008-691506d76586":{"to":"09dba191-aa04-4da8-9226-9f1b6260b107","type":"convenor"}}
+tmap.id:b0b0d908-60f1-49e7-967a-e6c37a11854f
+twitter.profile:
+website:
 
-The Open Identity Exchange (OIX) is a technology agnostic, non-profit trade organisation of leaders from competing business sectors focused on building the volume and velocity of trusted transactions online. OIX enables members to expand existing identity services and serve adjacent markets. Members advance their market position through joint research and engaging in pilot projects to test real world use cases. The results of these efforts are published via OIX white papers and shared publicly via OIX workshops. OIX members work together to jointly fund and  participate in pilot projects (sometimes referred to as alpha projects). These pilots test business, legal, and/or technical concepts or theory and their interoperability in real world use cases. OIX operates the OIXnet trust registry, a global, authoritative registry of business, legal and technical requirements needed to ensure market adoption and global interoperability.
+

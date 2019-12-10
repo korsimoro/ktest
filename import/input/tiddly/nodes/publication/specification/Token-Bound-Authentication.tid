@@ -1,5 +1,5 @@
-created:1575897973064
-modified:1575897973064
+created:1575938164863
+modified:1575938164863
 title:Token Bound Authentication
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Enhanced Authentication Profile Working Group
 tags:
 tech.focus:
-tmap.edges:{"59c4b82d-cc18-4591-a351-13d3c7fb01fe":{"to":"8a7c01e3-3ea0-468d-94a0-60020a8fe7a7","type":"connection"},"ab1077e9-bb2e-4dfd-ad30-e76e1d23a5c6":{"to":"fedef4ae-f0bb-4755-9e47-91c8e3bcb701","type":"specification-of-group"}}
-tmap.id:1c2d8760-fbbd-411d-bbf6-7cf8e4ec3dc5
+tmap.edges:{"68474bd1-6b0f-4599-a36c-b183e136d8d5":{"to":"b9fc387c-bd65-4875-bf2b-91abd879a3ae","type":"connection"},"0c584fea-f2a9-4ccf-9b3d-8c121d60ac50":{"to":"5c74ab3f-eaa8-43cd-823f-8a19f2a89268","type":"specification-of-group"}}
+tmap.id:b8fabaaf-c393-43ca-b450-ae9b296bd48b
 url:http://openid.net/specs/openid-connect-token-bound-authentication-1_0.html
 version.or.edition:
 volume.frequency:

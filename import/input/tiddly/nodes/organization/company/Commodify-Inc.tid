@@ -1,7 +1,7 @@
 activities: service provider
 annual.budget: 
 audience: 
-created: 15820721014002000
+created: 15821122172304000
 date.ended: 
 date.founded: 
 digital.harms.addressed: 
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile: 
 location(s): 
 me2b.relationship: Certification Candidate
-modified: 20191209132646858
+modified: 20191210003630941
 org.name: Commodify Inc
 org.type: Company
 parent.org: 
@@ -27,12 +27,12 @@ status:
 tags: 
 tech.focus: Information Sharing Control: analytics
 title: Commodify Inc
-tmap.id: f0ef8c6e-e24e-4fb9-a9a8-61b817aec450
+tmap.id: a700a7ea-b357-48c1-a603-f5db30950069
 type: text/vnd.tiddlywiki
 
-tmap.edges:{"4786ca0c-2970-47ef-8f1d-f02f85082988":{"to":"47b95102-98da-4add-82dd-bf2c86847f0d","type":"Provides"}}
-tmap.id:0a6df90a-c548-4ea0-a3ae-2ddf5cf874ef
-tmap.names:me2bstar me2bstar-certification-candidate me2bstar-activity me2bstar-purpose
+tmap.edges:{"5127a482-93bd-43e8-b69a-f839f2838be2":{"to":"936f0461-457e-4518-807a-4a5fdd7fed40","type":"Provides"}}
+tmap.id:bf1ba4ed-6156-43b1-b336-a9e0303b217b
+tmap.names:pop-to-orgs all-organizations me2bstar me2bstar-certification-candidate me2ball me2ball-activity me2ball-purpose me2ball-tech-focus
 twitter.profile:
 website:http://commodify.us
 

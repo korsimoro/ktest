@@ -1,5 +1,5 @@
-created:1575897973113
-modified:1575897973113
+created:1575938164908
+modified:1575938164908
 title:Cryptas
 type:text/vnd.tiddlywiki
 activities:
@@ -25,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:0
+tags:Europe
 tech.focus:
-tmap.edges:{"4a0853a9-c7bb-4729-aa91-d572913c6d24":{"to":"f355bd45-679a-4979-a501-46c4d9281936","type":"general-member"}}
-tmap.id:feb89a0f-6876-4b40-9fc6-096632053c17
+tmap.edges:{"22ba52bd-d7ab-410f-a8fc-fb50dac543a6":{"to":"eeafdc23-4ce9-479e-81c4-c5b2332adadf","type":"general-member"}}
+tmap.id:10ac63cd-e674-4644-96a1-433d85a58fc6
 twitter.profile:
 website:http://www.cryptas.com/en.html
 

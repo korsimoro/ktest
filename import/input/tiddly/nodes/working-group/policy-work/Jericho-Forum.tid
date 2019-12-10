@@ -1,5 +1,5 @@
-created:1575897973056
-modified:1575897973056
+created:1575938164854
+modified:1575938164854
 title:Jericho Forum
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"eb0d8914-4ad4-4d63-acdf-b5c8c46765d9":{"to":"e5e391a7-3aa6-46cc-b72a-b6aed70344ab","type":"organization-for-group"},"0685c2ee-0d2e-4f02-bd9d-252585112a44":{"to":"631e60ec-6ed3-481f-85ec-55d35d4b8ec3","type":"connection"},"a9a3bdfe-acb5-4690-bbb6-83b62d79ada7":{"to":"73173834-1be6-4fa3-9176-4c2140666c57","type":"author"}}
-tmap.id:4e574264-c5e8-48f2-89e0-ffec5da8a40a
+tmap.edges:{"a542457a-af08-4c47-81c3-a2ebfe3a72a3":{"to":"33e40017-7e3b-40dc-98ee-f76570af336a","type":"organization-for-group"},"05475ae6-579e-41a1-80cb-13ef4e9842cc":{"to":"7fd2df54-8f99-45d9-9fa9-9f4975ebd36b","type":"connection"},"1c48afed-ce63-457f-8e63-538348e94bd5":{"to":"781aa8af-8ac5-4b4f-a998-57ce8b0d5308","type":"author"}}
+tmap.id:fb9a0779-fdf8-4edb-ab46-eedd39c3d747
 url:
 
 Jericho Forum is the leading international IT security thought-leadership association dedicated to advancing secure business in a global open-network environment. Members include top IT security officers from multi-national Fortune 500s & entrepreneurial user companies, major security vendors, government, & academics. Working together, members drive approaches and standards for a secure, collaborative online business world.

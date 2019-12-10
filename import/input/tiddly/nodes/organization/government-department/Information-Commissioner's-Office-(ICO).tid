@@ -1,7 +1,7 @@
 activities: regulation
 annual.budget: 
 audience: 
-created: 15820721014001000
+created: 15821122172303000
 date.ended: 
 date.founded: 
 digital.harms.addressed: 
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile: http://linkedin.com/company/information-commissioner's-office
 location(s): UK
 me2b.relationship: 
-modified: 20191209132645908
+modified: 20191210003635055
 org.name: Information Commissioner's Office (ICO)
 org.type: Government Department
 parent.org: 
@@ -23,7 +23,7 @@ purpose: transparancy and accountability, consumer support
 relevant.publications: 
 scope: national
 title: Information Commissioner's Office (ICO)
-tmap.id: d51d6d80-2eeb-49b5-80df-4cb9c6011802
+tmap.id: e7d4d8f8-5156-44a7-bdfb-4412132f7987
 type: text/vnd.tiddlywiki
 
 sector:government
@@ -31,8 +31,8 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:285153e1-8c1c-44d0-a144-c7132fc5fcf8
-tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+tmap.id:2e1be244-1fa6-4ba1-959e-b8485ae810f9
+tmap.names:me2ball me2ball-activity me2ball-purpose
 twitter.profile:https://twitter.com/iconews
 website:https://ico.org.uk/
 

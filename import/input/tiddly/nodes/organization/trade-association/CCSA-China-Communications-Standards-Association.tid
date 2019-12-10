@@ -1,5 +1,5 @@
-created:1575897973098
-modified:1575897973098
+created:1575938164896
+modified:1575938164896
 title:CCSA  China Communications Standards Association
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f387acca-c275-4530-8214-2e0d02963d43":{"to":"670d6a30-8c95-4f75-a450-c4cc0c7b983f","type":"executive-member"},"2fa04262-885c-4389-ae6e-1c3dfd8173dd":{"to":"4c4d1127-4541-4d9c-8281-6bf45d8f3f0a","type":"general-member"}}
-tmap.id:3db32ac6-e4c4-46b9-be48-ed6dc8f24c27
+tmap.edges:{"0f95b9c1-b125-4346-921c-dc0915af6270":{"to":"96f022ee-5dc0-4e6a-8a55-95c0f060bea9","type":"executive-member"},"11bcddf3-76bd-48f1-8bb8-373ce8f233ec":{"to":"18c20479-61eb-4782-8d58-c69de0288b5e","type":"general-member"}}
+tmap.id:1fc7961a-2494-4b61-a417-90276c0298b2
 twitter.profile:
 website:http://www.ccsa.org.cn/english/
 

@@ -1,5 +1,5 @@
-created:1575897973400
-modified:1575897973400
+created:1575938165232
+modified:1575938165232
 title:Osano
 type:text/vnd.tiddlywiki
 activities:service provider: software development: compliance auditing
@@ -28,9 +28,9 @@ sector:for-profit
 status:
 tags:
 tech.focus:
-tmap.edges:{"65c5a2bf-8bcc-44ed-b594-0fc48f0cfbe3":{"to":"f822f654-d966-4948-a5ac-2c7e46d1c01b","type":"Provides"},"aa4b2a15-399a-4229-8f5b-4236539a008d":{"to":"f822f654-d966-4948-a5ac-2c7e46d1c01b","type":"Provides"}}
-tmap.id:61713eba-ebc3-4d59-9081-e35cb398c037
-tmap.names:me2bstar me2bstar-activity
+tmap.edges:{"4abf647e-5fe0-47fe-a4c8-f6be15b25d67":{"to":"901f3f86-7cd9-4f4f-b647-48758a99b27e","type":"Provides"},"64232fcf-f02b-484a-957f-bf101badbd78":{"to":"901f3f86-7cd9-4f4f-b647-48758a99b27e","type":"Provides"}}
+tmap.id:9ffd8942-17f0-42c4-a88f-af68289fcda6
+tmap.names:pop-to-orgs all-organizations me2ball me2ball-activity
 twitter.profile:https://twitter.com/osanoatx
 website:https://www.osano.com
 

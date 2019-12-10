@@ -1,5 +1,5 @@
-created:1575897973401
-modified:1575897973401
+created:1575938165232
+modified:1575938165232
 title:Mozilla Foundation
 type:text/vnd.tiddlywiki
 activities:research: publication
@@ -28,9 +28,9 @@ sector:non-profit
 status:
 tags:
 tech.focus:
-tmap.edges:{"66c69d08-55ed-4008-bd9b-905348a98b30":{"to":"06780404-2dbe-47f7-b25a-142deb5d8d6e","type":"Provides"},"025c0df4-a469-4434-a954-1f7216c4954a":{"to":"b3103455-cea6-4769-b90f-06083944bc3a","type":"Provides"}}
-tmap.id:3a67445a-6df4-4f8a-86ee-0c61988044e9
-tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+tmap.edges:{"8e2b3a9b-b56d-424c-933f-f681bfe6624f":{"to":"c41cc7b8-060d-44ae-8a1c-4758acfa39f8","type":"Provides"},"636a94c0-0e3c-4962-b33b-aec6e3fab007":{"to":"46b20c96-7f92-4c5e-b9f8-61532c350f64","type":"Provides"}}
+tmap.id:d81d600f-7e1e-4686-be5b-bfd54a8e7bb8
+tmap.names:pop-to-orgs all-organizations me2ball me2ball-activity me2ball-purpose
 twitter.profile:https://twitter.com/mozilla
 website:https://foundation.mozilla.org/en/
 

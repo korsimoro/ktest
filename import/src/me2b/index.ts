@@ -166,6 +166,7 @@ export class Me2BModel
 			},"metamodel",this)
 		elt.title=label
 		elt.subtype=type
+		elt.fields['metamodel.subtype']=type
 		this.encounterElement(elt)
 		return elt
 	}

@@ -1,5 +1,5 @@
-created:1575897973065
-modified:1575897973065
+created:1575938164864
+modified:1575938164864
 title:Do Not Track: A Universal Third-Party Web Tracking Opt Out
 type:text/vnd.tiddlywiki
 audience:
@@ -15,10 +15,10 @@ publication.type:Specification
 purpose:
 sector:
 sponsoring.org:
-tags:0
+tags:dead
 tech.focus:
 tmap.edges:{}
-tmap.id:2edb2f9d-fc3b-4d39-afe9-428f007cf1da
+tmap.id:467d6030-0878-4f31-b00a-a79324f8e720
 url:https://datatracker.ietf.org/doc/draft-mayer-do-not-track/
 version.or.edition:
 volume.frequency:

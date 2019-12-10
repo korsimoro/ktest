@@ -1,5 +1,5 @@
-created:1575897973400
-modified:1575897973400
+created:1575938165232
+modified:1575938165232
 title:TermSafe
 type:text/vnd.tiddlywiki
 activities:service provider: certification
@@ -28,9 +28,9 @@ sector:for-profit
 status:Active?
 tags:
 tech.focus:
-tmap.edges:{"fb4116ef-7155-4ae4-a850-8ee395a76a22":{"to":"e6cd3d3e-18f6-4549-8d61-8c641041cadd","type":"Provides"}}
-tmap.id:97a0844d-83a7-4340-bbe4-d4ba5fadbd3c
-tmap.names:me2bstar me2bstar-content-source-for-me2b-certification me2bstar-activity me2bstar-purpose
+tmap.edges:{"4cb8c0c7-0b30-4c87-9f11-cf933d69131c":{"to":"f0a676d4-2cc9-4421-b992-ffc469aeff79","type":"Provides"}}
+tmap.id:6ed2f85e-dba0-4079-88fb-ff17d352d250
+tmap.names:pop-to-orgs all-organizations me2bstar me2bstar-content-source-for-me2b-certification me2ball me2ball-activity me2ball-purpose
 twitter.profile:https://twitter.com/term_SAFE
 website:http://termsafe.com/
 

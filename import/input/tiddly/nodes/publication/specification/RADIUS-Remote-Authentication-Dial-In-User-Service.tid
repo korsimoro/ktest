@@ -1,5 +1,5 @@
-created:1575897973066
-modified:1575897973066
+created:1575938164865
+modified:1575938164865
 title:RADIUS - Remote Authentication Dial In User Service
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"c94c8fe9-7163-4a2f-9335-c20a0f28e061":{"to":"fdea9cba-8cfb-4fb8-afeb-20c613a9ea1c","type":"organization-for-group"}}
-tmap.id:075cff67-4522-4bfb-adab-ab457cf0fc09
+tmap.edges:{"38636cdc-aadd-495c-bdd5-a0382092e6ae":{"to":"4d8571d7-5fe2-4bf8-8fc0-012ad7f317cc","type":"organization-for-group"}}
+tmap.id:c2f73bc8-c8b2-4e7a-a1e0-e84a03b97c85
 url:https://tools.ietf.org/html/rfc2865
 version.or.edition:
 volume.frequency:

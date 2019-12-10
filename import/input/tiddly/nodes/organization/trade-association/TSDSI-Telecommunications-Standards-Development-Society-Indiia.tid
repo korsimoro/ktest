@@ -1,5 +1,5 @@
-created:1575897973093
-modified:1575897973093
+created:1575938164894
+modified:1575938164894
 title:TSDSI  Telecommunications Standards Development Society, Indiia
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"c824b260-dad4-4867-a49a-a577daa1f262":{"to":"4c4d1127-4541-4d9c-8281-6bf45d8f3f0a","type":"general-member"},"a16cb9ab-e48e-4dc3-aaac-43b13187904d":{"to":"670d6a30-8c95-4f75-a450-c4cc0c7b983f","type":"executive-member"}}
-tmap.id:1537905a-a497-4476-82fb-e1a639d38d5d
+tmap.edges:{"aba5c9bd-e66d-4ffd-92e8-3dd7446029d5":{"to":"18c20479-61eb-4782-8d58-c69de0288b5e","type":"general-member"},"8b9ff154-fdc3-41c3-887b-12c6b7efc2c4":{"to":"96f022ee-5dc0-4e6a-8a55-95c0f060bea9","type":"executive-member"}}
+tmap.id:c01ebe9c-6143-454d-aa5f-4900d9cd7ffe
 twitter.profile:
 website:http://tsdsi.org
 

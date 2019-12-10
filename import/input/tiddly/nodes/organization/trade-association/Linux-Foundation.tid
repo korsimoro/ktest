@@ -1,5 +1,5 @@
-created:1575897973092
-modified:1575897973092
+created:1575938164893
+modified:1575938164893
 title:Linux Foundation
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"8ae8d513-e050-45bf-9a13-2946d6f5a77e":{"to":"244f76b4-0a1e-4cc7-8686-fa5b9ac02af7","type":"default"},"91523bb5-adca-47df-9e7b-06ead1d21096":{"to":"8b802a2c-3f5f-421f-a3e1-37f399070785","type":"default"}}
-tmap.id:652bf7d6-bc14-44f9-a426-8a1752ee33f8
+tmap.edges:{"119df01d-8c07-4e05-9e0a-f2642f03ea3b":{"to":"c3e2be55-71a0-438d-8350-d74cc7b33af2","type":"default"},"d6902a88-719c-471f-9fcd-d4285734c390":{"to":"770fd236-e082-4787-926d-aa300cc3eb41","type":"default"}}
+tmap.id:7a0ec445-551d-4a92-818c-e5e708a34a9e
 twitter.profile:
 website:https://www.linuxfoundation.org/projects
 

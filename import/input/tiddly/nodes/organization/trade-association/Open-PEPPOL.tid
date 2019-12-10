@@ -1,5 +1,5 @@
-created:1575897973100
-modified:1575897973100
+created:1575938164897
+modified:1575938164897
 title:Open PEPPOL
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"6fe4627b-da99-4304-b813-bbdd75fa15c5":{"to":"59b36d04-7975-45a6-bfa5-4fcf8ed9c67b","type":"connection"}}
-tmap.id:1416bd07-330c-42c8-bdd9-617eb2df4913
+tmap.edges:{"e56a64c6-6118-486b-ac7f-674858d91525":{"to":"e1132b9d-7408-42e6-ae83-6c3040e9c3b9","type":"connection"}}
+tmap.id:d4f0d766-618e-4511-82f7-e32f7d377827
 twitter.profile:
 website:http://www.peppol.eu
 

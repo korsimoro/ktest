@@ -1,5 +1,5 @@
-created:1575897973070
-modified:1575897973070
+created:1575938164870
+modified:1575938164870
 title:Cookie Clearinghouse
 type:text/vnd.tiddlywiki
 activities:
@@ -20,10 +20,10 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:0
+tags:dead
 terms.of.service:
-tmap.edges:{"85ad9e41-b62e-40b5-9714-3c4c68344c8e":{"to":"6bad8a5d-3d54-4dc4-827a-0da69744dc9a","type":"connection"}}
-tmap.id:c05263b5-a0f0-45d8-9d28-46a0d9bdacde
+tmap.edges:{"d3c4606f-6238-4bca-97bf-997fa5828996":{"to":"a9cf606c-876e-4da9-9c10-f87798e9b648","type":"connection"}}
+tmap.id:f2aa7d84-b6ef-49b4-bc75-2b9ae229f923
 url:http://cch.law.stanford.edu
 version.or.edition:
 working.group:

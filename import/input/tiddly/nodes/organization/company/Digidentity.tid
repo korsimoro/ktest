@@ -1,5 +1,5 @@
-created:1575897973115
-modified:1575897973115
+created:1575938164911
+modified:1575938164911
 title:Digidentity
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"28837500-33de-405f-a88f-81fc9fb4f0f7":{"to":"eadaabe6-e240-41a3-abae-1763a44db764","type":"sponsor"},"8c1284d0-5f0d-4bc3-bb78-bc70a61502ef":{"to":"abbedf0c-6137-4847-a39e-e045074200db","type":"certified-idp"},"e0640aac-5ef1-41a6-a32e-e295354d2fdf":{"to":"989f7e87-9cda-4662-9fd7-a9c63094aa12","type":"general-member"}}
-tmap.id:8e5c6ba4-9227-48cf-b600-dfd328a593bb
+tmap.edges:{"3fd9795c-df0f-4f2e-bf59-ffd7d87a3036":{"to":"63323618-681c-4e7e-b09f-af1ff77ed478","type":"sponsor"},"fc88ff28-09fe-4e31-a5c7-55e3aa3f192c":{"to":"95b325bd-92d6-4279-8be2-6054c2a87902","type":"certified-idp"},"dde4c225-59b9-49f6-8471-29e09cab3768":{"to":"9a38b6fc-2199-4b27-a6ed-6fe96a762e2d","type":"general-member"}}
+tmap.id:0b636d17-6870-43ae-acf6-0484f8527f39
 twitter.profile:
 website:https://www.digidentity.eu/en/
 

@@ -1,5 +1,5 @@
-created:1575897973111
-modified:1575897973111
+created:1575938164906
+modified:1575938164906
 title:Giesecke & Devrient (G&D)
 type:text/vnd.tiddlywiki
 activities:
@@ -25,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:0
+tags:Europe
 tech.focus:
-tmap.edges:{"01de0d5a-8fdb-4f61-961f-bfd997139fbb":{"to":"67ba748a-75a1-4bc3-a955-0219d32f6c74","type":"general-member"}}
-tmap.id:6cefe051-cc35-49d1-8db7-0cd8716cd801
+tmap.edges:{"20498ddc-c62f-4679-8054-d7543a0667e8":{"to":"c4e1fffe-001e-49a2-8fd1-60d27ba7f3d8","type":"general-member"}}
+tmap.id:c3591d25-a81e-4ab6-89c2-c96fe5a3e760
 twitter.profile:
 website:https://www.gi-de.com/usa/en/index.jsp
 

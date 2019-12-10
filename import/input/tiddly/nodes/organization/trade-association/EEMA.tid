@@ -1,5 +1,5 @@
-created:1575897973099
-modified:1575897973099
+created:1575938164896
+modified:1575938164896
 title:EEMA
 type:text/vnd.tiddlywiki
 activities:
@@ -25,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:0
+tags:Europe
 tech.focus:
-tmap.edges:{"0366be95-67dc-471b-a6df-0d2f541f028d":{"to":"5c071872-30fc-43b8-84d3-856c7f04db24","type":"affiliate"},"2b057f81-2fce-401c-9ee5-0849f311a1b3":{"to":"22912b38-0507-439d-8228-37215a00011a","type":"convenor"},"1b64105b-8bd9-4a24-860b-84b32b2bed7b":{"to":"6b6bb7ce-28bf-4383-ba51-a6b619c01a71","type":"affiliate"},"9463869c-84d2-42ee-b338-f1181049a5cb":{"to":"f355bd45-679a-4979-a501-46c4d9281936","type":"default"},"aab6ff72-0c6c-4dfe-a692-efcc001fea9d":{"to":"7bffd78f-3658-45cd-8b65-a712347e4d8d","type":"founder"},"f31f79f0-2dde-4b26-9cc7-1600b123d5b9":{"to":"843cae4d-baad-4fbd-9607-40da0efa0973","type":"affiliate"},"a0f0ad50-5a74-4a1e-80fa-b8885b2c6dc4":{"to":"67ba748a-75a1-4bc3-a955-0219d32f6c74","type":"general-member"},"3b09a7d5-1611-4a4c-80b5-eb3f47e5d5e9":{"to":"2de60be5-727c-4927-9d33-b4bed5388243","type":"affiliate"},"efc88b78-f0a2-4184-9157-38bda60ae27e":{"to":"fc3532dc-8391-41a6-a365-422bc8884c10","type":"convenor"}}
-tmap.id:71176b21-5608-4c5b-8079-577bfb1c894c
+tmap.edges:{"ad24edf3-ec6e-4173-818a-b1da035addcd":{"to":"070c1ee1-30ba-41a4-9a06-2cb0eec75fd7","type":"affiliate"},"163ab8fd-efab-4fac-97c6-3add87e7995f":{"to":"b622d2cf-a40e-45c5-b88c-e026350bb947","type":"convenor"},"2596cb41-51ef-447e-9870-bfee0126e922":{"to":"c5430e51-13f8-46d3-a17a-51034aec75f8","type":"affiliate"},"a5466e3e-97b7-46a3-8862-ad2939b22315":{"to":"eeafdc23-4ce9-479e-81c4-c5b2332adadf","type":"default"},"a0ea331c-0336-4fd1-b67d-07ce4a8a0af9":{"to":"995b0339-c2d5-4494-ad83-cf7d7e53eb3c","type":"founder"},"df29e02c-362d-40f8-9b4c-7ae064988ae8":{"to":"e3a02946-b8ac-49eb-a728-34e3b9a73beb","type":"affiliate"},"d0eb8f5e-d27d-4e81-bf24-17d84fa543a7":{"to":"c4e1fffe-001e-49a2-8fd1-60d27ba7f3d8","type":"general-member"},"efea72f6-07a2-4976-8825-e8e9187d0431":{"to":"f5a585f9-3d58-453b-93a9-32e93f43bcd9","type":"affiliate"},"b9b52a9f-d0d2-4ea3-aac6-b1271c9f207e":{"to":"57fd2c78-40d7-43fa-9e16-8b8cd9aca3c8","type":"convenor"}}
+tmap.id:7f262cff-62c0-4f47-a904-6d01057928b9
 twitter.profile:
 website:http://www.eema.org/
 

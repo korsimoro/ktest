@@ -1,7 +1,7 @@
 activities: 
 audience: 
 category: service
-created: 15820721014003000
+created: 15821122172305000
 date.begun: 
 date.ended: 
 digital.harms.addressed: 
@@ -10,14 +10,14 @@ github.profile:
 input.source: me2b
 license: 
 me2b.participation: 
-modified: 20191209132644945
+modified: 20191210003635689
 name: TRUSTe Enterprise Privacy Certification
 parent.org: TrustArc / Trust-e
 partners: 
 people: 
 purpose: certification and compliance
 title: TRUSTe Enterprise Privacy Certification
-tmap.id: d0d01dec-b7d2-4795-8015-cf2dadcf586a
+tmap.id: 279b3e7e-19e5-480b-8b97-e450d6c3aaab
 type: text/vnd.tiddlywiki
 
 relevant.publications:
@@ -26,7 +26,8 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:c0025ebd-22c6-4f19-8a34-f8e5f47abedb
+tmap.id:733cca35-bba7-4ed1-93e5-cc969d393bf7
+tmap.names:pop-to-orgs all-organizations
 url:https://www.trustarc.com/products/enterprise-privacy-certification/
 version.or.edition:
 working.group:

@@ -1,5 +1,5 @@
-created:1575897973115
-modified:1575897973115
+created:1575938164911
+modified:1575938164911
 title:MULTICERT – Serviços de Certificação Electrónica S.A
 type:text/vnd.tiddlywiki
 activities:
@@ -25,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:0
+tags:Europe
 tech.focus:
-tmap.edges:{"c39fb6c5-dc9f-47cd-a115-1d194312e52e":{"to":"67ba748a-75a1-4bc3-a955-0219d32f6c74","type":"general-member"}}
-tmap.id:e245fc31-7052-4906-9adf-e829e51a5432
+tmap.edges:{"929060da-383a-49b3-a406-b79aea517eb4":{"to":"c4e1fffe-001e-49a2-8fd1-60d27ba7f3d8","type":"general-member"}}
+tmap.id:815135e8-62f0-4ef9-a60d-8ea9629fdac7
 twitter.profile:
 website:https://www.multicert.com/en/
 

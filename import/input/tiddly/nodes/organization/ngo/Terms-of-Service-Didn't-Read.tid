@@ -1,5 +1,5 @@
-created:1575897973400
-modified:1575897973400
+created:1575938165232
+modified:1575938165232
 title:Terms of Service Didn't Read
 type:text/vnd.tiddlywiki
 activities:research, publication
@@ -28,9 +28,9 @@ sector:non-profit
 status:Active
 tags:
 tech.focus:
-tmap.edges:{"03043ebe-2184-4ff8-9f18-968903a00791":{"to":"ce6ba334-4153-4fdd-94c2-3ae910ccc981","type":"Provides"}}
-tmap.id:b48b6a8d-fff1-4694-b62d-ec50d4708492
-tmap.names:me2bstar me2bstar-content-source-for-me2b-certification me2bstar-activity me2bstar-purpose
+tmap.edges:{"9cf6d6c1-8907-4aa7-ba89-5d7e544b22e5":{"to":"d6396413-183a-4ac8-9413-dfd690678939","type":"Provides"}}
+tmap.id:8d4ee669-a58f-47ab-beda-e82348c70239
+tmap.names:pop-to-orgs all-organizations me2bstar me2bstar-content-source-for-me2b-certification me2ball me2ball-activity me2ball-purpose
 twitter.profile:https://twitter.com/tosdr
 website:https://tosdr.org/
 

@@ -1,5 +1,5 @@
-created:1575897973081
-modified:1575897973081
+created:1575938164882
+modified:1575938164882
 title:MobilePass
 type:text/vnd.tiddlywiki
 activities:
@@ -20,10 +20,10 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:0
+tags:Europe
 terms.of.service:
-tmap.edges:{"2c304bc9-0c8c-49ed-91d9-e1e85dfda83b":{"to":"80b193d4-8843-455f-9420-ef249eeee27c","type":"default"}}
-tmap.id:3313b530-1404-4806-a6ee-4009d637d3f3
+tmap.edges:{"d70586c3-ad1e-44e2-a2a3-4c03f886df01":{"to":"058117c5-9a96-4e71-9ac0-0d7cf3d45758","type":"default"}}
+tmap.id:0148a280-5497-4847-ad40-913bc64bb626
 url:http://mobilepass-project.eu
 version.or.edition:
 working.group:

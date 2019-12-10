@@ -1,5 +1,5 @@
-created:1575897973089
-modified:1575897973089
+created:1575938164889
+modified:1575938164889
 title:National Strategy for Trusted Identities in Cyberspace (NSTIC) - National Program Office
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"c8a595ff-19d1-4927-ab33-7b34614ee4fd":{"to":"e4c6c7b6-7b28-49f4-a250-f1e0f2830edb","type":"government-connection"},"6f43620a-0da8-4f26-8b67-7b5e66091f84":{"to":"3d7615f1-f83d-4a43-8d68-224641c9bd90","type":"sponsor"},"27c78095-ec8b-4b8e-96cd-647f7814ac66":{"to":"3d7615f1-f83d-4a43-8d68-224641c9bd90","type":"default"}}
-tmap.id:3116aa58-0b2d-43d4-a8aa-bf148f3372cd
+tmap.edges:{"ee7c741f-0e21-49bc-85b5-db1034b0a385":{"to":"2796d973-489b-442e-81ee-1d387c15a26f","type":"government-connection"},"4986190b-8f6e-4e24-918e-c068f3883691":{"to":"e901ca1b-1993-44af-adad-550723189149","type":"sponsor"},"7e439f1c-0a65-431a-b0a8-6c5b8aa724fa":{"to":"e901ca1b-1993-44af-adad-550723189149","type":"default"}}
+tmap.id:d880df21-fdf3-40a4-8690-12adf60083cb
 twitter.profile:
 website:http://www.nist.gov/nstic/npo.html
 

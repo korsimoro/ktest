@@ -1,5 +1,5 @@
-created:1575897973101
-modified:1575897973101
+created:1575938164897
+modified:1575938164897
 title:AFRINIC (African Network Information Center)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"ea3288e4-f52f-4153-a552-3a96ded5df25":{"to":"d88e589f-7d40-491a-b428-fe2e4a9fc8b9","type":"general-member"}}
-tmap.id:c38f86eb-b927-484b-a321-4b844e739743
+tmap.edges:{"00467d6a-3545-4c6c-b5da-deadac6607c1":{"to":"952a9b3c-a507-4a13-90d5-f4ff0cc68fe0","type":"general-member"}}
+tmap.id:f1423403-ea16-463b-a5c3-12eb6255d40d
 twitter.profile:
 website:http://www.afrinic.net/en/about/origins
 

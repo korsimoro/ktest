@@ -53,14 +53,13 @@ export const mappers:any = {
     return mapper
   },
   tagArray(colName:string) {
-    function mapper(elt:KumuElement|Me2BElement,schema:SchemaPropertyDef):string[] {
+    function mapper(elt:KumuElement|Me2BElement,schema:SchemaPropertyDef):Set<string> {
       const tagdata = (elt.slugmap[elt.model.slugify(colName)] || '').trim()
-      const tags = [] as string[]
+      const tags = new Set<string>()
       if(tagdata) {
-        const a1 = tagdata.split("\n")
-        const a2 = tagdata.split(",")
-        for(let a in a2)
-          tags.push(a.trim())
+        const t = tagdata.split("\n").join(":").split(",").join(":").split(":")
+        for(let a of t)
+          tags.add(a.trim())
       }
       return tags
     }

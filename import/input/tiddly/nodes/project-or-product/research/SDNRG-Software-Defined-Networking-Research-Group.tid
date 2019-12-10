@@ -1,5 +1,5 @@
-created:1575897973073
-modified:1575897973073
+created:1575938164874
+modified:1575938164874
 title:SDNRG Software-Defined Networking Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"251f2b88-619c-4db1-9f98-cde3708b2118":{"to":"31fe0045-0435-4272-a67a-20db1691dc08","type":"connection"},"5d498d10-c055-46cd-8357-ce3f9ba591e6":{"to":"121de874-99f7-4089-9b4a-c7e1db6f75db","type":"connection"},"59e08d0a-64fc-4ce4-9718-11d856322b2c":{"to":"22afc5f4-1ba8-4246-87f7-7f101cf89e65","type":"connection"},"3862f6d7-6402-411f-8a8c-1d5b2ce8a1ed":{"to":"20e230df-dfa1-42b8-8e82-d801af6e18a3","type":"connection"},"b025a24e-ff73-4ac6-8834-566f39a8c52e":{"to":"db152dd9-f4fc-4f1a-bbdc-9c7e9708a051","type":"connection"},"9c15af60-731f-48cf-aed6-ae273b9fb082":{"to":"c236ff18-7edc-4de4-a8da-43c739d2c8fd","type":"connection"},"d2321879-68de-450b-91ed-54d777f6cd6b":{"to":"5e4a4fcb-e22d-471d-b044-a6f1c54fba7f","type":"connection"},"dbe135e1-b1e6-497c-b394-03465a57ff82":{"to":"e319875b-c2be-4b50-822e-461d68115632","type":"connection"}}
-tmap.id:16b6a071-2529-4d7c-a899-527792399c5b
+tmap.edges:{"5a4bd09c-7577-4f7a-9118-b0b68b178a08":{"to":"3792a4da-3251-416b-a493-97832ba9f462","type":"connection"},"eab8b1c2-43b5-455a-aa20-37bf47fd90b2":{"to":"03d77360-8d2e-4fc2-a4d5-42352faea7c9","type":"connection"},"af200664-e008-41ea-9be0-88ed9c64dfcd":{"to":"2264f29b-9a9d-4fb5-aefc-0edc3af9c0db","type":"connection"},"1bf77bf8-5c17-4742-a7ad-0f2d75abdf5e":{"to":"59c105f5-4fa2-4509-b96f-eae38e008fa9","type":"connection"},"07b3c16a-15f4-4060-bcda-1e8816c57d42":{"to":"cdf18bb4-02d2-4337-8af8-ae4c89204ba4","type":"connection"},"85c66bf7-3421-4d5e-ba64-a13f1e0959f4":{"to":"d248dcb2-c789-4936-ac5c-e7bff3aeb023","type":"connection"},"a82b6721-66d0-4000-9bbd-299a506cc8ee":{"to":"0a4bf35e-751e-4473-9ce7-569c164e302e","type":"connection"},"fa3dd5f1-b4b2-4fc7-bb95-3c6d38a10aad":{"to":"8b500d90-5d36-48eb-ade5-89bdd6318189","type":"connection"}}
+tmap.id:cb6f1f9c-e589-49a3-aa1a-f7dce7bc271f
 url:https://irtf.org/sdnrg
 version.or.edition:
 working.group:

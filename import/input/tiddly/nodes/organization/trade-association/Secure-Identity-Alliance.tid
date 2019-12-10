@@ -1,5 +1,5 @@
-created:1575897973101
-modified:1575897973101
+created:1575938164898
+modified:1575938164898
 title:Secure Identity Alliance
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"d0d99d76-a469-4d36-8f0c-14ad1bc14933":{"to":"61f993a7-c5a9-4ea7-b9be-2ea9e46c53a1","type":"author"},"70d41b14-de4a-43c2-925b-67a40ab23413":{"to":"4d414a57-9e0d-49b3-9e02-05295c43898a","type":"author"}}
-tmap.id:b0deb384-41bb-406f-95f2-527b93f88415
+tmap.edges:{"da424ecb-4fc9-4148-ae83-b09e044ee1f5":{"to":"24c886ad-5e20-483c-9175-8a53aebb4c44","type":"author"},"3feffab7-e646-4035-8775-9abf873b159c":{"to":"583bd060-e580-442b-88b2-8452fc77475c","type":"author"}}
+tmap.id:0671eff4-b7da-4f66-8c6d-09319572d496
 twitter.profile:
 website:https://www.secureidentityalliance.org
 

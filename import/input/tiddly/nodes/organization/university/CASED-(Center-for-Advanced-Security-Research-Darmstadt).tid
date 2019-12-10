@@ -1,5 +1,5 @@
-created:1575897973061
-modified:1575897973061
+created:1575938164860
+modified:1575938164860
 title:CASED (Center for Advanced Security Research Darmstadt)
 type:text/vnd.tiddlywiki
 activities:
@@ -25,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:0
+tags:Europe
 tech.focus:
-tmap.edges:{"a7cd70b2-2c9b-408f-a833-75606c0c67c9":{"to":"f355bd45-679a-4979-a501-46c4d9281936","type":"general-member"}}
-tmap.id:4d215fec-e972-45c9-9683-ba59061d70e1
+tmap.edges:{"3e683bab-099a-4457-a16d-4ac38d037f4a":{"to":"eeafdc23-4ce9-479e-81c4-c5b2332adadf","type":"general-member"}}
+tmap.id:a1779c96-9763-4c8f-8ee0-f7333611644f
 twitter.profile:
 website:http://www.cased.de/en.html
 

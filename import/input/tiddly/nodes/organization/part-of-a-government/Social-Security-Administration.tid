@@ -1,5 +1,5 @@
-created:1575897973090
-modified:1575897973090
+created:1575938164889
+modified:1575938164889
 title:Social Security Administration
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"8aa5948e-90b0-4897-a1a7-a687360af247":{"to":"55e25a17-2c95-4336-b4ba-a00def1c7e80","type":"government-connection"},"bde78ff2-8084-4093-a935-ef8a94d43b46":{"to":"e4334156-27dd-4d00-a27e-a4ea7f5360c7","type":"company"}}
-tmap.id:a0cc7197-3798-48c4-9fa2-7af7d46df38f
+tmap.edges:{"41bed423-9eac-4ccf-a17d-7d598121729d":{"to":"b5461032-ce0a-4247-a139-af036fd738ef","type":"government-connection"},"82f22791-dcad-47b3-ae60-008e371770ef":{"to":"1caa29c5-c460-4e46-bd1e-89bb35e33789","type":"company"}}
+tmap.id:b3eebb19-f4a0-4c6e-bd1a-4aea45f1dbda
 twitter.profile:
 website:
 

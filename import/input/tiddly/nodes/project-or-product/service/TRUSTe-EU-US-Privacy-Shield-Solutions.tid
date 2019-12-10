@@ -1,7 +1,7 @@
 activities: 
 audience: 
 category: service
-created: 15820721014003000
+created: 15821122172305000
 date.begun: 
 date.ended: 
 digital.harms.addressed: 
@@ -10,14 +10,14 @@ github.profile:
 input.source: me2b
 license: 
 me2b.participation: 
-modified: 20191209132644900
+modified: 20191210003635682
 name: TRUSTe EU-US Privacy Shield Solutions
 parent.org: TrustArc / Trust-e
 partners: 
 people: 
 purpose: certification and compliance
 title: TRUSTe EU-US Privacy Shield Solutions
-tmap.id: d9ca50e1-891c-49d6-8951-830b3f3a7b9e
+tmap.id: 99a57f27-e3a6-4c21-8a58-814f7ef8b6ac
 type: text/vnd.tiddlywiki
 
 relevant.publications:
@@ -26,7 +26,8 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:c92d5cdf-e8d1-468d-a6fe-925a562f67ed
+tmap.id:27e34414-f4a5-4fbf-9ab3-45f79a1fd1de
+tmap.names:pop-to-orgs all-organizations
 url:https://www.trustarc.com/products/eu-us-privacy-shield/
 version.or.edition:
 working.group:

@@ -1,5 +1,5 @@
-created:1575897973100
-modified:1575897973100
+created:1575938164897
+modified:1575938164897
 title:international Association for Cryptologic Research
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"1a129926-4e04-406f-a597-1efd081ea2f4":{"to":"cb75aa42-f312-4f2f-888d-979805a75c3e","type":"convenor"},"62816693-470e-4db2-81da-97e1ac72fda0":{"to":"dcfa4fe8-9bcc-4a26-98c8-d1d9043b04d2","type":"convenor"},"b94362ee-8d97-4719-9fdc-399979a62c47":{"to":"6a79e906-82a0-4463-a52d-ba1cb2cb58f4","type":"convenor"}}
-tmap.id:4b84e6b9-3495-4315-9f3c-42c52a14aebe
+tmap.edges:{"8905fb83-47ec-45ce-8250-e0204068f585":{"to":"7ec84a90-23eb-4f0c-992e-fdeb1c387738","type":"convenor"},"1a8b52d7-3139-4d42-8e62-7b3363825b89":{"to":"7d02660c-2079-4aa6-be03-7fe1779b0c31","type":"convenor"},"83aad58a-aa70-45b0-9427-a7b04e830586":{"to":"cf8d6008-dada-4880-80a0-c11bea5070ec","type":"convenor"}}
+tmap.id:763832c5-56e0-49f9-8ddd-3a96294c4802
 twitter.profile:
 website:https://www.iacr.org
 

@@ -1,5 +1,5 @@
-created:1575897973103
-modified:1575897973103
+created:1575938164900
+modified:1575938164900
 title:IEEE Computer Society
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"b94e5c57-0b88-406e-80ad-17e5a518ffa7":{"to":"4ecffef4-344a-4348-a166-6fceaf31194b","type":"founder"},"6ecb4556-76b1-4212-852a-07ccc09220c6":{"to":"5a91f9b0-a6f2-44a7-a3a0-e6e19325d050","type":"organization-for-group"},"0ba507b7-6297-42f7-b7b5-7d810546b1d3":{"to":"0a9ad6b2-6041-4f16-a2f8-941b5f621c51","type":"convenor"},"53af6d9a-4646-41e4-8434-7ec484d22ee3":{"to":"e319875b-c2be-4b50-822e-461d68115632","type":"organization-for-group"},"53cd7fb9-c9cb-4eec-966e-5611c006cfca":{"to":"563def5f-165a-48c4-8845-94ee14c13394","type":"general-member"}}
-tmap.id:a48ef19c-2f98-4fe1-b95f-85ecdb0b238a
+tmap.edges:{"f0f7f10c-a6ba-4fa6-9e35-a712ba43ec3a":{"to":"87a28294-cad5-468b-8e6b-9c8af62d93d3","type":"founder"},"d49ad936-59fd-4243-9884-656a8300e250":{"to":"76bebe9b-569f-474f-89e8-33cb6452e91b","type":"organization-for-group"},"3e41fe3e-306b-4ca7-875f-f76d04ec2f14":{"to":"ec41d742-e1c0-44ab-9a7d-e663e949043c","type":"convenor"},"61e0b9f4-4e65-4e24-800e-57e966e98644":{"to":"8b500d90-5d36-48eb-ade5-89bdd6318189","type":"organization-for-group"},"a8fe20b6-23b9-4b84-9235-46b9d9cf9873":{"to":"a10cccef-ab1c-4067-9984-34c8570895c9","type":"general-member"}}
+tmap.id:858bc107-2b14-47d7-9fa3-23272a177df7
 twitter.profile:
 website:https://www.computer.org/web/guest
 

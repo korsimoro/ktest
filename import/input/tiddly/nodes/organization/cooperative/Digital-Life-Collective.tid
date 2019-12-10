@@ -1,5 +1,5 @@
-created:1575897973400
-modified:1575897973400
+created:1575938165232
+modified:1575938165232
 title:Digital Life Collective
 type:text/vnd.tiddlywiki
 activities:
@@ -28,9 +28,9 @@ sector:cooperative
 status:Active
 tags:
 tech.focus:
-tmap.edges:{"66110a6b-31a0-4a95-9bfa-86710466a265":{"to":"06460b2a-a800-43bb-a181-d42443c501fb","type":"Provides"},"53f18cb3-f876-44e7-a255-a88b5d1e4a05":{"to":"ae98771d-d896-48bb-af9d-1f7bb4396f97","type":"Provides"}}
-tmap.id:71b94e4b-6eda-402d-9070-4a20d1f085f9
-tmap.names:me2bstar me2bstar-tbd me2bstar-purpose
+tmap.edges:{"36055656-1291-4019-ab85-b4a9246f15fc":{"to":"164ece22-1a67-4fd7-bca8-ff3e483f305a","type":"Provides"},"5f49b00a-7716-41ce-887a-853c9ecd5a54":{"to":"4dbc0603-1cb5-47f6-875c-4bbe8a7d75bc","type":"Provides"}}
+tmap.id:8c2bce0b-028e-4265-9b5e-3e36b3e84391
+tmap.names:pop-to-orgs all-organizations me2bstar me2bstar-tbd me2ball me2ball-purpose
 twitter.profile:https://twitter.com/tech_we_trust
 website:https://diglife.com/
 

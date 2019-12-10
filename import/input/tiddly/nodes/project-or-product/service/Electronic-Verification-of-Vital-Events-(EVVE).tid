@@ -1,5 +1,5 @@
-created:1575897973071
-modified:1575897973071
+created:1575938164870
+modified:1575938164870
 title:Electronic Verification of Vital Events (EVVE)
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"7c26edd4-af7b-41ee-b2d8-80783eeafa23":{"to":"02952f3d-fa19-493b-ae66-948ee3cf3ce1","type":"organization-for-group"}}
-tmap.id:e4334156-27dd-4d00-a27e-a4ea7f5360c7
+tmap.edges:{"c78ec726-03dd-4cbe-9aae-626f0517d389":{"to":"e54dc40f-8f73-44bc-8d28-dac39ab956cc","type":"organization-for-group"}}
+tmap.id:1caa29c5-c460-4e46-bd1e-89bb35e33789
 url:http://www.naphsis.org/about-evve
 version.or.edition:
 working.group:

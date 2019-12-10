@@ -1,5 +1,5 @@
-created:1575897973110
-modified:1575897973110
+created:1575938164905
+modified:1575938164905
 title:Mobile Connect Initiative
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"bff3410f-6800-4f87-acc1-6930e4d271ae":{"to":"5d7b843a-3ecd-449a-85b7-9adb31aa1a3f","type":"organization-for-group"},"b93bb5d8-f567-4cae-bbc1-22ea35065105":{"to":"96f54aae-a85f-448e-8a46-3c75bd8e6cea","type":"connection"}}
-tmap.id:94bd0ea9-f976-414a-9a03-254434b47ed7
+tmap.edges:{"7a4d8387-d8a6-4fb0-bf11-96f3d55d26c2":{"to":"c6d529ef-8c11-465a-82b6-30f95507aa7a","type":"organization-for-group"},"3fa7fe50-dde1-4d26-a795-38c2e54b68ca":{"to":"c59dceb0-63c3-4474-9ede-2d76a0d19f1f","type":"connection"}}
+tmap.id:99e7026d-f282-4207-8e95-591893c78728
 url:http://www.gsma.com/personaldata/mobile-connect
 
 Mobile Connect is a secure universal log-in solution. Simply by matching the user to their mobile phone, Mobile Connect allows them to log-in to websites and applications quickly without the need to remember passwords and usernames. It’s safe, secure and no personal information is shared without permission. The digital age has led to an unprecedented level of access to information and services. However, access to such information and services often requires the user to sign-up to websites and applications, resulting in the need to remember user names and passwords. With such a high proportion of users forgetting log-in details, there is a need for a secure solution that bypasses the issue of forgetting passwords, thereby keeping the user engaged.

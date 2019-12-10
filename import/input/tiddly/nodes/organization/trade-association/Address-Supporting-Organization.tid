@@ -1,5 +1,5 @@
-created:1575897973102
-modified:1575897973102
+created:1575938164898
+modified:1575938164898
 title:Address Supporting Organization
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"590a24ae-7b54-472d-9550-e33545f168a9":{"to":"d88e589f-7d40-491a-b428-fe2e4a9fc8b9","type":"connection"},"f337b694-9ec7-461b-951a-a0e3f436dd5c":{"to":"487e1dc6-4231-4614-b36b-c1925a30950e","type":"connection"}}
-tmap.id:f8a8628b-6e9f-4251-9b37-25435b101b9b
+tmap.edges:{"3bea7183-cb57-493e-83f2-0c1f36a89f88":{"to":"952a9b3c-a507-4a13-90d5-f4ff0cc68fe0","type":"connection"},"81d5b80f-bc6d-4880-990b-966bce95b507":{"to":"9930e73a-c599-489e-b88e-70f37a0f8012","type":"connection"}}
+tmap.id:b0ff9cd5-2023-46bf-9a33-82d4930c0f57
 twitter.profile:
 website:https://aso.icann.org
 

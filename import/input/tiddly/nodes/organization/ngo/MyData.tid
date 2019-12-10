@@ -1,13 +1,13 @@
 activities: movement building
 annual.budget: 
 audience: 
-created: 15820721014000000
+created: 15821122172302000
 date.ended: 
 date.founded: 
 digital.harms.addressed: 
-modified: 20191209132645800
+modified: 20191210003633512
 title: MyData
-tmap.id: cce27c20-a01a-4635-bb3f-b2cb1a329b00
+tmap.id: de449151-a24e-4bf0-9bbc-cddb6e379d68
 type: text/vnd.tiddlywiki
 
 element.type:organization
@@ -33,8 +33,8 @@ status:Active
 tags:
 tech.focus:Information Sharing Control: Data Mobility: Data Storage: Terms Management
 tmap.edges:{}
-tmap.id:96ae7eb0-56be-4044-8aae-c43c0c3652e0
-tmap.names:me2bstar me2bstar-reuse-any-work-from-mydata.org-that-advances-the-code-of-practice-and-certification.-explore-creating-theme-hub(s)-for-specific-me2b-tasks-relationship-between-these-two-"sibling"-orgs-is-tbd-on-both-sides. me2bstar-activity me2bstar-purpose
+tmap.id:90d266ae-4c3d-4859-8fee-b947178caf9b
+tmap.names:me2bstar me2bstar-reuse-any-work-from-mydata.org-that-advances-the-code-of-practice-and-certification.-explore-creating-theme-hub(s)-for-specific-me2b-tasks-relationship-between-these-two-"sibling"-orgs-is-tbd-on-both-sides. me2ball me2ball-activity me2ball-purpose me2ball-tech-focus
 twitter.profile:https://twitter.com/mydataorg
 website:https://mydata.org/
 

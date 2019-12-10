@@ -1,5 +1,5 @@
-created:1575897973400
-modified:1575897973400
+created:1575938165232
+modified:1575938165232
 title:Decentralized Identity Foundation
 type:text/vnd.tiddlywiki
 activities:software development: standard development: outreach
@@ -28,9 +28,9 @@ sector:non-profit
 status:
 tags:
 tech.focus:Identity: Information Sharing Control
-tmap.edges:{"c11883b7-0d16-413e-a1f2-82514f4ff596":{"to":"dfe6ac9b-5334-4c99-9ea2-e80ae59e891a","type":"Provides"},"62ab6cb8-a6e5-4956-8bfc-045020dd94b5":{"to":"722053a6-aafb-4d58-931a-5af7b2bf2ff0","type":"Provides"},"db37b366-6ab6-40cd-b448-9dc8ea14400a":{"to":"cb98427e-0ac4-48eb-9be7-c52c346518a0","type":"Provides"},"df01b707-83a1-4a4b-bc53-3ea5cc6e483b":{"to":"6ef1ad88-879b-4e4d-babc-eb7b3b31c917","type":"Provides"},"18d5d9c9-5874-43a5-bd6d-98c7ebe2c70c":{"to":"35697d18-5be0-4caf-9193-74f00bee8783","type":"Provides"},"4668cef1-62c0-42bc-ab35-cc2acfe4c70c":{"to":"0597a50d-b6aa-4acd-93fa-ea7607dd2265","type":"Provides"}}
-tmap.id:a853f9a3-c843-46a0-a9af-722b015cf5d8
-tmap.names:me2bstar me2bstar-input-to-interoperability-specification me2bstar-activity me2bstar-purpose
+tmap.edges:{"ca74f60f-aeb1-40b1-a8b6-6e389efa7209":{"to":"c608f5ee-07f8-4ed5-935c-a3e5130ce481","type":"Provides"},"6102e0ac-4589-4c0a-a84b-f6fa6cc55fb6":{"to":"92900d67-364a-4ec3-9f68-b776c5721c68","type":"Provides"},"b6e74296-6f31-4cc6-a0b9-4bebde303f26":{"to":"99cccda4-50d8-4de7-9a32-ec4f38b2255b","type":"Provides"},"ab1ed81f-f4f2-43fc-aed8-24acc7672f73":{"to":"c21b66ea-a983-4f87-aba0-4e47ad89e54b","type":"Provides"},"eec0f43c-b072-4e63-be57-5581866b9906":{"to":"2e3c5e3d-bf47-49e8-b603-302a681707a6","type":"Provides"},"fdb295b3-8557-4174-8306-21ee51899290":{"to":"4ba35d0a-c656-4e1c-9db8-88e5b03d8f52","type":"Provides"}}
+tmap.id:98848d7a-7bf5-44bb-b872-a31e6ae41ffc
+tmap.names:pop-to-orgs all-organizations me2bstar me2bstar-input-to-interoperability-specification me2ball me2ball-activity me2ball-purpose me2ball-tech-focus
 twitter.profile:https://twitter.com/DecentralizedID
 website:https://identity.foundation/
 

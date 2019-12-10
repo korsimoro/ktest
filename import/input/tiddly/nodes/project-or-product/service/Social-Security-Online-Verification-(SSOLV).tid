@@ -1,5 +1,5 @@
-created:1575897973071
-modified:1575897973071
+created:1575938164872
+modified:1575938164872
 title:Social Security Online Verification (SSOLV)
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"9584ca2f-0a99-46dc-9a00-3a38c3638afd":{"to":"ebc26ff8-abd1-4913-a446-9b23dd325848","type":"organization-for-group"}}
-tmap.id:60644ac2-70c2-475f-bb08-904dd4910978
+tmap.edges:{"1ca92f8c-0fe8-408d-8549-6632a859d4d5":{"to":"2703d429-691c-42a1-a796-372bc2e08356","type":"organization-for-group"}}
+tmap.id:6e01d3ff-1e62-49c1-acc0-d2313fc0b534
 url:http://www.aamva.org/SSOLV/
 version.or.edition:
 working.group:

@@ -1,5 +1,5 @@
-created:1575897973090
-modified:1575897973090
+created:1575938164890
+modified:1575938164890
 title:Systematic Alien Verification for Entitlements SAVE
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"c68e379d-545a-43de-8005-cb7168af4f25":{"to":"9c69a23a-eb9b-4fa6-b80c-f8e02bde047d","type":"connection"},"b2c6de22-0ef5-4237-a1dc-3ae20b6d77e0":{"to":"2d580cb9-bb3e-4495-9535-d023b7385c3b","type":"government-connection"}}
-tmap.id:b5e102ce-3629-4478-a287-ec705b99fdca
+tmap.edges:{"fa3c585a-03c5-42f2-be10-dd43850ef570":{"to":"c847f2bc-e2d0-4e9d-92e3-82b37222f59e","type":"connection"},"bfd52f08-a220-4b1c-80e0-009210f8ebcb":{"to":"36097371-5f83-455f-bd28-7488c1a1fe5d","type":"government-connection"}}
+tmap.id:8df07755-e5f4-41e0-ae8a-ecd8b6edf38c
 twitter.profile:
 website:https://www.uscis.gov/save
 

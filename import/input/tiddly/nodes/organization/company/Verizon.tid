@@ -1,5 +1,5 @@
-created:1575897973113
-modified:1575897973113
+created:1575938164908
+modified:1575938164908
 title:Verizon
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"9d70760a-66b1-42c6-8e4b-ed902650eb98":{"to":"eadaabe6-e240-41a3-abae-1763a44db764","type":"sponsor"},"bcedddf9-3e60-47b6-9ba9-86f024b0863e":{"to":"f355bd45-679a-4979-a501-46c4d9281936","type":"general-member"},"9b31e961-07ed-4fac-88dd-81299c61f6e5":{"to":"989f7e87-9cda-4662-9fd7-a9c63094aa12","type":"executive-member"}}
-tmap.id:25b6e0e5-f2f4-467d-b4d9-90077ce65bea
+tmap.edges:{"95450f75-f512-42b9-b347-bcf02f00bbe9":{"to":"63323618-681c-4e7e-b09f-af1ff77ed478","type":"sponsor"},"269a1d77-945f-4699-b971-6066b21e4dda":{"to":"eeafdc23-4ce9-479e-81c4-c5b2332adadf","type":"general-member"},"aa7ccb24-151b-4e54-a2d7-ac28380c7fcc":{"to":"9a38b6fc-2199-4b27-a6ed-6fe96a762e2d","type":"executive-member"}}
+tmap.id:d625fae9-e7e1-4c21-8db5-64ee1310c588
 twitter.profile:
 website:http://www.verizonenterprise.com/
 

@@ -1,5 +1,5 @@
-created:1575897973054
-modified:1575897973054
+created:1575938164852
+modified:1575938164852
 title:eGov Working Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"de24d7fd-9862-4fd6-9b5b-b588e465da4a":{"to":"1d78f89e-a481-4ed3-ad4d-77b39688be1a","type":"connection"},"fb39ee15-1e31-457e-b35e-712251680b3c":{"to":"e7fedeb8-915d-4d62-a287-d639f860d11e","type":"organization-for-group"}}
-tmap.id:4a88c121-848c-4b8d-9563-bbb04a693d00
+tmap.edges:{"fc0c64ec-443e-4bf7-a82a-f5e05adc71e1":{"to":"1a23b82f-835f-4821-bd58-30c19e5d80ff","type":"connection"},"655ccb69-ed08-430d-81fa-bd9622917947":{"to":"a15f1b65-fa79-4f09-9572-0c2d28c14814","type":"organization-for-group"}}
+tmap.id:ca224b5d-1cb2-4d2b-a6e6-fc49cecd3e9d
 url:https://kantarainitiative.org/confluence/display/eGov/Home
 
 The eGovernment Work Group (eGov WG) will be responsible for:

@@ -1,5 +1,5 @@
-created:1575897973402
-modified:1575897973402
+created:1575938165233
+modified:1575938165233
 title:Datacommons.org
 type:text/vnd.tiddlywiki
 activities:
@@ -26,11 +26,11 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:0
+tags:consolidation of open datasets
 tech.focus:Data Mobility
 tmap.edges:{}
-tmap.id:31a5bddb-a39d-4b30-90f8-4baa03125761
-tmap.names:me2bstar me2bstar-purpose me2bstar-tag
+tmap.id:cd84985d-d63a-4242-a63f-14ecc1c304a1
+tmap.names:me2ball me2ball-purpose me2ball-tag me2ball-tech-focus
 twitter.profile:
 website:https://www.datacommons.org/
 

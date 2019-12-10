@@ -1,5 +1,5 @@
-created:1575897973092
-modified:1575897973092
+created:1575938164893
+modified:1575938164893
 title:InternetNZ
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"fd281d86-e012-47f8-abd9-4d34213220ec":{"to":"563def5f-165a-48c4-8845-94ee14c13394","type":"general-member"}}
-tmap.id:58e701ff-eac9-458a-a335-361535a7f055
+tmap.edges:{"c6ac458a-0601-4629-a73c-f530f1dc3a09":{"to":"a10cccef-ab1c-4067-9984-34c8570895c9","type":"general-member"}}
+tmap.id:f2aaf12e-4e3a-4bd8-abbd-d723481ade4f
 twitter.profile:
 website:https://internetnz.nz/about
 

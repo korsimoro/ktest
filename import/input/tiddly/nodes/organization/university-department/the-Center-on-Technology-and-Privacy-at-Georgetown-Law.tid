@@ -1,7 +1,7 @@
 activities: research: policy development
 annual.budget: 
 audience: 
-created: 15820721014002000
+created: 15821122172304000
 date.ended: 
 date.founded: 
 digital.harms.addressed: 
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile: https://www.linkedin.com/school/georgetownlaw/
 location(s): Washington, DC
 me2b.relationship: 
-modified: 20191209132645264
+modified: 20191210003641389
 org.name: the Center on Technology & Privacy at Georgetown Law
 org.type: University Department
 parent.org: 
@@ -24,15 +24,15 @@ relevant.publications:
 scope: national
 sector: Academic
 title: the Center on Technology & Privacy at Georgetown Law
-tmap.id: 4f52761a-255e-4eb8-860b-5e49650248a1
+tmap.id: ed7bbedf-03e5-44b9-9d3e-c1f738206b23
 type: text/vnd.tiddlywiki
 
 status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:6fea92f3-0b90-4eb8-ba3c-20398197f3c2
-tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+tmap.id:0d5dbb4d-ee7d-4f36-963e-c4ced796f476
+tmap.names:me2ball me2ball-activity me2ball-purpose
 twitter.profile:https://twitter.com/georgetownlaw
 website:https://www.law.georgetown.edu/privacy-technology-center/
 

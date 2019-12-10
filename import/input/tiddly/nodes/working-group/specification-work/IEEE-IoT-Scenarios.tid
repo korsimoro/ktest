@@ -1,5 +1,5 @@
-created:1575897973054
-modified:1575897973054
+created:1575938164853
+modified:1575938164853
 title:IEEE IoT Scenarios
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"5c7f74ed-4736-4290-9eed-616947efafe5":{"to":"5a09c930-b41a-49ed-b1ba-aa2a1b750e47","type":"organization-for-group"}}
-tmap.id:49d135a2-44fa-468b-83bc-0cd285f9b4f0
+tmap.edges:{"41c5f6c0-9902-4599-a6fe-02c308e53895":{"to":"b9bbc8f8-00d5-4738-9667-4f25f977abff","type":"organization-for-group"}}
+tmap.id:1c79c4b1-47c1-4658-b646-f2a711defe65
 url:
 
 To really understand the Internet of Things (IoT) requires application, implementation, and execution in the real world. IEEE IoT recently launched a program to provide the IoT community an interactive platform on which to engage with use cases, service descriptions, business models, and reference implementations that will be key to developing a vibrant IoT industry. This is a fantastic opportunity for you to contribute to the IoT cause, as well as get excellent exposure for your projects and ideas.

@@ -1,7 +1,7 @@
 activities: software development: standard development
 annual.budget: 
 audience: 
-created: 15820721014001000
+created: 15821122172303000
 date.ended: 
 date.founded: 
 digital.harms.addressed: 
@@ -13,11 +13,11 @@ key.people:
 linkedin.profile: 
 location(s): Cambridge, MA
 me2b.relationship: 
-modified: 20191209132645088
+modified: 20191210003641272
 org.name: Trust::Data Consortium
 org.type: University Department
 title: Trust::Data Consortium
-tmap.id: 0ae35acd-2a14-4685-98e1-100217ead70a
+tmap.id: d3eeaed7-b26e-4772-9c7d-7540ede10437
 type: text/vnd.tiddlywiki
 
 parent.org:MIT
@@ -31,8 +31,8 @@ status:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:9df8379f-12b9-49db-b08d-27466d9057d3
-tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+tmap.id:eb731ded-b184-4116-bc1e-be6853a985e6
+tmap.names:me2ball me2ball-activity me2ball-purpose
 twitter.profile:
 website:https://trust.mit.edu
 

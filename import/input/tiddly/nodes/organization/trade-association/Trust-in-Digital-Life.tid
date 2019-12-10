@@ -1,5 +1,5 @@
-created:1575897973104
-modified:1575897973104
+created:1575938164901
+modified:1575938164901
 title:Trust in Digital Life
 type:text/vnd.tiddlywiki
 activities:
@@ -25,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:0
+tags:Europe
 tech.focus:
-tmap.edges:{"03df521c-6f8d-489a-857b-c5d2cbf0e266":{"to":"22912b38-0507-439d-8228-37215a00011a","type":"convenor"}}
-tmap.id:f355bd45-679a-4979-a501-46c4d9281936
+tmap.edges:{"7ca09858-2f93-4be0-bf2b-a6b1ed6ee640":{"to":"b622d2cf-a40e-45c5-b88c-e026350bb947","type":"convenor"}}
+tmap.id:eeafdc23-4ce9-479e-81c4-c5b2332adadf
 twitter.profile:
 website:
 

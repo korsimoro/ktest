@@ -1,5 +1,5 @@
-created:1575897973072
-modified:1575897973072
+created:1575938164873
+modified:1575938164873
 title:NWCRG Network Coding Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"605c0775-3d89-4900-bb68-5157903da4de":{"to":"9518001c-05d8-49e1-9366-f9ad0f4eac0b","type":"organization-for-group"}}
-tmap.id:6a24ece6-c633-42ef-b5a2-8fbdc6f99a04
+tmap.edges:{"500185e9-c34d-4d4e-aeb7-d4479f76a675":{"to":"f6dd38fb-bbc3-46d9-8da4-25b085235290","type":"organization-for-group"}}
+tmap.id:1a344a55-8381-4c57-8c1e-53a0ef155258
 url:https://irtf.org/nwcrg
 version.or.edition:
 working.group:

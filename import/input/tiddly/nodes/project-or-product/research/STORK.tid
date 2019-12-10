@@ -1,5 +1,5 @@
-created:1575897973073
-modified:1575897973073
+created:1575938164874
+modified:1575938164874
 title:STORK
 type:text/vnd.tiddlywiki
 activities:
@@ -20,10 +20,10 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:0
+tags:Europe
 terms.of.service:
-tmap.edges:{"1be6189e-8de5-4661-b7a9-9ae4068baae8":{"to":"e480542d-4be5-4130-a64d-69d1cdaa3004","type":"connection"}}
-tmap.id:f30f7364-2db3-4ac6-a0b4-f862cea25f9b
+tmap.edges:{"42df2de5-cbcb-4c67-9792-f497a0a67991":{"to":"bba25eaa-f2c5-406c-a682-3fb7ded03b75","type":"connection"}}
+tmap.id:869a3627-cef9-49e1-a56b-638ae9669d05
 url:https://www.eid-stork.eu
 version.or.edition:
 working.group:

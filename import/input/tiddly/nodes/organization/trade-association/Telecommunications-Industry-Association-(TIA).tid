@@ -1,5 +1,5 @@
-created:1575897973103
-modified:1575897973103
+created:1575938164901
+modified:1575938164901
 title:Telecommunications Industry Association (TIA)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f351eba7-5c8a-4c9a-899f-5c1dd5dd2ceb":{"to":"4c4d1127-4541-4d9c-8281-6bf45d8f3f0a","type":"general-member"},"87daf153-74d7-44e5-9eb6-f18682ad3414":{"to":"563def5f-165a-48c4-8845-94ee14c13394","type":"general-member"}}
-tmap.id:63ff5e98-4cda-43a0-8b6f-ac840bd9bd5a
+tmap.edges:{"a31a32af-cb0f-43cc-9a3f-f79d9fe2a726":{"to":"18c20479-61eb-4782-8d58-c69de0288b5e","type":"general-member"},"653da7c5-2a7e-45c6-aad3-0c92058561ef":{"to":"a10cccef-ab1c-4067-9984-34c8570895c9","type":"general-member"}}
+tmap.id:c0611686-a5ae-4a7f-9d2f-0a0a6760a04d
 twitter.profile:
 website:
 

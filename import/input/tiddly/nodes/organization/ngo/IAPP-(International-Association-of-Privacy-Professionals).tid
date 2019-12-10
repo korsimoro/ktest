@@ -1,7 +1,7 @@
 activities: movement building, research, outreach, publication
 annual.budget: 
 audience: 
-created: 15820721014001000
+created: 15821122172302000
 date.ended: 
 date.founded: 
 digital.harms.addressed: 
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile: https://www.linkedin.com/company/iapp---international-association-of-privacy-professionals/
 location(s): 
 me2b.relationship: 
-modified: 20191209132645957
+modified: 20191210003631565
 org.name: IAPP (International Association of Privacy Professionals)
 org.type: NGO
 parent.org: 
@@ -21,18 +21,18 @@ partners:
 products.and.or.services: 
 purpose: Consumer support
 title: IAPP (International Association of Privacy Professionals)
-tmap.id: 651e0c91-bae0-4585-983b-008bf7af7b5c
+tmap.id: 8b36d9a1-7937-4b27-9079-2cbb1f2a85e4
 type: text/vnd.tiddlywiki
 
 relevant.publications:
 scope:
 sector:non-profit
 status:
-tags:0
+tags:privacy
 tech.focus:
 tmap.edges:{}
-tmap.id:e7f8137e-67be-45f3-8273-bfdbe5798d1c
-tmap.names:me2bstar me2bstar-activity me2bstar-purpose me2bstar-tag
+tmap.id:e1a64a56-acaa-44f3-8c75-d4c8a17577fb
+tmap.names:me2ball me2ball-activity me2ball-purpose me2ball-tag
 twitter.profile:https://twitter.com/PrivacyPros
 website:https://iapp.org/
 

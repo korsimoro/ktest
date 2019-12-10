@@ -1,5 +1,5 @@
-created:1575897973105
-modified:1575897973105
+created:1575938164902
+modified:1575938164902
 title:EFF
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"9a50887b-79f3-4ea2-9ab0-0a1a1799e19b":{"to":"6bad8a5d-3d54-4dc4-827a-0da69744dc9a","type":"organization-for-group"}}
-tmap.id:10c80150-3d38-462b-bc5a-fb8518881abe
+tmap.edges:{"a0f12164-01aa-499f-b5e6-602fcd436a25":{"to":"a9cf606c-876e-4da9-9c10-f87798e9b648","type":"organization-for-group"}}
+tmap.id:ca22c307-0d86-48e8-a80d-6307b6a6d1fd
 twitter.profile:
 website:https://www.eff.org
 

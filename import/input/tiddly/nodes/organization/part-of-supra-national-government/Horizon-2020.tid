@@ -1,5 +1,5 @@
-created:1575897973087
-modified:1575897973087
+created:1575938164887
+modified:1575938164887
 title:Horizon 2020
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"b5be0da5-3050-4e6f-9c98-d568d4b3e0af":{"to":"4242fc81-1975-492c-b793-df4176531b3b","type":"funding-flow"},"8d6d4e31-c68c-437c-98d6-c230bb67a112":{"to":"e01aeb5a-00f2-4e62-90b0-1a3a7f7774b1","type":"funding-flow"},"0a46b9cb-b817-4164-80fe-c31f11a8d44b":{"to":"ba07a865-e6d3-4b23-bfbd-8801d0d8bb8f","type":"funding-flow"},"252de224-9edd-4cf5-830e-b3fba4931f23":{"to":"67ba748a-75a1-4bc3-a955-0219d32f6c74","type":"funding-flow"},"004134ac-27a8-449b-bda8-57db4a071786":{"to":"c8f2d528-52aa-4228-999c-254ba61d2baa","type":"funding-flow"},"0b021e12-3257-4e4f-8aa9-05f943b80953":{"to":"2d98f80c-4f28-4c46-8d52-3167b3013669","type":"funding-flow"},"f13d7f9a-f702-4b59-bd52-3d601155df4f":{"to":"1b56dc95-cdc0-4bda-9556-7334b15799aa","type":"funding-flow"},"bdd42c1a-8364-4ee4-940d-8401ec10eda1":{"to":"77ccc7de-8589-473d-ab39-2bfaecc0cf7b","type":"funding-flow"},"a7e5ba39-e086-44bf-bf9c-cfe32ed51ded":{"to":"e480542d-4be5-4130-a64d-69d1cdaa3004","type":"funding-flow"}}
-tmap.id:7022cc79-1a60-400b-848b-914f5187d723
+tmap.edges:{"43763513-65a0-4393-a511-639396848740":{"to":"954f9d31-90aa-4e77-84a7-7ec57a27ef98","type":"funding-flow"},"22bac607-266d-4244-9f0c-6b3eea69bd9d":{"to":"d95ae78f-a6dd-49de-aaa6-91aaeb0e4434","type":"funding-flow"},"ecf404f5-6cd9-4ef3-8130-69bac0b0f320":{"to":"f4f5954c-00f7-45a3-b710-dbe1c2bbc943","type":"funding-flow"},"91777b41-4849-4d52-9e5c-083362f515d6":{"to":"c4e1fffe-001e-49a2-8fd1-60d27ba7f3d8","type":"funding-flow"},"a10f4856-5330-4c7f-afa9-86f286c924f5":{"to":"41df27eb-644e-4b69-ac25-71b38fcff748","type":"funding-flow"},"15b2dc13-373f-4cad-a2c5-4a167109bff6":{"to":"17c062a1-a354-4cdd-b3ab-c64db2a01fd4","type":"funding-flow"},"f3465995-d4a5-4669-b3f6-9f1ae2bf5a9c":{"to":"f39fc51d-28e1-4e34-9278-9255e702297e","type":"funding-flow"},"061986e0-5aa4-487c-92db-24c55ace0104":{"to":"8ff6deee-ecba-4314-abd8-06a46d72da9c","type":"funding-flow"},"244dcebe-43f7-418c-b93c-2376d27c41c9":{"to":"bba25eaa-f2c5-406c-a682-3fb7ded03b75","type":"funding-flow"}}
+tmap.id:5631c7ef-79b3-420f-97e3-4227aa67a1e6
 twitter.profile:
 website:
 

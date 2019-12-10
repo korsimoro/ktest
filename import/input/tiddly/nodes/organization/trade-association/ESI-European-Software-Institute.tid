@@ -1,5 +1,5 @@
-created:1575897973098
-modified:1575897973098
+created:1575938164895
+modified:1575938164895
 title:ESI European Software Institute
 type:text/vnd.tiddlywiki
 activities:
@@ -25,10 +25,10 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:0
+tags:Europe
 tech.focus:
-tmap.edges:{"99d661a9-1474-4c77-a6f2-ca126a71baad":{"to":"7bffd78f-3658-45cd-8b65-a712347e4d8d","type":"executive-member"}}
-tmap.id:27980776-41b0-43e3-aae8-0a68a21f3d6a
+tmap.edges:{"11a7cec5-4055-49b9-92ec-1efe3e31f475":{"to":"995b0339-c2d5-4494-ad83-cf7d7e53eb3c","type":"executive-member"}}
+tmap.id:bb2e0501-5a4d-438d-a053-2e25fd06654a
 twitter.profile:
 website:
 

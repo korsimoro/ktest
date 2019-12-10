@@ -1,5 +1,5 @@
-created:1575897973403
-modified:1575897973403
+created:1575938165235
+modified:1575938165235
 title:Brave Browser
 type:text/vnd.tiddlywiki
 activities:
@@ -21,10 +21,10 @@ purpose:usability
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:0
+tags:web-browser
 terms.of.service:
 tmap.edges:{}
-tmap.id:179865f9-54d8-4a05-bb81-d2d1d3e5c0e2
+tmap.id:a070c572-1bef-42c2-9741-d9e6ad9542ef
 url:https://brave.com/
 version.or.edition:
 working.group:

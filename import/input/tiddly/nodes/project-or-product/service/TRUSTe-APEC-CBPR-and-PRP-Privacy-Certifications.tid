@@ -1,7 +1,7 @@
 activities: 
 audience: 
 category: service
-created: 15820721014003000
+created: 15821122172305000
 date.begun: 
 date.ended: 
 digital.harms.addressed: 
@@ -10,14 +10,14 @@ github.profile:
 input.source: me2b
 license: 
 me2b.participation: 
-modified: 20191209132645033
+modified: 20191210003635708
 name: TRUSTe APEC CBPR and PRP
 parent.org: TrustArc / Trust-e
 partners: 
 people: 
 purpose: certification and compliance
 title: TRUSTe APEC CBPR and PRP
-tmap.id: 4cfa1dc0-bcdb-48e8-890a-47389362994a
+tmap.id: 3a8f3a1b-752d-42ad-b058-61535f86ea93
 type: text/vnd.tiddlywiki
 
 relevant.publications:
@@ -26,7 +26,8 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:038b8f9a-e23b-4c1b-a44c-ec49b2ba8f25
+tmap.id:aee742f8-b334-414b-a029-3b5d9b00b3f6
+tmap.names:pop-to-orgs all-organizations
 url:https://www.trustarc.com/products/apec-certification/
 version.or.edition:
 working.group:

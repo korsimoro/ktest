@@ -1,5 +1,5 @@
-created:1575897973103
-modified:1575897973103
+created:1575938164900
+modified:1575938164900
 title:International Electrotechnical Commission (IEC)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"d0355b11-6b3b-483d-84fd-1d8cad7f7bdc":{"to":"563def5f-165a-48c4-8845-94ee14c13394","type":"general-member"},"5794d7c5-51fd-4112-8ef6-ca21b2e6e13e":{"to":"4c4d1127-4541-4d9c-8281-6bf45d8f3f0a","type":"general-member"}}
-tmap.id:79524f45-70ce-4fd8-8754-4ec47209616d
+tmap.edges:{"11c25d13-8110-4777-86c3-e6f89695ef4c":{"to":"a10cccef-ab1c-4067-9984-34c8570895c9","type":"general-member"},"2069d4a0-cbab-4dbc-9dc4-1c80115063f8":{"to":"18c20479-61eb-4782-8d58-c69de0288b5e","type":"general-member"}}
+tmap.id:73dd202f-8686-429c-a250-0dacce1b04db
 twitter.profile:
 website:http://www.iec.ch
 

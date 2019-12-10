@@ -1,5 +1,5 @@
-created:1575897973401
-modified:1575897973401
+created:1575938165233
+modified:1575938165233
 title:Trustless Computing Association
 type:text/vnd.tiddlywiki
 activities:
@@ -28,8 +28,9 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"d7c78990-0200-410e-bab3-d67978de95ea":{"to":"0d17b52b-1cfe-4e54-af6c-29151f65b1d7","type":"Provides"}}
-tmap.id:35ee76e5-8692-469b-a0d9-1637ca47bb42
+tmap.edges:{"85b99ff7-caf3-4699-bb55-7f1524dc982b":{"to":"322aafca-2d74-47df-a43b-fcb9c8a0eb0f","type":"Provides"}}
+tmap.id:f9f66e37-6512-4270-a200-9129ad8d2329
+tmap.names:pop-to-orgs all-organizations
 twitter.profile:
 website:https://www.trustlesscomputing.org/tccb-seevik-net
 

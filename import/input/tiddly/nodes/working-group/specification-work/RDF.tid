@@ -1,5 +1,5 @@
-created:1575897973059
-modified:1575897973059
+created:1575938164857
+modified:1575938164857
 title:RDF
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"b454013b-142f-47cd-89c1-9c3fcd935d2a":{"to":"788f87c6-77f2-4def-afc0-c478a5a678d0","type":"organization-for-group"}}
-tmap.id:225af732-fdc5-4202-aaea-50ad0751dd6b
+tmap.edges:{"c22e7022-038a-4b1f-b3d0-f0cb39cdaca1":{"to":"f529295a-43ba-4f63-b33a-a5042fa1f1da","type":"organization-for-group"}}
+tmap.id:fb8ae1b0-fece-49c5-9d55-7d478ddb239d
 url:https://www.w3.org/2001/sw/wiki/RDF
 
 RDF is a standard model for data interchange on the Web. RDF has features that facilitate data merging even if the underlying schemas differ, and it specifically supports the evolution of schemas over time without requiring all the data consumers to be changed.

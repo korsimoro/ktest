@@ -1,5 +1,5 @@
-created:1575897973082
-modified:1575897973082
+created:1575938164883
+modified:1575938164883
 title:Hannes Tschofenig
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Hannes Tschofenig
 organization:
 tags:
-tmap.edges:{"4eff9d5e-b00d-4d87-8daf-b494934b4bb5":{"to":"e7fe5844-7af6-4ce0-9728-073faa07d056","type":"author"},"755b4746-28a6-4abd-8b53-7a2ca071a9ae":{"to":"2468a7a2-a62d-4a38-9eb4-e84f76fc1f57","type":"author"},"9a8e4021-3af1-4876-a029-5b6300a73e0d":{"to":"4da62ef7-5204-4dd2-a173-7b139a972e9e","type":"vice-chair"}}
-tmap.id:f8d73ab0-1cd5-4678-802c-2cd17f41d800
+tmap.edges:{"b57810c9-00d3-48a6-9629-d4557f38f1ef":{"to":"d1857fcc-4116-453e-84ab-a0defd9b8c8d","type":"author"},"77dff314-cccf-4c93-b17e-cafa65783beb":{"to":"13dee498-e2b8-48af-8f08-b7c5d57f8f0c","type":"author"},"56a29fa1-2c05-45ff-ae6e-13f57a283061":{"to":"aacc5d21-9190-4f47-9447-cbd42aec374f","type":"vice-chair"}}
+tmap.id:8d81daca-3dca-4b6c-b97f-b1b08ca83829
 twitter.profile:
 website:http://www.tschofenig.priv.at
 working.group:

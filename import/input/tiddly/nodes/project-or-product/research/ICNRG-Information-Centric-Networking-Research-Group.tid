@@ -1,5 +1,5 @@
-created:1575897973075
-modified:1575897973075
+created:1575938164875
+modified:1575938164875
 title:ICNRG Information-Centric Networking Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"ab03a2dd-787b-4d24-9182-d75ce94e3458":{"to":"9518001c-05d8-49e1-9366-f9ad0f4eac0b","type":"organization-for-group"}}
-tmap.id:06557fd4-3bb9-42d5-9356-ac4d8aee3a95
+tmap.edges:{"56ca65dc-6041-4cc6-acf6-0ea50c03bba7":{"to":"f6dd38fb-bbc3-46d9-8da4-25b085235290","type":"organization-for-group"}}
+tmap.id:f350ea92-c41b-41f2-8d49-e52ff527c98a
 url:https://irtf.org/icnrg
 version.or.edition:
 working.group:

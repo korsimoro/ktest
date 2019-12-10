@@ -1,5 +1,5 @@
-created:1575897973107
-modified:1575897973107
+created:1575938164903
+modified:1575938164903
 title:Australia
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"85c998d6-2ffd-4206-b859-3a722e97ddcd":{"to":"a26a1dc1-a68a-4550-9fef-9dc08770047b","type":"government-connection"}}
-tmap.id:075f7be0-02cb-42da-9cc3-cbe17b515e1e
+tmap.edges:{"c358a85c-da0d-49c6-baad-57be7eaf91ce":{"to":"c36962de-2150-434e-a3e7-be6fd80edc1b","type":"government-connection"}}
+tmap.id:befa2813-02e6-4355-b391-05439ac4b7ad
 twitter.profile:
 website:
 

@@ -1,5 +1,5 @@
-created:1575897973090
-modified:1575897973090
+created:1575938164889
+modified:1575938164889
 title:UK  Cabinet Office
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f3e05fff-97e4-436d-ad24-98003dc63f42":{"to":"989f7e87-9cda-4662-9fd7-a9c63094aa12","type":"executive-member"},"22b4ee5e-6e14-4d2b-ace5-d99ece6e3edb":{"to":"d39c8631-18ad-4c4f-9850-ca448b7fef93","type":"connection"},"a7dc23f8-5439-4561-a687-db9a7c9b7ec4":{"to":"ea1d669c-b297-4d4d-8a4c-a5773a37e844","type":"government-connection"}}
-tmap.id:c6c2b4c1-c48c-4f25-b0b6-9ee73fc7690b
+tmap.edges:{"7307837f-2f91-440f-8a78-8cf847a56fb4":{"to":"9a38b6fc-2199-4b27-a6ed-6fe96a762e2d","type":"executive-member"},"f9e23498-1e94-4a46-af54-1eaa210cc114":{"to":"b3218e5c-a82f-4385-97c0-d7813c735281","type":"connection"},"5e34d2c5-36b6-44f5-a5f0-e4e39902d30b":{"to":"f9251c56-4e53-406c-8e0e-99861a84dd67","type":"government-connection"}}
+tmap.id:06fbf18f-7ae2-46ef-ae3c-e6ec4b0f0766
 twitter.profile:
 website:
 

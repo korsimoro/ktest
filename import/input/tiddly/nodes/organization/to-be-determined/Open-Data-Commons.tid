@@ -1,7 +1,7 @@
 activities: 
 annual.budget: 
 audience: 
-created: 15820721014002000
+created: 15821122172303000
 date.ended: 
 date.founded: 
 digital.harms.addressed: 
@@ -13,12 +13,12 @@ key.people:
 linkedin.profile: 
 location(s): 
 me2b.relationship: 
-modified: 20191209132645712
+modified: 20191210003633493
 org.name: Open Data Commons
 org.type: to-be-determined
 parent.org: Open Knowledge Foundation
 title: Open Data Commons
-tmap.id: e27f34ca-86d1-4841-b73d-068381247b0b
+tmap.id: e81d78aa-671d-401c-92b4-6a76b06fee0d
 type: text/vnd.tiddlywiki
 
 partners:
@@ -28,11 +28,11 @@ relevant.publications:
 scope:
 sector:non-profit
 status:
-tags:0
+tags:consolidation of open datasets
 tech.focus:Data Mobility
 tmap.edges:{}
-tmap.id:7430036c-524e-4117-871a-806790fe4e48
-tmap.names:me2bstar me2bstar-tag
+tmap.id:a22a22bf-b59c-4907-a7c8-dd89d41087fe
+tmap.names:me2ball me2ball-tag me2ball-tech-focus
 twitter.profile:https://twitter.com/OpenDataCommons
 website:https://opendatacommons.org/
 

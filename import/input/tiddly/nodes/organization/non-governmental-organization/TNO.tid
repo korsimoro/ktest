@@ -1,5 +1,5 @@
-created:1575897973106
-modified:1575897973106
+created:1575938164902
+modified:1575938164902
 title:TNO
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"a640d62e-1a01-4c90-96e5-a6d5c2a99338":{"to":"625e935d-dd59-430e-be55-421c9eaba2e8","type":"organization-for-group"}}
-tmap.id:72794f88-6b25-419a-8540-646da1c18a02
+tmap.edges:{"47df5d63-c74e-404f-a235-cb41cc9e512a":{"to":"8f35f2e7-47da-4523-9825-e67a3f9ce533","type":"organization-for-group"}}
+tmap.id:32bbc589-43d3-43c0-a787-f3a49d2bcdc3
 twitter.profile:
 website:https://www.tno.nl/nl/
 

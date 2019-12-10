@@ -1,5 +1,5 @@
-created:1575897973102
-modified:1575897973102
+created:1575938164898
+modified:1575938164898
 title:TTA  Telecommunications Technology Association, Korea
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"163f2d3d-c241-4a2c-a6b5-607b28c8ca25":{"to":"4c4d1127-4541-4d9c-8281-6bf45d8f3f0a","type":"general-member"},"588be35a-b944-4b8f-8ea1-e752b3e647cd":{"to":"670d6a30-8c95-4f75-a450-c4cc0c7b983f","type":"executive-member"}}
-tmap.id:692c4d7e-dbd9-4aa6-9d92-a9cc50c53b31
+tmap.edges:{"43b88c4f-1a10-4f33-a3b3-0d91af66783c":{"to":"18c20479-61eb-4782-8d58-c69de0288b5e","type":"general-member"},"caea3c7b-6886-422b-bc41-fd615651f0ff":{"to":"96f022ee-5dc0-4e6a-8a55-95c0f060bea9","type":"executive-member"}}
+tmap.id:01eaf0aa-3255-4d37-a506-784da1bb834a
 twitter.profile:
 website:http://www.tta.or.kr/English/
 

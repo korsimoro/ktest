@@ -1,5 +1,5 @@
-created:1575897973403
-modified:1575897973403
+created:1575938165236
+modified:1575938165236
 title:The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS)
 type:text/vnd.tiddlywiki
 audience:
@@ -18,8 +18,9 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"3daf86e1-7f4d-4b8d-b515-45c4271f462a":{"to":"7ad18b8e-a7ea-466e-b7c9-6016fe338df8","type":"Sponsors"}}
-tmap.id:7ad18b8e-a7ea-466e-b7c9-6016fe338df8
+tmap.edges:{"5d50a8dd-51ac-44bc-b35e-7e7393047ac4":{"to":"f21c5613-5eed-48c1-8c98-0a8a4c576816","type":"Sponsors"}}
+tmap.id:f21c5613-5eed-48c1-8c98-0a8a4c576816
+tmap.names:wg-to-orgs all-organizations
 url:
 version.or.edition:
 volume.frequency:

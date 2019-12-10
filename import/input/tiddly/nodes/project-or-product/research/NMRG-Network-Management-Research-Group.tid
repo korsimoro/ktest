@@ -1,5 +1,5 @@
-created:1575897973072
-modified:1575897973072
+created:1575938164874
+modified:1575938164874
 title:NMRG Network Management Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -22,8 +22,8 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
-tmap.edges:{"999ebbf1-6707-4916-a3e7-6f67e3f923ee":{"to":"9518001c-05d8-49e1-9366-f9ad0f4eac0b","type":"organization-for-group"}}
-tmap.id:f6345f10-7a78-45af-9804-e2231703dd3c
+tmap.edges:{"5a50b547-034f-41d9-97b1-232996fc1644":{"to":"f6dd38fb-bbc3-46d9-8da4-25b085235290","type":"organization-for-group"}}
+tmap.id:ea17bbae-3342-4038-b904-c8010a4deb32
 url:https://irtf.org/nmrg
 version.or.edition:
 working.group:

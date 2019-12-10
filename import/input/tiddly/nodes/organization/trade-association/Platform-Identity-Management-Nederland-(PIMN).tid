@@ -1,5 +1,5 @@
-created:1575897973094
-modified:1575897973094
+created:1575938164895
+modified:1575938164895
 title:Platform Identity Management Nederland (PIMN)
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"9149f81d-3728-464e-aec0-86fe20beccdd":{"to":"eadaabe6-e240-41a3-abae-1763a44db764","type":"sponsor"},"38b04660-5d0e-412f-8223-6736ad3ccbce":{"to":"7bffd78f-3658-45cd-8b65-a712347e4d8d","type":"executive-member"}}
-tmap.id:4bbacc7a-e8dd-4ca3-837b-eefbcad45cec
+tmap.edges:{"f33603ab-6af7-44f7-a933-38a17432682d":{"to":"63323618-681c-4e7e-b09f-af1ff77ed478","type":"sponsor"},"ecf5a33a-3460-4c7b-90d0-d7456b8f90bb":{"to":"995b0339-c2d5-4494-ad83-cf7d7e53eb3c","type":"executive-member"}}
+tmap.id:b81d7351-10a9-4707-8f64-00f7a4463444
 twitter.profile:
 website:
 

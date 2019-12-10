@@ -1,16 +1,16 @@
 activities: service provider: certification
 annual.budget: 
 audience: 
-created: 15820721014000000
+created: 15821122172302000
 date.ended: 
 date.founded: 
 digital.harms.addressed: 
 element.type: organization
 funding: 
 github.profile: https://github.com/iubenda
-modified: 20191209132645853
+modified: 20191210003633804
 title: iubenda
-tmap.id: d7b73888-f329-4992-9bf8-45ce5a725485
+tmap.id: d6728a1b-6be3-4542-ad78-5cf07d496142
 type: text/vnd.tiddlywiki
 
 input.source:me2b
@@ -31,9 +31,9 @@ sector:for-profit
 status:Defunct?
 tags:
 tech.focus:
-tmap.edges:{"1440913e-7241-4fd8-bf32-6d6d88671a6e":{"to":"b8eff33a-172e-473f-89c6-f68ad4b9e7e2","type":"Provides"},"07ccc645-fd9c-4b25-bbbd-c8bbf35c87d7":{"to":"9c8a1d70-b3c7-4a98-b689-6ff722cdd1af","type":"Provides"},"20a15470-ae0c-4a06-831b-b6615c6b045d":{"to":"3b9cf73e-8d0d-4d29-90cc-6264394d6f8c","type":"Provides"},"82848bcf-ce92-4538-88a1-70a55876048d":{"to":"f1da7840-426d-48fe-a2b8-6439316d6906","type":"Provides"},"73e08f99-4f22-489b-9aac-d5f21ad47b05":{"to":"3dd3ed7c-5b82-4e26-bd7e-dbfedd9aee66","type":"Provides"},"1e67c56f-f999-40a6-8a54-8ffe3aef11c4":{"to":"58406d8f-40fd-41f9-bcb3-79f714a65262","type":"Provides"},"b1fb30b8-a75b-49bc-a243-1f710acd0d79":{"to":"53d78e3f-8f82-4a79-95e1-e0eefff19714","type":"Provides"},"e7dbfe27-127a-474a-a634-39255f4e2411":{"to":"3cd486ba-dae0-432b-9d3b-80a8dfbbfd1e","type":"Provides"}}
-tmap.id:dd51dfc1-1401-49e9-b8bd-6c032dad8546
-tmap.names:me2bstar me2bstar-me2b-certification-candidate-content-source-for-me2b-certification me2bstar-activity me2bstar-purpose
+tmap.edges:{"52ff91a3-42b8-49f1-9b89-93b902720a51":{"to":"e75ad52d-9056-44b3-9d1f-1ba1f55b907b","type":"Provides"},"d5a9fa7e-af9b-4b41-ad88-75235617912c":{"to":"9aef8818-6595-40b2-8f31-3ab8a954743f","type":"Provides"},"a5a95381-4fc0-4b56-a625-b4c8c10092f1":{"to":"1ba1d383-4f1c-4a6c-96a0-fbd370d2c363","type":"Provides"},"39a6c77e-48c3-4330-830a-155f17881873":{"to":"056dfed2-1ec8-4c6d-b80e-5d5c03abae04","type":"Provides"},"1cf6b589-66b0-4fcb-b5f2-6aa638d779e8":{"to":"5906112e-f4e2-4635-9116-a8b3bd6a0d54","type":"Provides"},"7c78e109-7a41-4a2e-b3b2-4105ed2ccd1b":{"to":"85d53e3c-91dd-447e-9756-6c45804a95f6","type":"Provides"},"45af016e-a35c-4dc9-a851-24ecefa7003f":{"to":"2d560269-f9ae-456c-aae2-99b2adfb6bda","type":"Provides"},"aa788f98-5e66-4845-9221-008848d4e877":{"to":"ef0d4086-06a8-4198-85a1-8bebdb09317f","type":"Provides"}}
+tmap.id:0e8422b3-ce6a-433a-b3f2-4cc0d5faae20
+tmap.names:pop-to-orgs all-organizations me2bstar me2bstar-me2b-certification-candidate-content-source-for-me2b-certification me2ball me2ball-activity me2ball-purpose
 twitter.profile:https://twitter.com/iubenda
 website:https://www.iubenda.com/en/
 

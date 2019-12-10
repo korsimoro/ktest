@@ -1,5 +1,5 @@
-created:1575897973091
-modified:1575897973091
+created:1575938164892
+modified:1575938164892
 title:Austrian Federal Ministry of Finance
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"f037eb76-94d9-47a1-b916-cc75b5f333e6":{"to":"094a7336-7a68-4fc6-997c-795e629e9ed5","type":"funding-flow"},"ec8ea351-fa75-438d-ad98-6fc3a21a3f95":{"to":"9dfbe764-5df6-4c70-a592-d0a8b5d40cfc","type":"government-connection"}}
-tmap.id:82ee34b9-f6a8-491f-8924-aaa0f4b9b6f8
+tmap.edges:{"d8d2f1d9-45b7-46ae-9aae-f632abf6a88e":{"to":"953a9bb6-d47d-4c98-898c-ba6fb05b24fb","type":"funding-flow"},"b3c830b3-f98b-4ca5-b538-58fdc63b8d42":{"to":"429f810a-2ecb-4ad9-935b-e77b60760119","type":"government-connection"}}
+tmap.id:c17d648d-ee89-421c-80fc-110d259a87f0
 twitter.profile:
 website:
 

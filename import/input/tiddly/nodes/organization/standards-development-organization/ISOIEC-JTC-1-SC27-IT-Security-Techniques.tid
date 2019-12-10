@@ -1,5 +1,5 @@
-created:1575897973120
-modified:1575897973120
+created:1575938164914
+modified:1575938164914
 title:ISO/IEC JTC 1 / SC27 IT Security Techniques
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"74237768-de9c-4374-a94c-5ab64e372032":{"to":"810e199e-655f-488d-b2fc-ea56a897ef7b","type":"organization-for-group"}}
-tmap.id:4e500c15-8810-4571-aa51-6437c201329d
+tmap.edges:{"ecfebf02-f037-4582-82b4-9feaf9080e05":{"to":"bcac6c6f-7bf2-4dc3-aaa0-383b513187df","type":"organization-for-group"}}
+tmap.id:35e880f6-aedd-47f1-8c0c-7812c0e18f42
 twitter.profile:
 website:
 

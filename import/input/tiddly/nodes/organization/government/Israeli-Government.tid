@@ -1,5 +1,5 @@
-created:1575897973108
-modified:1575897973108
+created:1575938164903
+modified:1575938164903
 title:Israeli Government
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"fd0f88fe-d72b-43f3-a21f-a07c06eb25db":{"to":"41be7690-8beb-4527-a89f-6a623f41a547","type":"government-connection"}}
-tmap.id:aabc55bc-42f6-4b6c-a8d8-476dcd437968
+tmap.edges:{"b4dedbc0-4b43-4552-9d99-ee5bd1a30b43":{"to":"5ec6c6e8-2149-4fc2-9c6e-3e9db5d28272","type":"government-connection"}}
+tmap.id:6ed7d985-cb6c-4fc4-b0e9-341e42646875
 twitter.profile:
 website:
 

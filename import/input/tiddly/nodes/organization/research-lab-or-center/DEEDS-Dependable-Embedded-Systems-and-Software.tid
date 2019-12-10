@@ -1,5 +1,5 @@
-created:1575897973085
-modified:1575897973085
+created:1575938164885
+modified:1575938164885
 title:DEEDS - Dependable, Embedded Systems and Software
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"94e424ed-b24f-4571-ab73-183494b08223":{"to":"c99ba69b-b08e-4d09-8832-3be49c98b86e","type":"organization-for-group"},"08e43008-25a3-4573-bf93-1bb81d77df89":{"to":"0bb36de9-f2b3-40de-a697-1a7bee11010c","type":"general-member"}}
-tmap.id:424bfeff-b152-4441-8f8d-b974c4d86589
+tmap.edges:{"211639a5-a81a-4eb4-8e9c-444870f8645e":{"to":"5ed5a63a-0721-49d9-835f-16ba9224fc9d","type":"organization-for-group"},"0485a542-d55a-4d8a-91d0-0770c0af25c4":{"to":"7ed44251-5bcc-4c5f-938e-8f04f31edde0","type":"general-member"}}
+tmap.id:f4134f85-5bcb-482b-bf6e-5b4e2d50083f
 twitter.profile:
 website:https://www.deeds.informatik.tu-darmstadt.de/deeds/
 

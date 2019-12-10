@@ -1,5 +1,5 @@
-created:1575897973088
-modified:1575897973088
+created:1575938164888
+modified:1575938164888
 title:White House - Office of Science and Technology Policy
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"1521bf8c-9795-4251-ba24-6afb1089bc93":{"to":"fca78811-ee16-4d72-9a4c-952d509ab9d4","type":"author"},"7b836301-162e-41be-bf38-01712fc11a9f":{"to":"c21da54d-70d0-423b-983c-4006019332ff","type":"author"},"4a161c59-a72f-423f-9f98-1163e37c25f2":{"to":"55e25a17-2c95-4336-b4ba-a00def1c7e80","type":"government-connection"}}
-tmap.id:00ec79ec-58b9-4faf-82ff-783b5d075a11
+tmap.edges:{"450d5613-00c9-48d4-8e60-1c043a0963a9":{"to":"dfb4f6cf-aaec-4967-8c6c-d25f6a27d292","type":"author"},"5af90faa-75c2-4571-ba36-15d9619e47b1":{"to":"0731634f-41aa-47d3-895a-fe00e51e4f2b","type":"author"},"3330950e-0e4f-415f-80da-529a5741f6a8":{"to":"b5461032-ce0a-4247-a139-af036fd738ef","type":"government-connection"}}
+tmap.id:32493e6f-c972-43c7-8d52-c342723cac40
 twitter.profile:
 website:
 

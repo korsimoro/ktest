@@ -2,7 +2,7 @@ import { Context } from '../context'
 import { Me2BConnection } from '.'
 
 
-function linkorg(type:string,field:string,relation:string,ctx:Context) {
+function linkorg(type:string,field:string,relation:string,ctx:Context,mapnames:string[]) {
   const pap = ctx.me2b.findElementsByType(type)
   for(let p of pap) {
     const org = p.fields[field]
@@ -14,7 +14,12 @@ function linkorg(type:string,field:string,relation:string,ctx:Context) {
       if(!elt)
         console.log("ORG NOT FOUND",org)
       else {
-        new Me2BConnection(org,p.title,relation,ctx.me2b)
+        new Me2BConnection(elt.title,p.title,relation,ctx.me2b)
+        console.log("LINKING",elt.title,relation,p.title)
+        for(let mapname of mapnames) {
+          elt.addToListField('tmap.names',mapname)
+          p.addToListField('tmap.names',mapname)
+        }
        }
     }
   }
@@ -22,16 +27,16 @@ function linkorg(type:string,field:string,relation:string,ctx:Context) {
 }
 
 export function linkProductsAndProjectsToOrganizations(ctx:Context) {
-  linkorg("project-or-product","parent.org","Provides",ctx)
+  linkorg("project-or-product","parent.org","Provides",ctx,['pop-to-orgs','all-organizations'])
 }
 export function linkPublicationsToOrganizations(ctx:Context) {
-  linkorg("publication","sponsoring.org","Published",ctx)
+  linkorg("publication","sponsoring.org","Published",ctx,['pubs-to-orgs','all-organizations'])
 }
 export function linkWorkingGroupsToOrganizations(ctx:Context) {
-  linkorg("working-group","parent.org","Sponsors",ctx)
+  linkorg("working-group","parent.org","Sponsors",ctx,['wg-to-orgs','all-organizations'])
 }
 export function linkOrganizationsToOrganizations(ctx:Context) {
-  linkorg("organization","parent.org","Sponsors",ctx)
+  linkorg("organization","parent.org","Sponsors",ctx,['orgs-to-orgs','all-organizations'])
 }
 export function linkOrganizationsToPeople(ctx:Context) {
 }
@@ -49,6 +54,9 @@ export function createMe2BStar(ctx:Context) {
       console.log("No Me2B Relationship",p.title)
     }
     else {
+      const metaModelTypeElement = M.model.ensureElementWithLabel(rel,"Me2B Relationship")
+      ctx.tiddly.registerNamedMap('me2bstar')
+      ctx.tiddly.registerNamedMap('me2bstar-'+ctx.me2b.slugify(rel))
       new Me2BConnection(M.title,p.title,rel,ctx.me2b)
       M.addToListField('tmap.names','me2bstar')
       p.addToListField('tmap.names','me2bstar')

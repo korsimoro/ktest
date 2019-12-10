@@ -1,5 +1,5 @@
-created:1575897973110
-modified:1575897973110
+created:1575938164905
+modified:1575938164905
 title:Online Identity Tutorials
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Privacy and Identity
 tags:
 tech.focus:
-tmap.edges:{"05872228-dd01-4313-8eb4-3f4b72e78d01":{"to":"7ce0f46d-2a8b-4455-bfa5-4030d94d4b3e","type":"specification-of-group"}}
-tmap.id:00ff2ff1-1177-4f2a-844b-d1754e2e5dbf
+tmap.edges:{"cf7cd4d2-f2fb-4887-9c92-69d1a4c6ba31":{"to":"cbe19515-63c1-474f-bccb-10723ba060cd","type":"specification-of-group"}}
+tmap.id:3945864c-9845-452b-989d-bafe3a056cb4
 url:http://www.internetsociety.org/manage-your-identity
 version.or.edition:
 volume.frequency:

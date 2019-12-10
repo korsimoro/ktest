@@ -1,7 +1,7 @@
 activities: 
 audience: 
 category: service
-created: 15820721014003000
+created: 15821122172305000
 date.begun: 
 date.ended: 
 digital.harms.addressed: 
@@ -10,14 +10,14 @@ github.profile:
 input.source: me2b
 license: 
 me2b.participation: 
-modified: 20191209132644984
+modified: 20191210003635696
 name: TRUSTe Data Collection Certification
 parent.org: TrustArc / Trust-e
 partners: 
 people: 
 purpose: certification and compliance
 title: TRUSTe Data Collection Certification
-tmap.id: 2b5e6aff-f6bf-44f2-8a6c-dca5aa603687
+tmap.id: e0125625-54f0-41f3-ba1b-dda07a78e284
 type: text/vnd.tiddlywiki
 
 relevant.publications:
@@ -26,7 +26,8 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:cb9b5419-4568-40be-ad00-d5870bb6eeb9
+tmap.id:8e4861cf-207f-4a60-bfda-ff00c43a7ada
+tmap.names:pop-to-orgs all-organizations
 url:https://www.trustarc.com/products/data-certification/
 version.or.edition:
 working.group:

@@ -1,5 +1,5 @@
-created:1575897973088
-modified:1575897973088
+created:1575938164888
+modified:1575938164888
 title:Department of Justice
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"92b04cd3-925a-45d2-b50b-638fe6425149":{"to":"55e25a17-2c95-4336-b4ba-a00def1c7e80","type":"government-connection"},"2ade1a32-e00e-4111-8fe3-2394751b5922":{"to":"ebf787cb-37bb-4750-84db-20bbfcad4eac","type":"founder"}}
-tmap.id:a14082d8-24ef-408f-9c9e-d5718d8577c4
+tmap.edges:{"6eca0105-af64-46aa-821f-69653e90dfe9":{"to":"b5461032-ce0a-4247-a139-af036fd738ef","type":"government-connection"},"a72934ce-77fd-4c53-ae35-8d5023a622a2":{"to":"4cfcf319-0627-4a3f-bad4-263b6cd74d33","type":"founder"}}
+tmap.id:5a0d5656-0fd0-44cc-81c9-900068e36a5c
 twitter.profile:
 website:https://www.justice.gov
 

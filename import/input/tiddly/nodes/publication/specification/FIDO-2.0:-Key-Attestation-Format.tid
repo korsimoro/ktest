@@ -1,5 +1,5 @@
-created:1575897973065
-modified:1575897973065
+created:1575938164864
+modified:1575938164864
 title:FIDO 2.0: Key Attestation Format
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"314960d0-a4e7-4094-a973-2b5294f823d5":{"to":"bcb3c28f-5ce3-4825-9643-76bc1913b906","type":"organization-for-group"},"a31f1d92-79d8-4141-8f46-6ae0933366fd":{"to":"c5ec1751-91ae-40e3-83d1-c11c3e598366","type":"organization-for-group"}}
-tmap.id:7703b03d-4314-4e0e-9212-2ebf237a0878
+tmap.edges:{"e5120b26-2f93-4881-9a06-50c92c020636":{"to":"07b4bff7-3fd3-46dd-8404-8ab53b550e1c","type":"organization-for-group"},"552a6c4a-6e2d-4a3d-a058-ba8937bbf5eb":{"to":"ae884f6b-ba3d-4bf0-ace0-8149afe2f6ca","type":"organization-for-group"}}
+tmap.id:70019973-58f5-4e21-aad9-6f4743e621a5
 url:http://www.w3.org/Submission/2015/SUBM-fido-key-attestation-20151120/
 version.or.edition:
 volume.frequency:

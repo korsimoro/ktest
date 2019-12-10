@@ -1,5 +1,5 @@
-created:1575897973102
-modified:1575897973102
+created:1575938164900
+modified:1575938164900
 title:Netnod
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"d30bd28a-1ac2-46cd-a47f-0298dbdf042d":{"to":"dcb0bb7d-f13a-4a44-9771-7ee5747aca34","type":"founder"},"26e9bdc2-a583-4f79-8b9f-75a62d5e41d3":{"to":"563def5f-165a-48c4-8845-94ee14c13394","type":"general-member"}}
-tmap.id:4004ea84-64bc-49ee-8237-bd634ac41092
+tmap.edges:{"1eb55352-4fe6-47e5-9d1d-b4b585b6b738":{"to":"e6186f66-c489-4fa1-8212-77a1242ced57","type":"founder"},"956819ad-16d0-4d95-8aaf-9db3149f8c53":{"to":"a10cccef-ab1c-4067-9984-34c8570895c9","type":"general-member"}}
+tmap.id:942353c7-1c83-42f7-91d2-4b714c3535eb
 twitter.profile:
 website:http://www.netnod.se
 

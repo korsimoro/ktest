@@ -1,7 +1,7 @@
 activities: movement building: events and convening: publication
 annual.budget: 
 audience: 
-created: 15820721014001000
+created: 15821122172303000
 date.ended: 
 date.founded: 
 digital.harms.addressed: 
@@ -13,11 +13,11 @@ key.people:
 linkedin.profile: https://www.linkedin.com/company/alliedmedia/
 location(s): Mississauga, Ontario
 me2b.relationship: 
-modified: 20191209132644439
+modified: 20191210003629674
 org.name: Allied Media Projects
 org.type: NGO
 title: Allied Media Projects
-tmap.id: 670c01fc-0ec6-40a9-8022-60430bad8dab
+tmap.id: df281c23-447c-49ee-ade1-f0a445e8ff21
 type: text/vnd.tiddlywiki
 
 parent.org:
@@ -30,9 +30,9 @@ sector:non-profit
 status:
 tags:
 tech.focus:
-tmap.edges:{"58b046a1-1bc7-406a-9c95-55bb58cd0cdd":{"to":"bd158d8c-ab52-4cc4-8b8d-db86834e7026","type":"Sponsors"}}
-tmap.id:be6f9a94-1221-42fc-9721-913ad8596661
-tmap.names:me2bstar me2bstar-activity me2bstar-purpose
+tmap.edges:{"ddd378ec-9dbb-47da-aa11-2cd3e4f89dda":{"to":"5386d484-a932-4241-997d-a46832016908","type":"Sponsors"}}
+tmap.id:3ac384bf-e2ad-40ca-a2db-8f40f9695ebf
+tmap.names:orgs-to-orgs all-organizations me2ball me2ball-activity me2ball-purpose
 twitter.profile:https://twitter.com/allied_media
 website:https://alliedmedia.org/
 

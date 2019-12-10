@@ -1,5 +1,5 @@
-created:1575897973087
-modified:1575897973087
+created:1575938164886
+modified:1575938164886
 title:Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs (DG GROWTH )
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"dfed9af7-e183-47ca-a051-90a4bfeecbf4":{"to":"59b36d04-7975-45a6-bfa5-4fcf8ed9c67b","type":"government-connection"}}
-tmap.id:1810e290-1867-418e-8239-de1f4674367b
+tmap.edges:{"210dd48f-4f08-4fce-a964-d181c24c49cc":{"to":"e1132b9d-7408-42e6-ae83-6c3040e9c3b9","type":"government-connection"}}
+tmap.id:18056ef5-fd43-4fbe-9755-ac63d8e1867a
 twitter.profile:
 website:http://ec.europa.eu/growth/
 

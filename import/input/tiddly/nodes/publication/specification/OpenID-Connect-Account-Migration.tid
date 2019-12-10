@@ -1,5 +1,5 @@
-created:1575897973068
-modified:1575897973068
+created:1575938164868
+modified:1575938164868
 title:OpenID Connect Account Migration
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:MONDRNA
 tags:
 tech.focus:
-tmap.edges:{"78f8bfd6-c47e-40fe-80b9-3b480cc7b111":{"to":"96f54aae-a85f-448e-8a46-3c75bd8e6cea","type":"specification-of-group"}}
-tmap.id:11660757-00eb-4651-9cf5-e1006e4278d7
+tmap.edges:{"a084ecb6-843e-46dc-93a9-a62f72f2ac86":{"to":"c59dceb0-63c3-4474-9ede-2d76a0d19f1f","type":"specification-of-group"}}
+tmap.id:ace1f88a-e604-411c-8ed0-d72cac21a60f
 url:
 version.or.edition:
 volume.frequency:

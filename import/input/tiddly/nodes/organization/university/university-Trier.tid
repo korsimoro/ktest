@@ -1,5 +1,5 @@
-created:1575897973062
-modified:1575897973062
+created:1575938164861
+modified:1575938164861
 title:university Trier
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"0ecc0351-462e-4f6c-bd0f-8226d5149977":{"to":"069d1475-c4a9-4b31-84fc-ac4860741cd1","type":"organization-for-group"}}
-tmap.id:c944d5ee-b05a-45c4-951f-1108b9d497f1
+tmap.edges:{"add7bda6-f18c-4195-ae03-163ab81e05b5":{"to":"5fd1aff7-d92f-4f88-8471-24d397848a29","type":"organization-for-group"}}
+tmap.id:080f0f1f-7116-4df6-a741-605c6199b9af
 twitter.profile:
 website:
 

@@ -2,6 +2,20 @@ import { TiddlyModel,SimpleTiddler } from '..'
 import slugify from 'slugify'
 import path from 'path'
 
+const images = [
+	"$:/images/fa5/brands/grav",
+	"$:/images/fa5/brands/raspberry-pi",
+	"$:/images/fa5/brands/font-awesome-flag",
+	"$:/images/fa5/brands/galactic-republic",
+	"$:/images/fa5/brands/linux",
+	"$:/images/fa5/solid/fire-extinguisher",
+	"$:/images/fa5/solid/flask",
+	"$:/images/fa5/solid/hamburger",
+	"$:/images/fa5/solid/people-carry",
+	"$:/images/fa5/solid/pepper-hot"
+]
+let index = 0
+
 export class NodeTypeTiddler extends SimpleTiddler  {
 	/*
 	created: 20190902112311677
@@ -42,8 +56,9 @@ export class NodeTypeTiddler extends SimpleTiddler  {
 
 		this.scope='[field:element.type['+this.filepart+']]'
 		this.style='{"color":{"border":"'+this.randomRGBA()+'","background":"'+this.randomRGBA()+'"}}'
-		this.faIcon='f'+Math.round(1300*Math.random())
-		this.twIcon=''
+		this.faIcon='' //'f'+Math.round(1300*Math.random())
+		this.twIcon=images[index % images.length]
+		index = index + 1
 	}
 
 	tiddlerdata():string {

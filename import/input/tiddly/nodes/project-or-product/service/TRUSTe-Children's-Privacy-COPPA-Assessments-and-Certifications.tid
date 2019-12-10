@@ -1,7 +1,7 @@
 activities: 
 audience: 
 category: service
-created: 15820721014003000
+created: 15821122172305000
 date.begun: 
 date.ended: 
 digital.harms.addressed: 
@@ -10,14 +10,14 @@ github.profile:
 input.source: me2b
 license: 
 me2b.participation: 
-modified: 20191209132644989
+modified: 20191210003635702
 name: TRUSTe Children's Privacy / COPPA
 parent.org: TrustArc / Trust-e
 partners: 
 people: 
 purpose: certification and compliance
 title: TRUSTe Children's Privacy / COPPA
-tmap.id: d37914fc-1a41-40c9-a27b-1990f743af5e
+tmap.id: 67534f03-da58-457d-9060-3958c605fcfc
 type: text/vnd.tiddlywiki
 
 relevant.publications:
@@ -26,7 +26,8 @@ supported.identity.technologies:
 tags:
 terms.of.service:
 tmap.edges:{}
-tmap.id:ddcec777-045d-4a19-8457-6ae710ba8b7d
+tmap.id:eb170e4a-6a7e-43f5-b590-744b555f4ae2
+tmap.names:pop-to-orgs all-organizations
 url:https://www.trustarc.com/products/coppa-certification/
 version.or.edition:
 working.group:

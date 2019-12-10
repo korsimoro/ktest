@@ -27,7 +27,8 @@ export class EdgeTypeTiddler extends SimpleTiddler  {
 			this.dirchain=this.slugchain.slice(0,len-1)
 			}
 
-		this.style='{"color":{"color":"'+this.randomRGBA()+'"},"width":'+Math.round(1+15*Math.random())+'}'
+		//this.style='{"color":{"color":"'+this.randomRGBA()+'"},"width":'+Math.round(1+15*Math.random())+'}'
+		this.style='{"color":{"color":"'+this.randomRGBA()+'"},"width":'+Math.round(1+3*Math.random())+'}'
 
 	}
 

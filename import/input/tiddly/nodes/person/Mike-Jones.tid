@@ -1,5 +1,5 @@
-created:1575897973083
-modified:1575897973083
+created:1575938164883
+modified:1575938164883
 title:Mike Jones
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Mike Jones
 organization:
 tags:
-tmap.edges:{"e171f052-7aab-4c1c-bee4-26c2062b3eb4":{"to":"15fe2281-5104-4d06-800e-6bbedac06a01","type":"author"},"bf99be0b-5d72-45db-9313-93247eaaa002":{"to":"090a8bcd-42cb-4ba4-b190-4bc4c5be9f22","type":"author"},"d2d2f35f-be5a-4b7c-ad65-5c782e1b6e9c":{"to":"0011ed82-15db-47fd-b952-252b89182d96","type":"author"},"a2db24d2-84c8-4a29-b2b8-ff2e991c750d":{"to":"61706776-014f-4c8d-bfac-33b658a92458","type":"author"},"25d2fe4a-0d00-46e1-89ec-bd8da028a8fd":{"to":"a772bb79-3b81-4565-8d98-a234d8ad8ce9","type":"employee"},"e1718e2a-3c81-4730-9da2-81a1e624af19":{"to":"aca3eba2-1baa-4429-968f-d09879cef55e","type":"author"},"ebc9dc31-67cc-417c-b442-dad498e30e93":{"to":"f4889995-ec8c-4b2a-b559-5aa2ab33da50","type":"author"},"0c3bf11b-8c9f-4c01-8167-5f2ed4ea5a60":{"to":"bc386a7d-651f-4787-a3d5-22bdefcb639b","type":"author"},"e0976384-f1ca-4a4d-b83f-be323cf123db":{"to":"8a7c01e3-3ea0-468d-94a0-60020a8fe7a7","type":"author"},"154caf45-3a7c-49fb-873d-896e9dd44d40":{"to":"e67e3b87-5f0f-4664-9196-ab38f7549394","type":"author"},"617738d7-9e23-4022-b7d6-f5301caa9d1a":{"to":"e347e82f-d865-4f0c-8050-e870972cbfd8","type":"author"},"dcc17b78-8d81-43bc-9404-7b60dde61671":{"to":"1c2d8760-fbbd-411d-bbf6-7cf8e4ec3dc5","type":"author"}}
-tmap.id:e91c7cbb-0245-46d4-84cb-2a206d4ece63
+tmap.edges:{"1f65c66c-95b5-4ae7-a017-c8b7bf2a5e4e":{"to":"916b7328-e9bd-48f2-bef0-60a92226faaa","type":"author"},"3f792582-10eb-4883-8c98-4aab28026a16":{"to":"a7ba4f99-8816-4796-90cc-89d9caae8050","type":"author"},"d1a139e0-b8fd-48a0-b1ee-bf875455b919":{"to":"7569a626-944e-415a-afad-86b3e55e8e06","type":"author"},"4a717d8d-94b4-477c-a78b-fba1c44a4f6e":{"to":"e597dd1d-6383-40bb-8758-fe016aaecc69","type":"author"},"8bc6f292-4b84-4c7f-830d-1f95ca8060b3":{"to":"7c0916fb-619d-49eb-9db5-7513fb26e8de","type":"employee"},"0085a8f9-828b-479c-8467-132f50f19e0e":{"to":"cf3ddaca-f7a0-4ad4-9a48-49aee7d828ac","type":"author"},"d8277f6f-870f-44e0-b236-d185c45dfdf4":{"to":"4cf0897c-5db3-400d-b98e-2f817387d351","type":"author"},"7f13317a-81be-43e5-a525-dba212aad127":{"to":"c1bd262c-5be1-4a90-a688-7f9d2cd17434","type":"author"},"d3378661-bafb-4806-9181-d7cf1a30103e":{"to":"b9fc387c-bd65-4875-bf2b-91abd879a3ae","type":"author"},"73d00262-fba6-4d94-a989-bc66b2847a19":{"to":"21b9ea37-56c3-44d0-89de-2cd98c98a49c","type":"author"},"ff0140f3-a182-49ea-b08f-c5f2c6d1b333":{"to":"90ae84a1-c8eb-400b-8a5e-c33f58737ca0","type":"author"},"9584a54c-f406-41cd-b973-40eecc2d9ed1":{"to":"b8fabaaf-c393-43ca-b450-ae9b296bd48b","type":"author"}}
+tmap.id:c704bd74-2ac2-40db-b96c-42bc0a0d3994
 twitter.profile:
 website:
 working.group:

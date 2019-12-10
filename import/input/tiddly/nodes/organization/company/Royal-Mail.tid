@@ -1,5 +1,5 @@
-created:1575897973112
-modified:1575897973112
+created:1575938164907
+modified:1575938164907
 title:Royal Mail
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"76f6a7e8-8931-4657-bcb4-e21ac658b80e":{"to":"abbedf0c-6137-4847-a39e-e045074200db","type":"certified-idp"}}
-tmap.id:396ed046-3d56-4d99-a8a1-54fb1eb580e9
+tmap.edges:{"1168489f-b185-4ef9-bcba-413824dc1023":{"to":"95b325bd-92d6-4279-8be2-6054c2a87902","type":"certified-idp"}}
+tmap.id:3e06672a-2e4d-42d5-b5a7-9fe109260abe
 twitter.profile:
 website:http://www.royalmail.com/personal/identity-verification
 
