@@ -1,6 +1,6 @@
 [submodule "runner/TiddlyWiki5"]
-	path = runner/TiddlyWiki5
+	path = TiddlyWiki5
 	url = https://github.com/Jermolene/TiddlyWiki5.git
 [submodule "runner/TW5-TiddlyMap"]
-	path = runner/TW5-TiddlyMap
+	path = TW5-TiddlyMap
 	url = git://github.com/felixhayashi/TW5-TiddlyMap.git
