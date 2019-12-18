@@ -32,6 +32,7 @@ jobs:
         find twiki -name \*.tid
         ls -al twiki/tiddlers
         ls -al twiki/tiddlers/nodes/
+        ls -al import
         ls -al import/input/
         git stash
         git checkout gh-pages
