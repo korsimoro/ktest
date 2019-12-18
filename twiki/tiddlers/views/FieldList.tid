@@ -1,0 +1,13 @@
+created: 20191210110743544
+modified: 20191210110743544
+tags:
+title: FieldList
+tmap.id: 1da1d9d2-695b-46d5-a414-3ba6ffab1d7d
+type: text/vnd.tiddlywiki
+caption: Field List
+
+\define renderfield(title)
+<tr class="tc-view-field"><td class="tc-view-field-name">''$title$'':</td><td class="tc-view-field-value">//{{$:/language/Docs/Fields/$title$}}//</td></tr>
+\end
+<table class="tc-view-field-table"><tbody><$list filter="[all[current]fields[]sort[title]]" variable="listItem"><$macrocall $name="renderfield" title=<<listItem>>/></$list>
+</tbody></table>

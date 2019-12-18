@@ -1,10 +1,10 @@
 caption: Data Model
 created: 20191210110743556
-modified: 20191218065512477
-title: SwitchedFieldEditor
-tmap.id: 4d90d273-3919-47cb-8f0e-b7ac9e70e0c9
+modified: 20191218065304783
+title: DataModelView
+tmap.id: 4d8a695e-7030-4c1c-b049-78d00a18ab46
 type: text/vnd.tiddlywiki
 
 <$list filter="[all[current]field:element.type[organization]]">
-  {{||$:/twiki/OrganizationEditor}}
+  {{||$:/twiki/Organization}}
 </$list>

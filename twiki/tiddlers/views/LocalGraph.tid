@@ -1,0 +1,8 @@
+caption: Local Graph
+created: 20191210110743556
+modified: 20191218065304783
+title: LocalGraph
+tmap.id: 4d8a695e-7030-4c1c-b049-78d00a18ab46
+type: text/vnd.tiddlywiki
+
+<$tiddlymap view="{{!!title}}-map"></$tiddlymap>

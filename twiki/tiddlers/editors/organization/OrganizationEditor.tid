@@ -1,0 +1,10 @@
+title: $:/twiki/OrganizationEditor
+type: text/vnd.tiddlywiki
+
+<select>
+<$list filter="[all[current]each[organization]get[organization]sort[title]]">
+<option>
+<$view field="title"/>
+</option>
+</$list>
+</select>

@@ -1,9 +1,9 @@
-created: 20191210111646099
-modified: 20191210111646099
-title: MetaDataEditor
-tmap.id: 9af33ed7-3d7c-4873-895f-557c408aed54
-type: text/vnd.tiddlywiki
 caption: Meta Data
+created: 20191210111646099
+modified: 20191218065304774
+title: MetaDataEditor
+tmap.id: 80f4674f-8e4c-4adb-a1b0-ca34d3ec7efc
+type: text/vnd.tiddlywiki
 
 <h1>Tags</h1>
 {{||$:/core/ui/EditTemplate/tags}}

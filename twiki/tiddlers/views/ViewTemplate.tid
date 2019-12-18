@@ -1,21 +1,17 @@
 created: 20191130112033777
 modified: 20191130112038554
 title: $:/core/ui/ViewTemplate/body
-tags: $:/tags/ViewTemplate
+tags: 
 
 <$reveal tag="div" class="tc-tiddler-body" type="nomatch" stateTitle=<<folded-state>> text="hide" retain="yes" animate="yes">
 
 <$list filter="[all[current]!has[plugin-type]!field:hide-body[yes]]">
 
-<$list filter="[all[current]field:element.type[organization]]">
-  {{||$:/twiki/Organization}}
-</$list>
+<$transclude>
 
-<$list filter="[all[current]!has[element.type]]">
-  <$transclude mode="block">
-    <$transclude tiddler="$:/language/MissingTiddler/Hint"/>
-  </$transclude>
-</$list>
+<$transclude tiddler="$:/language/MissingTiddler/Hint"/>
+
+</$transclude>
 
 </$list>
 
