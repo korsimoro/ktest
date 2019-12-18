@@ -26,15 +26,11 @@ jobs:
         cd ../import
         npm ci
         ./node_modules/.bin/tsc
+        ./bin/convert
         cd ..
         node TiddlyWiki5/tiddlywiki.js ./twiki --build
         cp ./twiki/output/index.html ./new-wiki.html
         find twiki -name \*.tid
-        ls -al twiki/tiddlers
-        ls -al twiki/tiddlers/nodes/
-        ls -al import
-        ls -al import/input/
-        find . -type f -ls
         git stash
         git checkout gh-pages
         git config user.name "ewelton"
