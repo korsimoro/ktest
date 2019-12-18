@@ -1,1 +1,0 @@
-Name,About,URL,Publication Type,Sector,Purpose,,TAGS,Digital Harms Addressed,TechFocus,,Sponsoring Org,,Author(s)/Editors,Audience,,Working group,License,Volume Frequency,Version or Edition,Date,,Status,,,,Jurisdiction,,,,Github Profile,,
