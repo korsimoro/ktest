@@ -19,8 +19,20 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - name: npm install, build, and test
       run: |
+        cd schema
         npm ci
-        npm run build --if-present
-        npm test
+        ./node_modules/.bin/tsc
+        cd ..
+        cd runner/TiddlyWiki5
+        node tiddlywiki.js ../docker/content --build
+        cp runner/docker/content/output/index.html docs/wiki.html
+        git config user.name "ewelton"
+        git config user.email "ewelton@users.noreply.github.com"
+        git add  docs/wiki.html
+        git commit -m 'updated wiki'
+        git push https://${{ secrets.GITHUB_TOKEN}}@github.com/ewelton/ktest.git"
+        echo npm ci
+        echo npm run build --if-present
+        echo npm test
       env:
         CI: true
