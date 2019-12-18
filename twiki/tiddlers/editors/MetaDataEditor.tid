@@ -1,0 +1,11 @@
+created: 20191210111646099
+modified: 20191210111646099
+title: MetaDataEditor
+tmap.id: 9af33ed7-3d7c-4873-895f-557c408aed54
+type: text/vnd.tiddlywiki
+caption: Meta Data
+
+<h1>Tags</h1>
+{{||$:/core/ui/EditTemplate/tags}}
+<hr />
+{{||$:/core/ui/EditTemplate/type}}
