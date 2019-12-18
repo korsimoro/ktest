@@ -61,9 +61,6 @@
         "zh-Hans",
         "zh-Hant"
     ],
-    "includeWikis": [
-        "../twiki"
-    ],
     "themes": [
         "tiddlywiki/centralised",
         "tiddlywiki/tight",
