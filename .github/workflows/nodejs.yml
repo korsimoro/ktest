@@ -34,6 +34,7 @@ jobs:
         ls -al twiki/tiddlers/nodes/
         ls -al import
         ls -al import/input/
+        find . -type f -ls
         git stash
         git checkout gh-pages
         git config user.name "ewelton"
