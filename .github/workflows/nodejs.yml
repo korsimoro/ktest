@@ -28,9 +28,8 @@ jobs:
         ./node_modules/.bin/tsc
         ./bin/convert
         cd ..
-        node TiddlyWiki5/tiddlywiki.js ./twiki --build
-        cp ./twiki/output/index.html ./new-wiki.html
-        find twiki -name \*.tid
+        node TiddlyWiki5/tiddlywiki.js ./twiki-standalone --build
+        cp ./twiki-standalone/output/index.html ./new-wiki.html
         git stash
         git checkout gh-pages
         git config user.name "ewelton"
