@@ -1,55 +1,44 @@
 created: 20191201134710530
 modified: 20191201135146977
-tags: 
+tags:
 title: Organization Breakdown
 tmap.id: be2e4955-c732-47f2-935a-767b61c3a694
 type: text/vnd.tiddlywiki
 
-
-charity
-project
-Resource \ Web App
-Foundation 
-Coalition or Network
-Government Department
-Research Lab or Center
-University
-Standards Development Organization
-Company
-Supra National Government
-Trade Association
-University Department
-NGO
-Part of Supra-National Government
-Government
-Cooperative
-
-! University
-! 
-<ul><$list filter="[field:element.type[organization]field:org.type[University]]
- +[sort[title]]">
+\define renderit(elementtype,subtypefield,subtypevalue)
+<ul><$list filter="[all[]field:element.type[$elementtype$]field:$subtypefield$[$subtypevalue$]]
++[sort[title]]">
 <li><$link>{{!!title}}</$link> - {{!!sector}}</li>
 </$list>
 </ul>
+\end
 
-! Cooperative
-! 
-<ul><$list filter="[field:element.type[organization]field:org.type[Cooperative]]
- +[sort[title]]">
-<li><$link>{{!!title}}</$link> - {{!!sector}}</li>
+\define renderoptgroup(type)
+<optgroup label=$type$ >
+<$list filter="[all[]field:element.type[$type$]each[org.type]get[org.type]sort[title]]" variable="subtype">
+<option><<subtype>></option>
 </$list>
-</ul>
-<ul><$list filter="[field:element.type[organization]field:org.type[cooperative]]
- +[sort[title]]">
-<li><$link>{{!!title}}</$link> - {{!!sector}}</li>
-</$list>
-</ul>
+</optgroup>
+\end
 
-! Trade Association
-! 
-<ul><$list filter="[field:element.type[organization]field:org.type[Trade Association]]
- +[sort[title]]">
-<li><$link>{{!!title}}</$link> - {{!!sector}}</li>
+\define renderlist(type,subtypefield,subtype)
+<h2><<type>> - <<subtype>></h2>
+<$list filter="[all[]field:element.type[<<type>>]each[org.type]get[org.type]sort[title]]" variable="field">
+<h2><<field>></h2>
+<$macrocall $name="renderit" field=<<type>> />
 </$list>
-</ul>
+\end
 
+<$select tiddler="$:/temp/elementtype">
+<$list filter="[all[]each[element.type]get[element.type]sort[title]]" variable="type" >
+<$macrocall $name="renderoptgroup" type=<<type>> subtype="org.type"/>
+</$list>
+</$select>
+
+<$macrocall $name="renderlist" type={{$:/temp/elementtype}} subtypefield="org.type" subtype="Company" />
+
+<hr />
+<$list filter="[all[]field:element.type[organization]each[org.type]get[org.type]sort[title]]" variable="field">
+<h2><<field>></h2>
+<$macrocall $name="renderit" elementtype="organization" subtypevalue=<<field>> subtypefield="org.type" />
+</$list>

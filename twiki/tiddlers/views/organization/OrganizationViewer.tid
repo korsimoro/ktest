@@ -4,12 +4,10 @@ title: $:/twiki/Organization
 type: text/vnd.tiddlywiki
 
 This is an Organization
-
-<$list filter="[all[current]field:org.type[to-be-determined]]">
+<$reveal type="match" default={{!!org.type}} text="to-be-determined">
 {{||$:/twiki/Organization/TBD}}
-</$list>
-<$list filter="[all[current]field:org.type[Research\ Lab\ or\ Center]]">
-{{||$:/twiki/Organization/TBD}}
-</$list>
+</$reveal>
 
-End of organization
+<$reveal type="match" default={{!!org.type}} text="Research\ Lab\ or\ Center">
+{{||$:/twiki/Organization/ResearchCenterOrLab}}
+</$reveal>
