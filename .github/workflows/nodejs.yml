@@ -23,12 +23,16 @@ jobs:
         cd schema
         npm ci
         ./node_modules/.bin/tsc
+        cd ../import
+        npm ci
+        ./node_modules/.bin/tsc
         cd ..
         node TiddlyWiki5/tiddlywiki.js ./twiki --build
         cp ./twiki/output/index.html ./new-wiki.html
         find twiki -name \*.tid
         ls -al twiki/tiddlers
-        ls -al twiki/tiddlers/nodes
+        ls -al twiki/tiddlers/nodes/
+        ls -al import/input/
         git stash
         git checkout gh-pages
         git config user.name "ewelton"
