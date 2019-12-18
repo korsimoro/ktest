@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{55:function(n,o,e){"use strict";e.r(o);var c=e(0),r=e.n(c),a=e(165),t=e.n(a),s=e(174),i=function(n){return console.log.bind(console,n)};function u(n){console.log("Record Data",n)}o.default=function(){return r.a.createElement(t.a,{schema:s.schemas.publication,onChange:i("changed"),onSubmit:u,onError:i("errors")})}}}]);
