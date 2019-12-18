@@ -27,11 +27,13 @@ jobs:
         cd runner/TiddlyWiki5
         node tiddlywiki.js ../docker/content --build
         cd ../..
-        cp runner/docker/content/output/index.html ./wiki.html
+        cp runner/docker/content/output/index.html ./new-wiki.html
+        git stash
         git checkout gh-pages
         git config user.name "ewelton"
         git config user.email "ewelton@users.noreply.github.com"
-        git add  wiki.html
+        mv new-wiki.html wiki.html
+        git add wiki.html
         git commit -m 'updated wiki'
         git push --force https://${{secrets.GITHUB_TOKEN}}@github.com/ewelton/ktest.git gh-pages:gh-pages
         echo npm ci
