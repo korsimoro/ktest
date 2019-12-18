@@ -5,4 +5,5 @@ title: LocalGraph
 tmap.id: 4d8a695e-7030-4c1c-b049-78d00a18ab46
 type: text/vnd.tiddlywiki
 
+{{!!title}}
 <$tiddlymap view="{{!!title}}-map"></$tiddlymap>
