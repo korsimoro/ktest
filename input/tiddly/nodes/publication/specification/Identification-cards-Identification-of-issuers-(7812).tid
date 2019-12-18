@@ -1,5 +1,5 @@
-created:1575939740718
-modified:1575939740718
+created:1576662808949
+modified:1576662808949
 title:Identification cards – Identification of issuers (7812)
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Issuer Identification Numbers (IINs) / Application Provider Identifiers (RIDs)  WG5
 tags:
 tech.focus:
-tmap.edges:{"00673ca3-2e54-4dcc-ab45-daa8eee18891":{"to":"45593a86-635f-4a6a-be05-ad8ee5ad7f70","type":"specification-of-group"}}
-tmap.id:628d90f8-2d17-4b04-8497-1792d62ed6a9
+tmap.edges:{"a7cfb536-2058-4d79-a559-29b6ab2bb70c":{"to":"222b437e-9e96-4955-8310-b26d900f613d","type":"specification-of-group"}}
+tmap.id:426870af-ce1c-4abf-8879-11893b90cf5a
 url:
 version.or.edition:
 volume.frequency:

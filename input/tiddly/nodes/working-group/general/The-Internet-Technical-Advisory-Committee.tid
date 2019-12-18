@@ -1,5 +1,5 @@
-created:1575939740702
-modified:1575939740702
+created:1576662808932
+modified:1576662808932
 title:The Internet Technical Advisory Committee
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"58365baf-3ce7-4565-ba8c-d241861e4a64":{"to":"569933db-e67c-4588-940a-2ee98bc60bf4","type":"organization-for-group"},"aba41e19-cd38-434d-8dd2-87ddc10ff3ef":{"to":"b9fefa7b-5b20-4b6d-9109-4e180954022a","type":"connection"},"98594482-3aac-4b3c-8293-540a12575ae0":{"to":"3310660c-016b-4584-bae1-ed60ad033aea","type":"author"},"16a7646f-b7b8-4458-807b-5aa196e256c6":{"to":"98c13a64-16d2-4b5c-8a4f-b4413c0c9d81","type":"convenor"}}
-tmap.id:488015d9-90e8-41bb-9745-0185f1e0bae3
+tmap.edges:{"6dbd765c-489e-4be2-b242-4802e6b4fb54":{"to":"fffa444c-6232-458d-9933-4c05685808c9","type":"organization-for-group"},"3a7b471b-5bc7-4843-a3dd-b1e6103546c4":{"to":"7b8344c2-cbb0-49af-91c7-1774ad06a01f","type":"connection"},"0f8c44bc-9ae5-4885-9766-7d4dc4d44c95":{"to":"85c05e21-db3a-418b-9c6a-8e5952c1a558","type":"author"},"ed434e17-0ad0-4281-aa10-7777dda0e557":{"to":"c5a8aba0-193a-476b-8e2f-75780abab6c5","type":"convenor"}}
+tmap.id:63dcd382-8b3c-4817-ac92-de2cb37365ec
 url:http://www.internetac.org
 
 Building together the future economy and society supported by the Internet

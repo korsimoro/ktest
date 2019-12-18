@@ -1,5 +1,5 @@
-created:1575939740717
-modified:1575939740717
+created:1576662808948
+modified:1576662808948
 title:UMA Profile of OAuth 2.o
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"ca30a796-0155-46ff-b158-78fab05318a2":{"to":"fefa0487-e9fd-4d74-a208-7f8875c3825f","type":"organization-for-group"}}
-tmap.id:373aa52d-f277-40ad-8b86-0ea2dbd9794a
+tmap.edges:{"6c86102f-31d1-4633-aa32-1851039afd02":{"to":"f66a3b0a-be81-4529-8efa-7182b1c34059","type":"organization-for-group"}}
+tmap.id:d2bee477-1551-4ddf-88ee-3cda05c350ce
 url:
 version.or.edition:
 volume.frequency:

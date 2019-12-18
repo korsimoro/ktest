@@ -1,5 +1,5 @@
-created:1575939740715
-modified:1575939740715
+created:1576662808945
+modified:1576662808945
 title:Web Crypto API
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"6fef0033-5f3d-462b-9c04-d71f1c555d72":{"to":"19079a6c-ef02-4121-97c2-f78610677455","type":"organization-for-group"}}
-tmap.id:873ca4d8-2e3b-4762-8d26-4b44c91cad19
+tmap.edges:{"2912a793-88eb-441d-9437-223c74b5f625":{"to":"3287ec77-2a91-40d3-9f86-bdddf7b5241e","type":"organization-for-group"}}
+tmap.id:85fd1ef8-f1f0-4983-8de0-a3ad7f48b402
 url:https://www.w3.org/TR/WebCryptoAPI/
 version.or.edition:
 volume.frequency:

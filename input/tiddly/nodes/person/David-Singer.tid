@@ -1,5 +1,5 @@
-created:1575939740735
-modified:1575939740735
+created:1576662808967
+modified:1576662808967
 title:David Singer
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:David Singer
 organization:
 tags:
-tmap.edges:{"42a8b69a-cfe1-49b2-8715-fee147c0eb5f":{"to":"b66d99f2-965e-44be-a055-13ab4dbe7627","type":"employee"},"3ecc7734-684b-4d80-abbc-58572a6ca75c":{"to":"9aa4033b-50c1-4f29-aa05-c2421176f454","type":"author"}}
-tmap.id:c37305cc-7c58-4574-abde-5c50ba7a8727
+tmap.edges:{"cadd252d-08f7-47f0-aa6a-b994da295b70":{"to":"5de5c375-3c78-4b90-8fc1-df0df116afe4","type":"employee"},"46251e2a-3312-43a0-ade9-4380ee5dd055":{"to":"fa466985-717d-45ee-b3fd-726087f8e73d","type":"author"}}
+tmap.id:8ff52bf3-c0aa-4429-aeb8-d091bf8ca681
 twitter.profile:
 website:
 working.group:

@@ -1,5 +1,5 @@
-created:1575939740701
-modified:1575939740701
+created:1576662808931
+modified:1576662808931
 title:RISC
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"9516ef47-03ac-48a3-a39f-240c0a67272a":{"to":"ca5aade2-1bc5-4fcb-b9d3-56b60aeebf09","type":"organization-for-group"}}
-tmap.id:693aa975-c2df-43f0-af48-2d94098857a1
+tmap.edges:{"462e97e2-002e-4817-9285-7f4298aef25c":{"to":"04ed8b1c-74e5-4d09-b701-11ceb54b6a62","type":"organization-for-group"}}
+tmap.id:0052b8c3-efe6-45aa-aafe-b80c9793966e
 url:http://openid.net/wg/risc/
 
 The goal of RISC is to provide data sharing schemas, privacy recommendations and protocols to:

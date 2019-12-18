@@ -1,5 +1,5 @@
-created:1575939740756
-modified:1575939740756
+created:1576662808988
+modified:1576662808988
 title:Web Payments Interest Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"ec75b6fd-99a5-4e35-87a4-8c5724509efe":{"to":"3f548486-a3f1-4eab-968d-31002d97d1d2","type":"organization-for-group"}}
-tmap.id:56784c8f-eca2-4134-8323-774270f25e7a
+tmap.edges:{"32587456-6699-4490-9749-abc20262a7d8":{"to":"9006bfa5-c03f-4d81-8ec1-210bdaf5d149","type":"organization-for-group"}}
+tmap.id:79fb5ace-d118-4ef9-8950-687b24d6f964
 url:http://www.w3.org/Payments/IG/
 
 The mission of the Web Payments Interest Group, part of the Web Payments Activity, is to provide a forum for Web Payments technical discussions to identify use cases and requirements for existing and/or new specifications to ease payments on the Web for users (payers) and merchants (payees), and to establish a common ground for payment service providers on the Web Platform. The overall objective of this group is to identify and leverage the conditions for greater uptake and wider use of Web Payments through the identification of standardization needs to increase interoperability between the different stakeholders and the different payment methods.
