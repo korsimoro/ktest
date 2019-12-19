@@ -1,5 +1,5 @@
-created:1576662808939
-modified:1576662808939
+created:1576743425956
+modified:1576743425956
 title:PKCS 11 TC
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"8a0a031b-0a0b-4f27-87b8-d0611a93eea1":{"to":"e8cc7e2f-4b2b-4809-ae35-f6b3fa7b4f27","type":"organization-for-group"}}
-tmap.id:9a7dcb13-d776-4ac0-8403-a0faa7a162b4
+tmap.edges:{"57f7aa79-5858-4a18-b312-104a72c314a8":{"to":"f70496aa-bbac-47c4-8ddf-a923e416dd92","type":"organization-for-group"}}
+tmap.id:67d59127-6c70-4751-afb2-c8cd6f056368
 url:https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=pkcs11
 
 Enhancing PKCS #11 standard for cryptographic tokens controlling authentication information (personal identity, cryptographic keys, certificates, digital signatures, biometric data)

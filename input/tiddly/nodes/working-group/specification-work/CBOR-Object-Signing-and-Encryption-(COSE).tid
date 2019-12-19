@@ -1,5 +1,5 @@
-created:1576662808935
-modified:1576662808935
+created:1576743425951
+modified:1576743425951
 title:CBOR Object Signing and Encryption (COSE)
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"dbfab2fd-8744-4f10-9cbf-72a0b1a4a55f":{"to":"e08618de-3a78-4ae2-8c8d-24b329aa9fef","type":"organization-for-group"}}
-tmap.id:b9187330-24e9-4102-8ed8-8818ccdb4a21
+tmap.edges:{"24a9bf81-f7c4-4491-9600-9c47bf213f48":{"to":"b923e342-1707-45aa-97dc-05a697ce86c1","type":"organization-for-group"}}
+tmap.id:b81337a7-d5ad-4150-8634-8bc66faeb906
 url:https://datatracker.ietf.org/doc/draft-ietf-cose-msg/
 
 Concise Binary Object Representation (CBOR) is data format designed

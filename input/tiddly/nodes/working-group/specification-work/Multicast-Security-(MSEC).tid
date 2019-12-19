@@ -1,5 +1,5 @@
-created:1576662808936
-modified:1576662808936
+created:1576743425951
+modified:1576743425951
 title:Multicast Security (MSEC)
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"4a059994-8fa1-4dd7-9a29-fb373440c1f2":{"to":"e08618de-3a78-4ae2-8c8d-24b329aa9fef","type":"organization-for-group"}}
-tmap.id:866a352a-d5d7-4b6a-8703-317ccc098987
+tmap.edges:{"39d94e7b-a008-4c40-8f25-29efa8b01032":{"to":"b923e342-1707-45aa-97dc-05a697ce86c1","type":"organization-for-group"}}
+tmap.id:78a2a991-9a02-4106-abff-aedda6aa88ba
 url:
 
 

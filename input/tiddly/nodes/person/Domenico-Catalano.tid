@@ -1,5 +1,5 @@
-created:1576662808965
-modified:1576662808965
+created:1576743425989
+modified:1576743425989
 title:Domenico Catalano
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Domenico Catalano
 organization:
 tags:
-tmap.edges:{"2c644063-61c6-47c8-9d31-80c7f37dad0f":{"to":"88ddcd31-60c5-49d1-b849-66e8eeec9528","type":"employee"},"6e6bed7d-11de-4f20-b3ce-6cdd09a5da1c":{"to":"d2bee477-1551-4ddf-88ee-3cda05c350ce","type":"author"}}
-tmap.id:c4a7bb9c-33a9-4c72-aa22-be12534729d3
+tmap.edges:{"2bc534c9-b418-427d-9954-7651e3878dc6":{"to":"55174aab-6a42-4762-87b2-81f0cfa7a02f","type":"employee"},"6b40fb11-002c-4def-96a8-3cd27650f665":{"to":"58f5c346-1382-4d91-bbd3-a64412bdfec2","type":"author"}}
+tmap.id:74001cde-03c0-4be7-9747-9d901d23e9b1
 twitter.profile:
 website:
 working.group:

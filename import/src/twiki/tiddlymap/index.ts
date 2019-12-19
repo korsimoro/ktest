@@ -18,3 +18,4 @@ export interface TiddlyMap {
 export * from './edge-type'
 export * from './node-type'
 export * from './simple-map'
+export * from './neighbor-map'

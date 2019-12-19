@@ -1,5 +1,5 @@
-created:1576662808937
-modified:1576662808937
+created:1576743425954
+modified:1576743425954
 title:Financial Transaction Cards WG7
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"920907e5-755e-4a22-8c4d-68196438464a":{"to":"47fcd621-033d-4f42-8640-c48fe8b1da78","type":"organization-for-group"}}
-tmap.id:3a91f013-704b-41c1-b93c-161aca7608cd
+tmap.edges:{"6e2daaf9-8eb2-4257-ad08-fffdd63c921d":{"to":"a75c8aa5-b9ac-482a-a779-264b548d2f21","type":"organization-for-group"}}
+tmap.id:6a2ed5ba-78d2-44c2-b548-50054c9f5159
 url:
 
 To maintain and revise where necessary, ISO/IEC 4909 and ISO/IEC 7813.

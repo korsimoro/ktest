@@ -20,7 +20,8 @@ export class SimpleNodeTiddler extends SimpleTiddler implements NodeTiddler
 	constructor(data:TiddlerData,base:TiddlyModel) {
 		super(data,base)
 		this.fields = data.fields || new Map<string,TiddlerFieldDatum>()
-		this.tmap_id = this.fields['tmap.id'] || ''
+		this.tmap_id = this.fields['tmap.id'] || this.guid
+		this.guid = this.tmap_id
 		this.tmap_edges = this.fields['tmap.edges'] || ''
 		this.element_type = data.element_type || 'undefined'
 		this.element_subtype = data.element_subtype
@@ -29,6 +30,7 @@ export class SimpleNodeTiddler extends SimpleTiddler implements NodeTiddler
 		for(let k in this.fields)
 			this.sorted_keys.push(k)
 		this.sorted_keys.sort()
+		console.log("SET:",this.tmap_id,this.guid,this.title)
 	}
 
 	tiddlerdir():string {

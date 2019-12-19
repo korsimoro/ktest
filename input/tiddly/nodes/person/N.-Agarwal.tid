@@ -1,5 +1,5 @@
-created:1576662808967
-modified:1576662808967
+created:1576743425992
+modified:1576743425992
 title:N. Agarwal
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:N. Agarwal
 organization:
 tags:
-tmap.edges:{"71fe4f35-8d4a-40b4-8a95-7b8fa49c6e81":{"to":"e3ab5797-b00d-4a94-be66-ade06fed3260","type":"author"},"48c96745-01d9-49fc-a911-52167de41897":{"to":"84078c46-4346-404f-9723-2d60697364aa","type":"employee"}}
-tmap.id:0b777b3d-c707-4f21-be4b-3396d503d06a
+tmap.edges:{"818ef5b1-e3f4-4596-8b15-bcac953faec0":{"to":"f8a9a8fa-e100-40b0-81ee-1c7a360e12ce","type":"author"},"c68cfdfd-8ade-4464-b461-a855fd1f03d4":{"to":"f5894b31-94eb-43e6-96e1-b2c0fe2f488f","type":"employee"}}
+tmap.id:e4fbe6c3-9ad1-4cb0-a6f3-f4a80982cb97
 twitter.profile:
 website:
 working.group:

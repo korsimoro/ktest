@@ -1,8 +1,8 @@
-created:1576662808998
-modified:1576662808998
+created:1576743426031
+modified:1576743426031
 title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/working-group
 type:text/vnd.tiddlywiki
 scope: [field:element.type[working-group]]
-style: {"color":{"border":"rgba(232,252,27,192)","background":"rgba(164,231,232,165)"}}
+style: {"color":{"border":"rgba(40,157,46,53)","background":"rgba(49,189,229,179)"}}
 fa-icon: 
 tw-icon: $:/images/fa5/brands/raspberry-pi

@@ -1,5 +1,5 @@
-created:1576662808951
-modified:1576662808951
+created:1576743425970
+modified:1576743425970
 title:AccountChooser Integration API Profile 1.0
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Account Chooser
 tags:
 tech.focus:
-tmap.edges:{"55db5dad-a050-4d7e-860d-508591f5b711":{"to":"a36cb59d-b530-465d-a2fe-4e47cdd7769b","type":"specification-of-group"}}
-tmap.id:943c5107-34e0-4755-bfec-5b6446428437
+tmap.edges:{"cfdbce91-0403-4ee8-8425-5d9db2e3668f":{"to":"3c6b0442-ea08-4e0a-b4e3-6a72b556e348","type":"specification-of-group"}}
+tmap.id:fc31ccad-2b8c-49dc-a206-ed35301e6a8d
 url:http://openid.net/wordpress-content/uploads/2011/12/ac-integration-spec.html
 version.or.edition:
 volume.frequency:

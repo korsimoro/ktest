@@ -1,8 +1,8 @@
-created:1576662808998
-modified:1576662808998
+created:1576743426031
+modified:1576743426031
 title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/default
 type:text/vnd.tiddlywiki
 scope: [field:element.type[default]]
-style: {"color":{"border":"rgba(233,201,139,52)","background":"rgba(91,25,218,188)"}}
+style: {"color":{"border":"rgba(134,90,211,118)","background":"rgba(240,162,57,167)"}}
 fa-icon: 
 tw-icon: $:/images/fa5/brands/grav

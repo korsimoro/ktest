@@ -1,5 +1,5 @@
-created:1576662808934
-modified:1576662808934
+created:1576743425950
+modified:1576743425950
 title:SAML - Security Assertion Markup Language
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"5c33d1e1-343d-4d44-a6bb-5b000526cdd7":{"to":"e8cc7e2f-4b2b-4809-ae35-f6b3fa7b4f27","type":"organization-for-group"}}
-tmap.id:a03e915d-05ae-49fe-bcd8-170ff6b1c683
+tmap.edges:{"7bad7fb4-d284-4d01-bd5d-c1e80e567671":{"to":"f70496aa-bbac-47c4-8ddf-a923e416dd92","type":"organization-for-group"}}
+tmap.id:3a77cf74-047a-4dd2-8f10-b8d57af02f4b
 url:https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=security
 
 Defining and maintaining a standard, XML-based framework for creating and exchanging security information between online partners.

@@ -1,8 +1,8 @@
-created:1576662808998
-modified:1576662808998
+created:1576743426031
+modified:1576743426031
 title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/person
 type:text/vnd.tiddlywiki
 scope: [field:element.type[person]]
-style: {"color":{"border":"rgba(41,140,91,54)","background":"rgba(64,69,229,226)"}}
+style: {"color":{"border":"rgba(140,203,175,98)","background":"rgba(136,134,180,0)"}}
 fa-icon: 
 tw-icon: $:/images/fa5/solid/fire-extinguisher

@@ -1,6 +1,8 @@
+config.neighbourhood_scope: 1
+config.raster: 50
 created: 20191208070414263
 id: 32cd6929-da9c-4f0a-b8c6-434b0cd7ab7c
 isview: true
-modified: 20191208070414263
+modified: 20191219070725299
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/abcdef
 type: text/vnd.tiddlywiki

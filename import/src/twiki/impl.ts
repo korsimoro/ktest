@@ -6,7 +6,7 @@ import { subtypeFields } from '../mappers'
 import { TiddlyModel,tiddlydate  } from '.'
 import { TiddlerData  } from './tiddlers'
 import { NodeTiddler, SimpleNodeTiddler } from './node-tiddler'
-import { EdgeTypeTiddler,NodeTypeTiddler, SimpleEdgeTypeTiddler, SimpleNodeTypeTiddler, SimpleTiddlyMap } from './tiddlymap'
+import { EdgeTypeTiddler,NodeTypeTiddler, SimpleEdgeTypeTiddler, SimpleNodeTypeTiddler, SimpleTiddlyMap, NeighborMap} from './tiddlymap'
 
 
 export class TiddlyModelImpl implements TiddlyModel {
@@ -142,6 +142,9 @@ export class TiddlyModelImpl implements TiddlyModel {
 			await this.ensurePath(dir)
 			//console.log("Writing Tiddler:",path)
 			await fs.writeFile(path,data)
+
+			const map = new NeighborMap(node,this)
+			await map.save()
 		}
 
 		console.log("Writing Edge Types");
