@@ -1,24 +1,24 @@
-created:1576662808987
-modified:1576662808987
-title:20th International Conference on  Practice and Theory of Public-Key Cryptography
-type:text/vnd.tiddlywiki
-audience:
-category:TO BE DETERMINED
-date:Start Date
-element.type:event
-frequency:
-github.profile:
-host.organization:international Association for Cryptologic Research
-location(s):
-name:20th International Conference on  Practice and Theory of Public-Key Cryptography
-partners:
-people:
-relevant.publications:
-tags:
-tmap.edges:{}
-tmap.id:09821ba6-0133-4aa3-908b-d17695123d70
-website:http://www.iacr.org/workshops/pkc2017/
-working.group:
+audience: 
+category: to-be-determined
+created: 15810628093807000
+date: Start Date
+element.type: event
+frequency: 
+github.profile: 
+host.organization: international Association for Cryptologic Research
+location(s): 
+modified: 20191219061220332
+name: 20th International Conference on  Practice and Theory of Public-Key Cryptography
+partners: 
+people: 
+relevant.publications: 
+tags: 
+title: 20th International Conference on  Practice and Theory of Public-Key Cryptography
+tmap.edges: {}
+tmap.id: 09821ba6-0133-4aa3-908b-d17695123d70
+type: text/vnd.tiddlywiki
+website: http://www.iacr.org/workshops/pkc2017/
+working.group: 
 
 The IACR International Conference on Practice and Theory of Public-Key Cryptography (PKC) is the main annual conference focusing on all aspects of public-key cryptography, attracting cutting-edge results from world-renowned researchers in the area. Previous editions of PKC were held in Japan, Australia, Korea, France, USA, Singapore, Switzerland, China, Spain, Italy, Argentina, and Taiwan.
 

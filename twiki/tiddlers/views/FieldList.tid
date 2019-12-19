@@ -9,5 +9,5 @@ caption: Field List
 \define renderfield(title)
 <tr class="tc-view-field"><td class="tc-view-field-name">''$title$'':</td><td class="tc-view-field-value">{{!!$title$}}</td></tr>
 \end
-<table class="tc-view-field-table"><tbody><$list filter="[all[current]fields[]sort[title]remove[tmap.edges tmap.id tmap.names type bag element.type]]" variable="listItem"><$macrocall $name="renderfield" title=<<listItem>> /></$list>
+<table class="tc-view-field-table"><tbody><$list filter="[all[current]fields[]sort[title]remove[title created modified text tmap.edges tmap.id tmap.names type bag element.type]]" variable="listItem"><$macrocall $name="renderfield" title=<<listItem>> /></$list>
 </tbody></table>

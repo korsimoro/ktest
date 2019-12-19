@@ -1,0 +1,10 @@
+title: $:/twiki/Publication/Specification
+type: text/vnd.tiddlywiki
+
+Specification
+<pre>
+Authors / Editors {{!!author(s)editor(s)}}
+Date {{!!date}}
+Url: {{!!url}}
+Organization: {{!!sponsoring.org}}
+</pre>

@@ -3,8 +3,7 @@ x-tags: $:/tags/ViewTemplate
 title: $:/twiki/Organization
 type: text/vnd.tiddlywiki
 
-This is an Organization - we will soon have a panel that
-is specific to each type of organization.
+<$macrocall $name="editsubtype" label="Organization Type" elementtype="organization" subtypefield="org.type" />
 
 <$reveal type="match" default={{!!org.type}} text="to-be-determined">
 {{||$:/twiki/Organization/TBD}}

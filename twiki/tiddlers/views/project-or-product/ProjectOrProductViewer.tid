@@ -1,0 +1,10 @@
+x-list-before: $:/core/ui/ViewTemplate/body
+x-tags: $:/tags/ViewTemplate
+title: $:/twiki/ProjectOrProduct
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="editsubtype" label="Category" elementtype="project-or-product" subtypefield="category" />
+
+<$reveal type="match" default={{!!category}} text="TO BE DETERMINED">
+{{||$:/twiki/Event/TBD}}
+</$reveal>

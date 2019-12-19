@@ -1,24 +1,24 @@
-created:1576662809404
-modified:1576662809404
-title:ACM Fairness: Accountability: and Transparency
-type:text/vnd.tiddlywiki
-audience:
-category:to-be-determined
-date:
-element.type:event
-frequency:
-github.profile:
-host.organization:ACM Fairness: Accountability: and Transparency
-input.source:me2b
-location(s):
-name:ACM Fairness: Accountability: and Transparency
-partners:
-people:
-relevant.publications:
-tags:
-tmap.edges:{}
-tmap.id:1b525a33-48ef-4928-a364-5b4051d33776
-website:https://fatconference.org/
-working.group:
+audience: 
+category: a new type
+created: 15810628094004000
+date: 
+element.type: event
+frequency: 
+github.profile: 
+host.organization: ACM Fairness: Accountability: and Transparency
+input.source: me2b
+location(s): 
+modified: 20191219061146305
+name: ACM Fairness: Accountability: and Transparency
+partners: 
+people: 
+relevant.publications: 
+tags: 
+title: ACM Fairness: Accountability: and Transparency
+tmap.edges: {}
+tmap.id: 1b525a33-48ef-4928-a364-5b4051d33776
+type: text/vnd.tiddlywiki
+website: https://fatconference.org/
+working.group: 
 
 A computer science conference with a cross-disciplinary focus that brings together researchers and practitioners interested in fairness: accountability: and transparency in socio-technical systems.

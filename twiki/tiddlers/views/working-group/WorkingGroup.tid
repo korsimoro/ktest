@@ -1,0 +1,11 @@
+x-list-before: $:/core/ui/ViewTemplate/body
+x-tags: $:/tags/ViewTemplate
+title: $:/twiki/WorkingGroup
+type: text/vnd.tiddlywiki
+
+This is an Event - we will soon have a panel that
+is specific to each type of event.
+
+<$reveal type="match" default={{!!category}} text="TO BE DETERMINED">
+{{||$:/twiki/Event/TBD}}
+</$reveal>

@@ -5,6 +5,28 @@ title: DataModelView
 tmap.id: 4d8a695e-7030-4c1c-b049-78d00a18ab46
 type: text/vnd.tiddlywiki
 
+\define editsubtype(label,elementtype,subtypefield)
+$label$ <$select field="$subtypefield$">
+<$list filter="[all[]field:element.type[$elementtype$]each[$subtypefield$]get[$subtypefield$]sort[title]]" variable="type" >
+<option><<type>></option>
+</$list>
+</$select>
+<$edit-text field="$subtypefield$" size=20 tag=input default="" />
+<br />
+\end
+
 <$list filter="[all[current]field:element.type[organization]]">
   {{||$:/twiki/Organization}}
+</$list>
+<$list filter="[all[current]field:element.type[publication]]">
+  {{||$:/twiki/Publication}}
+</$list>
+<$list filter="[all[current]field:element.type[event]]">
+  {{||$:/twiki/Event}}
+</$list>
+<$list filter="[all[current]field:element.type[working-group]]">
+  {{||$:/twiki/WorkingGroup}}
+</$list>
+<$list filter="[all[current]field:element.type[project-or-product]]">
+  {{||$:/twiki/ProjectOrProduct}}
 </$list>

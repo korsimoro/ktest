@@ -6,19 +6,11 @@ tmap.id: be2e4955-c732-47f2-935a-767b61c3a694
 type: text/vnd.tiddlywiki
 
 \define renderit(elementtype,subtypefield,subtypevalue)
-<ul><$list filter="[all[]field:element.type[$elementtype$]field:org.type[$subtypevalue$]]
+<ul><$list filter="[all[]field:element.type[$elementtype$]field:$subtypefield$[$subtypevalue$]]
 +[sort[title]]">
 <li><$link>{{!!title}}</$link> - {{!!sector}}</li>
 </$list>
 </ul>
-\end
-
-\define renderoptgroup(type)
-<optgroup label=$type$ >
-<$list filter="[all[]field:element.type[$type$]each[org.type]get[org.type]sort[title]]" variable="subtype">
-<option><<subtype>></option>
-</$list>
-</optgroup>
 \end
 
 

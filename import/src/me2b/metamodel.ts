@@ -3,6 +3,10 @@ import { Me2BConnection,Me2BElement } from '.'
 
 export function createAndLinkNodesForListField(elt:Me2BElement,field:string,type:string) {
 
+  type = type.trim()
+  if(!type)
+    return
+
   elt.model.ctx.tiddly.registerNamedMap('me2ball')
   elt.model.ctx.tiddly.registerNamedMap('me2ball-'+elt.model.ctx.me2b.slugify(type))
   elt.model.ctx.tiddly.registerNamedMap('me2ball')

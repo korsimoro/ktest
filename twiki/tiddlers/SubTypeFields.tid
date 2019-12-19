@@ -4,4 +4,7 @@ title: SubTypeFields
 tmap.id: 8b1bfab8-4492-4689-b0f6-3ab2d518c834
 type: application/x-tiddler-dictionary
 
+project-or-product: category
+event: category
 organization: org.type
+publication: publication.type
