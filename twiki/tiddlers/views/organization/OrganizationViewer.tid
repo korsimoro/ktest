@@ -1,0 +1,19 @@
+title: $:/twiki/organization/Viewer
+type: text/vnd.tiddlywiki
+
+\define linkrow(title,value,field)
+<$reveal default="$value$" type="nomatch" text="" tag="tr">
+  <td>$title$</td>
+  <td><a href="$value$" >$value$</a></td>
+</$reveal>
+<$reveal default="$value$" type="match" text="" tag="tr">
+  <td>$title$</td>
+  <td><$edit-text tag="input" field="$field$" /></td>
+</$reveal>
+\end
+
+<$reveal state={{!!parent.org}} type="nomatch" text="">
+Parent {{!!parent.org}}
+</$reveal>
+
+<<tabs "DigitalHarmsAddressed Activities OrganizationDates OrganizationFunding Fields Other Social" "DigitalHarmsAddressed" "$:/state/tab97" >>

@@ -1,47 +1,4 @@
 title: $:/twiki/organization/Viewer/to-be-determined
 type: text/vnd.tiddlywiki
 
-\define linkrow(title,value,field)
-<$reveal default="$value$" type="nomatch" text="" tag="tr">
-  <td>$title$</td>
-  <td><a href="$value$" >$value$</a></td>
-</$reveal>
-<$reveal default="$value$" type="match" text="" tag="tr">
-  <td>$title$</td>
-  <td><$edit-text tag="input" field="$field$" /></td>
-</$reveal>
-\end
-
-<$reveal state={{!!parent.org}} type="nomatch" text="">
-Parent {{!!parent.org}}
-</$reveal>
-
-<table>
-<$macrocall $name="linkrow" title="WebSite" value={{!!website}} field="website" />
-<$macrocall $name="linkrow" title="Twitter" value={{!!twitter.profile}} field="twitter.profile" />
-<$macrocall $name="linkrow" title="GitHub" value={{!!github.profile}} field="github.profile" />
-<$macrocall $name="linkrow" title="Linked In" value={{!!linkedin.profile}} field="linkedin.profile" />
-</table>
-
-<table>
-<$macrocall $name="linkrow" title="Audience" value={{!!audience}} field="audience" />
-<$macrocall $name="linkrow" title="Me2B Relationship" value={{!!me2b.relationship}} field="me2b.relationship" />
-<$macrocall $name="linkrow" title="Partners" value={{!!partners}} field="partners" />
-<$macrocall $name="linkrow" title="Purpose" value={{!!purpose}} field="purpose" />
-<$macrocall $name="linkrow" title="Scope" value={{!!scope}} field="scope" />
-<$macrocall $name="linkrow" title="Sector" value={{!!sector}} field="sector" />
-<$macrocall $name="linkrow" title="Tech Focus" value={{!!tech.focus}} field="tech.focus" />
-</table>
-
-<<tabs "DigitalHarmsAddressed Activities OrganizationDates OrganizationFunding" "DigitalHarmsAddressed" "$:/state/tab97" >>
-
-<h2>Remaining Fields</h2>
-<pre>
-key.people:
-location(s):
-products.and.or.services:
-relevant.publications:
-revision:
-status:
-tags:
-</pre>
+{{||$:/twiki/organization/Viewer}}
