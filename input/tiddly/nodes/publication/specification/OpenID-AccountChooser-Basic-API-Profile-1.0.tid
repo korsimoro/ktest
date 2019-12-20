@@ -1,5 +1,5 @@
-created:1576743425962
-modified:1576743425962
+created:1576816251197
+modified:1576816251197
 title:OpenID AccountChooser Basic API Profile 1.0
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Account Chooser
 tags:
 tech.focus:
-tmap.edges:{"d2743165-6ec7-49fb-a83a-b0e4cde0f0b3":{"to":"3c6b0442-ea08-4e0a-b4e3-6a72b556e348","type":"specification-of-group"}}
-tmap.id:b9094406-272c-4477-bea0-3df3cc61b306
+tmap.edges:{"3feb6fd9-410c-4b8e-89ca-1e810efa671b":{"to":"e26fe808-fba7-45ed-b569-74ddaeb4121b","type":"specification-of-group"}}
+tmap.id:c6465338-ffca-47e1-ac42-b9295c78203d
 url:http://openid.net/wordpress-content/uploads/2016/05/account-chooser-basic-v8.pdf
 version.or.edition:
 volume.frequency:

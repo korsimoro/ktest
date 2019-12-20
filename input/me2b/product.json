@@ -1,6 +1,6 @@
 [
     {
-        "Category": "Software product (service), reserach",
+        "Category": "Software product (service): research",
         "Description": "The Lumen database collects and analyzes legal complaints and requests for removal of online materials: helping Internet users to know their rights and understand the law. These data enable us to study the prevalence of legal threats and let Internet users see the source of content removals.",
         "Name": "Lumen Database",
         "Parent Org": "Berkman Klein Center for Internet and Society at Harvard University",
@@ -64,12 +64,12 @@
         "Name": "iubenda Online Compliance Solutions",
         "Parent Org": "iubenda",
         "Purpose": "certification and compliance",
-        "Tags": "Top level products page",
+        "Tags": "Products_Projects, Parent",
         "Twitter Profile": "https://twitter.com/iubenda",
         "URL": "https://www.iubenda.com/en/overview"
     },
     {
-        "Category": "Software product (application), service",
+        "Category": "Software product (application): service",
         "Description": "Easily generate and manage a Privacy and Cookie Policy that is professional, self-updating and customizable from 650+ clauses, available in 8 languages, drafted by an international legal team and up to date with the main international legislations.",
         "Name": "IUBENDA PRIVACY AND COOKIE POLICY GENERATOR",
         "Parent Org": "iubenda",
@@ -77,7 +77,7 @@
         "URL": "https://www.iubenda.com/en/privacy-and-cookie-policy-generator"
     },
     {
-        "Category": "Software product (application), service",
+        "Category": "Software product (application): service",
         "Description": "Easily generate a fully customizable cookie banner, seamlessly collect consent and implement prior blocking with asynchronous re-activation.",
         "Name": "IUBENDA COOKIE SOLUTION",
         "Parent Org": "iubenda",
@@ -85,7 +85,7 @@
         "URL": "https://www.iubenda.com/en/cookie-solution"
     },
     {
-        "Category": "Software product (application), service",
+        "Category": "Software product (application): service",
         "Description": "Easily generate and manage a Terms and Conditions document that is professional, customizable from over 100 clauses, available in 8 languages, drafted by an international legal team and up to date with the main international legislations.",
         "Name": "IUBENDA TERMS AND CONDITIONS GENERATOR",
         "Parent Org": "iubenda",
@@ -93,7 +93,7 @@
         "URL": "https://www.iubenda.com/en/terms-and-conditions-generator"
     },
     {
-        "Category": "Software product (application), service",
+        "Category": "Software product (application): service",
         "Description": "Record and manage GDPR consent and privacy preferences for each of your users. It smoothly integrates with your consent collection forms, syncs with your legal documents and includes a user-friendly dashboard for reviewing consent records of your activities.",
         "Name": "iubenda Consent Solution",
         "Parent Org": "iubenda",
@@ -101,7 +101,7 @@
         "URL": "https://www.iubenda.com/en/consent-solution"
     },
     {
-        "Category": "Software product (application), service",
+        "Category": "Software product (application): service",
         "Description": "The solution to easily document all the data processing activity within your organization",
         "Name": "Iubenda Internal Privacy Management",
         "Parent Org": "iubenda",
@@ -125,7 +125,7 @@
         "URL": "https://www.iubenda.com/it/fide/partita-iva"
     },
     {
-        "Category": "research, terms",
+        "Category": "research: terms",
         "Description": "Data portability is the ability for people to reuse their data across interoperable applications. The DataPortability Project works to advance this vision by identifying, contextualizing and promoting efforts in the space.",
         "Name": "Dataportability . org",
         "Parent Org": "Dataportability . org",
@@ -139,7 +139,7 @@
         "Category": "service",
         "Description": "The goal of The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS) is to  create specifications for certification and marking processes that advance transparency, accountability and reduction in algorithmic bias in Autonomous and Intelligent Systems (A/IS). \n\nThe value of this certification process in the marketplace and society at large cannot be underestimated.  The proliferation of systems in the form of smart homes, companion robots, autonomous vehicles or any myriad of products and services that already exist today desperately need to easily and visually communicate to consumers and citizens whether they are deemed \u201csafe\u201d or \u201ctrusted\u201d by a globally recognized body of experts providing a publicly available and transparent series of marks. \n\n\u201cImplement\u201d standards for designing and/or engineering effective privacy and data governance controls into organizational processes products and technologies and maintain or enhance those controls throughout the lifecycle for the product, process or technology\n\nConduct privacy impact assessments (D/PIAs) presents a high inherent risk of harm to individuals and remediate identified risks",
         "Name": "The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS)",
-        "Parent Org": "IEEE Standards Association",
+        "Parent Org": "IEEE",
         "Purpose": "certification and compliance: human rights",
         "URL": "https://standards.ieee.org/industry-connections/ecpais.html"
     },
@@ -161,7 +161,8 @@
         "Category": "research: open source",
         "Description": "The Digital Standard is an ambitious, open, and collaborative effort to create a digital privacy and security standard to help guide the future design of consumer software, digital platforms and services, and Internet-connected products.\n\nThe standard defines and reflects important consumer values that must be addressed in product development: electronics and software-based products should be secure, consumer information should be kept private, ownership rights of consumers should be maintained, and products should be designed to combat harassment and help protect freedom of expression.\n\nOur goals are to enable consumer organizations to test, evaluate, and report on whether new products protect consumer security and privacy, and to empower consumers to make smarter choices about the products they buy.",
         "Name": "The Digital Standard",
-        "Parent Org": "Consumer Reports: Disconnect: Ranking Digital Rights: The Cyber Independent Testing Lab",
+        "Parent Org": "The Digital Standard",
+        "Partners": "Consumer Reports: Disconnect: Ranking Digital Rights: The Cyber Independent Testing Lab",
         "Purpose": "usability: certification and compliance",
         "URL": "https://www.thedigitalstandard.org/"
     },
@@ -196,19 +197,19 @@
         "Description": "Cooperation-as-a-Service (CaaS), is our Collective endeavor to support an ecosystem of groups and organizations interested in cooperating at scale.",
         "Name": "Activate CaaS",
         "Parent Org": "Digital Life Collective",
-        "Purpose": "governance, education",
+        "Purpose": "governance: education",
         "Tags": "Cross organizational collaboration\n",
         "URL": "https://diglife.com/activate-caas/"
     },
     {
         "Activities": "software development: movement building",
-        "Category": "open source, software product (application)",
+        "Category": "open source: software product (application)",
         "Description": "Beyond specifications, DIF members develop open source reference implementations of the technical components and protocols they create.",
         "Name": "Decentralized Identity Foundation - Reference Implementations",
         "Parent Org": "Decentralized Identity Foundation",
         "Partners": "1kosmos: Accenture: aetna: Authenteq: auth0: BigchainDB: BlockPass: Blockchain-foundry: Blockstack: British Columbia Ministry of Citizens Services: botlabs: Civic: Consent: Danube: datum: Distributed ID: diwala: Dominode: Enigma: Enterprise Ethereum Alliance: Evernym: Equinix: gamecredits[\u03df]: Gem: GS1: Humanized-internet: Hyperledger: ID2020: Ideo: identos: IBM: IOTA: Jolocom: KYC-Chain: LNk-E: Mastercard: Meeco: MetaX: Microsoft: Mooti: netki: NuID: Nuggets: Ockam: Onfido: ONTology: Pillar: R_Block: R3: remme: RSA: SecureKey: <sitekit>: Sovrin: suru: Taqanu: Tierion: Trusted key: uPort: Validatedid: Veridium: zinc",
         "Purpose": "tech interoperability",
-        "Tags": "Technical Specs: Reference Implementations: Cross organizational collaboration: Top level products page",
+        "Tags": "Technical Specs: Reference Implementations: Cross organizational collaboration: Products_Projects, Parent",
         "Tech Focus": "Identity: Data Mobility",
         "URL": "https://github.com/decentralized-identity",
         "Working group": "Identifiers and Discovery: Storage and Compute: Authentication: Claims and Credentials"
@@ -274,19 +275,19 @@
         "Activities": "publication: outreach",
         "Category": "research: service: publication",
         "Description": "Data & Design by LINC is a platform for:\n\n    reflecting on design issues in personal data protection;\n    allowing designers to discuss personal data protection issues in their daily design practices;\n    co-constructing design practices aimed at building interfaces and pathways that respect privacy.\n\nData & Design proposes joint work with designers to create a set of content, methods and practices that may efficiently include data protection in digital product and service interfaces. This work is done in partnership with design professionals, design colleges and universities as well as design research programs through a range of formats like conferences, meetups, workshops, etc.\n\nIn this editorial space, design.cnil.fr, the CNIL teams share the results of these exchanges by offering educational content that illustrates best design practices in data protection.",
-        "Name": "Data & Design by LINC",
+        "Name": "Data & Design by CNIL",
         "Parent Org": "Data & Design by CNIL",
         "Purpose": "education",
         "URL": "https://design.cnil.fr/en/"
     },
     {
         "Activities": "movement building",
-        "Category": "service: Cooperative: network or coalition",
+        "Category": "service",
         "Description": "The Platform Cooperativism Consortium (PCC) is a hub for research, community building, and advocacy for co-ops that make the digital transition. \n\nThe PCC supports the growth and conversion of hundreds of platform co-op businesses with tens of thousands of worker-owners around the world.",
         "Name": "Platform Cooperativism Consortium",
         "Parent Org": "Platform Cooperativism Consortium",
         "Partners": "Center for Civic Media MIT: Oxford Internet Institute: United States Federation of Worker Cooperatives (USFWC): Berkman Klein Center for Internet and Society at Harvard University: The U.S. Solidarity Economy Network: Civic Hall: Sustainable Economies Law Center: Dimmons.net: National Cooperative Business Association: IG Metall: Cooperative University College of Kenya: ICA group: FEBE Coop: P2P Foundation: SMart: Ver.di: Institute for the Study of Employee Ownership and Profit Sharing at the School of Management and Labor Relations at Rutgers University: The National Domestic Workers Alliance (NDWA): Alexander von Humboldt Institute for Internet Society: Commons Transition Coalition: Business Council of Co-operatives and Mutuals (Australia)",
-        "Purpose": "governance, education",
+        "Purpose": "governance: education",
         "URL": "https://platform.coop/"
     },
     {
@@ -302,7 +303,7 @@
     },
     {
         "Activities": "Research: Service Provider",
-        "Category": "software product (application)",
+        "Category": "Software product (application)",
         "Description": "My browser fingerprint Are you unique? All time : Yes! (You can be tracked!) The following informations reveal your OS, browser, browser version as well as your timezone and preferred language. Moreover, we show the proportion of users sharing the same elements.",
         "Name": "AmIUnique",
         "Parent Org": "AmIUnique",
@@ -344,12 +345,12 @@
         "URL": "http://thedatamap.org/"
     },
     {
-        "Activities": "research, publication, standard development",
+        "Activities": "research: publication: standard development",
         "Category": "Terms",
         "Description": "The CommonTerms project aims to reduce the need for consenting to online terms without good reasons. This could make the internet a much better place for all, and contribute to digital sustainability.",
         "Name": "Common Terms",
         "Parent Org": "Metamatrix AB",
-        "Purpose": "usability, Consumer Support, transparancy and accountability",
+        "Purpose": "usability: Consumer Support: transparancy and accountability",
         "Relevant Publications": "https://web.archive.org/web/20161021120859/http://www.commonterms.net/",
         "URL": "http://commonterms.org/",
         "field25": "Internetfonden"
@@ -359,12 +360,18 @@
         "Description": "Axioms of the OpenNotice Project:\n\n    People and organizations will choose to register and maintain their own data to access the benefits of OpenNotice.\n    Electronic OpenNotice is more effecive than current Legal Notice protocols\n    OpenNotice will improve access to justice\n    The concept of OpenNotice will be so compelling that a competition for commercialization will generate sufficient interest to drive the project to implementatios",
         "Github Profile": "https://github.com/OpenNotice/ConceptualArchitecture",
         "Name": "Open Notice",
-        "Parent Org": "law.mit.edu",
+        "Parent Org": "MIT/Law",
         "Purpose": "usability",
         "URL": "https://github.com/HumanDynamics/law.MIT.edu/tree/master/OpenNotice"
     },
     {
-        "Category": "Terms, proof of concept",
+        "Description": "The MIT Computational Law Report is an agile, new media online publication that explores the ways that law and legal processes can be reimagined and engineered as computational systems. The Report features:\n\nWritten content (such as peer-reviewed articles, essays, and posts);\n\nRich media content (such as videos, podcasts, visualizations, etc); and\n\nReproducible software and data projects (such as computational law apps, automated processes, data science projects, games, etc)\n\nThe Report is published and edited by law.mit.edu-affiliated academics, researchers, and practitioners. The Report fills a critical need for reputable, responsive, and neutral analysis of emerging computational law applications and thought leadership.",
+        "Name": "MIT Computational Law Report",
+        "Parent Org": "MIT/Law",
+        "URL": "https://law.mit.edu/"
+    },
+    {
+        "Category": "Terms: proof of concept",
         "Description": "Gamification of Privacy Terms. Website privacy policies: like their terms of use agreements: are onerously long: bafflingly complex legal documents that hundreds of millions of people accept without ever reading. As social media sites accrue more and more of our personal information while always developing new ways to exploit our data: they are increasingly targeted by hackers and law enforcement. In short: those long privacy statements: which we never read and which get longer all the time: matter more and more.\n\nThat\u2019s why a trio of Yale students have developed a free service for websites called Privacy Simplified. Answer a few questions about your site and PS will generate a series of icons you can display to clearly explain the most important aspects of your privacy policy.",
         "Name": "Zynga's Privacyville",
         "Parent Org": "Zynga",
@@ -378,7 +385,7 @@
         "Me2B Participation": "UX reference",
         "Name": "Privacy Simplified",
         "Parent Org": "Yale",
-        "Purpose": "usability, transparancy and accountability, Consumer support",
+        "Purpose": "usability: Consumer Support: transparancy and accountability",
         "Relevant Publications": "https://www.macleans.ca/society/technology/privacy-simplified/",
         "Status": "defunct?",
         "Tags": "\n",
@@ -389,6 +396,7 @@
         "Description": "We all click \u201cI Agree,\u201d but to what are we agreeing? Nearly every software vendor uses some form of the click-through agreement, or CTA, as part of the installation process. Yet this important and contractually binding information is presented in an unreadable, unusable, and unintuitive format.\n\nAs part of my MFA Thesis project at the Savannah College of Art and Design, I explored the state of the CTA, the information it contains, and how it may be presented in a readable, comprehensible manner through the application of graphic design and user experience.\n\nThese slides demonstrate a proposed redesign of legal agreements modeled after the Apple iTunes CTA, presented at bottom.",
         "Me2B Participation": "UX reference",
         "Name": "I Agree To...",
+        "Parent Org": "Independent",
         "Partners": "Kantara Initiative",
         "People": "Gregg Bernstein",
         "Purpose": "usability",
@@ -402,6 +410,7 @@
         "Github Profile": "https://github.com/jandrieu/Standard-Label",
         "Me2B Participation": "UX reference.",
         "Name": "StandardLabel",
+        "Parent Org": "Independent",
         "People": "Joe Andrieu",
         "Purpose": "usability",
         "Tags": "A nutrition facts label for the information we share online.",
@@ -415,6 +424,7 @@
         "Name": "Privacy Commons",
         "Parent Org": "Privacy Commons",
         "Purpose": "Consumer support",
+        "Status": "inactive",
         "URL": "https://web.archive.org/web/20190214082741/http://privacycommons.org/"
     },
     {
@@ -431,7 +441,7 @@
         "Description": "The service is called Youluh (pronounced the same way EULA is often pronounced)\nIn a nutshell, this is a service for people who accept EULAs without reading them, and feel badly about it.\nIn other words, you check \"I have read the license terms and I agree,\" but you haven't, and you feel foolish for it, and not a little anxious about what you might have just agreed to.\nThis service will never say or imply that you do not have to read every word of every agreement.\nBut if you are going to agree to something without reading it, the service will give you a report card with:\n\n    How much of the EULA is stuff you've already agreed to before?\n    How much of the EULA is new, but common boilerplate?\n    How much of the EULA has been agreed to without reservation by many others on the service?\n    Anything in the EULA that is totally new, and you really should read this bit?\n    Anything in the EULA that has been commented on by other users?\n\nOur system for implementing the service is U.S. Patent Pending, but the development process will be open and use open source.  Details will be shared when the crowd funding campaign is ready.",
         "Me2B Participation": "Content source for Customer Commons Terms creation.",
         "Name": "Youluh",
-        "Parent Org": "Youluh",
+        "Parent Org": "Independent",
         "Purpose": "Consumer support",
         "Status": "Inactive?",
         "Twitter Profile": "https://twitter.com/YouluhService",
@@ -521,7 +531,7 @@
         "Description": "Solid is the technology that underpins a movement, being led by Sir Tim Berners-Lee to re-orient the web to its original vision.  To understand the \u2018why\u2019 of Solid, it\u2019s important to understand the evolution of the web and how it\u2019s diverged from Sir Tim\u2019s original and inspiring vision.\n\nThe first web browser was also an editor. The idea being that not only could everyone read content on the web, but they could also help create it. It was to be a collaborative space for all mankind.\n\nHowever, when the first browser that popularized the web came along, called Mosaic, it included multimedia and editing was taken out. It was considered too difficult a problem. This change was the first curtailing of the web\u2019s promise and spawned an effort led by Tim and others to get the write functionality back. It was dubbed the \u2018read-write web\u2019 and lead to Richard McManus' seminal article published in 2003.",
         "Me2B Participation": "Certification Candidate",
         "Name": "Solid",
-        "Parent Org": "inrupt",
+        "Parent Org": "Inrupt\n",
         "Purpose": "usability",
         "Tags": "personal data management",
         "Tech Focus": "Information Sharing Control",
@@ -534,7 +544,7 @@
         "Me2B Participation": "Certification Candidate",
         "Name": "One.thing.Less",
         "Parent Org": "One.Thing.Less AG",
-        "Purpose": "usability, Consumer support",
+        "Purpose": "usability: Consumer support",
         "Twitter Profile": "https://twitter.com/OneThingLess",
         "URL": "https://www.onethingless.com",
         "field30": "https://www.linkedin.com/company/one.thing.less/"
@@ -546,7 +556,7 @@
         "Name": "commidfy.us",
         "Parent Org": "Commodify Inc",
         "Purpose": "Consumer support",
-        "Tags": "open data, personal data management",
+        "Tags": "open data: personal data management\n",
         "Tech Focus": "analytics: Information Sharing Control",
         "URL": "http://commodify.us"
     },
@@ -567,11 +577,11 @@
         "Me2B Participation": "Certification Candidate",
         "Name": "PrivacyMonitor",
         "Parent Org": "Osano",
-        "Purpose": "usability, transparancy and accountability",
+        "Purpose": "usability: transparancy and accountability",
         "URL": "https://www.privacymonitor.com"
     },
     {
-        "Category": "Icons for Meaning Making, Software (Plugin)",
+        "Category": "Icons for Meaning Making: Software (Plugin)",
         "Description": "Privicons is a simple approach to expressing how you want your email to be treated by the recipient. Do you want it [X]kept secret? Or do you want the information to be [>]shared with the world? Think of it as washing tags for email privacy.",
         "Me2B Participation": "Certification Candidate",
         "Name": "Privicons",
@@ -594,7 +604,7 @@
         "Name": "TRUSTe Privacy Certification Services",
         "Parent Org": "TrustArc / Trust-e",
         "Purpose": "certification and compliance\n",
-        "Tags": "Top level products page",
+        "Tags": "Products_Projects, Parent",
         "URL": "https://www.trustarc.com/products/certifications/"
     },
     {
@@ -673,7 +683,7 @@
         "Category": "Icons for Meaning Making: Terms",
         "Description": "The problem: users need to know how companies intend to use their data\u2014but privacy policies and terms of service are long-winded, complex documents that encapsulate a lot of situation-specific detail.\n\nThe solution: a set of Privacy Icons to \u201cbolt on to\u201d your existing privacy policy. When you add a Privacy Icon to your privacy policy, you\u2019re essentially saying: \u201cNo matter what the rest of this privacy policy says, the following is true and preempts anything else in this document.\u201d\n\nEach Privacy Icon makes an iron-clad guarantee about what a company will do with a user\u2019s data. Now, people can understand how their personal data will be transacted, with just a glance. At the same time, companies retain the flexibility needed to create comprehensive, detailed, and meaningful policies.\n\nPrivacy Icons are legal declarations, written in cooperation with privacy experts and a coalition of industry stakeholders. And soon, they will be machine readable\u2014enabling users to communicate their preferences through trusted agents (like web browsers).",
         "Name": "Privacy Icons",
-        "Parent Org": "Privacy Icons: Mozilla (Corporation)",
+        "Parent Org": "Mozilla Foundation",
         "People": "Aza Raskin: Gerrit Betz: Alex Fowler: Ben Moskowitz: Mark Surman: Sid Stamm: Alexandra Moss: Ben Adida: Mike Hanson: Elizabeth Stark: Dennys Antonialli: David Kettler: Tony Lai: Brian Kennish: Casey Oppenheim",
         "Purpose": "Consumer support: usability",
         "Tech Focus": "Terms\n",
@@ -681,7 +691,6 @@
         "field24": "Active"
     },
     {
-        "Activities": "certification",
         "Category": "service",
         "Description": "The \"Respects Your Freedom\" computer hardware product certification program encourages the creation and sale of hardware that will do as much as possible to respect your freedom and your privacy: and will ensure that you have control over your device.The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom. We defend the rights of all software users.",
         "Name": "Respects Your Freedom Certification",
@@ -699,7 +708,6 @@
         "URL": "http://opendatatoolkit.worldbank.org/en/index.html"
     },
     {
-        "Activities": "certification:",
         "Category": "service: terms",
         "Description": "The IoT Trust Framework\u00ae includes a set of strategic principles necessary to help secure IoT devices and their data when shipped and throughout their entire life-cycle. Through a consensus driven multi-stakeholder process, criteria have been identified for connected home, office and wearable technologies including toys, activity trackers and fitness devices. The Framework outlines the need for comprehensive disclosures which need to be provided prior to product purchase, policies regarding data collection, usage and sharing, as well as the terms and conditions of security patching post-warranty. Security updates are essential to maximize the protection of IoT devices when vulnerabilities are discovered and attacks evolve. In addition, the Framework provides recommendations for manufacturers to enhance transparency and communication regarding devices\u2019 ability to be updated and a range of data privacy related issues.\n\nCore to addressing the inherent security risks and privacy issues is the application of the principles to the entire device solution or ecosystem. These include the device or sensor, the supporting applications, and the backend / cloud services. As many products coming to market rely on third-party or open source components and software, it is incumbent on developers to apply these principles and conduct supply chain security and privacy risk assessments.\n\nServing as a risk assessment guide for developers, purchasers and retailers, the Framework is the foundation for future IoT certification programs. It is the goal of OTA to highlight devices which meet these standards to help consumers, as well as the public and private sectors, make informed purchasing decisions. The Framework and related resources are available at https://otalliance.org/IoT.",
         "Name": "IoT Trust Framework",
@@ -711,24 +719,22 @@
         "URL": "https://www.internetsociety.org/iot/trust-framework/"
     },
     {
-        "Activities": "certification:",
         "Category": "Software (Plugin): open source",
         "Description": "OpenWPM is a web privacy measurement framework which makes it easy to collect data for privacy studies on a scale of thousands to millions of websites. OpenWPM is built on top of Firefox: with automation provided by Selenium. It includes several hooks for data collection. Check out the instrumentation section below for more details.",
         "Github Profile": "https://github.com/mozilla/OpenWPM",
         "Name": "Open WPM (Web Privacy Measurement)",
         "Parent Org": "Mozilla Foundation",
-        "Purpose": "transparancy and accountability, Consumer support",
+        "Purpose": "transparancy and accountability: Consumer support: certification and compliance",
         "Relevant Publications": "https://webtap.princeton.edu/software/",
         "URL": "https://github.com/mozilla/OpenWPM"
     },
     {
-        "Activities": "certification:",
         "Category": "software product (application): open source",
         "Description": "OpenWPM is a web privacy measurement framework which makes it easy to collect data for privacy studies on a scale of thousands to millions of websites. OpenWPM is built on top of Firefox: with automation provided by Selenium. It includes several hooks for data collection. Check out the instrumentation section below for more details.",
         "Github Profile": "https://github.com/citp/OpenWPM",
         "Name": "Open WPM Mobile",
         "Parent Org": "Mozilla Foundation",
-        "Purpose": "transparancy and accountability, Consumer support",
+        "Purpose": "transparancy and accountability: Consumer support: certification and compliance",
         "Relevant Publications": "https://sensor-js.xyz/",
         "URL": "https://github.com/sensor-js/OpenWPM-mobile"
     },
@@ -775,7 +781,7 @@
         "Description": "#MoreThanCode aims to make the voices of these diverse practitioners heard. Our goals are to I. explore the current ecosystem; II. expand understanding of practitioner demographics; III. develop and share knowledge of practitioner experiences; IV. capture practitioner visions and values; and V. document stories of success and failure. We focus primarily on practitioners who work in the United States.",
         "Github Profile": "https://github.com/opentechinstitute/morethancode",
         "Name": "#MoreThanCode",
-        "Parent Org": "Open Technology Institute",
+        "Parent Org": "#MoreThanCode",
         "URL": "https://morethancode.cc/"
     },
     {
@@ -798,7 +804,7 @@
         "Category": "Software product (application): service",
         "Description": "Rvoke is a cross-platform (iOS and Android) app for you to reduce your digital footprint and take control of your personal data.\n\nOur Ethos\n\nThe internet is broken. Data breaches and misuse of personal data are a weekly (if not daily) occurrence.\n\nWe care strongly about privacy, data protection and your rights.\n\nWe wanted to do something about it, so we created Rvoke, giving you the power to exercise your data protection rights.\n\nWe also wanted to help organisations, many of whom do not have the capability or capacity to efficiently and accurately identify subjects, nor to respond to subject access requests.\n\nBy integrating with Rvoke, organisations can fully automate any request, speeding up the process and providing consumers with their data whenever they might request it.",
         "Name": "Rvoke",
-        "Parent Org": "Rvoke",
+        "Parent Org": "ATAM ID",
         "Purpose": "transparancy and accountability",
         "Tags": "Quickly and easily manage your data requests in bulk: saving you stress: time and money.",
         "URL": "https://rvoke.com/"
@@ -835,6 +841,7 @@
         "Category": "software product (application)",
         "Description": "Shows Facebook information you shared by default.",
         "Name": "I Shared What?!",
+        "Parent Org": "Independent",
         "People": "JOE ANDRIEU",
         "Tags": "facebook",
         "URL": "https://web.archive.org/web/20190809094343/http://isharedwhat.com/",
@@ -844,6 +851,7 @@
         "Category": "software product (application)",
         "Description": "Hijacks the Facebook sharing button and show you the data that would be shared not just the categories of data.",
         "Name": "ShowMeFirst",
+        "Parent Org": "Independent",
         "People": "JOE ANDRIEU",
         "Purpose": "Consumer support",
         "Tags": "facebook",
@@ -868,7 +876,7 @@
         "Name": "Fight for the Future Projects",
         "Parent Org": "Fight for the Future",
         "Purpose": "Consumer support",
-        "Tags": "Top Level Products page\n",
+        "Tags": "Products_Projects, Parent",
         "URL": "https://www.fightforthefuture.org/projects/"
     },
     {
@@ -893,7 +901,7 @@
         "Activities": "policy development",
         "Description": "Facial recognition technology is incredibly invasive - it threatens human society and basic liberty in a way that far outweighs any potential benefits.\n\nBut right now there are almost no laws limiting its use. So far, politicians in D.C. have failed to act.\n\nWe\u2019re deploying a team across D.C. using Amazon\u2019s commercially available facial recognition software to scan and capture images of everyone they pass. We\u2019re finding and identifying government officials, members of Congress, and journalists to demonstrate how facial recognition works, how dangerous and invasive it is, and to highlight why we need to ban it now.",
         "Name": "Scan Congress",
-        "Parent Org": "Ban Facial Recognition: Fight for the Future",
+        "Parent Org": "Fight for the Future",
         "Purpose": "human rights: Consumer support",
         "Tags": "petition",
         "URL": "https://www.scancongress.com/"
@@ -984,7 +992,7 @@
         "Name": "One Trust",
         "Parent Org": "One Trust",
         "Purpose": "certification and compliance",
-        "Tags": "Top Level Products page\n",
+        "Tags": "Products_Projects, Parent",
         "URL": "https://www.onetrust.com/products/"
     },
     {
@@ -1114,5 +1122,194 @@
         "Parent Org": "One Trust",
         "Purpose": "certification and compliance",
         "URL": "https://free.dataguidance.com/"
+    },
+    {
+        "Category": "research",
+        "Description": "Research at Data & Society is shaped by cross-cutting themes:\n\n    How do we understand and combat vulnerabilities in socio-technical systems?\n    Can we use a rights-based framework to guide the development of artificial intelligence?\n    How do we facilitate ethical design and effective regulations as human labor meets intelligent systems?\n\nVulnerabilities in socio-technical systems\n\nWhile calls for greater accountability mechanisms within socio-technical systems are widespread, these systems are increasingly subject to manipulation, such as from biased data that infuse algorithmic models. These conditions require an assessment of strategic manipulation, a broad imagination about the possibilities for encoding fairness and accountability into technical systems, and deep ethnographic research that describes and understands new social activity.",
+        "Name": "Data & Society Research",
+        "Parent Org": "Data & Society Research Institute",
+        "Tags": "Products_Projects, Parent",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/research/"
+    },
+    {
+        "Category": "research",
+        "Description": "The Media Manipulation initiative works to provide news organizations, civil society, platforms, and policymakers with insights into new forms of media manipulation to ensure a close and informed relationship between technical research and socio-political outcomes. This requires assessing strategic manipulation, imagining the possibilities for encoding fairness and accountability into technical systems, and conducting ethnographic research to describe and understand new social activity.",
+        "Name": "Media Manipulation",
+        "Parent Org": "Data & Society Research Institute",
+        "People": "Joan Donovan: Alice E. Marwick: Becca Lewis: Caroline Jack: Francesca Tripodi: Mark Ackerman: Matt Goerzen: Robyn Caplan: Whitney Phillips: Jeanna Neefe Matthews: Rishab Nithyan: Pete Krafft: Lauren Hanson: Patrick Davison: Leon Yin: Kinjal Dave",
+        "Tags": "Data & Society Research: Publications, Parent",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/research/media-manipulation/"
+    },
+    {
+        "Category": "research",
+        "Description": "There is a recognizable value in democratic societies in having mechanisms by which the public can come together to discuss the issues of the day, to identify problems, and propose solutions. Historically, the news media \u2013 print, radio, and television \u2013 has provided the spaces where competing narratives are publicly debated. Today, technology companies are the dominant curators of information and their engineering of a public sphere is significantly different than that of news media enterprises, even news media organizations who are beholden to state or corporate interests.\n\nCan Google render unpopular perspectives invisible? How are relationships between powerful actors, governments, and corporations shaping what \u201cwe\u201d see or don\u2019t see online? The cultural, economic, political, and moral pressures that prevent these companies from taking these actions are not inscribed in global law or limited by technology. Around the world, we see a variety of cases where political actors actively manipulate technology for their own gain, through censorship, disinformation, and authoritarian control. Even in the United States, where free speech theoretically reigns, the government is increasingly pressuring technology companies to algorithmically identify terrorists, for example, and provide backdoors for their manipulation.\n\nThis project sought to map how the public sphere is currently understood, controlled, and manipulated in order to spark a richer conversation about what interventions should be considered to support the ideal of an informed and engaged citizenry. In addition, this project mapped existing concerns and research already underway in this field and enlisted the advice and aid of a group of scholars who were engaged in this area.",
+        "Name": "Algorithms and Publics",
+        "Parent Org": "Data & Society Research Institute",
+        "Tags": "Media Manipulation: Data & Society Research: Publications, Parent",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/algorithms-and-publics/"
+    },
+    {
+        "Category": "research",
+        "Description": "The AI on the Ground Initiative\u2013an interdisciplinary team of researchers with experience in a range of fields including anthropology, law, science and technology studies, communication, engineering, design research, and human rights\u2013develops robust analyses of AI systems that can effectively inform design, use, and governance.",
+        "Name": "AI on the Ground",
+        "Parent Org": "Data & Society Research Institute",
+        "People": "Madeleine Clare Elish: Mark Latonero: Andrew Selbst: Alexandra Mateescu: Elizabeth Anne Watkins",
+        "Tags": "Data & Society Research: Publications, Parent",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/research/ai-on-the-ground/"
+    },
+    {
+        "Category": "research",
+        "Description": "The Intelligence & Autonomy Initiative\u2014active from 2014-2018\u2014developed grounded, qualitative research in order to provide nuanced understanding of emerging technologies and to inform the design, evaluation, and regulation of AI-driven systems.",
+        "Name": "Intelligence and Autonomy",
+        "Parent Org": "Data & Society Research Institute",
+        "Tags": "AI on the Ground: Data & Society Research: Publications, Parent",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/intelligence-and-autonomy/"
+    },
+    {
+        "Category": "research",
+        "Description": "Technology is disrupting, destabilizing, and transforming many aspects of the labor force. The Social Instabilities in Labor Futures initiative seeks to better understand emergent disruptions in the labor force as a result of data-centric technological development, with a special focus on structural inequalities.",
+        "Name": "Social Instabilities in Labor Futures",
+        "Parent Org": "Data & Society Research Institute",
+        "People": "Aiha Nguyen: Alexandra Mateescu: Alex Rosenblat: Julia Ticona",
+        "Tags": "Data & Society Research: Publications, Parent",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/labor_futures/"
+    },
+    {
+        "Description": "Data & Society 2015-2016 Fellow Karen Levy and Affiliate Solon Barocas investigated how low-SES populations understand and appeal to privacy in order to protect their economic interests in low-wage labor markets. In the low-wage workplace, novel forms of data collection and analysis can operate to entrench inequality and limit workers\u2019 economic power. This project examined how the working poor mobilize privacy to shape information flows, in an effort to limit these negative redistributive effects.\n\nThe project assessed these practices in three work contexts: the impacts of agricultural data collection on small farmers; the use of data-intensive scheduling systems for retail management; and the use of low-wage labor to train production-process robotic systems.",
+        "Name": "Understanding Privacy as a Means of Economic Redistribution",
+        "Tags": "Social Instabilities in Labor Futures: Data & Society Research",
+        "URL": "https://datasociety.net/initiatives/future-of-labor/privacy-economic-redistribution/"
+    },
+    {
+        "Category": "research",
+        "Description": "Narratives around the on-demand economy have often elided key differences in how the same policies, technologies, and practices can have contrasting effects on different workers\u2019 experiences on the ground, both within and across sectors. As on-demand business models bring practices like algorithmic management and on-demand scheduling into new areas of work, these same practices may both empower and adversely affect workers in unanticipated ways.\n\nThrough multi-sited ethnographic research, this project examines the experiences of workers on labor platforms and serves to build a foundation for engagement with a wide variety of stakeholders in future research and to project viable pathways of policy intervention.\n\nThe fieldwork for this project targets what is at stake for workers across two segments of the on-demand economy: care and cleaning industry and ridehailing services, such as Uber and Lyft.\n\nThis project is funded by the Robert Wood Johnson Foundation and the W.K Kellogg Foundation.",
+        "Name": "Mapping Inequalities Across the On-Demand Economy",
+        "Parent Org": "Data & Society Research Institute",
+        "Tags": "Social Instabilities in Labor Futures: Data & Society Research: Publications, Parent",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/labor_futures/mapping-inequalities-across-the-on-demand-economy/"
+    },
+    {
+        "Category": "research",
+        "Description": "Rapid technological innovation in health care, and the integration of digital data infrastructures in everyday life, has outpaced our understanding of how these developments affect human relationships, behaviors, and well-being. The Health and Data initiative produces empirical research about the unintended consequences of health data collection, equitable outcomes in data-centric approaches to health, and what constitutes healthy behavior in the context of technology use.",
+        "Name": "Health and Data",
+        "Parent Org": "Data & Society Research Institute",
+        "People": "Kadija Ferryman: Mary Madden: Erin McAweeney: Alex Rosenblat: Mikaela Pitcan",
+        "Tags": "Data & Society Research: Publications, Parent",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/research/health-and-data/"
+    },
+    {
+        "Category": "research",
+        "Description": "The Fairness in Precision Medicine project aims to identify biases that could emerge in data-driven health care.\n\n\"Precision medicine\" is a growing field that aims to use multiple data sources to tailor medical care to individuals. From incorporating genetic information to using data from electronic medical records, precision medicine has the potential to transform healthcare and medical research. Precision medicine has strong support in multiple sectors, including the government\u2019s $215 million dollar Precision Medicine Initiative, as well as industry-led efforts to collect and analyze volumes of health data.",
+        "Name": "Fairness in Precision Medicine\n",
+        "Parent Org": "Data & Society Research Institute",
+        "Tags": "Health and Data: Data & Society Research: Publications, Parent",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/research/fairness-precision-medicine/"
+    },
+    {
+        "Category": "research",
+        "Description": "Libraries and Privacy is a suite of projects exploring the roles of libraries in supporting their communities with regard to data-centric technological development. Topics include privacy in libraries, facilitating safe research data sharing worldwide, and new roles for librarians as data scientists.",
+        "Name": "Libraries and Privacy",
+        "Parent Org": "Data & Society Research Institute",
+        "People": "Bonnie Tijerina",
+        "Tags": "Data & Society Research: Publications, Parent",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/initiatives/privacy/digital-privacy-data-literacy/"
+    },
+    {
+        "Category": "research",
+        "Description": "Machine learning raises novel challenges for ensuring non-discrimination, due process, and understandability in decision-making. This initiative uses computational approaches and quantitative and qualitative datasets to translate findings to policymakers, regulators, and advocates who seek to understand issues in data and AI ethics.",
+        "Name": "Law & Ethics in Computational Social Science",
+        "Parent Org": "Data & Society Research Institute",
+        "People": "Jake Metcalf, Bonnie Tijerina, Sorelle Friedler, Suresh Venkatasubramanian, Andrew Selbst",
+        "Tags": "Data & Society Research",
+        "Tech Focus": "analytics"
+    },
+    {
+        "Category": "research",
+        "Name": "Fairness in Algorithmic Machine Translation",
+        "Parent Org": "Data & Society Research Institute",
+        "Tags": "Data & Society Research: Law & Ethics in Computational Social Science",
+        "Tech Focus": "analytics"
+    },
+    {
+        "Category": "research",
+        "Description": "New and complex data sets raise challenging ethical questions about risk to individuals that are not sufficiently covered by computer science training, ethics codes, or Institutional Review Boards. The use of publicly available, corporate, and government datasets may reveal human practices, behaviors, and interactions in unintended ways, creating the need for new kinds of ethical support. This project examined the role of research librarians in assisting computer science researchers as they navigate emerging issues of privacy, ethics, and equitable access to data at different phases of the research process.\n\nThis exploratory project built upon the emerging support systems, including assistance from the research library, for computer science researchers that has resulted from Data Management Plans required by federal funders. Drawing on their data management skills and knowledge of information ethics, academic librarians may be well poised to act as partners to computer science and engineering researchers throughout the research process, including the use of third-party data.\n\nThis project was supported by the Alfred P. Sloan Foundation. Dr. Rachelle Hollander, Director for the Center for Engineering, Ethics, and Society at the National Academy of Engineering, served as a project advisor.",
+        "Name": "Supporting Ethics in Data Research",
+        "Parent Org": "Data & Society Research Institute",
+        "Tags": "Data & Society Research: Law & Ethics in Computational Social Science: Publications, Parent",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/initiatives/ethics-big-data-research/supporting-ethics-data-research/"
+    },
+    {
+        "Category": "research",
+        "Description": "What is the value of data in education and learning? The Enabling Connected Learning (ECL) initiative assesses how existing and proposed policies affect connected learning initiatives, and where and when education-related data can and should be used.",
+        "Name": "Enabling Connected Learning",
+        "Parent Org": "Data & Society Research Institute",
+        "People": "Monica Bulger, Claire Fontaine, Kinjal Dave",
+        "Tags": "Data & Society Research: Publications, Parent",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/initiatives/enabling-connected-learning/"
+    },
+    {
+        "Category": "research",
+        "Description": "The Data and Equity in School Choice project aims to better understand whether, and in what ways, and to what ends, parents and youth draw on publicly available school performance data when making decisions about where to apply and enroll. We will explore how parents and young people in New York City experience school selection in a context in which admission decisions to both public and charter schools are made, at least in part, by algorithm.",
+        "Name": "Data and Equity in School Choice",
+        "Parent Org": "Data & Society Research Institute",
+        "Tags": "Enabling Connected Learning: Data & Society Research: Publications, Parent",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/initiatives/enabling-connected-learning/data-and-equity-in-school-choice/"
+    },
+    {
+        "Category": "research",
+        "Description": "Data can provide real-time awareness about disaster, violence, or protest. Yet practitioners, researchers, and policymakers face unique challenges and opportunities when assessing technological benefit, risk, and harm. The Data, Human Rights, and Human Security initiative asks: How can these technologies be used responsibly to assist people in need, prevent abuse, and protect them from harm?",
+        "Name": "Data, Human Rights and Human Security",
+        "Parent Org": "Data & Society Research Institute",
+        "People": "Mark Latonero",
+        "Tags": "Data & Society Research: Publications, Parent",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/initiatives/data-human-rights/"
+    },
+    {
+        "Category": "research",
+        "Description": "As data-driven technologies and digital ecosystems increasingly intersect with migrants, refugees, and the displaced, what are the social impacts, consequences, and tradeoffs? This project bridges the knowledge gap surrounding technological interventions, and addresses a diverse set of themes\u2013movement, economic inclusion, integration, asylum, identification, information seeking, rights, health, and social support.",
+        "Name": "Human Rights, Data, and Migration",
+        "Parent Org": "Data & Society Research Institute",
+        "Tags": "Data & Society Research: Publications, Parent: Data, Human Rights and Human Security",
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/human-rights-data-and-migration/"
+    },
+    {
+        "Category": "research",
+        "Description": "Fairness in Precision Medicine is the first report to deeply examine the potential for biased and discriminatory outcomes in the emerging field of precision medicine; \u201cthe effort to collect,...",
+        "Name": "Fairness in Precision Medicine",
+        "Parent Org": "Data & Society Research Institute",
+        "People": "Kadija Ferryman: Mikaela Pitcan",
+        "Tags": "Health and Data",
+        "URL": "https://datasociety.net/research/fairness-precision-medicine/"
+    },
+    {
+        "Category": "research",
+        "Description": "Algorithmic bias like human bias can result in exclusionary experiences and discriminatory practices.",
+        "Name": "The Coded Gaze",
+        "Parent Org": "Algorithmic Justice League",
+        "People": "Joy Buolamwini",
+        "Tags": "Publications, Parent",
+        "URL": "https://www.ajlunited.org/resources"
+    },
+    {
+        "Description": "As the body authorized by 3GPP to allocate TAC (Type Allocation Code) for all GSM mobile device identities globally, the GSMA is the source of authoritative and complete IMEI data. We provide organizations with a range of products and services that harness the unrivalled accuracy of our data to provide the highest-quality device intelligence.\n\nToday, stakeholders use the GSMA TAC and IMEI datasets to help with device management (business intelligence, marketing & customer support) and crime prevention (detection of theft, fraud and device laundering).",
+        "Name": "GSMA IMEI Services",
+        "Parent Org": "GSMA",
+        "Tags": "GSMA Working Groups: Publications, Parent",
+        "URL": "https://www.gsma.com/services/gsma-imei/"
     }
 ]

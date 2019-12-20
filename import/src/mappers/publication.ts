@@ -15,7 +15,7 @@ export const inbound : any = {
   },
   "Publication Type" : {
     "kumu": mappers.string('SubType'),
-    "me2b": mappers.me2b_set_subtype_and_field('Category')
+    "me2b": mappers.me2b_set_subtype_and_field('Publication Type')
   },
   "Sponsoring Org" : {
     "kumu": mappers.publicationOrgs(),

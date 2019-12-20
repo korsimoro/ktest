@@ -1,27 +1,62 @@
 [
     {
-        "Category": "legal document",
-        "Description": "Certification",
+        "Category": "in SDO working on formal standard",
+        "Description": "Participation in this program requires IEEE SA Corporate Membership. The following link provides details about the IEEE SA membership program, and information on how to register for corporate membership. All interested participants must complete the membership process by March 31, 2019 to maintain participation rights for this program. Register here for IEEE SA Corporate Membership.",
         "Label": "The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS)",
         "Parent Org": "The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS)",
         "Purpose": "governance",
-        "URL": "https://standards.ieee.org/industry-connections/ecpais.html"
+        "URL": "https://ieee.memberclicks.net/index.php?option=com_mc&view=formlogin&form=83703"
+    },
+    {
+        "Description": "The OASIS COEL specification provides a privacy-by-design framework for the collection and processing of behavioural data. It is uniquely suited to the transparent use of dynamic data for personalised digital services, IoT applications where devices are collecting information about identifiable individuals and the coding of behavioural data in identity solutions. The specification pseudonymises personal data at source and maintains a separation of different data types with clearly defined roles & responsibilities for all actors. All behavioural data are defined as event-based packets. Every packet is connected directly to an individual and can contain a summary of the consent they provided for the processing of the data. A combination of a taxonomy of all human behaviours (the COEL model) and the event-based protocol provide a universal template for data portability. Simple interface specifications enforce the separation of roles and provide system-level interoperability.",
+        "Label": "OASIS Classification of Everyday Living (COEL) TC",
+        "URL": "http://www.oasis-open.org/committees/coel/",
+        "field16": "Coelition",
+        "field8": "\n"
+    },
+    {
+        "Label": "GSMA Working Groups",
+        "Parent Org": "GSMA",
+        "URL": "https://www.gsma.com/aboutus/workinggroups/",
+        "field8": "Working Groups, Parent: GSMA Working Groups"
     },
     {
         "Description": "Portability format JSON structure",
         "Label": "The Data Portability Cooperation",
-        "Parent Org": "The Data Portability Cooperation",
-        "URL": "https://www.dataportabilitycooperation.org/"
+        "Parent Org": "The Data Portability Cooperation: GSMA EUROPE",
+        "URL": "https://www.gsma.com/aboutus/workinggroups/",
+        "field32": "https://www.dataportabilitycooperation.org/",
+        "field8": "GSMA Working Groups"
     },
     {
-        "Description": "Three or four times a year we\u2019ll be selecting a book that helps us deepen our knowledge on how we build a more equitable community and hosting an event to discuss the topic further. Book Club is open to all and we look forward to seeing you at a future event. Stay in the loop and enter your email below to be notified when we schedule our next book club event.",
-        "Label": "Tech Equity Book Club",
-        "Parent Org": "Tech Equity",
-        "People": "Chair: David Snelling",
-        "URL": "https://techequitycollaborative.org/events/book-club/"
+        "Label": "Fraud and Security Group",
+        "Parent Org": "GSMA",
+        "URL": "https://www.gsma.com/aboutus/workinggroups/fraud-security-group",
+        "field8": "GSMA Working Groups: FASG"
     },
     {
-        "Label": "COEL Working Group",
-        "URL": "http://www.oasis-open.org/committees/coel/"
+        "Label": "Interoperability Data specifications and Settlement Group",
+        "Parent Org": "GSMA",
+        "URL": "https://www.gsma.com/aboutus/workinggroups/working-groups/interoperability-data-specifications-and-settlement-group/",
+        "field8": "GSMA Working Groups"
+    },
+    {
+        "Label": "Networks Group\n",
+        "Parent Org": "GSMA",
+        "URL": "https://www.gsma.com/aboutus/workinggroups/working-groups/networks-group",
+        "field8": "GSMA Working Groups"
+    },
+    {
+        "Label": "Terminal Steering Group",
+        "Parent Org": "GSMA",
+        "URL": "https://www.gsma.com/aboutus/workinggroups/working-groups/terminal-steering-group/",
+        "field8": "GSMA Working Groups"
+    },
+    {
+        "Description": "The SIM Working Group (SIM) is comprised of smart card experts from GSMA member organisations and the group guides GSMA\u2019s SIM related activities where a common approach can create value for operators, service providers and customers. The scope of work includes a range of applications from access management to network resources to standalone transaction and identity management services. Such applications require a high degree of security, reliability and personalisation offered by modern SIM based platforms.\n\nThe SIM Working Group provides a forum for consensus building amongst all GSMA membership categories in relation to support and advice on the promotion, implementation and adoption of smart card technology and identity services. It also provides strategic guidance to GSMA projects on SIM matters and manages a programme of related activities, typically through sub-groups, set up for particular purposes.",
+        "Label": "SIM Working Group",
+        "Parent Org": "GSMA",
+        "URL": "https://www.gsma.com/aboutus/workinggroups/working-groups/sim-working-group/embedded-sim",
+        "field8": "GSMA Working Groups"
     }
 ]

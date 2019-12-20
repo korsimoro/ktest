@@ -1,42 +1,85 @@
 [
     {
         "Description": "ThingsCon is a global community & event platform for IoT practitioners. Our mission is to foster the creation of a human-centric & responsible Internet of Things (IoT).",
+        "Host Organization": "Mozilla: ThingsCon",
         "Name": "ThingsCon",
         "Website": "https://thingscon.com"
     },
     {
         "Description": "A computer science conference with a cross-disciplinary focus that brings together researchers and practitioners interested in fairness: accountability: and transparency in socio-technical systems.",
-        "Host Organization": "ACM Fairness: Accountability: and Transparency",
-        "Name": "ACM Fairness: Accountability: and Transparency",
+        "Host Organization": "ACM",
+        "Name": "ACM Conference on Fairness, Accountability, and Transparency",
+        "Tags": "ACM FAT*",
         "Website": "https://fatconference.org/"
     },
     {
+        "Host Organization": "Data Governance Design Conference",
         "Name": "Data Governance Design Conference",
-        "Speakers": "Governingdata.org",
         "Website": "https://www.governingdata.org/"
     },
     {
+        "Host Organization": "ICWSM",
         "Name": "Auditing Algorithms From the Outside: Methods and Implications",
         "Website": "https://auditingalgorithms.wordpress.com"
     },
     {
+        "Host Organization": "New York University | Information Law Institute",
         "Name": "Workshop on Data and Algorithmic Transparency",
         "Website": "http://datworkshop.org"
     },
     {
+        "Host Organization": "New York University | Information Law Institute",
         "Name": "Algorithms and Explanations",
         "Website": "https://www.law.nyu.edu/centers/ili/events/algorithms-and-explanations"
     },
     {
+        "Host Organization": "New York University | Information Law Institute",
         "Name": "Algorithms and Accountability Conference",
         "Website": "https://www.law.nyu.edu/centers/ili/AlgorithmsConference"
     },
     {
+        "Description": "Algorithms are increasingly invoked as powerful entities that control, govern, sort, regulate, and shape everything from financial trades to news media. Nevertheless, the nature and implications of such orderings are far from clear. What exactly is it that algorithms \u201cdo\u201d? What is the role attributed to \u201calgorithms\u201d in these arguments? How can we turn the \u201cproblem of algorithms\u201d into an object of productive inquiry?\n\nThis conference sets out to explore the recent rise of algorithms as an object of interest in scholarship, policy, and practice. Taking a fresh view on the current wave of interest in the topic, we aim to discuss themes such as:\n\n    the very idea of \u201calgorithms\u201d as a subject and object of analysis\n    issues of methodology and the kind of knowledge claims that come with algorithms\n    the rhetoric of problems and solutions, in which algorithms are mobilized\n    questions of agency and automation\n    conceptions of secrecy or inscrutability\n    normative concerns\n    rules and regulations surrounding development and implementation\n\nThe conference is over now, but you can still sign up for the Mailing list and enjoy the various Resources we assembled.",
+        "Host Organization": "Governing Algorithms",
         "Name": "Governing Algorithms A conference on computation: automation: and control",
-        "Website": "https://governingalgorithms.org"
+        "Tags": "Publications, Parent",
+        "Website": "https://governingalgorithms.org/"
     },
     {
+        "Host Organization": "Trustworthy Algorithmic Decision-Making",
         "Name": "Workshop on Trustworthy Algorithmic Decision-Making",
+        "Speakers": "Emilee Rader: Rick Wash",
         "Website": "http://trustworthy-algorithms.org"
+    },
+    {
+        "Description": "First, our thanks for your support and willingness to participate in the Patient Privacy Rights Summit 2019. And thank you also for your continued interest in our mission. It is very much appreciated.\nNow, we must share with you the news that for several weeks the Peel family has been facing medical challenges, and it is now clear that dealing with this must be the priority for Deborah in the months to come. In order to support the Peels, we have made the difficult decision to cancel the Summit planned for January 28-29, 2019 at Georgetown Law Center, Washington, DC.\nWe will be back to you as soon as we have a clear path forward. In the meantime, we again say thank you and look forward to connecting and moving onward with our important mission to work together to protect the privacy rights of all patients.\nWe know that you share with us our best wishes for the Peel family,\nPatient Privacy Rights Board and Leadership",
+        "Host Organization": "Patient Privacy Rights",
+        "Name": "Health Privacy Summit",
+        "Website": "https://patientprivacyrights.org/health-privacy-summit/"
+    },
+    {
+        "Category": "workshop",
+        "Description": "On February 26, 2016, Data & Society held a workshop, Who Controls the Public Sphere in an Era of Algorithms? to drill into the assumptions, values, and tensions at the core of growing concerns about the control and shaping of the public sphere in an era of algorithms.",
+        "Host Organization": "Data & Society Research Institute",
+        "Name": "Workshop",
+        "Relevant Publications": "https://datasociety.net/algorithms-and-publics/",
+        "Tags": "Algorithms and Publics: Publications, Parent",
+        "Website": "https://datasociety.net/events/who-controls-public-sphere/"
+    },
+    {
+        "Description": "A short (compressed) program of video about the representation of algorithms. We considered depictions of algorithms or computing in popular entertainment, educational video about algorithms, and artistic work produced algorithmically.",
+        "Host Organization": "Auditing Algorithms",
+        "Name": "Film Festival",
+        "Tags": "Publications, Parent",
+        "Website": "http://auditingalgorithms.science/?p=264"
+    },
+    {
+        "Description": "Three or four times a year we\u2019ll be selecting a book that helps us deepen our knowledge on how we build a more equitable community and hosting an event to discuss the topic further. Book Club is open to all and we look forward to seeing you at a future event. Stay in the loop and enter your email below to be notified when we schedule our next book club event.",
+        "Host Organization": "TechEquity",
+        "Name": "Tech Equity Book Club",
+        "Speakers": "Chair: David Snelling",
+        "Website": "https://techequitycollaborative.org/events/book-club/"
+    },
+    {
+        "Website": "\n"
     }
 ]

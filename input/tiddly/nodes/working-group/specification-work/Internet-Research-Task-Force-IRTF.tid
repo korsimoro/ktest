@@ -1,5 +1,5 @@
-created:1576743425948
-modified:1576743425948
+created:1576816251176
+modified:1576816251176
 title:Internet Research Task Force IRTF
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"1c9405cb-d403-4c11-804f-18bd918e80a5":{"to":"b923e342-1707-45aa-97dc-05a697ce86c1","type":"organization-for-group"},"0df90c02-d666-4908-9fa1-c85cf8895bf0":{"to":"5f7c6985-aa07-41ea-a30c-6b80fab9d252","type":"default"},"641a01f0-b90b-4559-b473-fc2467b18337":{"to":"6c97baf7-1d89-4620-b5fb-d3a97194a279","type":"organization-for-group"}}
-tmap.id:546bbd2e-97f1-4622-8146-3fc37b061e05
+tmap.edges:{"c1d1f28c-5335-42e4-b7f9-e29be27b4c90":{"to":"42747b5f-9f14-4b05-9860-2efbed4c81ff","type":"organization-for-group"},"6f70727d-710f-496f-8c1e-80b6dea29093":{"to":"3416f6bc-f1ab-4969-8a45-2130932ada15","type":"default"},"f804b5f6-4fc1-45f2-8905-d85bf2f1b1c6":{"to":"d7f09aee-54aa-47a5-89be-9e5ef93370a2","type":"organization-for-group"}}
+tmap.id:75eebc71-eb68-41d1-bc76-c2cdae869c15
 url:https://irtf.org
 
 Distributing and manipulating named information is a major application in the Internet today. In addition to web-based content distribution, other distribution technologies (such as P2P and CDN) have emerged and are promoting a communication model of accessing data by name, regardless of origin server location.

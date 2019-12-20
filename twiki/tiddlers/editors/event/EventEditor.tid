@@ -1,0 +1,14 @@
+x-list-before: $:/core/ui/EditorTemplate/body
+x-tags: $:/tags/EditorTemplate
+title: $:/twiki/Event/Editor
+type: text/vnd.tiddlywiki
+
+
+<$macrocall $name="editsubtype" label="Event Category" elementtype="event" subtypefield="category" />
+
+<$reveal type="match" default={{!!category}} text="TO BE DETERMINED">
+{{||$:/twiki/Event/TBD}}
+</$reveal>
+<$reveal type="match" default={{!!category}} text="to-be-determined">
+{{||$:/twiki/Event/TBD}}
+</$reveal>

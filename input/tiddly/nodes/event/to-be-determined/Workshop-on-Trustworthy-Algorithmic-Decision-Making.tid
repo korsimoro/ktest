@@ -1,5 +1,5 @@
-created:1576743426257
-modified:1576743426257
+created:1576816251829
+modified:1576816251829
 title:Workshop on Trustworthy Algorithmic Decision-Making
 type:text/vnd.tiddlywiki
 audience:
@@ -8,7 +8,7 @@ date:
 element.type:event
 frequency:
 github.profile:
-host.organization:
+host.organization:Trustworthy Algorithmic Decision-Making
 input.source:me2b
 location(s):
 name:Workshop on Trustworthy Algorithmic Decision-Making
@@ -17,7 +17,7 @@ people:
 relevant.publications:
 tags:
 tmap.edges:{}
-tmap.id:0ed3a2c5-af20-4528-b1d3-47a06d59443e
+tmap.id:28abfdc3-23c7-41a1-9bb3-398c09baf14d
 website:http://trustworthy-algorithms.org
 working.group:
 

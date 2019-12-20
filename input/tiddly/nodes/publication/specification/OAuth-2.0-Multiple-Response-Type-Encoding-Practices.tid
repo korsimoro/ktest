@@ -1,5 +1,5 @@
-created:1576743425968
-modified:1576743425968
+created:1576816251205
+modified:1576816251205
 title:OAuth 2.0 Multiple Response Type Encoding Practices
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"34e7216d-a50e-41ef-b2b0-adacbb130b65":{"to":"d9b0cb58-68f5-4076-b37b-d14671e69f1f","type":"specification-of-group"}}
-tmap.id:4ab178d5-97d3-41ec-97b1-f565f6cf36fc
+tmap.edges:{"23ed921d-e966-4cb5-81cf-4ce8535d717c":{"to":"d8096b49-6462-4ccf-9e2c-da08de316467","type":"specification-of-group"}}
+tmap.id:a8fbe30f-c189-4258-b0e7-00746a58e231
 url:http://openid.net/specs/oauth-v2-multiple-response-types-1_0.html
 version.or.edition:
 volume.frequency:

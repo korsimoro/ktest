@@ -1,5 +1,5 @@
-created:1576743425970
-modified:1576743425970
+created:1576816251208
+modified:1576816251208
 title:OpenID Connect Core 1.0
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"a41ce738-eebc-4611-abc6-52d8e219138b":{"to":"d9b0cb58-68f5-4076-b37b-d14671e69f1f","type":"default"}}
-tmap.id:21b859f5-1094-488c-a584-9fd5faf6a5f2
+tmap.edges:{"6e558545-4361-490e-b1b2-6e82d8a89e36":{"to":"d8096b49-6462-4ccf-9e2c-da08de316467","type":"default"}}
+tmap.id:8b97607c-2101-4177-a2ab-c4a15890d6b6
 url:http://openid.net/specs/openid-connect-core-1_0.html
 version.or.edition:
 volume.frequency:

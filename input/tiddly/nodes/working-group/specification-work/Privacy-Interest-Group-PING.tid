@@ -1,5 +1,5 @@
-created:1576743425951
-modified:1576743425951
+created:1576816251181
+modified:1576816251181
 title:Privacy Interest Group  PING
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"fe8205de-1def-45bb-b57a-e344e3fb49c0":{"to":"bff02e3d-cc8e-4b2c-8c91-00009501b3a9","type":"organization-for-group"}}
-tmap.id:f03f4e2c-1c90-4587-b863-85a94e037612
+tmap.edges:{"de4a0045-396f-4389-b365-94129cdc50c3":{"to":"6ee32fb2-446a-457e-a744-9f91be4d5899","type":"organization-for-group"}}
+tmap.id:17e86268-0363-4787-9bd1-28c7747c0385
 url:http://www.w3.org/Privacy/
 
 The group monitors ongoing privacy issues that affect the Web, investigates potential areas for new privacy work, and provides guidelines and advice for addressing privacy in standards development.

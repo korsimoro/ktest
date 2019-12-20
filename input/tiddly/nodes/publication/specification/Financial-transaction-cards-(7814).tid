@@ -1,5 +1,5 @@
-created:1576743425964
-modified:1576743425964
+created:1576816251199
+modified:1576816251199
 title:Financial transaction cards (7814)
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Financial Transaction Cards WG7
 tags:
 tech.focus:
-tmap.edges:{"1041e416-03f1-49c4-8e79-6b5de85729d0":{"to":"6a2ed5ba-78d2-44c2-b548-50054c9f5159","type":"specification-of-group"}}
-tmap.id:af0b9ca1-9faf-48e8-b8a1-46d190a4572d
+tmap.edges:{"4488e6b0-e06c-4725-a839-f1204d81f379":{"to":"b56cab72-fb88-4f8a-9ce9-2a92be2d337d","type":"specification-of-group"}}
+tmap.id:c214f38c-aef6-409b-a54d-40bc9c1cc9a8
 url:
 version.or.edition:
 volume.frequency:

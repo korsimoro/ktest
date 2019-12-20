@@ -1,5 +1,5 @@
-created:1576743425972
-modified:1576743425972
+created:1576816251210
+modified:1576816251210
 title:OpenID Connect Dynamic Client Registration 1.0
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"b52df48e-21e6-475b-a1ea-ecaf7df91c7f":{"to":"d9b0cb58-68f5-4076-b37b-d14671e69f1f","type":"specification-of-group"}}
-tmap.id:65208bef-b471-4b4d-867c-8868279b8941
+tmap.edges:{"ff9df91e-f250-4727-a670-2cbb25e8eab8":{"to":"d8096b49-6462-4ccf-9e2c-da08de316467","type":"specification-of-group"}}
+tmap.id:a0424bb0-6c51-4679-a4d5-21cca0dd2deb
 url:http://openid.net/specs/openid-connect-registration-1_0.html
 version.or.edition:
 volume.frequency:

@@ -1,5 +1,5 @@
-created:1576743425990
-modified:1576743425990
+created:1576816251234
+modified:1576816251234
 title:Tony Nadalin
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Tony Nadalin
 organization:
 tags:
-tmap.edges:{"ed5ccbab-70e0-479f-abf3-b2d8f5629c43":{"to":"7110a5e0-0bd4-47cc-b122-f923de2f365d","type":"vice-chair"},"769afa38-6919-428a-bd8e-093e65c3658a":{"to":"07d3ad9b-dd7d-42b9-ac5d-191f222817f4","type":"employee"}}
-tmap.id:f858dd73-d5a2-47e5-ab2d-0debf8acca8c
+tmap.edges:{"5439199e-2bb4-4108-ae83-80d3cda8453e":{"to":"2fa2ab70-c991-4bf2-9d92-2cef77d0a93f","type":"vice-chair"},"9c864819-1dce-495b-b419-bae8903583e7":{"to":"3e04f0cf-c890-49f7-9450-36774e8817a9","type":"employee"}}
+tmap.id:d53b14ac-b7d5-4ec3-83c0-524df3f4602d
 twitter.profile:
 website:
 working.group:

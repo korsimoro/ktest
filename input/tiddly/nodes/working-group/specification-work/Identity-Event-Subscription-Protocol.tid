@@ -1,5 +1,5 @@
-created:1576743425950
-modified:1576743425950
+created:1576816251180
+modified:1576816251180
 title:Identity Event Subscription Protocol
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"37b971d8-754c-4aa1-9e35-98162e8c46ac":{"to":"b923e342-1707-45aa-97dc-05a697ce86c1","type":"organization-for-group"}}
-tmap.id:d0dee2ae-0ee7-4944-917a-f16cb04ddfb0
+tmap.edges:{"3c1b5b04-eba8-4845-9459-7121eefa2888":{"to":"42747b5f-9f14-4b05-9860-2efbed4c81ff","type":"organization-for-group"}}
+tmap.id:dc196c85-0b6c-4e13-9d6a-e9af377d7c66
 url:https://datatracker.ietf.org/doc/draft-hunt-idevent-distribution/
 
 

@@ -5,6 +5,16 @@ title: SwitchedFieldEditor
 tmap.id: 4d90d273-3919-47cb-8f0e-b7ac9e70e0c9
 type: text/vnd.tiddlywiki
 
+\define editsubtype(label,elementtype,subtypefield)
+$label$ <$select field="$subtypefield$">
+<$list filter="[all[]field:element.type[$elementtype$]each[$subtypefield$]get[$subtypefield$]sort[title]]" variable="type" >
+<option><<type>></option>
+</$list>
+</$select>
+<$edit-text field="$subtypefield$" size=20 tag=input default="" />
+<br />
+\end
+
 <$list filter="[all[current]field:element.type[organization]]">
   {{||$:/twiki/OrganizationEditor}}
 </$list>

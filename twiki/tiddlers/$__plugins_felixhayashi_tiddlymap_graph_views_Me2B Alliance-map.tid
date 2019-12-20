@@ -1,9 +1,0 @@
-config.neighbourhood_directions:
-config.neighbourhood_scope: 2
-config.show_inter_neighbour_edges: true
-created: 20191218095710298
-id: 8590cfcf-451c-406d-9e9a-a0f0f5261e2a
-isview: true
-modified: 20191219071005695
-title: $:/plugins/felixhayashi/tiddlymap/graph/views/Me2B Alliance-map
-type: text/vnd.tiddlywiki

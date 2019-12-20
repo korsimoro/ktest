@@ -1,5 +1,5 @@
-created:1576743425946
-modified:1576743425946
+created:1576816251173
+modified:1576816251173
 title:Biometrics WG11
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"ef8fbbae-6f95-4785-af82-3d9b373857d5":{"to":"a75c8aa5-b9ac-482a-a779-264b548d2f21","type":"organization-for-group"}}
-tmap.id:ad6a8ff4-fb82-496a-afb2-4c517da8bf00
+tmap.edges:{"a7788c34-819b-4858-b680-e66a1e851552":{"to":"08437124-e4b4-42b0-96a5-3049d21120eb","type":"organization-for-group"}}
+tmap.id:bb166daf-431a-4e72-bc6d-49973a46bc87
 url:
 
 Interoperability for interindustry and government applications using personal identification technologies, e.g. biometrics. Excludes generic biometrics as undertaken by SC37.

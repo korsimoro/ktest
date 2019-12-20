@@ -1,9 +1,0 @@
-[
-    {
-        "created": "20191218121257112",
-        "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/Me2B Alliance-map/filter/nodes",
-        "type": "text/vnd.tiddlywiki",
-        "filter": " [field:tmap.id[a968814b-6d96-44e1-9698-12095e043165]]",
-        "modified": "20191218121257112"
-    }
-]

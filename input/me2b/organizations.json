@@ -1,8 +1,5 @@
 [
     {
-		"Org Name":"Me2B Alliance"
-	 },
-    {
         "About": "Through conversation and collaborative initiatives: the #GoodID movement will explore the different interests of people: governments: and businesses: learn from implementation: and build better systems that work for governments: business and individuals.",
         "Activities": "funding: movement building: outreach",
         "Digital Harms Addressed": "exclusion\n",
@@ -40,13 +37,12 @@
     },
     {
         "About": "Ranking Digital Rights (RDR) works to promote freedom of expression and privacy on the internet by creating global standards and incentives for companies to respect and protect users\u2019 rights.\n\nWe do this by ranking the world\u2019s most powerful internet: mobile: and telecommunications companies on relevant commitments and policies: based on international human rights standards. We work with companies as well as advocates: researchers: investors: and policymakers to establish and advance global standards for corporate accountability.",
-        "Activities": "certification: accountability",
         "Github Profile": "https://github.com/rankingdigitalrights",
         "Me2B Relationship": "Content source for Me2B Certification?",
         "Org Name": "Ranking Digital Rights",
         "Org Type": "NGO",
-        "Parent Org": "https://www.newamerica.org/oti/",
-        "Purpose": "transparancy and accountability",
+        "Parent Org": "Open Technology Institute",
+        "Purpose": "certification and compliance: transparancy and accountability",
         "Relevant Publications": "https://www.newamerica.org/oti/ranking-digital-rights/",
         "Scope": "global",
         "Sector": "non-profit",
@@ -54,6 +50,21 @@
         "Tags": "privacy",
         "Twitter Profile": "https://twitter.com/rankingrights",
         "Website": "https://rankingdigitalrights.org/"
+    },
+    {
+        "About": "\u201cThe Open Technology Institute looks at how, in this digital age, we ensure that there is universal access, that we have an Internet that is as Sir Timothy Berners-Lee envisioned: one that is open and free, ... where inequities in other parts of society don\u2019t play out.\u201d",
+        "Org Name": "Open Technology Institute",
+        "Parent Org": "New America",
+        "Partners": "Detroit Digital Justice Coalition",
+        "Website": "https://www.newamerica.org/oti/"
+    },
+    {
+        "About": "We are dedicated to renewing America by continuing the quest to realize our nation's highest ideals, honestly confronting the challenges caused by rapid technological and social change, and seizing the opportunities those changes create.",
+        "Org Name": "New America",
+        "Org Type": "NGO",
+        "Purpose": "education",
+        "Sector": "non-profit",
+        "Website": "https://www.newamerica.org/oti/"
     },
     {
         "About": "Creative Commons helps you legally share your knowledge and creativity to build a more equitable: accessible: and innovative world. We unlock the full potential of the internet to drive a new era of development: growth and productivity.",
@@ -81,7 +92,7 @@
         "Me2B Relationship": "Background info materials for Legal Terms.",
         "Org Name": "Docracy",
         "Org Type": "Company",
-        "Purpose": "human rights: transparency",
+        "Purpose": "human rights: transparency and accountability",
         "Scope": "global",
         "Sector": "for-profit",
         "Status": "Active",
@@ -91,14 +102,14 @@
     },
     {
         "About": "\u201cI have read and agree to the Terms\u201d is the biggest lie on the web. We aim to fix that.  \n\nWe are a user rights initiative to rate and label website terms & privacy policies: from very good Class A to very bad Class E.",
-        "Activities": "research, publication",
+        "Activities": "research: publication",
         "Github Profile": "https://github.com/tosdr",
         "LinkedIn Profile": "https://www.linkedin.com/company/terms-of-service-didn-t-read/about/",
         "Location(s)": "Berlin",
         "Me2B Relationship": "Content source for Me2B Certification?",
         "Org Name": "Terms of Service Didn't Read",
         "Org Type": "NGO",
-        "Purpose": "Consumer Education, transparancy and accountability",
+        "Purpose": "Consumer Education: transparancy and accountability",
         "Scope": "global",
         "Sector": "non-profit",
         "Status": "Active",
@@ -136,7 +147,7 @@
         "Me2B Relationship": "Content source for Me2B Interoperability Spec.",
         "Org Name": "Dataportability . org",
         "Org Type": "NGO",
-        "Purpose": "transparancy and accountability: terms: technical Interoperability",
+        "Purpose": "transparancy and accountability: terms: tech Interoperability",
         "Sector": "non-profit",
         "Status": "Defunct",
         "Supported identity technologies": "OpenID: OAuth: RSS: OPML: Microformats: RDF: apml: XMPP",
@@ -164,7 +175,7 @@
         "Github Profile": "https://github.com/osano",
         "LinkedIn Profile": "https://www.linkedin.com/company/osano/",
         "Org Name": "Osano",
-        "Org Type": "Public Benefit Company",
+        "Org Type": "Company",
         "Sector": "for-profit",
         "Twitter Profile": "https://twitter.com/osanoatx",
         "Website": "https://www.osano.com"
@@ -207,7 +218,6 @@
         "Org Name": "Digital Life Collective",
         "Org Type": "Cooperative",
         "Purpose": "ecosystem building: transparancy and accountability",
-        "Sector": "cooperative",
         "Status": "Active",
         "Twitter Profile": "https://twitter.com/tech_we_trust",
         "Website": "https://diglife.com/"
@@ -257,7 +267,7 @@
         "Me2B Relationship": "TBD",
         "Org Name": "CARIN Alliance",
         "Org Type": "NGO",
-        "Purpose": "Consumer support: Health Care",
+        "Purpose": "Consumer support: Health care",
         "Sector": "non-profit",
         "Website": "https://www.carinalliance.com/"
     },
@@ -321,14 +331,15 @@
     {
         "About": "Sitra, the Finnish Innovation Fund, is an independent public foundation which operates directly under the supervision of the Finnish Parliament.",
         "Activities": "policy development",
+        "LinkedIn Profile": "https://www.linkedin.com/company/sitra",
         "Location(s)": "Finland",
         "Org Name": "SITRA",
         "Org Type": "Government Department",
-        "Parent Org": "Sitra",
         "Purpose": "Consumer support: transparancy and accountability",
         "Relevant Publications": "https://www.sitra.fi/en/publications/roadmap-fair-data-economy/",
         "Scope": "regional\n",
         "Tech Focus": "Information Sharing Control",
+        "Twitter Profile": "https://twitter.com/sitrafund",
         "Website": "https://www.sitra.fi"
     },
     {
@@ -362,9 +373,10 @@
         "Activities": "research: publication",
         "Org Name": "Mozilla Foundation",
         "Org Type": "Foundation",
-        "Purpose": "usability: human rights: consumer support",
+        "Purpose": "usability: human rights: Consumer support",
         "Scope": "global",
         "Sector": "non-profit",
+        "Tags": "Advocacy",
         "Twitter Profile": "https://twitter.com/mozilla",
         "Website": "https://foundation.mozilla.org/en/"
     },
@@ -390,12 +402,13 @@
         "Purpose": "human rights: transparancy and accountability",
         "Scope": "national",
         "Sector": "non-profit",
+        "Tags": "Advocacy",
         "Twitter Profile": "https://twitter.com/peoplefor",
         "Website": "http://www.pfaw.org"
     },
     {
         "About": "The International Association of Privacy Professionals (IAPP) is a resource for professionals who want to develop and advance their careers by helping their organizations successfully manage these risks and protect their data. In fact, we\u2019re the world\u2019s largest and most comprehensive global information privacy community.",
-        "Activities": "movement building, research, outreach, publication",
+        "Activities": "movement building: research: outreach: publication",
         "LinkedIn Profile": "https://www.linkedin.com/company/iapp---international-association-of-privacy-professionals/",
         "Org Name": "IAPP (International Association of Privacy Professionals)",
         "Org Type": "NGO",
@@ -425,7 +438,7 @@
         "LinkedIn Profile": "https://www.linkedin.com/company/open-data-foundation-inc-/about/",
         "Org Name": "Open Data Foundation",
         "Org Type": "Foundation",
-        "Purpose": "usability: interoperability",
+        "Purpose": "usability: tech interoperability",
         "Sector": "non-profit",
         "Tech Focus": "Data Mobility: analytics",
         "Website": "http://opendatafoundation.org/"
@@ -435,20 +448,21 @@
         "Activities": "standard development",
         "Org Name": "Open Data Initiative",
         "Org Type": "Trade Association",
-        "Purpose": "usability: interoperability",
+        "Purpose": "usability: tech interoperability",
         "Sector": "profit",
         "Tech Focus": "Data Mobility",
         "Website": "https://www.microsoft.com/en-us/open-data-initiative"
     },
     {
         "About": "The ODI was co-founded in 2012 by the inventor of the web Sir Tim Berners-Lee and artificial intelligence expert Sir Nigel Shadbolt to show the value of open data, and to advocate for the innovative use of open data to affect positive change across the globe.",
-        "Activities": "outreach, advocacy",
+        "Activities": "outreach",
         "Github Profile": "https://github.com/theodi",
         "Location(s)": "London",
         "Org Name": "Open Data Institute",
-        "Org Type": "Network or Coalition",
+        "Org Type": "Coalition or Network",
         "Purpose": "human rights: tech interoperabiltiy: transparancy and accountability: usability",
         "Sector": "non-profit",
+        "Tags": "advocacy",
         "Tech Focus": "Data Mobility",
         "Twitter Profile": "https://twitter.com/ODIHQ",
         "Website": "https://theodi.org/"
@@ -462,7 +476,6 @@
         "Org Name": "Trust Pilot",
         "Org Type": "Company",
         "Purpose": "Consumer support",
-        "Tags": "web-app",
         "Twitter Profile": "https://twitter.com/Trustpilot",
         "Website": "https://www.trustpilot.com/"
     },
@@ -490,7 +503,7 @@
     },
     {
         "About": "CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents: including contracts: permits: organizational documents: and consents. We anticipate that there will be codes for each jurisdiction: in each language. For international dealings and coordination: there will be at least one \"global\" code.",
-        "Activities": "publication: curation\n",
+        "Activities": "publication",
         "Github Profile": "https://github.com/CommonAccord/",
         "Org Name": "Common Accord",
         "Purpose": "education: certification and compliance: governance: tech interoperability",
@@ -517,16 +530,15 @@
         "Org Type": "NGO",
         "Purpose": "ecosystem building",
         "Sector": "non-profit",
-        "Tags": "data market\\sharing",
+        "Tech Focus": "Information Sharing Control: Data Mobility",
         "Website": "https://openhumansfoundation.org"
     },
     {
         "About": "What\u2019s in the Toolkit:\n\n    A checklist of 8 risk zones to help you identify the emerging areas of risk and social harm most critical for your team to start considering now.\n    14 scenarios to spark conversation and stretch your imagination about the long-term impacts of tech you\u2019re building today.\n    7 future-proofing strategies to help you take ethical action today.\n",
-        "Activities": "software development, publication",
+        "Activities": "software development: publication",
         "Org Name": "EthicalOS",
-        "Org Type": "Resource \\ Web App",
-        "Parent Org": "Institute for the Future: Digintel Lab | Institute for the Future: Omidyar Network - Tech and Society Solutions Lab",
-        "Purpose": "ecosystem building, human rights",
+        "Parent Org": "Institute for the Future: Omidyar Network",
+        "Purpose": "ecosystem building: human rights",
         "Sector": "non-profit",
         "Website": "https://ethicalos.org/"
     },
@@ -564,12 +576,13 @@
     },
     {
         "About": "TIIME is an advocacy, advisory and education provider in Sustainability and Impact solutions. Increase awareness on best practice and opportunities related to sustainability and impact initiatives. Empower business and finance with relevant knowledge, tools and partnerships to transition effectively and successfully. Support organisations in defining their impact goals and developing sustainable strategies and solutions adapted to organisational culture and capacity.",
-        "Activities": "advocacy: service provider: formal training and classes",
+        "Activities": "service provider: formal training and classes",
         "LinkedIn Profile": "http://linkedin.com/company/tiime",
         "Location(s)": "Luxomburg, France: Connecticut",
         "Org Name": "TIIME",
         "Org Type": "NGO",
         "Purpose": "education",
+        "Tags": "advocacy:",
         "Twitter Profile": "http://twitter.com/tiimenow",
         "Website": "https://www.tiime.org/"
     },
@@ -599,19 +612,6 @@
         "Website": "https://www.internationaldataspaces.org/our-approach/"
     },
     {
-        "About": "The UK\u2019s independent authority set up to uphold information rights in the public interest: promoting openness by public bodies and data privacy for individuals.",
-        "Activities": "regulation",
-        "LinkedIn Profile": "http://linkedin.com/company/information-commissioner's-office",
-        "Location(s)": "UK",
-        "Org Name": "Information Commissioner's Office (ICO)",
-        "Org Type": "Government Department",
-        "Purpose": "transparancy and accountability, consumer support",
-        "Scope": "national\n",
-        "Sector": "government",
-        "Twitter Profile": "https://twitter.com/iconews",
-        "Website": "https://ico.org.uk/"
-    },
-    {
         "About": "Ctrl-Shift is powered by an extensive network of expert strategy consultants, business analysts, consultants and researchers and is headed up by our highly experienced management team.\n\nOur network boasts unrivalled experience and skills in key areas including: digital; technology; innovation; change and transformation management, multi-channel service design; project leadership \u2013 all underpinned by an in-depth understanding of The Personal Information Economy.",
         "LinkedIn Profile": "https://www.linkedin.com/company/ctrl-shift",
         "Location(s)": "London",
@@ -630,7 +630,7 @@
         "Location(s)": "London",
         "Org Name": "Projects by IF",
         "Org Type": "NGO",
-        "Purpose": "transparancy and accountability, human rights, usability",
+        "Purpose": "transparancy and accountability: human rights: usability\n",
         "Twitter Profile": "https://twitter.com/@projectsbyif",
         "Website": "https://www.projectsbyif.com/"
     },
@@ -658,12 +658,11 @@
     },
     {
         "About": "The Trustable Technology Mark aims to highlight the work of those companies that put in the extra effort of building truly trustworthy devices.",
-        "Activities": "Certification",
         "Github Profile": "https://github.com/thewavingcat/trustabletechnologymark",
         "Key People": "(referred by Steve Olshanksy)",
         "Org Name": "Trustable Technology Mark",
-        "Parent Org": "ThingsCon, Mozilla",
-        "Purpose": "transparancy and accountability",
+        "Parent Org": "Mozilla",
+        "Purpose": "transparancy and accountability: Certification and compliance",
         "Tech Focus": "IOT\n",
         "Twitter Profile": "https://twitter.com/trustable_tech",
         "Website": "https://trustabletech.org/about/"
@@ -686,11 +685,11 @@
         "Activities": "standard development",
         "Org Name": "IOT Security Policy Platform (ISOC)",
         "Org Type": "Foundation",
-        "Parent Org": "Internet Society",
+        "Parent Org": "Internet Society: IETF",
         "Purpose": "transparancy and accountability",
         "Scope": "global",
         "Sector": "non-profit",
-        "Tags": "Internet Society: security: IOT: IETF",
+        "Tags": "security: IOT:",
         "Website": "https://www.internetsociety.org/iot/iot-security-policy-platform/"
     },
     {
@@ -701,7 +700,7 @@
         "Location(s)": "USA",
         "Org Name": "Kantara Initiative",
         "Org Type": "NGO",
-        "Purpose": "Certification and compliance",
+        "Purpose": "certification and compliance",
         "Scope": "global",
         "Sector": "non-profit",
         "Twitter Profile": "https://twitter.com/KantaraNews",
@@ -750,7 +749,7 @@
         "Parent Org": "MIT",
         "Purpose": "usability",
         "Sector": "academic",
-        "Supported identity technologies": "OpenID Connect, OAuth 2.0",
+        "Supported identity technologies": "OpenID Connect: OAuth 2.0",
         "Website": "https://trust.mit.edu"
     },
     {
@@ -768,7 +767,7 @@
     },
     {
         "About": "The Cloud Security Alliance (CSA) is the world\u2019s leading organization dedicated to defining and raising awareness of best practices to help ensure a secure cloud computing environment. CSA harnesses the subject matter expertise of industry practitioners, associations, governments, and its corporate and individual members to offer cloud security-specific research, education, certification, events and products. CSA\u2019s activities, knowledge and extensive network benefit the entire community impacted by cloud \u2014 from providers and customers, to governments, entrepreneurs and the assurance industry \u2014 and provide a forum through which diverse parties can work together to create and maintain a trusted cloud ecosystem",
-        "Activities": "Standard Development, publication, research, events and convening",
+        "Activities": "Standard Development: publication: research: events and convening",
         "Github Profile": "https://github.com/CloudSecurityAlliancePublic",
         "LinkedIn Profile": "https://www.linkedin.com/groups/1864210/profile",
         "Org Name": "Cloud Security Alliance",
@@ -790,11 +789,12 @@
     },
     {
         "About": "As a nonprofit organization protecting privacy for all by empowering individuals and advocating for positive change, we have focused exclusively on consumer privacy rights and issues since 1992. We strive to provide clarity on complex topics by publishing extensive educational materials and directly answering people\u2019s questions. We also amplify the public\u2019s voice\u2014often underrepresented in policy discussions\u2014in our work championing strong privacy protections.",
-        "Activities": "outreach: publication: advocacy",
+        "Activities": "outreach: publication:",
         "Org Name": "Privacy Rights Clearinghouse",
         "Org Type": "NGO",
         "Purpose": "Consumer support: human rights",
         "Sector": "non-profit",
+        "Tags": "advocacy",
         "Website": "https://www.privacyrights.org/"
     },
     {
@@ -842,7 +842,7 @@
         "Location(s)": "Geneva, Switzerland",
         "Org Name": "Personaldata.io",
         "Org Type": "NGO",
-        "Purpose": "transparancy and accountability, human rights",
+        "Purpose": "transparancy and accountability: human rights",
         "Sector": "non-profit",
         "Twitter Profile": "https://twitter.com/personaldataio",
         "Website": "https://www.personaldata.io/"
@@ -868,7 +868,7 @@
         "Org Name": "MesInfos",
         "Org Type": "Trade Association",
         "Parent Org": "MyData France",
-        "Purpose": "Consumer support: Healthcare",
+        "Purpose": "Consumer support: Health care",
         "Twitter Profile": "https://twitter.com/Expe_MesInfos",
         "Website": "http://mesinfos.fing.org/english/"
     },
@@ -940,7 +940,7 @@
         "Parent Org": "MIT Media Lab",
         "Purpose": "human rights",
         "Sector": "academic",
-        "Tags": "data market\\sharing",
+        "Tech Focus": "Data Mobility: Information Sharing Control",
         "Twitter Profile": "https://twitter.com/data4blacklives",
         "Website": "http://d4bl.org/"
     },
@@ -990,7 +990,7 @@
     },
     {
         "About": "A SOUTH ASIAN COMMUNITY TECHNOLOGY ORGANIZATION  DEDICATED TO ENDING CASTE APARTHEID: GENDER-BASED VIOLENCE: ISLAMOPHOBIA: AND RELIGIOUS INTOLERANCE.",
-        "Activities": "outreach: community support: research",
+        "Activities": "outreach: research",
         "Github Profile": "https://github.com/equalitylabs",
         "Org Name": "Equality Labs",
         "Org Type": "NGO",
@@ -1001,7 +1001,7 @@
     {
         "About": "CDT is a champion of global online civil liberties and human rights: driving policy outcomes that keep the internet open: innovative: and free.",
         "LinkedIn Profile": "https://www.linkedin.com/company/center-for-democracy-&-technology/",
-        "Location(s)": "Washington, DC",
+        "Location(s)": "Washington, D.C.",
         "Org Name": "Center for Democracy & Technology",
         "Org Type": "NGO",
         "Purpose": "human rights",
@@ -1241,7 +1241,7 @@
         "Org Type": "NGO",
         "Purpose": "ecosystem building: human rights",
         "Sector": "non-profit",
-        "Tags": "philanthropic",
+        "Tags": "philanthropy",
         "Twitter Profile": "https://twitter.com/luminategroup",
         "Website": "https://luminategroup.com/about"
     },
@@ -1333,9 +1333,8 @@
         "About": "ProjectVRM is a development and research project of the Berkman Klein Center for Internet & Society at Harvard University. It has two purposes:\n\n    To encourage development of tools by which individuals can take control of their relationships with organizations \u2014 especially in commercial marketplaces.\n    To encourage and conduct research on VRM-related theories, usage of VRM tools, and effects as adoption of VRM tools takes place.\n\nThe project was created by Doc Searls when he became a fellow at the Center in 2006. Since then it has grown to play a driving role in many different development categories. (A partial and ever-changing list of those, and their occupants, is here.)\n\nVRM stands for Vendor Relationship Management, the customer-side counterpart of Customer Relationship Management, the $48 billion business by which companies attempt to relate to customers (for example through call centers).\n\nDoc sees VRM as \u201ca way to fulfill one of the promises of The Cluetrain Manifiesto\u201d \u2014 the widely-cited website and book written in 1999 by Doc and three other authors (one of which is David Weinberger, also of the Center). That promise was embodied in this statement, written by Christopher Locke:",
         "Activities": "outreach: publication",
         "Org Name": "Project VRM",
-        "Org Type": "research",
         "Parent Org": "Berkman Klein Center for Internet and Society at Harvard University",
-        "Purpose": "Consumer Support",
+        "Purpose": "Consumer Support: research",
         "Relevant Publications": "https://cyber.harvard.edu/projectvrm/Main_Page",
         "Sector": "academic",
         "Tags": "IOT",
@@ -1349,7 +1348,7 @@
         "Location(s)": "Chinaworks, London",
         "Org Name": "Big Brother Watch",
         "Org Type": "Government Department",
-        "Purpose": "Consumer Education, transparancy and accountability",
+        "Purpose": "Consumer Education: transparancy and accountability",
         "Scope": "regional\n",
         "Sector": "government",
         "Twitter Profile": "https://twitter.com/bbw1984/",
@@ -1393,7 +1392,7 @@
         "Org Type": "Company",
         "Sector": "for-profit",
         "Status": "Active",
-        "Tech Focus": "Information Sharing Control, analytics",
+        "Tech Focus": "Information Sharing Control: analytics\n",
         "Twitter Profile": "https://twitter.com/ctznme",
         "Website": "https://www.citizenme.com/"
     },
@@ -1539,9 +1538,10 @@
         "Location(s)": " Yonkers, NY",
         "Org Name": "Consumer Reports",
         "Org Type": "NGO",
-        "Purpose": "transparancy and accountability, consumer education, consumer support",
+        "Purpose": "transparancy and accountability: consumer education: consumer support\n",
         "Scope": "national",
         "Sector": "non-profit",
+        "Tags": "philanthropy",
         "Twitter Profile": "https://twitter.com/consumerreports",
         "Website": "https://www.consumerreports.org/cro/index.htm"
     },
@@ -1562,7 +1562,7 @@
         "Org Type": "company",
         "Purpose": "human rights",
         "Sector": "non-profit",
-        "Tags": "Data Visualization, Information Design, Information Technology, and Data Journalism",
+        "Tags": "Data Visualization: Information Design: Information Technology: Data Journalism",
         "Website": "https://visualizingimpact.org"
     },
     {
@@ -1570,7 +1570,7 @@
         "Activities": "research: policy development",
         "Github Profile": "https://github.com/gtownlawlib",
         "LinkedIn Profile": "https://www.linkedin.com/school/georgetownlaw/",
-        "Location(s)": "Washington, DC",
+        "Location(s)": "Washington, D.C.",
         "Org Name": "the Center on Technology & Privacy at Georgetown Law",
         "Org Type": "University Department",
         "Purpose": "human rights",
@@ -1585,20 +1585,320 @@
         "Location(s)": "Paris, France",
         "Org Name": "CNIL",
         "Org Type": "Government Department",
-        "Parent Org": "CNIL",
-        "Purpose": "human rights, Consumer support",
+        "Purpose": "human rights: Consumer support",
         "Scope": "global",
         "Sector": "government",
         "Tags": "To protect personal data: support innovation: preserve individual liberties",
-        "Tech Focus": "Information Sharing\n",
+        "Tech Focus": "Information Sharing Control",
         "Website": "https://www.cnil.fr/en/home"
     },
     {
         "About": "The Usable Privacy Policy Project\nTowards Effective Web Privacy Notice and Choice\n\nNatural language privacy policies have become a de facto standard to address expectations of \u201cnotice and choice\u201d on the Web. Yet, there is ample evidence that users generally do not read these policies and that those who occasionally do struggle to understand what they read. Initiatives aimed at addressing this problem through the development of machine implementable standards or other solutions that require website operators to adhere to more stringent requirements have run into obstacles, with many website operators showing reluctance to commit to anything more than what they currently do.",
         "Funding": "National Science Foundation under its Secure and Trustworthy Computing initiative (CNS-1330596)",
         "Org Name": "The Usable Privacy Policy Project",
-        "Parent Org": "Usable Privacy Project",
         "Partners": "Carnegie Mellon University: Fordham University: Stanford University: Center for Internet and Society: University of Cincinnati: Penn State: Columbia University: University of Michigan",
         "Website": "https://usableprivacy.org/"
+    },
+    {
+        "About": "IEEE is the world\u2019s largest technical professional organization dedicated to advancing technology for the benefit of humanity. Below, you can find IEEE's mission and vision statements.\n\nMission statement\nIEEE's core purpose is to foster technological innovation and excellence for the benefit of humanity.\n\nVision statement\nIEEE will be essential to the global technical community and to technical professionals everywhere, and be universally recognized for the contributions of technology and of technical professionals in improving global conditions.",
+        "Org Name": "IEEE",
+        "Org Type": "Standards Development Organization",
+        "Website": "https://www.ieee.org/"
+    },
+    {
+        "Org Name": "Berkman Klein Center for Internet and Society at Harvard University",
+        "Website": "https://cyber.harvard.edu/"
+    },
+    {
+        "About": "Consumers International is the membership organisation for consumer groups around the world.\n\nWe believe in a world where everyone has access to safe and sustainable products and services. We bring together over 200 member organisations in more than 100 countries to empower and champion the rights of consumers everywhere.\n\nWe are their voice in international policy-making forums and the global marketplace to ensure they are treated safely, fairly and honestly. We are resolutely independent, unconstrained by businesses or political parties.\n\nWe work in partnership and exercise our influence with integrity, tenacity and passion to deliver tangible results.",
+        "Org Name": "Consumers International\n",
+        "Website": "https://www.consumersinternational.org/"
+    },
+    {
+        "About": "Open for Collaboration. Please Participate!\n\nWe are inviting participation from the wider community of organizations and individuals invested in these critical consumer issues. Addressing consumer privacy and security is a vast and evolving challenge that exceeds any one organization.\n\nThe standard is open for comments, additions, and revisions from members of the tech community--researchers, developers, advocates, and hobbyists--who want to help. With larger community engagement in this open-source project, the partners will continue to shape, refine, test and improve the standard in order to ensure it is comprehensive, effective, and up-to-date in a rapidly-changing marketplace.\n\nTo facilitate participation, we have published the standard text on GitHub, a common platform used in the tech community to debate ideas and collaboratively build shared projects. You can use GitHub\u2019s built-in features to leave comments, propose changes, or fork the project to take it in a new direction. The text of the standard is also shared under the Creative Commons open license CC-BY.",
+        "Org Name": "The Digital Standard",
+        "Website": "https://www.thedigitalstandard.org/"
+    },
+    {
+        "About": "Growing the availability of trustworthy technology choices.\nBusinesses work with Me2B to make sure that they and their suppliers are helping, not harming, consumers. We connect them to other companies that are already certified and have met the rigorous Me2B standards. Or, we work with them to get the companies they are already working with certified by addressing the economic, social and privacy needs of consumers. If a business meets all of our criteria, they may use the Me2B Mark on their products to let shoppers know that they are managing your data ethically and responsibly, and that you have an active role in setting up the fair deal.",
+        "Org Name": "Me2B Alliance",
+        "Website": "https://www.me2balliance.org/"
+    },
+    {
+        "About": "Our mission is to organize the world\u2019s information and make it universally accessible and useful.",
+        "Org Name": "Google",
+        "Tech Focus": "search",
+        "Website": "https://www.google.com"
+    },
+    {
+        "About": "With big data, complex algorithms, and personalized health monitoring, technology has revolutionized the life sciences. But how do we translate these insights into actions? At Sage Bionetworks, we believe that modern science is a team sport. By harnessing the power of open science, we help research communities develop reliable outcomes to advance our understanding of human health.\n\nSage supports research collaborations by overseeing data coordination, visualization, and analytics across distributed teams. We manage grant- or project-based research consortia to share, evaluate and distribute data, methods, and insights.",
+        "Org Name": "SageBionetworks",
+        "Website": "https://sagebionetworks.org/"
+    },
+    {
+        "About": "We develop digital solutions that benefit your users, create value for your business and last over time. We work with clients in the public sector, member organizations and companies that care about our society.",
+        "Org Name": "Metamatrix AB",
+        "Website": "https://metamatrix.se/"
+    },
+    {
+        "Org Name": "MIT/Law",
+        "Website": "http://web.mit.edu/law/"
+    },
+    {
+        "About": "Zynga is a leading developer of the world\u2019s most popular social games that are played by millions of people around the world each day. We are headquartered in San Francisco and have additional offices in the U.S , Canada, U.K and India. Since our founding in 2007, our mission has been to connect the world through games and delight consumers with social gaming experiences. To-date, more than one billion people have played our games across Web and mobile, including FarmVille, Zynga Poker, Words With Friends, Hit it Rich! Slots and CSR.",
+        "Org Name": "Zynga",
+        "Website": "https://www.zynga.com/"
+    },
+    {
+        "About": "The Privacy Commons is a project that aims to do for Privacy what the Creative Commons. if you'd like to be involved please email hello at this domain.",
+        "Org Name": "Privacy Commons",
+        "Status": "inactive",
+        "Website": "https://web.archive.org/web/20190214082741/http://privacycommons.org/"
+    },
+    {
+        "Org Name": "Yale",
+        "Website": "https://www.yale.edu/"
+    },
+    {
+        "About": "The University of Southampton is an exceptional place whose people achieve remarkable things. We are a world-leading, research-intensive university, with a strong educational offering, renowned for our innovation and enterprise. This is a great platform from which to sharpen our focus with our new strategy.\n\nIt\u2019s a very simple strategy. It\u2019s about our aspirations. It\u2019s about building our reputation. It\u2019s about being simply better than our competitors at what we do.",
+        "Org Name": "Southampton University",
+        "Website": "https://www.southampton.ac.uk/"
+    },
+    {
+        "About": "Avast is dedicated to creating a world that provides safety and privacy for all,\nno matter who you are, where you are, or how you connect.",
+        "Org Name": "Avast.com",
+        "Tags": "anti-virus",
+        "Website": "https://Avast.com"
+    },
+    {
+        "About": "Signal messages and calls are always end-to-end encrypted and painstakingly engineered to keep your communication safe. We can't read your messages or see your calls, and no one else can either.",
+        "Org Name": "Signal",
+        "Sector": "non-profit",
+        "Website": "https://signal.org/"
+    },
+    {
+        "About": "Much more than a browser, Brave is a new way of thinking about how the web works.\n\nBrave is on a mission to fix the web by giving users a safer, faster and better browsing experience while growing support for content creators through a new attention-based ecosystem of rewards.\n\nJoin us. It\u2019s time to fix the web together.",
+        "Org Name": "Brave",
+        "Website": "https://brave.com/"
+    },
+    {
+        "About": "One learns from many sources, so on these pages we present various tools and resources which enhance the experience of modern living.\n\nOur purpose is to help you discover and design the life you really want. We help people grow in the areas they identify as meaningful and important.",
+        "Org Name": "Lifescope",
+        "Status": "inactive?",
+        "Website": "https://web.archive.org/web/20051228041032/http://www.lifescope.com/home.html"
+    },
+    {
+        "About": "It\u2019s time your data worked for you\n\n... as an individual, group or organization - and not solely for the profit of others. With Solid you have unprecedented control of your data. Create, manage and secure your own personal online data store (POD). You decide who accesses it. We call this \u201cpersonal empowerment through data\" and it\u2019s one of inrupt\u2019s founding principles.\nWhat if your apps all talked to each other?\n\nThat\u2019s what it\u2019ll feel like using apps built on Solid. Instead of relying on many discrete apps to run your life and business, use inrupt to find new customized, enriching and intelligent apps. Enhance your personal and business productivity in ways that today\u2019s web simply cannot handle.\nThe power of \u201cuniversal\u201d data\n\nSolid works across all data formats neutralizing data silos and incompatibility issues that limit innovation. The result? Find insights that previously were hidden, inaccessible or unimaginable - particularly valuable for enterprises.",
+        "Org Name": "Inrupt",
+        "Website": "https://inrupt.com/"
+    },
+    {
+        "About": "We believe in a world with greater trust and respect for privacy between individuals and companies, so our mission is to empower this digital trust.\n\nWe do not judge if the use of personal data for a particular purpose violates your privacy. We believe that you are able to make this decision for yourself if you know how your personal data is being used and if you are given the option to change what you don\u2019t like about it.\n\nThis is our shared dream that inspires us to make a positive impact to the global community and remain the curious shapers we are.",
+        "Location(s)": "Freienbach SZ, Switzerland",
+        "Org Name": "One.Thing.Less AG",
+        "Website": "https://www.onethingless.com/"
+    },
+    {
+        "About": "The Privicons project takes aim at the problem of email carelessness by means of \"code-backed norms.\" Specifically, we have developed a vocabulary of icons for users to indicate how their email should be treated, a tool to affix icons to the beginning of email, and tentative commitments from email providers to test out the platform. The icons are based around ascii so that they can appear as embedded graphics or plain text and include a variety of instructions such as \"don't print,\" \"internal use only,\" and \"confidential.\" And, importantly, the instructions can be overridden: we prefer an approach grounded in reminder and courtesy over hard-coded solutions that indiscriminately restrict speech.",
+        "Key People": "Max Senges: Imanol Urra: Jan Schallab\u00f6ck: Ulrich K\u00f6nig: Ethan Forrest: Ryan Calo: Andreas Braendhaugen: Marc Alier",
+        "Org Name": "Privicons",
+        "Website": "http://privicons.org/"
+    },
+    {
+        "About": "The World Bank Group has set two goals for the world to achieve by 2030:\n\n    End extreme poverty by decreasing the percentage of people living on less than $1.90 a day to no more than 3%\n    Promote shared prosperity by fostering the income growth of the bottom 40% for every country\n\nThe World Bank is a vital source of financial and technical assistance to developing countries around the world. We are not a bank in the ordinary sense but a unique partnership to reduce poverty and support development. The World Bank Group comprises five institutions managed by their member countries.\n\nEstablished in 1944, the World Bank Group is headquartered in Washington, D.C. We have more than 10,000 employees in more than 120 offices worldwide.",
+        "Location(s)": "Washington D.C.: Worldwide",
+        "Org Name": "The World Bank",
+        "Website": "https://www.worldbank.org/"
+    },
+    {
+        "About": "The Internet Society was founded in 1992 by a number of people involved with the Internet Engineering Task Force (IETF). From those early days, one of our principal rationales is to provide an organizational home for and financial support for the Internet standards process.",
+        "Org Name": "Internet Society",
+        "Parent Org": "IETF",
+        "Website": "https://www.internetsociety.org/"
+    },
+    {
+        "About": "The IETF is a large open international community of network designers, operators, vendors, and researchers concerned with the evolution of the Internet architecture and the smooth operation of the Internet. The technical work of the IETF is done in Working Groups, which are organized by topic into several Areas. Much of the work is handled via mailing lists. The IETF holds meetings three times per year.",
+        "Org Name": "IETF",
+        "Website": "https://ietf.org/"
+    },
+    {
+        "About": "The Detroit Digital Justice Coalition (DDJC) is comprised of people and organizations in Detroit who believe that communication is a fundamental human right. We are securing that right through activities that are grounded in the digital justice principles of: access, participation, common ownership, and healthy communities.",
+        "Org Name": "Detroit Digital Justice Coalition",
+        "Parent Org": "Allied Media Projects",
+        "Website": "https://www.alliedmedia.org/ddjc"
+    },
+    {
+        "About": "\"DCTP\u2019s mission is to use and develop technology rooted in community needs that strengthens human connections to each other and the planet. DCTP formed out of the Digital Stewards Program launched in 2014 and networks cultivated at the Allied Media Conference. DCTP offers technical support to various grassroots networks including the Detroit Digital Justice Coalition: the Allied Media Conference: New America Foundation: and transnational groups interested in fostering community technology.\n\nDiscoTech:  \"\"DiscoTech\"\" is short for \"\"Discovering Technology.\"\" It is is a term coined by the Detroit Digital Justice Coalition which defines a replicable model for a multimedia: mobile neighborhood workshop fair. DiscoTechs are designed so that participants learn more about the impact and possibilities of technology within our communities.\n\nDiscoTechs feature interactive: multimedia workshops designed to demystify: engage: and inform the community about issues of Internet use and ownership: and our communications rights on and offline.\"",
+        "Org Name": "Detroit Community Technology Project",
+        "Website": "https://alliedmedia.org/dctp"
+    },
+    {
+        "About": "Our goal is to ensure that policy making affecting technological development and digital rights are informed by actual technological knowledge, and that technological development is guided by fundamental Human Rights. So that both legal and technical Codes converge to promote and protect Rights.\nUnderstanding and using legal and technical Codes for promoting and protecting Rights is a multidisciplinary task. So we operate as a laboratory, using applied research in Social and Computer Sciences, artistic creativity, communications planing and coding as our core tools for our projects. They might be focused on producing deliveries such as applied research for public policy, capacity building, advocacy strategies, policy papers, workshops, seminars, data visualizations, technological platforms and applications or even artwork meant to promote and implement advocacy strategies. processes.",
+        "Org Name": "CodingRights",
+        "Website": "https://codingrights.org/"
+    },
+    {
+        "About": "The full title of the project is \u201cEXPloring opportunities and challenges for Emerging personal DaTa Ecosystems: Empowering humans in the age of the GDPR \u2013 A Roadmap for Austria\u201c. The Vienna University of Economics and Business (WU Wien), the Vienna University of Technology (TU Wien) and OwnYourData are the project  partners in this project which is funded by the Austrian Research Promotion Agency (FFG). Here is a short description of the project:\n\nIn our increasingly digital societies, data is perceived as a key resource for economic growth. Among the highest-valued corporations today, many have business models that are essentially based on data of or about their users. This development has raised serious concerns about individuals\u2019 right to privacy and their ability to exercise control over their own data, as well as about the broader shifts of power between data subjects and data controllers that this development entails. Consequently, European policy makers have passed the General Data Protection Regulation (GDPR), which has imposed stricter regulations on personal data handling practices within the EU.",
+        "Org Name": "EXPEDiTE",
+        "Tags": "EXPloring opportunities and challenges for Emerging personal DaTa Ecosystems",
+        "Website": "https://www.expedite-project.eu/"
+    },
+    {
+        "About": "The central principle of \u2018privacy\u2019 is an essential right for each and every individual.\n\nWe\u2019re passionate data privacy technologists, building precision solutions designed to help businesses protect the enshrined data rights of their customers.\n\nOur technology combines proprietary and patented military grade encryption with an innovative and world leading approach to data containerisation, to deliver unrivalled data security products for business and individuals.\n\nWe have been building successful online products and services for over 20 years. Our supremely talented core team of engineers, visionaries and leaders drive our company forward.\n\nWe are committed to leading the way into a brave new world where we work to put an end to the abuses of privacy and data rights that have for so long gone unchecked.",
+        "Org Name": "ATAM ID",
+        "Website": "https://atam.id"
+    },
+    {
+        "About": "The DPC is an inclusive working group led by GSMA and major European Telecommunications operators Orange, Telef\u00f3nica and Deutsche Telekom to build the first specification of personal data portability for the telco industry.\n\nThe initiative is open by nature and encourage other telecommunication operators to join the discussions within the GSMA or the other industries to contribute by contacting us",
+        "Org Name": "DataPortabilityCooperation",
+        "Parent Org": "GSMA",
+        "Partners": "Orange: Telef\u00f3nica: Deutsche Telekom",
+        "Website": "https://www.dataportabilitycooperation.org"
+    },
+    {
+        "About": "The GSMA represents the interests of mobile operators worldwide, uniting more than 750 operators with almost 400 companies in the broader mobile ecosystem, including handset and device makers, software companies, equipment providers and internet companies, as well as organisations in adjacent industry sectors. The GSMA also produces the industry-leading MWC events held annually in Barcelona, Los Angeles and Shanghai, as well as the Mobile 360 Series of regional conferences.",
+        "Org Name": "GSMA",
+        "Website": "https://www.gsma.com/"
+    },
+    {
+        "About": "Headquartered in Brussels, Belgium, GSMA Europe represents and leads mobile network operators in Europe, Russia and Commonwealth of Independent States (CIS). In this region more than 200 mobile network operators provide connections to 697 million unique subscribers. We use our combined expertise to give the mobile communication industry a single and powerful voice.",
+        "Org Name": "GSMA EUROPE",
+        "Website": "https://www.gsma.com/gsmaeurope"
+    },
+    {
+        "About": "Certified B Corporations are businesses that meet the highest standards of social and environmental performance.",
+        "LinkedIn Profile": "https://www.linkedin.com/company/b-lab/",
+        "Org Name": "B Lab",
+        "Twitter Profile": "http://www.twitter.com/bcorporation/",
+        "Website": "https://bcorporation.net/"
+    },
+    {
+        "About": "The United Nations Statistics Division is committed to the advancement of the global statistical system. We compile and disseminate global statistical information, develop standards and norms for statistical activities, and support countries' efforts to strengthen their national statistical systems. We facilitate the coordination of international statistical activities and support the functioning of the United Nations Statistical Commission as the apex entity of the global statistical system.",
+        "Org Name": "United Nations Statistics Division",
+        "Website": "https://unstats.un.org/home/"
+    },
+    {
+        "About": "Advances in technology are creating data at unprecedented levels of detail and speed, turning the stories of people\u2019s lives into numbers every minute of every day, across the globe. The Global Partnership for Sustainable Development Data was established to help stakeholders across countries and sectors fully harness the data revolution for sustainable development, using this new knowledge to improve lives and protect the planet. The Global Partnership is a growing network of hundreds of members, including governments, the private sector, civil society, international organizations, academic institutions, foundations, statistics agencies, and other data communities.",
+        "Org Name": "Global Partnership for Sustainable Development Data",
+        "Website": "http://www.data4sdgs.org/"
+    },
+    {
+        "About": "The European Journal of Human Genetics is the official journal of the European Society of Human Genetics, publishing high-quality, original research papers, short reports and reviews in the rapidly expanding field of human genetics and genomics. It covers molecular, clinical and cytogenetics, interfacing between advanced biomedical research and the clinician, and bridging the great diversity of facilities, resources and viewpoints in the genetics community.",
+        "Org Name": "European Journal of Human Genetics",
+        "Website": "https://www.nature.com/ejhg/"
+    },
+    {
+        "About": "#MoreThanCode aims to make the voices of these diverse practitioners heard. Our goals are to I. explore the current ecosystem; II. expand understanding of practitioner demographics; III. develop and share knowledge of practitioner experiences; IV. capture practitioner visions and values; and V. document stories of success and failure. We focus primarily on practitioners who work in the United States.",
+        "Org Name": "#MoreThanCode",
+        "Parent Org": "Open Technology Institute",
+        "Website": "https://morethancode.cc/"
+    },
+    {
+        "About": "The time is right for a new conversation on tech. One that takes us beyond Silicon Valley culture, innovation hype and AI-fear. One that anchors tech in society with a human focus to technological progress.\n\nThat is the conversation we are having when we take over K\u00f8dbyen, Copenhagen\u2019s iconic Meatpacking district, for three days in September. Now in its third year, Techfestival is returning to deep dive further into the realms of technological progress, and find answers to some of the pressing questions in tech development.\n\nWe are collaborating with hundreds of organisers from around the globe to co-create a variety of events, talks, activities and Sessions in the centre of Copenhagen. Our co-creators are given the challenge to create an intimate setting for participation, real talk and tangible outcome.",
+        "Org Name": "Techfestival",
+        "Website": "https://techfestival.co/"
+    },
+    {
+        "About": "The National Institute of Standards and Technology (NIST) was founded in 1901 and is now part of the U.S. Department of Commerce. NIST is one of the nation's oldest physical science laboratories. Congress established the agency to remove a major challenge to U.S. industrial competitiveness at the time\u2014a second-rate measurement infrastructure that lagged behind the capabilities of the United Kingdom, Germany, and other economic rivals.\n\nFrom the smart electric power grid and electronic health records to atomic clocks, advanced nanomaterials, and computer chips, innumerable products and services rely in some way on technology, measurement, and standards provided by the National Institute of Standards and Technology.\n\nToday, NIST measurements support the smallest of technologies to the largest and most complex of human-made creations\u2014from nanoscale devices so tiny that tens of thousands can fit on the end of a single human hair up to earthquake-resistant skyscrapers and global communication networks.",
+        "Org Name": "NIST",
+        "Website": "https://www.nist.gov/"
+    },
+    {
+        "About": "The Department of Homeland Security has a vital mission: to secure the nation from the many threats we face. This requires the dedication of more than 240,000 employees in jobs that range from aviation and border security to emergency response, from cybersecurity analyst to chemical facility inspector. Our duties are wide-ranging, and our goal is clear - keeping America safe.",
+        "Org Name": "Department Homeland Security\n",
+        "Website": "https://www.dhs.gov/"
+    },
+    {
+        "About": "Founded in 2000, the Network Advertising Initiative (NAI) is the leading self-regulatory association comprised exclusively of third-party digital advertising companies. As a non-profit organization, the NAI promotes the health of the online ecosystem by maintaining and enforcing high standards for data collection and use for advertising online and in mobile. Our organization also educates and empowers consumers to make meaningful choices about their experience with online advertising through an easy-to-use opt-out mechanism.",
+        "Org Name": "Network Advertising Initiative",
+        "Website": "https://www.networkadvertising.org/"
+    },
+    {
+        "About": "The websites of all government departments and many other agencies and public bodies have been merged into GOV.UK.\n\nHere you can see all news and communications, statistics and consultations.\n\nFind out how government services are performing and how satisfied users are.",
+        "Org Name": "GOV.UK",
+        "Website": "https://gov.uk"
+    },
+    {
+        "About": "Raisely helps charities raise more money online\n\nWe're a technology company that builds fundraising infrastructure for charities. Causes of any size, from startups to established organisations, use our platform to build and run effective, powerful fundraising campaigns of all shapes and sizes.\n\nWe built Raisely to back the ambition of every cause. We believe those working for good need good infrastructure. We are proud partners in their work.\n\nRaisely launched publicly in 2016. We are a remote company, with staff in 4 countries across the globe. We are a Certified B Corporation. We work for purpose.",
+        "Org Name": "Raisely",
+        "Website": "https://raisely.com/"
+    },
+    {
+        "About": "One of the most respected, non-profit standards bodies in the world, OASIS Open offers projects\u2014including open source projects\u2014a path to standardization and de jure approval for reference in international policy and procurement.\n\nOASIS has a broad technical agenda encompassing cybersecurity, blockchain, privacy, cryptography, cloud computing, IoT, urban mobility, emergency management, content technologies. In fact, any initiative for developing code, APIs, specifications, or reference implementations can find a home at OASIS.\n\nThe OASIS community is committed to advancing work that lowers cost, improves efficiency, stimulates innovation, grows global markets, and promotes interoperability. Each project operates independently under industry-leading process and clear IPR policies. \n\nSome of the most widely adopted OASIS Standards include AMQP, CAP, CMIS, DITA, DocBook, KMIP, MQTT, OpenC2, OpenDocument, PKCS, SAML, STIX, TAXII, TOSCA, UBL, and XLIFF. Many of these have gone on to be published as ISO, IEC, or ITU standards. New work is encouraged, and all are welcome to participate.\n\nOASIS members can be found in 100+ countries on virtually every continent. Major multinational companies, SMEs, government agencies, NGOs, universities, research institutions, consulting groups, and individuals are all represented.",
+        "Org Name": "Oasis",
+        "Website": "https://www.oasis-open.org"
+    },
+    {
+        "About": "The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards. Led by Web inventor and Director Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to lead the Web to its full potential. Contact W3C for more information.",
+        "Org Name": "World Wide Web Consortium",
+        "Website": "https://www.w3.org/"
+    },
+    {
+        "About": "Health professionals use Activinsights wearables and reports to gain insight about patient behaviours and daily activities.\n\nLifestyle is closely associated with the global challenges of heart disease, respiratory diseases, obesity, diabetes and ageing populations. Activinsights gives medical practitioners, researchers and healthcare providers the tools to measure daily life patterns accurately.\n\nThis objective measurement supports diagnosis, recovery, lifestyle management and behaviour change programmes. The information is used to help elderly patients stay in their own homes for longer, reducing hospital re-admissions and assisting in the care of those with life-long conditions.",
+        "Org Name": "Activinsights",
+        "Partners": "Coelition",
+        "Website": "http://www.activinsights.com/"
+    },
+    {
+        "About": "MyGymWorld.Club is a service concept that promotes ways to achieve your exercise targets, without having to go to a gym.\n\nThe smart phone system uses information about location and lifestyle to make personalised recommendations about exercise options that fit how you live your life.\n\nMyGymWorld.Club measures when and where you are most active encouraging you to more of these activities while identifying what you could change. It will make recommendations so that you can discover places and facilities close to where you work, live or travel.\n\nThe service can be extended with direct advice from professional coaches and data from wearables.",
+        "Org Name": "MyGymWorld.Club",
+        "Partners": "Coelition",
+        "Website": "https://www.MyGymWorld.Club"
+    },
+    {
+        "About": "IFTF is the world\u2019s leading futures thinking organization. For over 50 years, businesses, governments, and social impact organizations have depended upon IFTF global forecasts, custom research, and foresight training to navigate complex change and develop world-ready strategies. IFTF methodologies and toolsets yield coherent views of transformative possibilities across all sectors that together support a more sustainable future.",
+        "Org Name": "Institute for the Future",
+        "Org Type": "Standards Development Organization",
+        "Website": "http://www.iftf.org/home/"
+    },
+    {
+        "About": "We\u2019re a global network of innovators, entrepreneurs, technologists, advocates, investors, activists, and organizations committed to addressing the most critical economic, technological, and societal issues of our time.\n\n    We believe that people are fundamentally interdependent, good, and capable.\n\n    We believe that individuals have inherent dignity and that a healthy society should provide opportunities that unlock their potential.\n\n    We believe that markets and technology can be forces for good but only as part of a broader social contract.\n\nWe articulate strong, forward-looking points of view. We have a bias for innovation and action, but are willing to experiment, fail, and learn. We leverage the transformative power of people, markets, ideas, and technology.  We deploy our proven flexible capital model and whatever tools are needed to accelerate the solutions equal to the scale of today\u2019s challenges.",
+        "Org Name": "Omidyar Network",
+        "Website": "https://www.omidyar.com/"
+    },
+    {
+        "About": "The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It\u2019s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.\n\nBut some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it.",
+        "Org Name": "Rebooting Web-of-Trust",
+        "Website": "https://www.weboftrust.info/"
+    },
+    {
+        "About": "ISO is an independent, non-governmental international organization with a membership of 164 national standards bodies.\n\nThrough its members, it brings together experts to share knowledge and develop voluntary, consensus-based, market relevant International Standards that support innovation and provide solutions to global challenges.\n\nYou'll find our Central Secretariat in Geneva, Switzerland. Learn more about our structure and how we are governed.",
+        "Org Name": "ISO",
+        "Org Type": "Standards Development Organization",
+        "Tags": "International Organization for Standardization",
+        "Website": "https://www.iso.org"
+    },
+    {
+        "About": "International Standards and Conformity Assessment for all electrical, electronic and related technologies",
+        "Org Name": "IEC",
+        "Org Type": "Standards Development Organization",
+        "Tags": "International Electrotechnical Commission",
+        "Website": "https://www.iec.ch/"
+    },
+    {
+        "About": "Algorithms are increasingly invoked as powerful entities that control, govern, sort, regulate, and shape everything from financial trades to news media. Nevertheless, the nature and implications of such orderings are far from clear. What exactly is it that algorithms \u201cdo\u201d? What is the role attributed to \u201calgorithms\u201d in these arguments? How can we turn the \u201cproblem of algorithms\u201d into an object of productive inquiry?\n\nThis conference sets out to explore the recent rise of algorithms as an object of interest in scholarship, policy, and practice. Taking a fresh view on the current wave of interest in the topic, we aim to discuss themes such as:\n\n    the very idea of \u201calgorithms\u201d as a subject and object of analysis\n    issues of methodology and the kind of knowledge claims that come with algorithms\n    the rhetoric of problems and solutions, in which algorithms are mobilized\n    questions of agency and automation\n    conceptions of secrecy or inscrutability\n    normative concerns\n    rules and regulations surrounding development and implementation\n\nThe conference is over now, but you can still sign up for the Mailing list and enjoy the various Resources we assembled.",
+        "Org Name": "Governing Algorithms\n\t\t\t\tA conference on computation, automation, and control",
+        "Tags": "Publications, Parent",
+        "Website": "https://governingalgorithms.org/"
+    },
+    {
+        "About": "A Tradition of Innovation\n\nNYU Law is an intellectual powerhouse, with more than 100 faculty, 300 courses, 16 areas of study, over 30 centers, and over 80 student groups. The Law School has long taken a leadership role in introducing changes that have redefined legal education and assured our graduates are practice-ready for today's world. \n\nPublic Service. NYU Law is a pacesetter in public service. The Law School offers more than 40 clinics, and guarantees summer funding for 1Ls and 2Ls working in government and nonprofit organization\n\nGlobal Opportunities. A leader in international law, NYU Law is home to the Hauser Global Law School Program and the Guarini Institute for Global Legal Studies. It also offers NYU Law Abroad in Buenos Aires and Paris.\n\nLaw and Business. NYU Law has the most extensive range of law and business offerings in legal education. The Mitchell Jacobson Leadership Program in Law and Business offers training for students seeking legal education as a background for top positions in business.\n\nTo find out more about the NYU Law experience, visit The View from Washington Square.",
+        "Org Name": "New York University | Information Law Institute",
+        "Website": "https://www.law.nyu.edu/"
+    },
+    {
+        "Org Name": "International Conference on Web and Social Media",
+        "Tags": "ICWSM",
+        "Website": "https://icwsm.org/"
+    },
+    {
+        "Org Name": "Data Governance Design Conference",
+        "Website": "https://www.governingdata.org/"
+    },
+    {
+        "About": "Advancing Computing as a Science & Profession\n\nWe see a world where computing helps solve tomorrow\u2019s problems \u2013 where we use our knowledge and skills to advance the profession and make a positive impact.",
+        "Org Name": "Association for Computing Machinery",
+        "Tags": "ACM",
+        "Website": "https://www.acm.org/"
     }
 ]

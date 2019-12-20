@@ -1,5 +1,5 @@
-created:1576743425989
-modified:1576743425989
+created:1576816251232
+modified:1576816251232
 title:Dale Olds
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Dale Olds
 organization:
 tags:
-tmap.edges:{"d4fa90ef-b259-48e3-83e7-4d7b076a97dd":{"to":"1a821d46-e6ec-40cc-a379-928f6d48ecee","type":"employee"},"ea8e754e-0aa2-4ad7-884c-8f513fe3a8a3":{"to":"2c12ce60-a0e1-4f3b-b99d-71d2b37601d6","type":"employee"}}
-tmap.id:5537f1f2-d390-4336-b25d-92ca5b9094d2
+tmap.edges:{"58bb44be-5356-448c-9c32-bf51bed2ff46":{"to":"c152b914-5d63-4156-a9ad-bea7cfab0cd9","type":"employee"},"6833e6f5-5492-45b7-9845-2965b7bd3c0e":{"to":"2370db10-e5e2-4471-93ad-fe7156b15aa3","type":"employee"}}
+tmap.id:2ecd9f6c-1fbd-4902-b9e2-44c5b03cbc41
 twitter.profile:
 website:
 working.group:

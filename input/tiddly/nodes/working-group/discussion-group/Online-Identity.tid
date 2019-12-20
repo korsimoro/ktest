@@ -1,5 +1,5 @@
-created:1576743426018
-modified:1576743426018
+created:1576816251273
+modified:1576816251273
 title:Online Identity
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"d0f5dc8c-2be1-47ae-9491-0e419efd201a":{"to":"05a54b6a-19d6-43f9-850d-9b0679f5511a","type":"specification-of-group"},"13266626-1892-4077-9de1-79a922749d5a":{"to":"163275c1-1ae7-412b-bc90-49ab4b283deb","type":"author"},"41a1ba54-013e-4177-9554-698e2e68e5e2":{"to":"3e8eca54-5cf3-46e1-9796-f00150d51298","type":"author"},"8cab1225-02d0-4a60-8b8f-78224daf6c7a":{"to":"a5659c1d-cfe7-4b65-af8a-7282ed13982d","type":"author"}}
-tmap.id:b8427f60-c053-4163-96fc-1b81c15a317d
+tmap.edges:{"7d81300d-7eac-4444-9294-b1cd3d96623e":{"to":"8ae29cd4-7cf5-4b5f-bc9e-9314d77f56a2","type":"specification-of-group"},"eed01df2-05c5-48b5-8faa-c48bde704537":{"to":"397238e1-f83d-4414-992a-9b887a6ef159","type":"author"},"f458ea85-f03a-4611-a787-3da0f165ef21":{"to":"d8152e2b-4009-4097-a19e-a4d31d588127","type":"author"},"8a8cec10-767c-4ffa-bac8-0ec96c1d16b4":{"to":"cf4a4f4f-fca2-43e5-ab9f-d960c3c54c5c","type":"author"}}
+tmap.id:0c022d71-8dd8-4b16-8c4a-892b7d63be31
 url:http://www.internetsociety.org/what-we-do/internet-issues/online-identity
 
 The Internet Society works in both the technical and policy arenas to support the development of tools and policies that empower people to manage their online identities.

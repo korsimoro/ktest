@@ -1,5 +1,5 @@
-created:1576743425950
-modified:1576743425950
+created:1576816251179
+modified:1576816251179
 title:ID Theft Prevention and ID Management Standards Panel (IDSP)
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"11a6746a-7043-455d-8e70-3a7f531b70e9":{"to":"5a0b2b71-bfab-4eeb-b855-47a8edcf9f35","type":"organization-for-group"}}
-tmap.id:77dc8cdf-0d73-4fc2-8eae-79da10ad22b8
+tmap.edges:{"9789ea5b-1386-4f7e-8a42-1eecfc275a49":{"to":"bd578260-d2ec-48e4-acfd-8d64a30a977a","type":"organization-for-group"}}
+tmap.id:4ea5ee59-6bb7-4b55-b34b-da9fcd1b6e42
 url:https://www.ansi.org/standards_activities/standards_boards_panels/idsp/overview.aspx?menuid=3
 
 The ANSI Identity Theft Prevention and Identity Management Standards Panel (IDSP) is a cross-sector coordinating body whose objective is to facilitate the timely development, promulgation and use of voluntary consensus standards and guidelines that will equip and assist the private sector, government and consumers in minimizing the scope and scale of identity theft and fraud.

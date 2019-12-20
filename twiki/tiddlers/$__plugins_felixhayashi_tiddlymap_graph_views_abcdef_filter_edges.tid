@@ -1,5 +1,0 @@
-created: 20191208070414258
-filter: -[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-modified: 20191208070414258
-title: $:/plugins/felixhayashi/tiddlymap/graph/views/abcdef/filter/edges
-type: text/vnd.tiddlywiki

@@ -1,5 +1,5 @@
-created:1576743425966
-modified:1576743425966
+created:1576816251203
+modified:1576816251203
 title:Privacy Considerations for Internet Protocols
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"20ea6313-e07a-4dd7-81dd-50a6a8b0f404":{"to":"b923e342-1707-45aa-97dc-05a697ce86c1","type":"organization-for-group"},"18b3ef59-3341-4416-8fdb-f95feb6ab7be":{"to":"6c97baf7-1d89-4620-b5fb-d3a97194a279","type":"connection"}}
-tmap.id:d3db30e3-cf9b-47c5-b02d-8372ab9fbd40
+tmap.edges:{"c76774cd-4954-4971-9f38-1700a3fcd25c":{"to":"42747b5f-9f14-4b05-9860-2efbed4c81ff","type":"organization-for-group"},"27c01f31-76fa-493c-b212-0d564cf3123b":{"to":"d7f09aee-54aa-47a5-89be-9e5ef93370a2","type":"connection"}}
+tmap.id:581d0362-012f-445b-a7e6-7f5c45b2929f
 url:https://tools.ietf.org/html/rfc6973
 version.or.edition:
 volume.frequency:
