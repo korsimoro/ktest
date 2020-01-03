@@ -115,9 +115,9 @@ export class NeighborMap implements TiddlyMap {
 		return ""+
 			"id:" + this.guid + "\n" +
 			"config.neighbourhood_directions: \n"+
-			"config.neighbourhood_scope: 1\n"+
+			"config.neighbourhood_scope: 2\n"+
 			"config.show_inter_neighbour_edges: true\n"+
-			"isview:" + true + "\n" +
+			"isview:" + false + "\n" +
 			"title: $:/plugins/felixhayashi/tiddlymap/graph/views/" + this.name + "\n" +
 			"\n" + this.description + "\n";
 	}

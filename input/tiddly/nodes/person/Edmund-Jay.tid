@@ -1,5 +1,5 @@
-created:1576816251235
-modified:1576816251235
+created:1578031136400
+modified:1578031136400
 title:Edmund Jay
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Edmund Jay
 organization:
 tags:
-tmap.edges:{"a768c6e0-d917-4dbe-b929-e8afa9d2c67b":{"to":"e9ebd40f-5caf-403b-9868-c2f3a16947c5","type":"employee"},"0cec40bc-d72e-4b73-844a-31e0884f0c65":{"to":"e27237b1-4f77-47b0-83cf-54e9eb9d8670","type":"author"}}
-tmap.id:4a1f07a3-d714-46b5-b699-8f759bb9a5d1
+tmap.edges:{"eff3e555-d1e7-4f2c-91cd-8b1b86254f72":{"to":"e13d915e-67cc-456b-8cab-ec32a1f39a8b","type":"employee"},"903c37e7-85cf-41fb-8486-0e05d8a65a79":{"to":"c332dbe0-89ed-4340-813f-494d575afcda","type":"author"}}
+tmap.id:d6197904-ab38-4aa5-b710-daa352aa5587
 twitter.profile:
 website:
 working.group:

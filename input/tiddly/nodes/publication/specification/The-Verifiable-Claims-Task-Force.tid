@@ -1,5 +1,5 @@
-created:1576816251201
-modified:1576816251201
+created:1578031136366
+modified:1578031136366
 title:The Verifiable Claims Task Force
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"1f3d2c0e-829e-4ae0-b966-36b031ad228b":{"to":"6ee32fb2-446a-457e-a744-9f91be4d5899","type":"organization-for-group"}}
-tmap.id:5849dfb7-d20e-46f9-a486-679683fd481a
+tmap.edges:{"b8f2bdca-b8fc-4f87-822f-7f3da63be26d":{"to":"f70e4ede-0a7b-4244-85ea-45a2b8f56060","type":"organization-for-group"}}
+tmap.id:afe88f10-ec77-4aeb-b875-1fc2f718ae16
 url:https://www.w3.org/Payments/IG/wiki/Main_Page/ProposalsQ42015/VerifiableClaimsTaskForce
 version.or.edition:
 volume.frequency:

@@ -1,5 +1,5 @@
-created:1576816251203
-modified:1576816251203
+created:1578031136367
+modified:1578031136367
 title:Tracking Preference Expression (DNT)
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:The Tracking Protection Working Group
 tags:
 tech.focus:
-tmap.edges:{"b28e6bad-f819-4848-896a-68b90f79786d":{"to":"6d229714-bf25-4a41-8000-1a444a920c63","type":"specification-of-group"},"d3bd70af-c0ee-440f-96d3-6c142cb587a2":{"to":"a9887669-721c-4f78-8b20-98566e571ad4","type":"work"}}
-tmap.id:9505a9dc-0db2-4e50-9be5-ddee85816607
+tmap.edges:{"b0b20a53-debd-4bc4-ac27-cb0e5e10e0cb":{"to":"93e3253e-2a06-4d61-98e3-64d679dc31f1","type":"specification-of-group"},"12258ae8-2719-4e12-bdf2-5b6f3a0adf44":{"to":"c37491b2-7d0c-43b8-934c-823ed3e3d127","type":"work"}}
+tmap.id:f5d5efc5-803e-4fb9-b380-d94870f28765
 url:http://www.w3.org/TR/tracking-dnt/
 version.or.edition:
 volume.frequency:

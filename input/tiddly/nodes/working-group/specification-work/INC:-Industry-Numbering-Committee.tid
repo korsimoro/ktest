@@ -1,5 +1,5 @@
-created:1576816251177
-modified:1576816251177
+created:1578031136345
+modified:1578031136345
 title:INC: Industry Numbering Committee
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"0d796d8a-474e-4c81-8f6a-2f085ee26687":{"to":"0b320061-670f-4e25-aee7-fa311dac1267","type":"organization-for-group"}}
-tmap.id:dd495ed3-9b79-463e-9644-53289e3b4aea
+tmap.edges:{"5f02dfce-f9fe-4d7e-8a92-6f8af4682f68":{"to":"c2e11407-4b8f-4608-84d6-4568cbe4c79b","type":"organization-for-group"}}
+tmap.id:bbf42dbe-c56b-451c-ac5f-3e263cf30273
 url:http://www.atis.org/01_committ_forums/INC/about.asp
 
 INC is recognized as the industry’s only open forum for addressing and developing solutions for numbering issues. Currently, it is where steps to address numbering issues associated with the PSTN transition are being identified. INC is a key industry venue for addressing and resolving all industry-wide issues associated with planning, administration, allocation, assignment and use of the North American Numbering Plan (NANP) numbering resources within the NANP area. INC guidelines and recommendations are used by the North American Numbering Plan Administration (NANPA), the Number Pool Administration (PA), and the Canadian Radio-Television and Telecommunications Commission (CRTC) in the management of numbering resources.

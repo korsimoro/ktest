@@ -5,4 +5,28 @@ title: DescriptionPanel
 tmap.id: f5565d32-e5b1-44f6-9346-bd33b6ba35a5
 type: text/vnd.tiddlywiki
 
+\whitespace trim
+<$button message="tm-test-event" tooltip={{$:/language/Buttons/Edit/Hint}} aria-label={{$:/language/Buttons/Edit/Caption}} class=<<tv-config-toolbar-class>>>
+<$list filter="[<tv-config-toolbar-icons>match[yes]]">
+{{$:/core/images/edit-button}}
+</$list>
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text">
+<$text text=" "/>
+<$text text={{$:/language/Buttons/Edit/Caption}}/>
+</span>
+</$list>
+</$button>
+
+<$hello >
+THIS IS A TEST
+<$button message="tm-test-event" class=<<tv-config-toolbar-class>>>
+TEST EVENT
+</$button>
+</$hello>
+<$button message="tm-test-event" class=<<tv-config-toolbar-class>>>
+TEST EVENT
+</$button>
+
+{{||$:/core/ui/EditTemplate/body}}
 {{}}

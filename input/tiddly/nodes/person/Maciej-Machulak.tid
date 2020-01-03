@@ -1,5 +1,5 @@
-created:1576816251233
-modified:1576816251233
+created:1578031136397
+modified:1578031136397
 title:Maciej Machulak
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Maciej Machulak
 organization:
 tags:
-tmap.edges:{"726eb970-5d6c-4432-b700-2dc98557f7df":{"to":"ba98a5fc-5312-4809-a439-d6538dbee2da","type":"person-affiliated"},"7ab2d936-7d67-4f3e-9ebf-f08afa3a9407":{"to":"5466d7fd-1767-407a-8119-7c940c81bac7","type":"vice-chair"},"c58d9e5d-ff7f-4034-a28a-db37af59c601":{"to":"c17e5aa2-c64e-4a60-8af0-8677e59b8894","type":"author"},"56afc145-8ce3-4d15-b10f-b5be0b2aca9a":{"to":"67c8f37e-1a3f-4148-a709-9e87e4893931","type":"employee"}}
-tmap.id:25b58e6f-b04c-45c7-96cb-bf63c685e7aa
+tmap.edges:{"c34cae03-2cb2-431a-a3c6-f1aaec31aa22":{"to":"6737b9be-ad4d-4a73-8e45-7edabc67fcb3","type":"person-affiliated"},"6d4549d5-04ec-413d-9f2f-12a8d6991f14":{"to":"0fa4b317-7f5d-4116-81fd-7a7d7a4beb4f","type":"vice-chair"},"da69467b-6044-4d7d-b883-af5535ca1012":{"to":"b87aebdf-3bcc-4ed1-9915-519d719b1e44","type":"author"},"1df865ca-a0ba-42b5-b578-515db7f29443":{"to":"258dc81b-1ad5-4c37-954e-2e5d3ae8382c","type":"employee"}}
+tmap.id:0460808b-6add-445e-828b-02baef437616
 twitter.profile:
 website:
 working.group:

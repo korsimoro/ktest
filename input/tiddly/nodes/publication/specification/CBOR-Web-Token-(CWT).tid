@@ -1,5 +1,5 @@
-created:1576816251206
-modified:1576816251206
+created:1578031136370
+modified:1578031136370
 title:CBOR Web Token (CWT)
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"981202a6-0e9c-4d63-9bda-a7c0006520e4":{"to":"21e520c9-ea44-4951-91b8-4d1bf7a1b64b","type":"organization-for-group"}}
-tmap.id:91721d63-0dce-4ed6-9467-1f59b2b7eb87
+tmap.edges:{"99f39dc9-4c50-42bf-8eec-613604952272":{"to":"29b2e93a-de20-4de6-9ec1-8346d4206655","type":"organization-for-group"}}
+tmap.id:701a617c-ddec-4eef-aeb5-fe961530d47e
 url:
 version.or.edition:
 volume.frequency:

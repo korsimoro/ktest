@@ -1,5 +1,5 @@
-created:1576816251203
-modified:1576816251203
+created:1578031136368
+modified:1578031136368
 title:Identification cards – Machine readable travel documents – Part 2: Machine readable visasInformation technology – Open terminal architecture (OTA) specification – Virtual machine specification (20060)
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Integrated Circuit Cards with Contacts WG4
 tags:
 tech.focus:
-tmap.edges:{"d7b5e523-1e87-4a27-a59e-858ba5224fca":{"to":"11830263-10fc-432f-9eea-2f39809392ed","type":"specification-of-group"}}
-tmap.id:81701c6e-18b9-4171-ba97-defd339f027b
+tmap.edges:{"630dc92b-9fe4-4b95-aa05-cdfc38f6fbd0":{"to":"43b68c88-e8ce-44a4-a6da-e2445c3a23a5","type":"specification-of-group"}}
+tmap.id:04c72314-0721-4454-9d73-3aac9d6e9208
 url:
 version.or.edition:
 volume.frequency:
