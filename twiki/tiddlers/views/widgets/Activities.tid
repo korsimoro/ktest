@@ -25,6 +25,12 @@ service provider
 <li><<x>></li>
 </$list>
 </ul>
+using Tags
+<ul>
+<$list filter="[all[current]tags:activities[]]" variable="x">
+<li><<x>></li>
+</$list>
+</ul>
 
 <h2>Activities</h2>
 <table>
