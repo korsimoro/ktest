@@ -1,5 +1,5 @@
-created:1578031136402
-modified:1578031136402
+created:1578052541997
+modified:1578052541997
 title:T. Lodderstedt
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:T. Lodderstedt
 organization:
 tags:
-tmap.edges:{"251e1550-4cdf-41c4-881d-ae9310de172b":{"to":"01a2cd15-fd2e-4453-ae25-e46e4b5d11fb","type":"author"},"5733e304-551a-40bc-bf0c-399e856df230":{"to":"dcc9e44f-735e-4ac0-ba33-6c35bacdf24d","type":"employee"},"842b022d-af53-41c9-a012-bdf7ef412b30":{"to":"a49d6775-92d9-42fb-91e4-d2aeef23568c","type":"author"}}
-tmap.id:2e5aa16f-1dfb-4ec4-80de-693ba2a5cf70
+tmap.edges:{"80de0712-7954-4b35-8828-a54b2fc95739":{"to":"c3870f10-9df7-48ed-9963-64e31918282f","type":"author"},"99299635-27bf-4e14-aad3-c43c706b72ce":{"to":"91593a5c-0abd-45c0-8646-d252a32989f6","type":"employee"},"c8f0012d-bef0-419a-9e18-902f881993b8":{"to":"05470251-42ec-47a2-b025-219d2116e04f","type":"author"}}
+tmap.id:4be260ab-9b84-463d-a939-998b559f1c32
 twitter.profile:
 website:
 working.group:

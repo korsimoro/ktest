@@ -1,5 +1,5 @@
-created:1578031136373
-modified:1578031136373
+created:1578052541949
+modified:1578052541949
 title:Digital Authentication Guideline
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"cfcb8db0-c3b7-4838-8fae-9348ca2c88fb":{"to":"f278cc5e-d4d2-404c-b628-26143a300e9b","type":"organization-for-group"}}
-tmap.id:af13c1d8-a50a-420f-8421-35fe7939fb00
+tmap.edges:{"3e1d1388-59ef-4185-bcac-adbca9df1c32":{"to":"e0dad0e0-e5cb-4cdf-b6fa-49a0378fe3e0","type":"organization-for-group"}}
+tmap.id:902fd93e-2f7e-4ae2-9de8-73b616370171
 url:https://pages.nist.gov/800-63-3/
 version.or.edition:
 volume.frequency:

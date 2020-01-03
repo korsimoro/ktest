@@ -1,5 +1,5 @@
-created:1578031136373
-modified:1578031136373
+created:1578052541949
+modified:1578052541949
 title:Privacy Considerations for Web Protocols
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:The Tracking Protection Working Group
 tags:
 tech.focus:
-tmap.edges:{"5a112900-ceac-4cd6-86e6-e2d3db229569":{"to":"07633950-d8f2-4c94-ae21-47031e101b3e","type":"connection"},"5f87c8fd-4e24-40bb-91c9-940166ce85e8":{"to":"93e3253e-2a06-4d61-98e3-64d679dc31f1","type":"specification-of-group"}}
-tmap.id:ee0c08eb-35a8-4489-9c9c-317a375b4d4b
+tmap.edges:{"444ebdcb-3e07-4e92-8cda-83e55e0abec6":{"to":"d6974281-a3c6-44bf-b60e-48f3e142758c","type":"connection"},"f394c67f-f81b-4dfa-af35-c2f4b8ee88ee":{"to":"9b0a0731-56ca-4ed4-9fbf-f056c3b040fc","type":"specification-of-group"}}
+tmap.id:9cd28032-bc85-4c5c-b805-310e111ab1a2
 url:https://w3c.github.io/privacy-considerations/
 version.or.edition:
 volume.frequency:

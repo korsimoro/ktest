@@ -1,0 +1,39 @@
+caption: Data Model
+created: 20191210110743556
+modified: 20191218065304783
+title: DataModelView
+tmap.id: 4d8a695e-7030-4c1c-b049-78d00a18ab46
+type: text/vnd.tiddlywiki
+
+
+\define displaysubtype(elementtype)
+<$set name="elementtype" value="$elementtype$">
+<$list filter="[[SubTypeFields]getindex<elementtype>]" variable="field">
+<$list filter="[[SubTypeLabels]getindex<elementtype>]" variable="label">
+<$list filter="[all[current]get<field>]" variable="value">
+<h3><<label>>:<<value>></h3>
+
+<$select field=<<field>>>
+Type <$list filter="[all[]each[<<field>>]get[<<field>>]sort[title]]" variable="type" >
+<option><<type>></option>
+</$list>
+</$select>
+
+</$list>
+</$list>
+</$list>
+</$set>
+\end
+
+
+<$macrocall $name="displaysubtype" elementtype={{!!element.type}} />
+
+
+<$setvars
+_etype = {{!!element.type}}
+_prefix = "$:/twiki/"
+_subtype = {{!!org.type}}
+tname="prefix etype \/Viewer/\subtype"
+>
+<$transclude tiddler=<<tname>> />
+</$setvars>

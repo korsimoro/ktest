@@ -1,82 +1,8 @@
-created: 20191210110743556
-modified: 20191220051333021
-title: DigitalHarmsAddressed
 caption: Digital Harms
-tmap.id: f646e741-8645-4ce6-85d0-25e71e5c1ce6
+created: 20191210110743556
+modified: 20200103125010521
+title: DigitalHarmsAddressed
+tmap.id: 7e733b91-1130-401e-80ad-19f57d3bda52
 type: text/vnd.tiddlywiki
 
-<h2>Digital Harms Addressed</h2>
-<table>
-  <tr>
-    <td>Aggregation</td>
-    <td><$checkbox
-      field="digital.harms.addressed" checked="Aggregation" unchecked="" default="" />
-    </td>
-  </tr>
-  <tr>
-    <td>Appropriation</td>
-    <td><$checkbox
-      field="digital.harms.addressed" checked="Appropriation" unchecked="" default="" />
-    </td>
-  </tr>
-  <tr>
-    <td>Blackmail</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Breach of Confidentiality</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Decisional Interference</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Disclosure</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Distortion</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Exclusion</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Exposure</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Identification</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Increased Accessibility</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Insecurity</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Interrogation</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Intrusion</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Secondary Use</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Surveillance</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Impersonation</td>
-    <td></td>
-  </tr>
-</table>
+<<EditTagLikeList digital.harms.addressed "Digital Harms Addressed" wikify>>

@@ -1,0 +1,9 @@
+title: $:/core/ui/ViewTemplate/me2b
+tags: $:/tags/ViewTemplate
+
+<$reveal type="match" default={{!!element.type}} text="">
+  {{||$:/core/ui/ViewTemplate/body}}
+</$reveal>
+<$reveal type="nomatch" default={{!!element.type}} text="">
+  <<tabs "DescriptionPanel DataModelView Relationships LocalGraph FieldList" "DescriptionPanel" "$:/state/tab98">>
+</$reveal>

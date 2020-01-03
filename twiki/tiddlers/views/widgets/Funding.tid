@@ -5,5 +5,30 @@ title: OrganizationFunding
 tmap.id: f646e741-8645-4ce6-85d0-25e71e5c1ce6
 type: text/vnd.tiddlywiki
 
-annual.budget:
-funding:
+<$reveal type="nomatch" state="!!editing.funding" text="yes">
+  <$button setField="editing.funding" setTo="yes">
+    <$reveal type="match" state="!!annual.budget" text="">
+      <$reveal type="match" state="!!funding" text="">
+          No Funding Information
+      </$reveal>
+      <$reveal type="nomatch" state="!!funding" text="">
+        Funding: {{!!funding}}
+      </$reveal>
+    </$reveal>
+    <$reveal type="nomatch" state="!!annual.budget" text="">
+      <$reveal type="match" state="!!funding" text="">
+        Annual Budget {{!!annual.budget}}
+      </$reveal>
+      <$reveal type="nomatch" state="!!funding" text="">
+        Funding: {{!!funding}} w/ Annual Budget {{!!annual.budget}}
+      </$reveal>
+    </$reveal>
+  </$button>
+</$reveal>
+
+<$reveal type="match" state="!!editing.funding" text="yes">
+  Edit the funding
+  <$button setField="editing.funding" setTo="">
+  Done
+  </$button>
+<$reveal>

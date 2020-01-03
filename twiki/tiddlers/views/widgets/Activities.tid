@@ -4,6 +4,8 @@ title: Activities
 tmap.id: f646e741-8645-4ce6-85d0-25e71e5c1ce6
 type: text/vnd.tiddlywiki
 
+<<EditTagLikeList activities "Activities" wikify>>
+
 creative
 compliance auditing
 events and convening
@@ -19,92 +21,3 @@ research
 software development
 standard development
 service provider
-
-<ul>
-<$list filter="[all[current]get[activities]split[:]trim[]]" variable="x">
-<li><<x>></li>
-</$list>
-</ul>
-using Tags
-<ul>
-<$list filter="[all[current]tags:activities[]]" variable="x">
-<li><<x>></li>
-</$list>
-</ul>
-
-<h2>Activities</h2>
-<table>
-  <tr>
-    <td>Creative</td>
-    <td><$checkbox
-      field="digital.harms.addressed" checked="Aggregation" unchecked="" default="" />
-    </td>
-  </tr>
-  <tr>
-    <td>Appropriation</td>
-    <td><$checkbox
-      field="digital.harms.addressed" checked="Appropriation" unchecked="" default="" />
-    </td>
-  </tr>
-  <tr>
-    <td>Blackmail</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Breach of Confidentiality</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Decisional Interference</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Disclosure</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Distortion</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Exclusion</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Exposure</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Identification</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Increased Accessibility</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Insecurity</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Interrogation</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Intrusion</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Secondary Use</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Surveillance</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Impersonation</td>
-    <td></td>
-  </tr>
-</table>
-</$select>

@@ -1,5 +1,5 @@
-created:1578031136365
-modified:1578031136365
+created:1578052541936
+modified:1578052541936
 title:OpenID Connect Federation 1.0
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"640fe737-6708-4965-adbd-52d3a531254a":{"to":"3a417ba7-d048-4d2f-b0ef-55571225f85b","type":"specification-of-group"}}
-tmap.id:1458ed73-429f-47da-b603-19182514916f
+tmap.edges:{"6e3332f9-912c-454d-a644-c8cbb4322f6b":{"to":"5adeebaf-a124-494f-99d2-5a6fc7094802","type":"specification-of-group"}}
+tmap.id:48024c26-9c14-4cdd-ad02-001e04a76caa
 url:http://openid.net/specs/openid-connect-federation-1_0.html
 version.or.edition:
 volume.frequency:

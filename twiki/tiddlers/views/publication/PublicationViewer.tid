@@ -1,6 +1,6 @@
 x-list-before: $:/core/ui/ViewTemplate/body
 x-tags: $:/tags/ViewTemplate
-title: $:/twiki/Publication
+title: $:/twiki/Publication/Viewer
 type: text/vnd.tiddlywiki
 
 This is a Publication - we will soon have a panel that

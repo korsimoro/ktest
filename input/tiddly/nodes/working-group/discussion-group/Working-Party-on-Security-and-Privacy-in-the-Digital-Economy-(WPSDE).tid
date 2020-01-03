@@ -1,5 +1,5 @@
-created:1578031136437
-modified:1578031136437
+created:1578052542072
+modified:1578052542072
 title:Working Party on Security and Privacy in the Digital Economy (WPSDE)
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"47cbb5d7-2b9b-4983-a9ae-e7ae6ddc6d50":{"to":"67a7edb5-43ba-4745-b02f-b7bad922d096","type":"convenor"},"674f73d5-630e-4d8d-bb6e-efde9632c458":{"to":"713322f1-c964-4048-8456-1139b9278ac5","type":"specification-of-group"}}
-tmap.id:7ded28d5-bf18-4778-b929-e0f58e4e2444
+tmap.edges:{"9f9ed770-ad55-4ba7-9e05-4ab60a38e663":{"to":"95528b9b-d7c2-4f0b-abf3-bfcfee2408ff","type":"convenor"},"82c413cf-14a3-41ef-99f9-f23d389a337c":{"to":"de7b55db-64d8-4260-8582-825c7cda94cc","type":"specification-of-group"}}
+tmap.id:3fce48f2-96c8-44df-8e05-95bb167440e1
 url:
 
 

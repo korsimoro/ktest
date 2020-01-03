@@ -1,5 +1,5 @@
-created:1578031136351
-modified:1578031136351
+created:1578052541920
+modified:1578052541920
 title:Personal Data
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"2c1d0de6-46ef-4832-b76a-7560c13137fc":{"to":"3b5a591b-3e13-4920-88e9-544a33ec7dc3","type":"organization-for-group"}}
-tmap.id:3c1d2ad3-cbc8-4f76-b7d4-14bfae96c0d8
+tmap.edges:{"576561aa-6035-4f9c-87e1-39f6f9ec01a8":{"to":"42473703-87cc-4ddb-a993-31ceda59f5b6","type":"organization-for-group"}}
+tmap.id:cd47c01a-b909-4f37-9be5-b3598eb2b721
 url:http://www.gsma.com/personaldata/
 
 As the digital economy expands, both individuals and businesses are looking for ways to interact easily online without compromising security and privacy. Building on the successes and strategic insights delivered by the GSMA Mobile Identity programme, the GSMA Personal Data programme aims to help digital service providers and consumers find the optimum balance between privacy, security and convenience.

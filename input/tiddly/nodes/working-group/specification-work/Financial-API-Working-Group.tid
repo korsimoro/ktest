@@ -1,5 +1,5 @@
-created:1578031136343
-modified:1578031136343
+created:1578052541909
+modified:1578052541909
 title:Financial API Working Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"ffce445f-581b-43b9-bdf8-a979defcfebc":{"to":"3c95d67d-35b5-4d76-8df1-b731a4d4dcad","type":"organization-for-group"}}
-tmap.id:dda66d29-bb1c-4f84-ab88-f1d01f656b8f
+tmap.edges:{"2b268bbe-47a4-4b05-8e31-87dae04e8d72":{"to":"549de701-34c6-4a3b-b588-00c626c0e560","type":"organization-for-group"}}
+tmap.id:56d845e7-cdf0-4061-bc60-64b9cb11f35a
 url:http://openid.net/wg/fapi/
 
 In many cases, Fintech services such as aggregation services uses screen scraping and stores user passwords. This model is both brittle and insecure. To cope with the brittleness, it should utilize an API model with structured data and to cope with insecurity, it should utilize a token model such as OAuth [RFC6749, RFC6750].

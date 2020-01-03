@@ -1,0 +1,4 @@
+title: $:/core/ui/EditTemplate/me2b
+tags: $:/tags/EditTemplate
+
+<<tabs "SwitchedFieldEditor DescriptionEditor MetaDataEditor StandardFieldEditor" "Data Model" "$:/state/tab99">>

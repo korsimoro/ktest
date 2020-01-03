@@ -1,5 +1,5 @@
-created:1578031136346
-modified:1578031136346
+created:1578052541915
+modified:1578052541915
 title:Connecting Europe Facility CEF  Telecom Expert Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"9f063b0e-9cd5-44fc-9217-8890b3a9b9d9":{"to":"a3197d9e-ae03-40ef-8a61-b4ae942ba742","type":"author"},"5c8d1996-9f26-4459-8e9e-dfc7bf8fcb45":{"to":"4edc58e0-a04c-4947-b512-5bd92462ee5d","type":"government-connection"}}
-tmap.id:b556f090-a8fd-4227-99de-b80fb4ba1727
+tmap.edges:{"ec95baa2-4362-48fb-980b-ed09e3b7a29d":{"to":"26db5e27-4b49-4044-a982-e3fa32f68012","type":"author"},"98cfac44-7070-4fb5-8751-ddd1631a978b":{"to":"acb5ada5-7b56-48e3-bfac-786b893c3c4b","type":"government-connection"}}
+tmap.id:0d9c512d-b267-4e7a-9342-e20e2316af96
 url:http://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.groupDetail&groupID=3001
 
 Assist the Commission in: monitoring the implementation of the Regulation No 1316/2013; taking account of national plans or national strategies, where applicable; undertaking measures to evaluate the implementation of the work programmes on a financial and technical level; addressing existing or emerging project implementation problems; defining strategic orientations prior to drawing up of the annual and multiannual work programmes.

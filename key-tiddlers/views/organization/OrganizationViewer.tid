@@ -1,0 +1,28 @@
+title: $:/twiki/organization/Viewer
+type: text/vnd.tiddlywiki
+
+\define linkrow(title,value,field)
+<$reveal default="$value$" type="nomatch" text="" tag="tr">
+  <td>$title$</td>
+  <td><a href="$value$" >$value$</a></td>
+</$reveal>
+<$reveal default="$value$" type="match" text="" tag="tr">
+  <td>$title$</td>
+  <td><$edit-text tag="input" field="$field$" /></td>
+</$reveal>
+\end
+
+<$select field=org.type>
+Type <$list filter="[all[]each[org.type]get[org.type]sort[title]]" variable="type" >
+<option><<type>></option>
+</$list>
+</$select>
+
+<$reveal state={{!!parent.org}} type="nomatch" text="">
+Parent {{!!parent.org}}
+</$reveal>
+
+<<EditTagLikeList digital.harms.addressed "Digital Harms Addressed" wikify>>
+<<EditTagLikeList activities "Activities" wikify>>
+
+<<tabs "OrganizationDates OrganizationFunding Fields Other Social" "DigitalHarmsAddressed" "$:/state/tab97" >>

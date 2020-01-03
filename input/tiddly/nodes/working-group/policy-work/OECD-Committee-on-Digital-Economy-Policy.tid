@@ -1,5 +1,5 @@
-created:1578031136340
-modified:1578031136340
+created:1578052541903
+modified:1578052541903
 title:OECD Committee on Digital Economy Policy
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"a361980b-1121-4564-b261-50f2ebda93a0":{"to":"2228370b-a744-4b48-a568-3247769c171e","type":"organization-for-group"}}
-tmap.id:713322f1-c964-4048-8456-1139b9278ac5
+tmap.edges:{"d0dd58be-9211-4cfc-8920-44c4409e75be":{"to":"480f2f94-15de-46fa-aa13-deb39d0047c3","type":"organization-for-group"}}
+tmap.id:de7b55db-64d8-4260-8582-825c7cda94cc
 url:
 
 

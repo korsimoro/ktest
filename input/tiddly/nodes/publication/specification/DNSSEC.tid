@@ -1,5 +1,5 @@
-created:1578031136367
-modified:1578031136367
+created:1578052541938
+modified:1578052541938
 title:DNSSEC
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Automomica;IETF;PCH - Packet Clearing House
 tags:
 tech.focus:
-tmap.edges:{"3d828a87-52a1-494e-b1b2-e1b8f7bb0fba":{"to":"60a89557-ca3d-467b-9b16-bc2c4597396b","type":"organization-for-group"}}
-tmap.id:d77e141c-bb01-4bef-acdb-697248e7bd55
+tmap.edges:{"84777cf0-8742-41d6-8791-fe832aae3641":{"to":"f2cd93d0-ba04-4ac8-9f8e-0f66a09f6071","type":"organization-for-group"}}
+tmap.id:aa90c295-f685-4467-a9bd-8fd652f2768f
 url:
 version.or.edition:
 volume.frequency:

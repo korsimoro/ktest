@@ -1,0 +1,14 @@
+x-list-before: $:/core/ui/ViewTemplate/body
+x-tags: $:/tags/ViewTemplate
+title: $:/twiki/Publication
+type: text/vnd.tiddlywiki
+
+This is a Publication - we will soon have a panel that
+is specific to each type of event.
+
+<$reveal type="match" default={{!!category}} text="TO BE DETERMINED">
+{{||$:/twiki/Publication/TBD}}
+</$reveal>
+<$reveal type="match" default={{!!category}} text="Specification">
+{{||$:/twiki/Publication/Specification}}
+</$reveal>

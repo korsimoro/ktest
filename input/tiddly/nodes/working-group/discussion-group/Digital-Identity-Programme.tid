@@ -1,5 +1,5 @@
-created:1578031136341
-modified:1578031136341
+created:1578052541906
+modified:1578052541906
 title:Digital Identity Programme
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"a1231d85-75db-4682-90ec-791aff1f6437":{"to":"3b5a591b-3e13-4920-88e9-544a33ec7dc3","type":"organization-for-group"}}
-tmap.id:677fc8d6-a058-41c0-8ad3-edc9eb386cd5
+tmap.edges:{"09898a32-78a5-40d8-a9a7-f942a3e4ea30":{"to":"42473703-87cc-4ddb-a993-31ceda59f5b6","type":"organization-for-group"}}
+tmap.id:4ec42de9-d480-4dea-9448-90af782b0c0e
 url:http://www.gsma.com/mobilefordevelopment/programmes/digital-identity
 
 Enabling digital identity through the power of mobileOur mission is to leverage mobile as a solution for a unique, secure and scalable form of identity, catalysing greater socio-economic impact in emerging markets. 

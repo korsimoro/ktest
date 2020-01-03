@@ -1,0 +1,28 @@
+caption: Relationships
+created: 20191210110743556
+modified: 20191218065304783
+title: Relationships
+tmap.id: 4d8a695e-7030-4c1c-b049-78d00a18ab46
+type: text/vnd.tiddlywiki
+
+<$tmap-connections
+    filter=<<tmap mergeFields "$:/state/tmap/tid-toolbar" "filter.">>
+    direction={{$:/state/tmap/tid-toolbar!!direction}}
+    emptyMessage=<<noConnectionsMsg>>>
+  <tr>
+    <td title=<<direction>>><<directionSymbol>></td>
+    <td><$link to=<<neighbour>>><$view field="title" /></$link></td>
+    <td><<edge.type>></td>
+    <td>
+      <$button
+          tooltip="Delete this connection"
+          class="tc-btn-invisible">{{$:/core/images/close-button}}
+        <$action-sendmessage $message="tmap:tm-remove-edge"
+            id=<<edge.id>>
+            from=<<edge.from>>
+            to=<<edge.to>>
+            type=<<edge.type>> />
+      </$button>
+    </td>
+  </tr>
+</$tmap-connections>

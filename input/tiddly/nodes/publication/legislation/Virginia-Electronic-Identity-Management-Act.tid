@@ -1,5 +1,5 @@
-created:1578031136431
-modified:1578031136431
+created:1578052542063
+modified:1578052542063
 title:Virginia Electronic Identity Management Act
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:State of Virginia
 tags:
 tech.focus:
-tmap.edges:{"9eca2171-a0b5-4856-8cc5-df7eade8d327":{"to":"1034d6d9-4929-4791-a63f-c8164363170e","type":"connection"}}
-tmap.id:9e4de7c3-aabc-400e-9f57-29421b941f4d
+tmap.edges:{"f3563263-f2d4-4d0d-8795-7df81f8af719":{"to":"daf93ba9-8d92-49d7-b801-3863dcefd5a1","type":"connection"}}
+tmap.id:7a6c1ee6-8963-4f79-9b19-bf7ab27a9599
 url:
 version.or.edition:
 volume.frequency:

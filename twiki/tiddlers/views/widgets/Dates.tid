@@ -1,9 +1,35 @@
-created: 20191210110743556
-modified: 20191220051333021
-title: OrganizationDates
 caption: Dates
-tmap.id: f646e741-8645-4ce6-85d0-25e71e5c1ce6
+created: 20191210110743556
+editing.dates: yes
+modified: 20200103124325830
+title: Dates
+tmap.id: 188c9c76-c762-4117-a44b-0a24ee54aee8
 type: text/vnd.tiddlywiki
 
-date.ended:
-date.founded:
+<$reveal type="nomatch" state="!!editing.dates" text="yes">
+  <$button setField="editing.dates" setTo="yes">
+    <$reveal type="match" state="!!date.ended" text="">
+      <$reveal type="match" state="!!date.founded" text="">
+          No Date Information
+      </$reveal>
+      <$reveal type="nomatch" state="!!date.founded" text="">
+        Active since: {{!!date.founded}}
+      </$reveal>
+    </$reveal>
+    <$reveal type="nomatch" state="!!date.ended" text="">
+      <$reveal type="match" state="!!date.founded" text="">
+        Ended, but missing founding information
+      </$reveal>
+      <$reveal type="nomatch" state="!!date.founded" text="">
+        Active between: {{!!date.founded}} and {{!!date.ended}}
+      </$reveal>
+    </$reveal>
+  </$button>
+</$reveal>
+
+<$reveal type="match" state="!!editing.dates" text="yes">
+  Edit the dates
+  <$button setField="editing.dates" setTo="no">
+  Done
+  </$button>
+<$reveal>

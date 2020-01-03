@@ -13,7 +13,42 @@ type: text/vnd.tiddlywiki
 \end
 
 <$reveal state={{!!parent.org}} type="nomatch" text="">
-Parent {{!!parent.org}}
+<h3>Parent {{!!parent.org}}</h3>
 </$reveal>
 
-<<tabs "DigitalHarmsAddressed Activities OrganizationDates OrganizationFunding Fields Other Social" "DigitalHarmsAddressed" "$:/state/tab97" >>
+<h3>
+Organization Type:<$select field=org.type>
+<$list filter="[all[]each[org.type]get[org.type]sort[title]]" variable="type" >
+<option><<type>></option>
+</$list>
+</$select>
+<$select field=me2b.relationship>
+<$list filter="[all[]each[me2b.relationship]get[me2b.relationship]sort[title]]" variable="type" >
+<option><<type>></option>
+</$list>
+</$select>
+</h3>
+
+<$reveal type="nomatch" text="" value="!!location(s)" >
+Located in {{!!location(s)}}
+</$reveal>
+{{||Dates}}<br />
+{{||OrganizationFunding}}<br />
+{{||Social}}
+{{||People}}
+{{||RelevantPublications}}
+{{||ProductsAndServices}}
+
+{{||DigitalHarmsAddressed}}
+{{||Activities}}
+
+
+<table>
+<$macrocall $name="linkrow" title="Audience" value={{!!audience}} field="audience" />
+<$macrocall $name="linkrow" title="Me2B Relationship" value={{!!me2b.relationship}} field="me2b.relationship" />
+<$macrocall $name="linkrow" title="Partners" value={{!!partners}} field="partners" />
+<$macrocall $name="linkrow" title="Purpose" value={{!!purpose}} field="purpose" />
+<$macrocall $name="linkrow" title="Scope" value={{!!scope}} field="scope" />
+<$macrocall $name="linkrow" title="Sector" value={{!!sector}} field="sector" />
+<$macrocall $name="linkrow" title="Tech Focus" value={{!!tech.focus}} field="tech.focus" />
+</table>

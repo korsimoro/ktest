@@ -1,5 +1,5 @@
-created:1578031136364
-modified:1578031136364
+created:1578052541933
+modified:1578052541933
 title:JSON-LD
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"755eac66-2549-4d49-9c6b-c186ebf46641":{"to":"f70e4ede-0a7b-4244-85ea-45a2b8f56060","type":"organization-for-group"}}
-tmap.id:8f0b263a-f536-4045-9cc3-0e5e917a63c1
+tmap.edges:{"6f399c24-a641-4f04-85b2-73e0a1134e38":{"to":"52958d56-74ac-425d-9c89-183b86ad6182","type":"organization-for-group"}}
+tmap.id:0c4bd4db-1340-4709-9c8f-3687228305be
 url:https://www.w3.org/TR/json-ld/
 version.or.edition:
 volume.frequency:

@@ -1,10 +1,10 @@
-created: 20191210110743544
-modified: 20191210110743544
-tags: 
-title: StandardFieldEditor
-tmap.id: 1da1d9d2-695b-46d5-a414-3ba6ffab1d7d
-type: text/vnd.tiddlywiki
 caption: Field List
+created: 20191210110743544
+modified: 20200103123857012
+tags:
+title: StandardFieldEditor
+tmap.id: 49cbcd3f-539c-4758-989d-f415f279a743
+type: text/vnd.tiddlywiki
 
 \define lingo-base() $:/language/EditTemplate/
 \define config-title()
@@ -50,7 +50,7 @@ $value={{{ [<newFieldValueTiddler>get[text]] }}}/>
 <div class="tc-edit-fields">
 <table class="tc-edit-fields">
 <tbody>
-<$list filter="[all[current]fields[]] +[sort[title]]" variable="currentField" storyview="pop">
+<$list filter="[all[current]fields[]] +[sort[title]] -editing.dates -editing.funding -editing -tmap.edges -tmap.id -tmap.names -element.type -org.type -input.source" variable="currentField" storyview="pop">
 <$list filter=<<config-filter>> variable="temp">
 <tr class="tc-edit-field">
 <td class="tc-edit-field-name">
@@ -88,7 +88,7 @@ $value={{{ [<newFieldValueTiddler>get[text]] }}}/>
 <<lingo Fields/Add/Dropdown/User>>
 </div>
 <$set name="newFieldName" value={{{ [<newFieldNameTiddler>get[text]] }}}>
-<$list filter="[!is[shadow]!is[system]fields[]search:title<newFieldName>sort[]] -created -creator -draft.of -draft.title -modified -modifier -tags -text -title -type"  variable="currentField">
+<$list filter="[!is[shadow]!is[system]fields[]search:title<newFieldName>sort[] -created -creator -draft.of -draft.title -modified -modifier -tags -text -title -type"  variable="currentField">
 <$link to=<<currentField>>>
 <$text text=<<currentField>>/>
 </$link>
