@@ -1,0 +1,10 @@
+created: 20191201134710530
+modified: 20200104032254187
+tags: 
+title: Working Groups CSV
+tmap.id: fce6a53b-49d0-4a24-9a23-63e04a4a4cbe
+type: application/csv
+
+<$list filter="[all[]field:element.type[working-group]sort[title]sort[category]sort[parent.org]]">
+{{!!title}},{{!!category}},{{!!parent.org}}
+</$list>

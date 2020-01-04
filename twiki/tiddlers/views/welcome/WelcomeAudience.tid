@@ -1,0 +1,15 @@
+caption: Audience
+created: 20191201134710530
+modified: 20200104055128495
+tags:
+title: WelcomeAudience
+tmap.id: 33c5b76a-31b4-44df-9050-bbad78d8923e
+type: text/vnd.tiddlywiki
+
+Audience<br />
+<$list filter="[tags:audience[]]" variable="dha">
+<<dha>><br />
+<$list filter="[all[]][tag:audience[<<dha>>]sort[title]]" >
+{{!!title}}<br />
+</$list>
+</$list>

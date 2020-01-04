@@ -50,7 +50,7 @@ $value={{{ [<newFieldValueTiddler>get[text]] }}}/>
 <div class="tc-edit-fields">
 <table class="tc-edit-fields">
 <tbody>
-<$list filter="[all[current]fields[]] +[sort[title]] -editing.dates -editing.funding -editing -tmap.edges -tmap.id -tmap.names -element.type -org.type -input.source" variable="currentField" storyview="pop">
+<$list filter="[all[current]fields[]] +[sort[title]] -category -publication.type -editing.dates -editing.funding -editing -tmap.edges -tmap.id -tmap.names -element.type -org.type -input.source" variable="currentField" storyview="pop">
 <$list filter=<<config-filter>> variable="temp">
 <tr class="tc-edit-field">
 <td class="tc-edit-field-name">

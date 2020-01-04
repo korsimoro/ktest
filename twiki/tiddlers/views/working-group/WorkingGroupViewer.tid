@@ -1,0 +1,37 @@
+title: $:/twiki/working-group/Viewer
+type: text/vnd.tiddlywiki
+
+
+<$reveal default={{!!parent.org}} type="nomatch" text="">
+<h3>Parent <$link to={{!!parent.org}}>{{!!parent.org}}</$link></h3>
+</$reveal>
+
+<<subTypeLabel>> <$select field=<<subTypeField>> >
+<$list filter="[all[]field:element.type[<<elementType>>]each[<<subTypeField>>]get[<<subTypeField>>]sort[title]]" variable="field">
+<option><<field>></option>
+</$list>
+</$select>
+
+<h3>
+Working Group Type:<$select field=org.type>
+<$list filter="[all[]each[category]get[category]sort[title]]" variable="type" >
+<option><<type>></option>
+</$list>
+</$select>
+</h3>
+
+{{||Location}}
+{{||WorkingGroupDates}}<br />
+{{||$:/twiki/working-group/Social}}
+{{||DigitalHarmsAddressed}}
+{{||Activities}}
+{{||$:/twiki/working-group/People}}<br />
+{{||$:/twiki/working-group/Standards}}<br />
+
+<table>
+<$macrocall $name="linkrow" title="IPR" value={{!!ipr}} field="ipr" />
+<$macrocall $name="linkrow" title="Purpose" value={{!!purpose}} field="purpose" />
+<$macrocall $name="linkrow" title="Status" value={{!!status}} field="status" />
+<$macrocall $name="linkrow" title="Meeting Frequency" value={{!!meeting.frequency}} field="meeting.frequency" />
+<$macrocall $name="linkrow" title="Tech Focus" value={{!!tech.focus}} field="tech.focus" />
+</table>

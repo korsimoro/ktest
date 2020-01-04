@@ -8,5 +8,5 @@ type: text/vnd.tiddlywiki
 <$setvars
 _title = {{!!title}}
 mapname="title \-map\">
-<$tmap view=<<mapname>>  ></$tmap>
+<$tmap view=<<mapname>> editor="advanced"  ></$tmap>
 </$setvars>

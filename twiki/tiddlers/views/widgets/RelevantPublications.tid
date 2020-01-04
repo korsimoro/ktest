@@ -1,8 +1,12 @@
 created: 20191220073710137
-modified: 20191220073710137
-title: ProductsAndServices
-tmap.id: 0af4a126-08aa-49ce-956f-476f128acd01
+modified: 20200103223125163
+title: RelevantPublications
+tmap.id: e3823011-2fc6-4903-a9e2-4138664c1293
 type: text/vnd.tiddlywiki
 
-Relevant Publications
-{{!!relevant.publications}}
+<$reveal type="match" state="!!relevant.publications" text="">
+    No Relevant Publications
+</$reveal>
+<$reveal type="nomatch" state="!!relevant.publications" text="">
+  Relevant Publications: {{!!relevant.publications}}
+</$reveal>

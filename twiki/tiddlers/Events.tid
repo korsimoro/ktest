@@ -1,0 +1,24 @@
+created: 20191201134710530
+modified: 20200104034509136
+tags:
+title: Events
+tmap.id: 609979e5-67d5-450c-b332-97933dfb66b6
+type: text/vnd.tiddlywiki
+
+<h3>Complete Table Of Events</h3>
+
+<table>
+<tr>
+<th>Event</th>
+<th>Category</th>
+<th>Parent Org</th>
+</tr>
+
+<$list filter="[all[]field:element.type[event]sort[title]sort[category]sort[parent.org]]">
+<tr>
+<td><$link>{{!!title}}</$link></td>
+<td><$link>{{!!category}}</$link></td>
+<td><$link>{{!!parent.org}}</$link></td>
+</tr>
+</$list>
+</table>

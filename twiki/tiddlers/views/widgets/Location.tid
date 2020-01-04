@@ -1,0 +1,9 @@
+created: 20191220073710137
+modified: 20200103225619925
+title: Location
+tmap.id: 7c556218-89e4-4353-a38d-45dc70828847
+type: text/vnd.tiddlywiki
+
+<$reveal type="nomatch" text="" value="!!location(s)" >
+Located in {{!!location(s)}}<br />
+</$reveal>

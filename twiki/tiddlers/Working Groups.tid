@@ -1,0 +1,29 @@
+created: 20191201134710530
+modified: 20200104024644853
+tags:
+title: Working Groups
+tmap.id: 6853479b-0a37-48d9-b5ad-3c2344b0634a
+type: text/vnd.tiddlywiki
+
+<h3>Complete Table Of Working Groups</h3>
+
+<table>
+<tr>
+<th>Working Group</th>
+<th>Category</th>
+<th>Parent Org</th>
+</tr>
+
+<$list filter="[all[]field:element.type[working-group]sort[title]sort[category]sort[parent.org]]">
+<tr>
+<td><$link>{{!!title}}</$link></td>
+<td><$select field="category">
+<$list filter="[all[]field:element.type[working-group]each[category]get[category]sort[title]]" variable="field">
+<option><<field>></option>
+</$list>
+</$select>
+</td>
+<td><$link>{{!!parent.org}}</$link></td>
+</tr>
+</$list>
+</table>

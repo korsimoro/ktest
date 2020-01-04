@@ -1,9 +1,0 @@
-x-list-before: $:/core/ui/ViewTemplate/body
-x-tags: $:/tags/ViewTemplate
-title: $:/twiki/WorkingGroup/Viewer
-type: text/vnd.tiddlywiki
-
-Working Group Viewer
-<$reveal type="match" default={{!!category}} text="TO BE DETERMINED">
-{{||$:/twiki/Event/TBD}}
-</$reveal>

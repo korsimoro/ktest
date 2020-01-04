@@ -1,14 +1,29 @@
-x-list-before: $:/core/ui/ViewTemplate/body
-x-tags: $:/tags/ViewTemplate
-title: $:/twiki/Event
+title: $:/twiki/event/Viewer
 type: text/vnd.tiddlywiki
 
 
-<$macrocall $name="editsubtype" label="Event Category" elementtype="event" subtypefield="category" />
+<$reveal state={{!!host.organization}} type="nomatch" text="">
+<h3>Host Organization <$link to={{!!host.organization}}>{{!!host.organization}}</$link></h3>
+</$reveal>
 
-<$reveal type="match" default={{!!category}} text="TO BE DETERMINED">
-{{||$:/twiki/Event/TBD}}
-</$reveal>
-<$reveal type="match" default={{!!category}} text="to-be-determined">
-{{||$:/twiki/Event/TBD}}
-</$reveal>
+<h3>
+Category:<$select field=category>
+<$list filter="[all[]each[category]get[category]sort[title]]" variable="type" >
+<option><<type>></option>
+</$list>
+</$select>
+</h3>
+
+{{||Location}}
+{{||$:/twiki/event/Date}}<br />
+{{||$:/twiki/event/People}}<br />
+{{||$:/twiki/event/Social}}
+{{||RelevantPublications}}<br />
+
+
+
+<table>
+<$macrocall $name="linkrow" title="Audience" value={{!!audience}} field="audience" />
+<$macrocall $name="linkrow" title="Partners" value={{!!partners}} field="partners" />
+<$macrocall $name="linkrow" title="Frequency" value={{!!frequency}} field="frequency" />
+</table>
