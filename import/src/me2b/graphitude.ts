@@ -27,16 +27,16 @@ function linkorg(type:string,field:string,relation:string,ctx:Context,mapnames:s
 }
 
 export function linkProductsAndProjectsToOrganizations(ctx:Context) {
-  linkorg("project-or-product","parent.org","Provides",ctx,['pop-to-orgs','all-organizations'])
+  linkorg("project-or-product","parent.org","Organization Supports Project or Product",ctx,[])
 }
 export function linkPublicationsToOrganizations(ctx:Context) {
-  linkorg("publication","sponsoring.org","Published",ctx,['pubs-to-orgs','all-organizations'])
+  linkorg("publication","sponsoring.org","Published",ctx,[])
 }
 export function linkWorkingGroupsToOrganizations(ctx:Context) {
-  linkorg("working-group","parent.org","Sponsors",ctx,['wg-to-orgs','all-organizations'])
+  linkorg("working-group","parent.org","Sponsors",ctx,[])
 }
 export function linkOrganizationsToOrganizations(ctx:Context) {
-  linkorg("organization","parent.org","Sponsors",ctx,['orgs-to-orgs','all-organizations'])
+  linkorg("organization","parent.org","Sponsors",ctx,[])
 }
 export function linkOrganizationsToPeople(ctx:Context) {
 }

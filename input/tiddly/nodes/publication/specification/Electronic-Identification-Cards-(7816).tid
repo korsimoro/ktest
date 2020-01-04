@@ -1,5 +1,5 @@
-created:1578144511956
-modified:1578144511956
+created:1578148362570
+modified:1578148362570
 title:Electronic Identification Cards (7816)
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Integrated Circuit Cards with Contacts WG4
 tags:
 tech.focus:
-tmap.edges:{"5fa126a6-acd4-48ea-aeaa-1c17f0c5ebc5":{"to":"2b433301-af3a-43c7-b3d1-ba056d8c99f8","type":"specification-of-group"}}
-tmap.id:c117121e-678d-4565-8e25-bb4e0c37e310
+tmap.edges:{"af3ba9ca-2094-4e83-b752-3d91c438a797":{"to":"7fa1b985-1c2b-4e86-9e82-e20e1395de01","type":"specification-of-group"}}
+tmap.id:f4327f55-9d11-41da-a74a-b5f8a4e69d7f
 url:
 version.or.edition:
 volume.frequency:

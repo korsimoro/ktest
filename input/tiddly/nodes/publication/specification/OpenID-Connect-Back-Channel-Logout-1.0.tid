@@ -1,5 +1,5 @@
-created:1578144511378
-modified:1578144511378
+created:1578148361833
+modified:1578148361833
 title:OpenID Connect Back-Channel Logout 1.0
 type:text/vnd.tiddlywiki
 audience:
@@ -18,7 +18,7 @@ sponsoring.org:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:4ad6a59f-8923-4f9a-91d0-1c83760dacd4
+tmap.id:705e52b9-5da7-4e1c-a16e-e076be6dcc4b
 url:http://openid.net/specs/openid-connect-backchannel-1_0.html
 version.or.edition:
 volume.frequency:

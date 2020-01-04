@@ -1,5 +1,5 @@
-created:1578144513994
-modified:1578144513994
+created:1578148364634
+modified:1578148364634
 title:Nat Sakimura
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Nat Sakimura
 organization:
 tags:
-tmap.edges:{"d19a52be-dd40-4a40-a1a6-0be087f09db7":{"to":"5ccc9314-efe3-4276-a064-a0c30807a11c","type":"author"},"2ca79f83-052f-4f40-a761-061c1497737c":{"to":"f47882b3-5c77-40d8-b721-3b1ecd496a04","type":"author"},"bbb6930d-0f40-4f4b-9571-9139a375932a":{"to":"81b6fe6c-088c-489f-b331-5879548be846","type":"vice-chair"},"0b9abf7a-d3ca-4f23-ab47-ee2eab9aa644":{"to":"5e164e4d-53af-4d1b-8fd3-bc891aa75fd6","type":"employee"},"aadb1d0a-c6c4-4c9d-94cf-45270f536bbb":{"to":"179bca30-dfd4-45e2-96b9-0282926a1142","type":"author"},"b65d3a33-fb0f-43dc-84a3-c3cef6935748":{"to":"ac748a50-eebe-48fd-aa74-60e759a4d0d8","type":"author"},"e1a4b15c-7ab4-40bd-8a36-24e5e78a6fd2":{"to":"41b2ca20-2869-41a1-b885-095b41860556","type":"author"}}
-tmap.id:e267d932-a8c3-4f57-9740-101c197f63b5
+tmap.edges:{"941c358e-7184-4c0c-97f0-08f716830252":{"to":"fb68506b-a735-45d9-81f7-ebeb3a9d09e0","type":"author"},"85cd6922-7e98-4935-800f-e9f5e677ba12":{"to":"3c0d8c29-3555-4805-8ce8-2a73d90d7199","type":"author"},"4ad3f3ea-d513-4d61-a1b0-831b7dee8628":{"to":"e096f998-f8be-4790-afe0-5c03ea246909","type":"vice-chair"},"f02ffbe2-ab07-4242-9199-58bd20648d70":{"to":"430f9fcf-e6d9-4e2e-a09f-3480e3eb63a6","type":"employee"},"8b869ef9-efef-426b-b713-0b423f0caa74":{"to":"9f6bbc60-dc52-4248-a3f0-04608ba53703","type":"author"},"13050a7b-1646-4fa0-99db-990549baa099":{"to":"cbb5442e-aa2b-49d0-8b46-72af506d6bf6","type":"author"},"e3381c51-db1d-46fa-8b21-5fc6f0eb82f8":{"to":"f1b62d0f-92cd-41a4-bdbb-e6958c0f522c","type":"author"}}
+tmap.id:7eb6c992-e717-452c-b5ae-9958bd629fc0
 twitter.profile:
 website:https://nat.sakimura.org
 working.group:

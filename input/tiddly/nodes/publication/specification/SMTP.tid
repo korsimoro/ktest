@@ -1,5 +1,5 @@
-created:1578144511638
-modified:1578144511638
+created:1578148362169
+modified:1578148362169
 title:SMTP
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"66aff6b0-ae7d-434d-93f0-a14b4186ffa5":{"to":"b23a3ece-f3df-4f49-86a5-eed50604aeea","type":"organization-for-group"}}
-tmap.id:aa85e7b4-9361-4c5c-83d1-bb3c077fde32
+tmap.edges:{"c0c52cfe-f863-41ef-b6cc-b7e00d9caa5a":{"to":"4c9995fa-2338-41ed-b5ae-935da1610135","type":"organization-for-group"}}
+tmap.id:3674371d-62e2-4cff-9c61-66d3524c4db1
 url:https://tools.ietf.org/html/rfc5321
 version.or.edition:
 volume.frequency:

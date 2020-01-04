@@ -1,5 +1,5 @@
-created:1578144511334
-modified:1578144511334
+created:1578148361789
+modified:1578148361789
 title:OpenID Connect Discovery 1.0
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"0d0281c6-faac-4314-aa59-987c630f9f75":{"to":"c41a3ab4-9d57-4914-bcb7-3a44feb6caa8","type":"specification-of-group"}}
-tmap.id:ac748a50-eebe-48fd-aa74-60e759a4d0d8
+tmap.edges:{"d9e03edf-90d6-42c3-b3bc-f0f67630d044":{"to":"6f702bb6-7a90-4d2e-804b-a66b079bc4f1","type":"specification-of-group"}}
+tmap.id:cbb5442e-aa2b-49d0-8b46-72af506d6bf6
 url:http://openid.net/specs/openid-connect-discovery-1_0.html
 version.or.edition:
 volume.frequency:

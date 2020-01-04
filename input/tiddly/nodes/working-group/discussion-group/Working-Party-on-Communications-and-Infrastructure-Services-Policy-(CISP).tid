@@ -1,5 +1,5 @@
-created:1578144516826
-modified:1578144516826
+created:1578148367412
+modified:1578148367412
 title:Working Party on Communications and Infrastructure Services Policy (CISP)
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"000240b9-5d18-4f38-898d-b4af3c4b0644":{"to":"abde9f39-eced-47d0-ba4f-a5ab2a2c6ea4","type":"convenor"},"4a7a6155-ad86-419a-917a-8c2bb7d631db":{"to":"94916f99-ceae-49cb-a00c-ab6290c5e4d1","type":"specification-of-group"}}
-tmap.id:321e6744-43b0-4d2a-b82e-fa958ed405ed
+tmap.edges:{"0ad3c430-0b71-414d-b746-5660266cfa0c":{"to":"2f048fbf-24ce-45ee-afb8-25f34dff0cfd","type":"convenor"},"30df446f-e14a-45b9-adff-f0e85ce485ff":{"to":"c4f86413-2327-4bd4-80d3-72d75622f18f","type":"specification-of-group"}}
+tmap.id:b345c13a-9c6d-4e2e-91d7-c29d23d6a340
 url:
 
 

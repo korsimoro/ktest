@@ -53,6 +53,15 @@ export const mappers:any = {
     return mapper
   },
   tagArray(colName:string) {
+    function trimit(x:string) {
+      var y=x.trim().toLowerCase()
+      if(y.endsWith("."))
+        y = y.substring(0, y.length - 1);
+      if(y.endsWith(";"))
+        y = y.substring(0, y.length - 1);
+      return y
+    }
+
     function mapper(elt:KumuElement|Me2BElement,schema:SchemaPropertyDef):Set<string> {
       const colname = elt.model.slugify(colName)
       const tagdata = (elt.slugmap[colname] || '').trim()
@@ -60,7 +69,7 @@ export const mappers:any = {
       if(tagdata) {
         const t = tagdata.split("\n").join(":").split(",").join(":").split(":")
         for(let a of t)
-          tags.add("[["+a.trim()+"]]")
+          tags.add("[["+trimit(a)+"]]")
       }
       console.log("TAG-ARRAY",elt.type,"/",colname,":",tags)
       return tags

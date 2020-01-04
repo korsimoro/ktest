@@ -1,5 +1,5 @@
-created:1578144514130
-modified:1578144514130
+created:1578148364715
+modified:1578148364715
 title:B. Hjelm
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:B. Hjelm
 organization:
 tags:
-tmap.edges:{"f8cc4181-2299-4639-883f-ad60627f2aa2":{"to":"738dac8b-1b9a-4ad0-9c99-91217f734674","type":"author"},"80bdcb88-c0aa-4d14-bfc2-bb3089c772ec":{"to":"6380a14f-0121-45ad-b95e-f6f486a285bf","type":"employee"}}
-tmap.id:18885e6a-bf95-4068-a7cf-7ca5f19dc64d
+tmap.edges:{"b6a60979-1a36-4582-a8b6-083ea1f08296":{"to":"58286a3c-5a1b-4093-96f0-bb056be52fcf","type":"author"},"ce9a1605-7361-4098-a337-ef061c737b72":{"to":"91f471ae-d3c2-4f02-9444-2177e47af16f","type":"employee"}}
+tmap.id:50893e22-82ae-4bfd-97e6-804bd8ce8fda
 twitter.profile:
 website:
 working.group:

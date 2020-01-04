@@ -1,5 +1,5 @@
-created:1578144514325
-modified:1578144514325
+created:1578148364860
+modified:1578148364860
 title:Justin Richer
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Justin Richer
 organization:
 tags:
-tmap.edges:{"1a87dd97-b0ac-44d1-b86e-89e48ad8a79c":{"to":"79e0925d-1f94-4fb3-aa4b-558aa52acace","type":"author"},"2c5f724e-f1c7-4ab0-a140-56da8b4ef64c":{"to":"02d1beb9-6a24-43bb-8b59-448f033caa2e","type":"author"},"e8d9d2e3-a6ae-4daa-ab8d-9c43d5bc3150":{"to":"da3743dd-9333-4bce-82ba-fe4889ab889c","type":"author"},"4ac26ce0-ee82-4bec-8cd1-24d8871bae12":{"to":"1a7a48ca-e01d-4232-ac42-d8dab13b5361","type":"author"},"d9f157a5-4b79-441b-9ae4-847fdd627d98":{"to":"ae522e86-617a-4f99-8ac5-f4c6150fce83","type":"author"},"848b129f-2746-48cc-8f66-d5f4c7d64409":{"to":"0b8239d5-d437-472a-ae8c-c2023b8e82fc","type":"author"},"93c95494-4574-40af-bc70-2ea804ba78bc":{"to":"ecb6ddc1-dd48-4b8b-97c7-889397013d57","type":"author"}}
-tmap.id:8d22fe4f-16b4-4630-8d8d-8860108db604
+tmap.edges:{"100056e6-6c2c-450f-bd6e-fe2208940dcb":{"to":"785bcbca-505a-4663-a01a-1a9b5bebe850","type":"author"},"a905cdb0-f25d-4baa-9d91-a1c3975e0dfb":{"to":"3895ab8a-6bca-4670-81b2-415f18e10ea1","type":"author"},"dfa68fee-db7e-4a71-963b-ea14b6160c79":{"to":"b543e943-fe56-418b-a04a-a27a4c6f4d4c","type":"author"},"65c97355-dc91-4ae3-92d5-8c7f4c2fada4":{"to":"2986fa79-67b9-46e8-b4a7-7b1ea8137ce2","type":"author"},"e8456827-f25b-4f27-9b28-4a00ce62f003":{"to":"c0e8f5ba-703a-48aa-aca2-f166be3ba8ef","type":"author"},"8e732d2d-ba09-490c-9194-f26d12148a57":{"to":"38365db1-ab5f-43bf-92ab-a1fceb1ce4c2","type":"author"},"af33190f-2477-4fd1-958d-0ca86ce8fe17":{"to":"c2826046-22b6-45f1-9c11-f0491cd9ed60","type":"author"}}
+tmap.id:61818123-69f6-4562-a204-9ad421d8584d
 twitter.profile:
 website:http://justin.richer.org/
 working.group:

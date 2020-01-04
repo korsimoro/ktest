@@ -1,5 +1,5 @@
-created:1578144514038
-modified:1578144514038
+created:1578148364655
+modified:1578148364655
 title:Dick Hardt
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Dick Hardt
 organization:
 tags:
-tmap.edges:{"e1a3b83d-aa83-4340-acdc-8aa5f0895030":{"to":"4dd26392-1070-4d90-bfca-bdac3896c5ab","type":"vice-chair"},"6e2fc7ae-2c94-45b1-b89e-b65c14f0d783":{"to":"062cee0f-911c-4d3e-a7c1-2416226399db","type":"employee"}}
-tmap.id:02697d33-3e8d-4067-a9fe-e1e28402973c
+tmap.edges:{"1f911c2e-3cb9-47fd-a748-e9d65c222afc":{"to":"12ab67cb-ebd9-4479-b083-c40204f94fde","type":"vice-chair"},"70785c60-0d8c-480c-8b89-4156a1dcaa05":{"to":"d01a2ce4-c967-4ec7-8b3c-2fb66136a1b6","type":"employee"}}
+tmap.id:555a9b17-bd72-49d2-8a48-4f55f16adbce
 twitter.profile:
 website:
 working.group:

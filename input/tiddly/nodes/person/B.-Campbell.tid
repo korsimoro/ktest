@@ -1,5 +1,5 @@
-created:1578144513822
-modified:1578144513822
+created:1578148364516
+modified:1578148364516
 title:B. Campbell
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:B. Campbell
 organization:
 tags:
-tmap.edges:{"02b50bf8-d2ee-48ab-94fc-c480dc5421e2":{"to":"ed2173e1-67ab-4f51-9ed5-5151180a8bf2","type":"author"},"6ddf0867-3c6c-4a58-a13e-2c0abcd510de":{"to":"cd0c8fab-8d20-476f-908c-7735d3ba2202","type":"author"},"a3bdfa60-402b-40b0-908f-2b0d7be5818d":{"to":"32234598-a8ff-461f-a6d1-0f95b4f05f5e","type":"employee"},"1766cd4e-1c7f-4228-ab13-3791c0ddfda0":{"to":"fdae5732-08c0-4fcc-90cf-364c5cc478a9","type":"author"}}
-tmap.id:72bfc222-3a1b-4a37-bbcb-05d1ab6834d3
+tmap.edges:{"e74368a9-835d-4426-ac8a-3f6b3a2fb2ee":{"to":"cb49efa8-81f9-4c7d-b1ba-f6d09d775691","type":"author"},"72b49aa3-fe40-4d10-8320-e7c447791307":{"to":"9888bdde-162c-4fa6-bcc3-ed7062715273","type":"author"},"e92e8e2a-98d3-4e98-adc2-f1faecbcc663":{"to":"08b18f2e-95e5-4887-ba90-e276c2400002","type":"employee"},"c9b343f7-69fe-49b1-a331-6fba97e8f0d5":{"to":"b5b8c375-b953-4424-a66d-2731f458d0d8","type":"author"}}
+tmap.id:4c4d93b5-3a73-46c5-a972-bb601b7095ec
 twitter.profile:
 website:
 working.group:

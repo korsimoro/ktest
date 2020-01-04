@@ -1,5 +1,5 @@
-created:1578144510708
-modified:1578144510708
+created:1578148361064
+modified:1578148361064
 title:OAuth WG
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"a0eb6e67-129d-4eeb-8344-6c99e673ea0f":{"to":"1acafb28-45a2-4b96-bc2a-dd7e25b4fdd0","type":"organization-for-group"}}
-tmap.id:6582560b-d94d-4165-8556-4e9e1b60c71b
+tmap.edges:{"e0689f72-8bf1-4f11-b8e9-8482ed27b2c4":{"to":"ebb2a9b4-5eec-4175-a6a5-0170012b88fa","type":"organization-for-group"}}
+tmap.id:bcf7c2e8-576b-4269-976b-aed5ef3c1e8d
 url:http://oauth.net/
 
 https://datatracker.ietf.org/doc/rfc6749/

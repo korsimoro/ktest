@@ -1,5 +1,5 @@
-created:1578144511755
-modified:1578144511755
+created:1578148362257
+modified:1578148362257
 title:Identification cards – Machine readable travel documents – Part 1: Machine readable passport
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Machine Readable Travel Documents WG3
 tags:
 tech.focus:
-tmap.edges:{"6e70b055-a0ec-460c-8a84-0ddab04e9da1":{"to":"22c877ca-0215-4cbb-967a-0c94f8935869","type":"specification-of-group"}}
-tmap.id:c4cfec4d-8c79-47ca-a71c-e8e1dccad012
+tmap.edges:{"0d8a438d-3933-41b0-bbe3-ffa3d6642865":{"to":"c230a1d8-1769-465e-802a-17baa6063705","type":"specification-of-group"}}
+tmap.id:f2615dd9-0934-4c19-b212-d57907fb40c4
 url:
 version.or.edition:
 volume.frequency:

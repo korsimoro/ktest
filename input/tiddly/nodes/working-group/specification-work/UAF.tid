@@ -1,5 +1,5 @@
-created:1578144510702
-modified:1578144510702
+created:1578148361061
+modified:1578148361061
 title:UAF
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"527eb8c0-325e-46e8-80a4-e3de0014b7ce":{"to":"633ef636-7251-4042-bdc9-c73134de56ec","type":"organization-for-group"}}
-tmap.id:414c60fb-f662-479d-827f-044e38bd4a61
+tmap.edges:{"248d3d30-f726-40c9-8c1d-ada1ce5c6af7":{"to":"124cedfa-3977-41fd-8cec-a188b1d2196a","type":"organization-for-group"}}
+tmap.id:22e76c58-f1d3-4f9a-9197-a306224b326f
 url:
 
 Passwordless UX (UAF)

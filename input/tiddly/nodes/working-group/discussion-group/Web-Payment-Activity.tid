@@ -1,5 +1,5 @@
-created:1578144516819
-modified:1578144516819
+created:1578148367398
+modified:1578148367398
 title:Web Payment Activity
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"a47607f3-64b2-4c38-ac95-e08aba5bbbc4":{"to":"6e6fae1a-76bc-4e5b-b0c1-2d8c034dd83b","type":"organization-for-group"}}
-tmap.id:f6a8f85b-a9ea-4871-9c1a-63b7f1439e49
+tmap.edges:{"80d00a10-063d-47e7-89c5-a6667dd46245":{"to":"67d9f1fc-12b0-44f5-89d6-308aa1ce8afd","type":"organization-for-group"}}
+tmap.id:565b7ac3-b55b-497f-8bf9-1df4d4688760
 url:http://www.w3.org/Payments/
 
 Payment is an essential element of trade and commerce, and "digital interactions are expected to influence 64 cents of every dollar spent in retail stores by the end of 2015. However, behind these impressive numbers, the payment landscape is quickly changing, and new challenges are appearing. For instance, the average shopping cart abandonment rate is 69% across all devices, and even higher on mobile. A variety of factors are limiting the potential of ecommerce, from the high level fraud related to credit card payments, to the fragmentation of payment solutions available on the Web but not available on all merchant sites or on all devices.

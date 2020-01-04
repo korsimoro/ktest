@@ -1,5 +1,5 @@
-created:1578144511509
-modified:1578144511509
+created:1578148362014
+modified:1578148362014
 title:DoNotTrack.Us
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Center for Internet and Society
 tags:
 tech.focus:
-tmap.edges:{"c6459b09-61c7-427e-ab28-fe9ef7d28a56":{"to":"da983ed3-e557-4952-9bdb-1690db2c1951","type":"work"},"b82c6a76-ec3d-4e3c-a503-c87732ddbc1d":{"to":"e4b4ee87-44b9-4a11-8fdc-74d2ed24c725","type":"work"},"d2811595-aab2-4cc9-aa4f-2444c487e852":{"to":"7ff0d38a-6fda-4bda-8c50-d77ccf88cf54","type":"work"},"2e2ac32e-8c14-44e8-96f9-77894bf6e5aa":{"to":"5f1a3792-5726-4d95-84fd-c5b1758b11c6","type":"specification-of-group"},"d6980eff-43e6-4f73-94a3-5408e215f906":{"to":"b71a188e-2ce1-4eb5-b9fc-1eb78b57a19c","type":"work"}}
-tmap.id:4a5b4485-0902-4793-9581-c7c5c238bc89
+tmap.edges:{"d63520da-0259-4920-8084-13740c32360b":{"to":"0a827e35-6011-4d3c-8d09-fb278aaebf37","type":"work"},"299390c8-cbe6-4b78-b309-33a11bd8de9a":{"to":"1f5945c3-49da-481b-a5b5-0c9f806261d9","type":"work"},"ef7c3763-74ef-438e-958d-061b8d796e23":{"to":"110a74e8-e6fa-4a8e-8be9-172c01ac63fb","type":"work"},"b378b0cc-105b-4e9d-b017-468da3380593":{"to":"16b58ec3-da07-4614-bf8a-88160355eb80","type":"specification-of-group"},"af693a40-5e77-4519-9dc8-6f11589d1046":{"to":"1000e7fb-0a4f-4c78-9e15-06db21d166f4","type":"work"}}
+tmap.id:bcb34c29-7217-4f03-9dae-3b0a2f225764
 url:
 version.or.edition:
 volume.frequency:

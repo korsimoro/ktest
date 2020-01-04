@@ -1,5 +1,5 @@
-created:1578144514229
-modified:1578144514229
+created:1578148364796
+modified:1578148364796
 title:Chuck Mortimore
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Chuck Mortimore
 organization:
 tags:
-tmap.edges:{"0eb34bda-6df3-43b6-b833-3da4ed34a7ab":{"to":"6227172b-8fb5-416b-878f-d4db34c1a408","type":"author"},"474dfeb1-ebcf-4418-a73f-8c5c86ea7f66":{"to":"41b2ca20-2869-41a1-b885-095b41860556","type":"author"},"deb8e6b7-1f7d-46e8-8532-be25dd8202f9":{"to":"968f2418-f4f1-4f63-b6a1-bf09f40cd77f","type":"employee"}}
-tmap.id:9523033e-3137-4fdb-b658-b0c27bd11ae9
+tmap.edges:{"ec3e0827-6836-4fbf-9ac9-b87ef2c5f967":{"to":"4ded3af6-a8fb-4889-ac1c-648e78880c3b","type":"author"},"d92d1e3d-1e26-4181-bc2f-a420a3e0facf":{"to":"f1b62d0f-92cd-41a4-bdbb-e6958c0f522c","type":"author"},"81b487b5-6cf0-49e6-a41c-f0b806eb913c":{"to":"9cd5a06c-0a85-4629-a8f5-015f8da7b052","type":"employee"}}
+tmap.id:8ff3506d-7262-4241-8a7b-cde66fc7d93b
 twitter.profile:
 website:
 working.group:

@@ -1,5 +1,5 @@
-created:1578144514153
-modified:1578144514153
+created:1578148364730
+modified:1578148364730
 title:Don Thibeau
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Don Thibeau
 organization:
 tags:
-tmap.edges:{"bfdd72ee-3d4d-4f05-8bf1-5b04ceaf6200":{"to":"c1f44e9a-56ed-431f-8e0c-5015f61bd665","type":"person-affiliated"},"33c7a6aa-8e4e-49b6-86da-2e384fc46276":{"to":"99a7998e-a836-41a7-a480-a9839205c88d","type":"vice-chair"},"a5388d5a-faac-45c6-b36f-c6e8fc261c36":{"to":"8747a5c3-dca8-415f-9121-a743c4d6aa92","type":"vice-chair"}}
-tmap.id:d681aca4-55ad-43a9-be3d-a53894d10061
+tmap.edges:{"d6da8321-f786-4527-a690-c9e301db0081":{"to":"c7c696ed-4016-4683-85ad-0dbf9f0e72fc","type":"person-affiliated"},"fdc98998-6dc9-46ce-86a8-5c5e290f221c":{"to":"5f3dbe67-678c-48d5-84bc-fbadf7eb99d5","type":"vice-chair"},"ed81004e-8609-4307-b867-74ccf388c6f1":{"to":"2eb8a8bc-44e1-4fe4-981b-c938a25e64fa","type":"vice-chair"}}
+tmap.id:145f4a35-473b-4787-9b87-5b640f41b908
 twitter.profile:
 website:
 working.group:

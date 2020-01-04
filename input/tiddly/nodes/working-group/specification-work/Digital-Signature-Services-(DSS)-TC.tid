@@ -1,5 +1,5 @@
-created:1578144510762
-modified:1578144510762
+created:1578148361092
+modified:1578148361092
 title:Digital Signature Services (DSS) TC
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"15f326a9-6b66-41f8-959b-87a6fbe48655":{"to":"9650eb50-a149-4fc0-ab54-79240aad5182","type":"default"},"26b8d928-4d18-4215-a27a-49e9c21856b1":{"to":"a6dc239a-1140-4d02-b869-b70b8424e9c4","type":"organization-for-group"}}
-tmap.id:6a060d3a-af3b-4c06-9416-53bfa16d112e
+tmap.edges:{"7f0b4787-4537-4efb-b887-4b3cd7ef7f17":{"to":"d01dc929-2b58-4d00-8d6c-77c44351f80b","type":"default"},"e2a9b883-3e16-42b3-a9ee-544e9b11328f":{"to":"97b23a78-4989-4da7-8e4d-07036f56e97e","type":"organization-for-group"}}
+tmap.id:a1ff81a3-f253-4e79-a416-f0b3e58f344c
 url:https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=dss
 
 SS v1.0 has been now been fully ratified as OASIS Specifications.

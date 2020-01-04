@@ -1,5 +1,5 @@
-created:1578144510767
-modified:1578144510767
+created:1578148361093
+modified:1578148361093
 title:Consent and Information Sharing Working  Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"f7b57edd-9024-49ab-b567-ffd0e2ce15e6":{"to":"6f78bb68-4455-4f9b-9f6a-7ecfbe8d9200","type":"organization-for-group"}}
-tmap.id:9a687104-5e26-4bb9-9026-306cc15a8a7f
+tmap.edges:{"edc7f38c-4478-446a-bb1a-07cd7f53023f":{"to":"85707320-afa1-4863-bba7-ca56be17a410","type":"organization-for-group"}}
+tmap.id:5c8160d6-4177-4294-9965-b1de66c4c5a5
 url:https://kantarainitiative.org/confluence/display/infosharing/Home
 
 This group identifies and documents use cases and scenarios to illustrate the various sub-sets of user driven information, the benefits therein, and specify policy and technology enablers needed to enable this information to flow. Project VRM and other partner groups seek individual autonomy over personal information. Frameworks and tools enable personal data flow, to improve the relationship between demand and supply. When individuals are forced to sign organization-centric privacy policies / terms of use, limitations are naturally placed on personal information on both sides of the transaction. If these constraints were removed or rebalanced, individuals would more autonomous capabilities. We think this would lead to new, rich information flows - including actual demand data (as opposed to derived / predicted demand).
