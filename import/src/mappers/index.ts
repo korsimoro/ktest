@@ -54,13 +54,15 @@ export const mappers:any = {
   },
   tagArray(colName:string) {
     function mapper(elt:KumuElement|Me2BElement,schema:SchemaPropertyDef):Set<string> {
-      const tagdata = (elt.slugmap[elt.model.slugify(colName)] || '').trim()
+      const colname = elt.model.slugify(colName)
+      const tagdata = (elt.slugmap[colname] || '').trim()
       const tags = new Set<string>()
       if(tagdata) {
         const t = tagdata.split("\n").join(":").split(",").join(":").split(":")
         for(let a of t)
-          tags.add(a.trim())
+          tags.add("[["+a.trim()+"]]")
       }
+      console.log("TAG-ARRAY",elt.type,"/",colname,":",tags)
       return tags
     }
     return mapper
@@ -108,9 +110,14 @@ export const mappers:any = {
     return mapper
   },
   csv_value(column_name:string) {
-    function mapper(elt:Me2BElement,schema:SchemaPropertyDef):string {
-      const val = elt.slugmap[elt.model.slugify(column_name)] || ''
+    function mapper(elt:Me2BElement,schema:SchemaPropertyDef):string|string[] {
+      const colname = elt.model.slugify(column_name)
+      const val = elt.slugmap[colname] || ''
       //console.log("Running Mapper",me2b_slugify(column_name),val,Object.keys(elt.slugmap))
+      if(val)
+        console.log("CSV-VALUE",elt.type,elt.title,"/",colname,":",val)
+      else
+        console.log("CSV-EMPTY",colname)
       return val
     }
     return mapper

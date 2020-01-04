@@ -1,5 +1,5 @@
-created:1578052541921
-modified:1578052541921
+created:1578123160463
+modified:1578123160463
 title:Privacy Engineering
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"923a16bd-b1bc-4d88-bd84-1d72207c8118":{"to":"e0dad0e0-e5cb-4cdf-b6fa-49a0378fe3e0","type":"organization-for-group"}}
-tmap.id:dc9b31b3-4609-43eb-9694-41efcf9540c3
+tmap.edges:{"b65b6785-c987-4ee9-b52c-3659fec3e0b9":{"to":"d564f4ff-b185-4bf6-8aed-3c882385c9cb","type":"organization-for-group"}}
+tmap.id:c93a7972-401d-41c3-861d-3680d14762c3
 url:http://csrc.nist.gov/projects/privacy_engineering/
 
 Privacy is a challenging subject that spans a number of domains, including law, policy and technology. Unlike other fields such as safety risk management and cybersecurity, system designers and engineers currently lack well-characterized, reusable, standards-based tools and practices to understand and mitigate privacy risks and integrate appropriate privacy controls into information systems.

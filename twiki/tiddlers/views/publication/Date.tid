@@ -18,9 +18,10 @@ type: text/vnd.tiddlywiki
 </$reveal>
 
 <$reveal type="match" state="!!editing.dates" text="yes">
-  Edit the date
+  Publication Date:
+  <$edit-text field="date" placeholder={{$:/language/EditTemplate/Fields/Add/Value/Placeholder}} tabindex={{$:/config/EditTabIndex}}/>
   <$button setField="editing.dates" setTo="no">
   <$action-setfield $field="editing.dates" $value="no" />
-  Done
+  Save Date
   </$button>
 <$reveal>

@@ -23,11 +23,11 @@ export const inbound : any = {
   },
   "People" : {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('People')
+    "me2b": mappers.tagArray('People')
   },
   "Audience" : {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Audience')
+    "me2b": mappers.tagArray('Audience')
   },
   "Partners" : {
     "kumu": mappers.default(''),
@@ -51,7 +51,7 @@ export const inbound : any = {
   },
   "Location(s)": {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Location(s)')
+    "me2b": mappers.tagArray('Location(s)')
   },
   "Github Profile": {
     "kumu": mappers.default(''),

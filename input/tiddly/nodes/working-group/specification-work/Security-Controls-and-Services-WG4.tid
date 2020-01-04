@@ -1,5 +1,5 @@
-created:1578052541906
-modified:1578052541906
+created:1578123160444
+modified:1578123160444
 title:Security Controls and Services WG4
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"776319b3-38a0-447a-8be8-660dd645e32f":{"to":"3fb2805b-dbc6-49f4-acb5-73e3cca7b997","type":"organization-for-group"}}
-tmap.id:0c67d1fc-938e-4110-8d10-05e708400518
+tmap.edges:{"c62d7424-e095-4b9e-acc0-ebcfbe5a244b":{"to":"3480fdf7-19d5-4997-96d8-824389d6cc4a","type":"organization-for-group"}}
+tmap.id:211d4e26-61d8-46ef-91d7-2d8600430868
 url:
 
 The terms of reference of this working group are:

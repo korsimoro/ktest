@@ -6,10 +6,4 @@ title: WelcomeLocation
 tmap.id: d52da7bd-6e9c-4a78-8c46-6ec5ea57982d
 type: text/vnd.tiddlywiki
 
-Location<br />
-<$list filter="[tags:location(s)[]]" variable="dha">
-<<dha>><br />
-<$list filter="[tags:location(s)[<<dha>>]sort[title]]" >
-{{!!title}}<br />
-</$list>
-</$list>
+<$macrocall $name="taglist" tag="location(s)" />

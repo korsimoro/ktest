@@ -23,11 +23,11 @@ export const inbound : any = {
   },
   "Author(s)/Editor(s)" : {
     "kumu": mappers.publicationAuthors(),
-    "me2b": mappers.csv_value('Author(s)/Editor(s)')
+    "me2b": mappers.tagArray('Author(s)/Editor(s)')
   },
   "Audience" : {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Audience')
+    "me2b": mappers.tagArray('Audience')
   },
   "Working Group" : {
     "kumu": mappers.default(''),
@@ -39,7 +39,7 @@ export const inbound : any = {
   },
   "License" : {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('License')
+    "me2b": mappers.tagArray('License')
   },
   "Volume Frequency" : {
     "kumu": mappers.default(''),
@@ -63,15 +63,15 @@ export const inbound : any = {
   },
   "Digital Harms Addressed": {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Digital Harms Addressed')
+    "me2b": mappers.tagArray('Digital Harms Addressed')
   },
   "Tech Focus": {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Tech Focus')
+    "me2b": mappers.tagArray('Tech Focus')
   },
   "Jurisdiction": {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Jurisdiction')
+    "me2b": mappers.tagArray('Jurisdiction')
   },
   "Github Profile": {
     "kumu": mappers.default(''),

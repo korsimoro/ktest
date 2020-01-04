@@ -23,15 +23,15 @@ export const inbound : any = {
   },
   "People" : {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('People')
+    "me2b": mappers.tagArray('People')
   },
   "Audience" : {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Audience')
+    "me2b": mappers.tagArray('Audience')
   },
   "Partners" : {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Partners')
+    "me2b": mappers.tagArray('Partners')
   },
   "Working Group" : {
     "kumu": mappers.default(''),
@@ -43,7 +43,7 @@ export const inbound : any = {
   },
   "License" : {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('License')
+    "me2b": mappers.tagArray('License')
   },
   "Version or Edition" : {
     "kumu": mappers.default(''),
@@ -59,19 +59,19 @@ export const inbound : any = {
   },
   "Purpose": {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Purpose')
+    "me2b": mappers.tagArray('Purpose')
   },
   "Digital Harms Addressed": {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Digital Harms Addressed')
+    "me2b": mappers.tagArray('Digital Harms Addressed')
   },
   "Supported Identity Technologies" : {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Supported Identity Technologies')
+    "me2b": mappers.tagArray('Supported Identity Technologies')
   },
   "Activities" : {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Activities')
+    "me2b": mappers.tagArray('Activities')
   },
   "Status" : {
     "kumu": mappers.default(''),
@@ -79,7 +79,7 @@ export const inbound : any = {
   },
   "Me2B Participation" : {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Me2B Participation')
+    "me2b": mappers.tagArray('Me2B Participation')
   },
   "Terms of Service" : {
     "kumu": mappers.default(''),

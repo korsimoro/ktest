@@ -6,7 +6,4 @@ title: WelcomeDigitalHarms
 tmap.id: c4b065f4-0053-415e-a712-7cd6ac078358
 type: text/vnd.tiddlywiki
 
-Digital Harms
-<$list filter="[tags:digital.harms.addressed[]]" variable="dha">
-<<dha>>
-</$list>
+<$macrocall $name="taglist" tag="digital.harms.addressed" />

@@ -1,5 +1,5 @@
-created:1578052541919
-modified:1578052541919
+created:1578123160454
+modified:1578123160454
 title:CloudAuthZ Cloud Authorization TC
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"df51a548-125c-4640-98f6-9bda2d10b0e4":{"to":"579697b8-892f-4d51-90c9-f2d59a1fb931","type":"organization-for-group"}}
-tmap.id:13de529d-6d2b-456c-96c9-43fe1045c2e8
+tmap.edges:{"074908b9-edd1-49e2-b330-8c89dc0db14a":{"to":"b220cdd0-da75-4777-8fb8-3e43af38b9b9","type":"organization-for-group"}}
+tmap.id:0fd10824-1b7d-4f42-9982-7b5c90410542
 url:https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=cloudauthz
 
 The CloudAuthZ TC develops enhanced models for managing authorizations and entitlements in SaaS, PaaS, and IaaS contexts. CloudAuthZ enables contextual attributes and contextual entitlements sets to be delivered to Policy Enforcement Points in real time. With CloudAuthZ, authorization decisions can be informed by data such as where users are, what they are doing, which device they are using, etc.

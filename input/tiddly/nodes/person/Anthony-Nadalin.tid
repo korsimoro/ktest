@@ -1,5 +1,5 @@
-created:1578052541986
-modified:1578052541986
+created:1578123162330
+modified:1578123162330
 title:Anthony Nadalin
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Anthony Nadalin
 organization:
 tags:
-tmap.edges:{"6ae73398-7b67-4d58-8939-107f2daa915f":{"to":"48a70599-658c-4a28-9422-28a5b9fa65d6","type":"employee"},"45e0aefe-7911-4792-9d30-dd4880e9dd40":{"to":"56d845e7-cdf0-4061-bc60-64b9cb11f35a","type":"vice-chair"}}
-tmap.id:64c13c47-bfbc-4266-8f7f-547591b104eb
+tmap.edges:{"6d69057a-b4e1-4b09-9689-2284e878f9af":{"to":"5d6f4664-3570-4432-b01a-6f52ad6e046f","type":"employee"},"2dc0104b-fb50-4ea1-b68c-2f6969a2fecc":{"to":"dc8f4dee-8e0e-43cf-9a9a-22e10c609105","type":"vice-chair"}}
+tmap.id:855dcf75-1cc0-45b5-bb2b-3e91d2e4d40f
 twitter.profile:
 website:https://www.linkedin.com/in/anoop-saxena-5200641
 working.group:

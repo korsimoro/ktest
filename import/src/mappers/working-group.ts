@@ -24,7 +24,7 @@ export const inbound : any = {
   },
   "People" : {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('People')
+    "me2b": mappers.tagArray('People')
   },
   "Meeting Frequency" : {
     "kumu": mappers.default(''),
@@ -40,11 +40,11 @@ export const inbound : any = {
   },
   "Purpose": {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Purpose')
+    "me2b": mappers.tagArray('Purpose')
   },
   "Digital Harms Addressed": {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Digital Harms Addressed')
+    "me2b": mappers.tagArray('Digital Harms Addressed')
   },
   "Tech Focus": {
     "kumu": mappers.default(''),
@@ -52,7 +52,7 @@ export const inbound : any = {
   },
   "Activities" : {
     "kumu": mappers.default(''),
-    "me2b": mappers.csv_value('Activities')
+    "me2b": mappers.tagArray('Activities')
   },
   "Status" : {
     "kumu": mappers.default(''),

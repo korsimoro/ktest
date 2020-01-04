@@ -1,5 +1,5 @@
-created:1578052541940
-modified:1578052541940
+created:1578123160968
+modified:1578123160968
 title:OAuth Dynamic Client Registration Management (RFC7592)
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:OAuth WG
 tags:
 tech.focus:
-tmap.edges:{"be07cfef-ba30-4028-b650-6bc21ddd061e":{"to":"b6e3eaf6-3cf5-4387-baf5-d9b625cebab2","type":"specification-of-group"}}
-tmap.id:42c411f0-d04f-4241-992d-b98ff8d01689
+tmap.edges:{"e32fed92-e87d-477b-ab9c-a380be20c457":{"to":"49c3f947-796c-43ca-a922-24009ce50684","type":"specification-of-group"}}
+tmap.id:b851cc3d-b23c-4d42-a28d-3eca9f515b0d
 url:
 version.or.edition:
 volume.frequency:

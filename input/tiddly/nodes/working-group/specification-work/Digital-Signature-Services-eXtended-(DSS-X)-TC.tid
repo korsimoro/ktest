@@ -1,5 +1,5 @@
-created:1578052541910
-modified:1578052541910
+created:1578123160446
+modified:1578123160446
 title:Digital Signature Services eXtended (DSS-X) TC
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"2388f315-c3ff-46fb-8753-8f0f863ffd70":{"to":"579697b8-892f-4d51-90c9-f2d59a1fb931","type":"organization-for-group"}}
-tmap.id:8ae1e026-5d3c-4e16-b52e-6c4ba9a25782
+tmap.edges:{"dbfea880-3079-48dc-8c71-d3d451b63881":{"to":"b220cdd0-da75-4777-8fb8-3e43af38b9b9","type":"organization-for-group"}}
+tmap.id:d46e52f6-29d3-437c-9328-eecd6b58f4cf
 url:
 
 

@@ -1,5 +1,5 @@
-created:1578052541917
-modified:1578052541917
+created:1578123160452
+modified:1578123160452
 title:Web Payments Working Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"b5831637-8232-4087-81c5-b02b9242ff03":{"to":"a0b30081-e23f-4c42-a756-0a1a3a8d805d","type":"organization-for-group"}}
-tmap.id:73fe4b81-9bed-4ac0-97ce-93b5c0b6650b
+tmap.edges:{"02721713-9292-4107-abd6-332ddc04ec6e":{"to":"6efd791c-ac39-41b5-9a58-2d53ebda68b6","type":"organization-for-group"}}
+tmap.id:13af6dc4-b18b-4cd3-9576-08b8b1f421eb
 url:https://www.w3.org/Payments/WG/
 
 Payment is an essential element of trade and commerce, and "digital interactions are expected to influence 64 cents of every dollar spent in retail stores by the end of 2015. However, behind these impressive numbers, the payment landscape is quickly changing, and new challenges are appearing. For instance, the average shopping cart abandonment rate is 69% across all devices, and even higher on mobile. A variety of factors are limiting the potential of ecommerce, from the high level fraud related to credit card payments, to the fragmentation of payment solutions available on the Web but not available on all merchant sites or on all devices.

@@ -86,10 +86,10 @@ export class SimpleTiddler implements Tiddler
 	getFieldData(key:string):string {
 		const val = this.fields[key]
 		if(typeof(val) == "string")
-			return val
+			return val.trim()
 		else {
 			const vals = [] as string[]
-			val.forEach((v) => { vals.push(v) })
+			val.forEach((v) => { vals.push(v.trim()) })
 			return vals.join(" ")
 		}
 	}

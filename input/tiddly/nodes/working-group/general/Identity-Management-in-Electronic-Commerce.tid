@@ -1,5 +1,5 @@
-created:1578052541911
-modified:1578052541911
+created:1578123160447
+modified:1578123160447
 title:Identity Management in Electronic Commerce
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"3e99e94d-ec2c-47e2-bce2-cb3d3904f4e2":{"to":"3ae79396-2452-41e0-b8ca-0e27493da794","type":"organization-for-group"}}
-tmap.id:d1a1bc51-ceff-4398-a246-40ef9d7839e6
+tmap.edges:{"49606f29-3dbe-429a-a41e-9a506271062a":{"to":"ffaaf8c4-3d10-4f36-b2ed-fe0540638fff","type":"organization-for-group"}}
+tmap.id:6dc9a6ad-e8df-4c7f-9d6c-d0555e919355
 url:http://uniformlaws.org/Committee.aspx?title=Identity%20Management%20in%20Electronic%20Commerce
 
 

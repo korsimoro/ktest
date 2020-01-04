@@ -1,5 +1,5 @@
-created:1578052542071
-modified:1578052542071
+created:1578123164099
+modified:1578123164099
 title:Identity of Things Discussion Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"e746d774-432e-4a4b-99e5-bbc10a6a6427":{"to":"0d5a6a4d-4491-464b-841e-acf86d711d68","type":"organization-for-group"}}
-tmap.id:e4a02ee3-b5d3-4599-82d9-49e36a8f3c82
+tmap.edges:{"f879b56f-31b4-403d-b6ef-9b7c7d1078d2":{"to":"37a8be88-cfa3-4b64-9cfe-42ad89f4ec1e","type":"organization-for-group"}}
+tmap.id:5b2bdcaf-c9e5-4317-9511-eeffbb154cb8
 url:https://kantarainitiative.org/confluence/display/IDoT/Home
 
 Object IdM addresses the handling of identities of things (IDoT), goods and objects. The Internet of Things (IoT) is beginning to evolve and early solutions are now being implemented. In the context of IoT, some Object Identities are managed with proprietary solutions or niche standards that have not been mapped to each other nor interoperate. As a consequence, there is no overall framework how to recognize and manage identities across different solutions.

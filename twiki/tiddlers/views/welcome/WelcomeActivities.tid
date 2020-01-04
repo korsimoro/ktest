@@ -6,7 +6,4 @@ title: WelcomeActivities
 tmap.id: 8116b070-5527-4949-9ccb-95927b5c4323
 type: text/vnd.tiddlywiki
 
-Activities
-<$list filter="[tags:activities[]]" variable="dha">
-<<dha>>
-</$list>
+<$macrocall $name="taglist" tag="activities" />

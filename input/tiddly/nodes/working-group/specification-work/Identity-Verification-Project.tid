@@ -1,5 +1,5 @@
-created:1578052541918
-modified:1578052541918
+created:1578123160453
+modified:1578123160453
 title:Identity Verification Project
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"494743bb-7ce7-4695-87dc-d08ec7c74643":{"to":"3b4e930b-1967-44c1-96e4-8dbb8ee8faf4","type":"organization-for-group"}}
-tmap.id:129cea9a-2a8e-4bd4-ba49-1a4bdd02fed8
+tmap.edges:{"8bf4b2f2-8e30-4a87-96db-eadc25c2807b":{"to":"4db57459-675d-40b0-a606-d7164392deeb","type":"organization-for-group"}}
+tmap.id:924d43b7-e5a8-441d-ba18-811addf792c6
 url:http://www.naspo.info/naspo-idpv-project
 
 Developing minimum requirements for (a) Reconciling an asserted identity to a single individual (b) Proofing the asserted identity by verifying corroborative evidence and by looking for symptoms of fraud
