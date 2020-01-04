@@ -1,5 +1,5 @@
-created:1578148361066
-modified:1578148361066
+created:1578181489979
+modified:1578181489979
 title:Integrated Circuit Cards with Contacts WG4
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"6fc06e02-20c0-4dba-ad7e-8a82fd3d4809":{"to":"894ab835-fad2-4d58-b07a-df0c9fa4a16f","type":"organization-for-group"}}
-tmap.id:7fa1b985-1c2b-4e86-9e82-e20e1395de01
+tmap.edges:{"2657aadd-b0e0-420c-a2d1-9a6a88a687b2":{"to":"0ddabc5f-0674-4ccf-937c-cf721fba4fd7","type":"organization-for-group"}}
+tmap.id:6f58cfef-b29f-49fa-9b48-743afe3e8c79
 url:
 
 To define specifications related to the Integrated Circuits Card with Contacts within the area of SC17

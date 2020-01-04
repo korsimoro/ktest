@@ -1,5 +1,5 @@
-created:1578148364523
-modified:1578148364523
+created:1578181490354
+modified:1578181490354
 title:Josh Mandel
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Josh Mandel
 organization:
 tags:
-tmap.edges:{"3f558eaf-d4fe-4e53-bb68-a2e95a47bf42":{"to":"6ac52d11-d12b-49d3-8b00-3ff33341487d","type":"employee"},"02d5e921-2e64-48a8-bb81-50b88c36792b":{"to":"785bcbca-505a-4663-a01a-1a9b5bebe850","type":"author"}}
-tmap.id:76fd8424-1ed8-4f1c-986e-c6cd934c7296
+tmap.edges:{"c940eec8-446b-4fbf-89f2-b2c3bc6e84b1":{"to":"2429f13e-6747-46fb-ada6-f9535be6aee3","type":"employee"},"e7cd1b32-7870-415c-8aa5-22aaf0951e4a":{"to":"934ced6b-00d3-4517-9145-44fa24ae1456","type":"author"}}
+tmap.id:875e4207-1fb9-4560-bb95-fa3a0cdf0ed2
 twitter.profile:
 website:
 working.group:

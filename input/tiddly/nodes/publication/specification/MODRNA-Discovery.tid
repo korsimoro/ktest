@@ -1,5 +1,5 @@
-created:1578148362529
-modified:1578148362529
+created:1578181490141
+modified:1578181490141
 title:MODRNA Discovery
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:MONDRNA
 tags:
 tech.focus:
-tmap.edges:{"d477105c-1a84-437d-9da3-ec09b1db57ff":{"to":"f00d7bfb-79c6-4fe0-b2fd-8d1734ee96ec","type":"specification-of-group"}}
-tmap.id:1d469838-be5a-4808-8033-52831608f36a
+tmap.edges:{"60939704-aa3b-4928-874c-3f3307c4363f":{"to":"1cf66381-ea79-4033-8493-6781245db838","type":"specification-of-group"}}
+tmap.id:d1c6dfb0-84c5-423a-9cbe-f5354b63fb3a
 url:http://openid.net/wordpress-content/uploads/2014/04/draft-mobile-discovery-01.html
 version.or.edition:
 volume.frequency:

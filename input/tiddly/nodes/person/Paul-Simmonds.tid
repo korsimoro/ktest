@@ -1,5 +1,5 @@
-created:1578148364449
-modified:1578148364449
+created:1578181490345
+modified:1578181490345
 title:Paul Simmonds
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Paul Simmonds
 organization:
 tags:
-tmap.edges:{"9a2360ba-b621-4ab4-9325-65b0f8020083":{"to":"e49f9b6a-be78-4d1a-91ec-f8949dbe319b","type":"author"},"542d30bd-6a0a-4efb-ae8a-33e8378e09ca":{"to":"cae27061-ae7b-44c8-a5c6-c2a23a48dd8a","type":"executive-member"}}
-tmap.id:7d8e6fbe-e0ff-475f-96c4-748b35e252d5
+tmap.edges:{"8be85f00-d31c-4ec5-9d87-c11b068d8471":{"to":"70d2a7e9-816e-4cfb-aed3-579bf203bd55","type":"author"},"6232e2f7-6119-4320-8bf7-17c85f731a83":{"to":"9a60457c-d9b7-41f6-b2d1-6d00a24a0a2a","type":"executive-member"}}
+tmap.id:6a030212-4d91-4ba5-ae5c-27ef4cf92fff
 twitter.profile:
 website:
 working.group:

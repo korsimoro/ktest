@@ -1,6 +1,7 @@
 #!/bin/bash
 if tsc; then
-	#rm -rf output/*
+	rm -rf input/tiddly/maps/*
+	rm -rf input/tiddly/nodes/*
 	#./init.sh
 	./bin/convert
 	#./bin/pub-anal

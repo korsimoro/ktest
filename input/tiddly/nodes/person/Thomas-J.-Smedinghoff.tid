@@ -1,5 +1,5 @@
-created:1578148364708
-modified:1578148364708
+created:1578181490385
+modified:1578181490385
 title:Thomas J. Smedinghoff
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Thomas J. Smedinghoff
 organization:
 tags:
-tmap.edges:{"16a2457b-c5fe-4486-b77a-98de6c454200":{"to":"bfe3bf63-36be-45de-9500-78697fb02c99","type":"vice-chair"},"6128700e-7b6a-4ff6-b7d0-4ad691bcb7e3":{"to":"decdb8d7-0ad9-4a47-8dd6-b4ea3a982bce","type":"author"}}
-tmap.id:71f8b938-a6af-4fc0-8573-4b5007c5cd9f
+tmap.edges:{"067ad4f8-fbdf-4411-94ec-3a8808adb2c4":{"to":"6f2c694e-e560-4843-81ce-35a284dfaa6a","type":"vice-chair"},"31ac2a8c-4af8-4fde-8387-d6468b74da9c":{"to":"32338bd7-fd5d-4a3e-a992-04057b6f7d5c","type":"author"}}
+tmap.id:de4cb1b0-f611-4d0f-8b45-bb5536fdadca
 twitter.profile:
 website:
 working.group:

@@ -1,5 +1,5 @@
-created:1578148362643
-modified:1578148362643
+created:1578181490153
+modified:1578181490153
 title:Issuer Identification Numbers (IINs)/Application Provider Identifiers (RIDs)Identification cards – Machine readable travel documents – Part 3: Official travel documents
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Machine Readable Travel Documents WG3
 tags:
 tech.focus:
-tmap.edges:{"90b2abf5-653d-4bf4-ba6b-f73a3dab167d":{"to":"c230a1d8-1769-465e-802a-17baa6063705","type":"specification-of-group"}}
-tmap.id:8544e3a5-f453-4110-a25c-efaa1314c288
+tmap.edges:{"239ae43d-198a-415b-907c-5f4d7d8944ec":{"to":"1816fa98-4c74-4fa6-a7cd-2c5e918b49c5","type":"specification-of-group"}}
+tmap.id:4004dfdb-530a-4072-8015-80ab8d8d6e2f
 url:
 version.or.edition:
 volume.frequency:

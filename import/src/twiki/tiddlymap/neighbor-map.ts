@@ -23,6 +23,7 @@ export class NeighborMap implements TiddlyMap {
 	edgeFilterFile:string
 	nodeFilterFile:string
 
+	central_topic:string
 
 	constructor(elt:NodeTiddler,base:TiddlyModel) {
 		this.model = base
@@ -45,6 +46,7 @@ export class NeighborMap implements TiddlyMap {
 		this.layoutData = JSON.stringify(ld,null,3)
 
 		this.nodes.add(elt.guid)
+		this.central_topic=elt.guid
 		console.log("NOTES:",elt.guid,elt.title)
 		this.useExplicitNodeFilter()
 	}
@@ -112,9 +114,33 @@ export class NeighborMap implements TiddlyMap {
 	}
 
 	tiddlerdata():string {
+		const physics: {
+	    forceAtlas2Based: {
+	      // <- more repulsion between nodes - 0 - more attraction between nodes ->
+	      gravitationalConstant: -650, // default: -50
+	      // edge length
+	      springLength: 300, // default: 100
+	      // <- less stiff edges - 0 - stiffer edges ->
+	      springConstant: 0.8, // default: 0.08
+	      // pulls the entire network back to the center.
+	      centralGravity: 0.002, // default: 0.01
+	      // kinetic energy reduction
+	      damping: 0.4
+	    },
+	    solver: 'forceAtlas2Based',
+	    stabilization: {
+	      enabled: true,
+	      iterations: 25,
+	      updateInterval: 10,
+	      onlyDynamicEdges: false,
+	      fit: true
+	    }
+	  }
+
 		return ""+
 			"id:" + this.guid + "\n" +
-			"config.neighbourhood_directions: \n"+
+			"config.central-topic: "+ this.central_topic + "\n" +
+			"config.vis: "+JSON.stringify(physics) + "\n" +
 			"config.neighbourhood_scope: 2\n"+
 			"config.show_inter_neighbour_edges: true\n"+
 			"isview:" + false + "\n" +

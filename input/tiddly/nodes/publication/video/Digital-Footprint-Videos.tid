@@ -1,5 +1,5 @@
-created:1578148367398
-modified:1578148367398
+created:1578181490682
+modified:1578181490682
 title:Digital Footprint Videos
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Internet Society ISOC;Privacy and Identity
 tags:
 tech.focus:
-tmap.edges:{"1e5584b2-7843-41d2-b20c-e725dc8f23c0":{"to":"5220ba00-5299-4c0b-9668-8289ba340792","type":"specification-of-group"}}
-tmap.id:883d3202-3de8-4ad9-bc0d-a7bd87ee881b
+tmap.edges:{"eed66135-0df9-4b4f-a2a1-3c5349795a9d":{"to":"da5aedd0-7088-4079-9da7-066fc6a32772","type":"specification-of-group"}}
+tmap.id:df02133a-3da9-4a4e-8e6f-a9a659267968
 url:http://www.internetsociety.org/your-digital-footprint
 version.or.edition:
 volume.frequency:

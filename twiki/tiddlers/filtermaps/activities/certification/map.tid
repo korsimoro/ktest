@@ -1,7 +1,19 @@
 created: 20200104060214652
-modified: 20200104143740719
+modified: 20200104232901302
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/Activities - Certification/map
 type: text/vnd.tiddlywiki
 
 {
+ "37fe4451-efef-4bde-9ac2-e5555f6cc78a": {
+  "x": -25,
+  "y": -25
+ },
+ "c703c3ae-8a41-450e-85fd-a365ef0319cd": {
+  "x": -10,
+  "y": 34
+ },
+ "65aa0948-f4dc-4c86-a8c0-62fe42b4fdc7": {
+  "x": 34,
+  "y": -10
+ }
 }

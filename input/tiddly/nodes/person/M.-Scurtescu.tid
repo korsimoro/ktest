@@ -1,5 +1,5 @@
-created:1578148364892
-modified:1578148364892
+created:1578181490418
+modified:1578181490418
 title:M. Scurtescu
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:M. Scurtescu
 organization:
 tags:
-tmap.edges:{"34bf826a-12eb-436e-bc30-eb0337eafb65":{"to":"38ebc6fb-e81e-466e-bbf0-fd98f955f249","type":"author"},"5a0b9ec6-3f36-4c01-a77d-d50cbb92ff79":{"to":"6e275d51-60cd-4ab4-9f45-0ab68be5a530","type":"employee"}}
-tmap.id:504a9918-9bea-49eb-bc2a-69aa1b7e15c5
+tmap.edges:{"d035cee8-13db-4aae-833b-469b76e50d9e":{"to":"5c01ce4b-fd67-4199-9af9-954da29af415","type":"author"},"dd796a64-5b7f-446f-94f5-36c24b233825":{"to":"16183d26-0491-4f0f-9091-2b2e182c0da8","type":"employee"}}
+tmap.id:09688288-0039-4408-96bd-c7760a007872
 twitter.profile:
 website:
 working.group:

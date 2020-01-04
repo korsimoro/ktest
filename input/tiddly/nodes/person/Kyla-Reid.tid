@@ -1,5 +1,5 @@
-created:1578148364823
-modified:1578148364823
+created:1578181490403
+modified:1578181490403
 title:Kyla Reid
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Kyla Reid
 organization:
 tags:
-tmap.edges:{"0fa897f6-42d6-4ad4-8211-01cd3ae3b2ab":{"to":"a712cbee-18d4-42d2-83cb-8cc37251dc63","type":"vice-chair"},"b8cce3bc-2190-490d-b0e7-97578575533b":{"to":"a712cbee-18d4-42d2-83cb-8cc37251dc63","type":"employee"}}
-tmap.id:8990d644-f888-4a25-a4fc-06f0c6a5a971
+tmap.edges:{"7746041d-dce4-4d70-96b3-1ca6aa90fa93":{"to":"00c246dc-46ff-4b2a-8462-911158585048","type":"vice-chair"},"96aa31d9-85ee-4612-b40d-36eab89a0bce":{"to":"00c246dc-46ff-4b2a-8462-911158585048","type":"employee"}}
+tmap.id:cf6fb5b5-dc4c-4750-a075-edc56a71760c
 twitter.profile:
 website:
 working.group:

@@ -1,5 +1,5 @@
-created:1578148367412
-modified:1578148367412
+created:1578181490685
+modified:1578181490685
 title:Blockchain and Smart Contracts Discussion Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"8f785120-464e-477d-85d4-d8fbc92182b1":{"to":"85707320-afa1-4863-bba7-ca56be17a410","type":"organization-for-group"}}
-tmap.id:7d3f32ac-4a18-41a3-9e6f-b753fd620a2a
+tmap.edges:{"8c12d648-2ac2-40bb-937c-12450fefeaf2":{"to":"93ea5fd1-dac3-42d8-a562-488e5206e63f","type":"organization-for-group"}}
+tmap.id:9f458e50-20ba-4b46-a5e0-e32b21bf04c9
 url:https://kantarainitiative.org/confluence/display/BSC/Home
 
 This Kantara DG launched on July 5, 2016 and intends to meet for six months. It plans to deliver a report at the end of that time that offers recommendations and observations to Kantara regarding solving use cases for empowering traditionally disempowered parties (such as individuals) to "contract and transact" e.g. with parties that traditionally hold greater power (such as companies and large countries), given the new landscape of decentralization and distributed technologies and techniques and their mixture with identity.

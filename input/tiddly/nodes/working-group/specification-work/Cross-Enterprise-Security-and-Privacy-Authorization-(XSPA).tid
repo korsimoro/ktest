@@ -1,5 +1,5 @@
-created:1578148361063
-modified:1578148361063
+created:1578181489976
+modified:1578181489976
 title:Cross-Enterprise Security and Privacy Authorization (XSPA)
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"cf0fee3c-02f0-45ca-988c-dc2d477d7a2e":{"to":"97b23a78-4989-4da7-8e4d-07036f56e97e","type":"organization-for-group"}}
-tmap.id:622e093c-a687-4677-8846-f381ab6b64d8
+tmap.edges:{"36e46c40-3baf-4d27-b060-964b1f128e3e":{"to":"57810850-9036-4999-b9e5-3008b649f9c9","type":"organization-for-group"}}
+tmap.id:36ca7b39-9f2b-4a3a-b6a4-8c7ff3ad3e2f
 url:
 
 

@@ -1,5 +1,5 @@
-created:1578148367411
-modified:1578148367411
+created:1578181490684
+modified:1578181490684
 title:Web Security Interest Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"1d8d7c3d-aa51-40c6-95c6-32b84276b249":{"to":"67d9f1fc-12b0-44f5-89d6-308aa1ce8afd","type":"organization-for-group"}}
-tmap.id:2e6003d3-8d44-4c3e-af2d-baae4b1cc26b
+tmap.edges:{"b816f9d9-c1d3-4fdf-903a-fe1fe5c97c05":{"to":"1fca8776-5696-4dc8-824a-af7ef4780ffe","type":"organization-for-group"}}
+tmap.id:bab87cad-7fea-45f3-995c-5698d30cca7f
 url:https://www.w3.org/Security/wiki/IG
 
 The mission of the Web Security Interest Group is to serve as a forum for discussions on improving standards and implementations to advance the security of the Web. To participate in the group, please join the public-web-security mailing list.

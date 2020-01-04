@@ -1,5 +1,5 @@
-created:1578148362386
-modified:1578148362386
+created:1578181490125
+modified:1578181490125
 title:OAuth 2.0 Form Post Response Mode
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"7a1caaad-d40e-4bca-b64d-c773a978ee26":{"to":"6f702bb6-7a90-4d2e-804b-a66b079bc4f1","type":"specification-of-group"}}
-tmap.id:b5b8c375-b953-4424-a66d-2731f458d0d8
+tmap.edges:{"48fff607-42f7-43bf-b59a-c29d500b33e1":{"to":"6d6f2b55-71b6-4071-b288-89cb1ca5ee4e","type":"specification-of-group"}}
+tmap.id:0a9dbf39-70dc-4f33-a2ba-5bfb76adf44b
 url:http://openid.net/specs/oauth-v2-form-post-response-mode-1_0.html
 version.or.edition:
 volume.frequency:
