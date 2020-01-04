@@ -1,5 +1,5 @@
-created:1578136061204
-modified:1578136061204
+created:1578144510700
+modified:1578144510700
 title:ESIF: Emergency Services Interconnection Forum
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"0ff77517-e097-45be-8232-8e272e2d2e98":{"to":"d4647755-9c8d-4194-965e-1a82b4c2f6d5","type":"organization-for-group"}}
-tmap.id:e77f7a89-8559-429d-9c50-e6aedf5c587a
+tmap.edges:{"fd4e1714-6f75-4480-81e3-d1c00196a9d0":{"to":"23517dcb-02b9-4055-a443-7719cd18197b","type":"organization-for-group"}}
+tmap.id:169b951e-6750-4546-8bf2-dc8e3d452879
 url:http://www.atis.org/01_committ_forums/ESIF/about.asp
 
 ESIF develops Next Generation 911 (NG911) and location accuracy requirements and solutions and is where the industry comes together in a voluntary open forum to identify and resolve technical and operational issues to facilitate interconnection of emergency services networks with other networks (e.g., wireline, cable, satellite, Internet, etc.). ESIF members comprise industry, government, standards, and public safety organizations.

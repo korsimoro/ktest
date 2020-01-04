@@ -6,21 +6,6 @@ title: WelcomeMe2B
 tmap.id: 9be18315-c667-4dd6-83b2-82faddf8f18a
 type: text/vnd.tiddlywiki
 
-<h2>Me2B Relationship</h2>
-<$macrocall $name="taglist" tag="me2b.relationship" />
-<h2>Me2B Participation</h2>
-<$macrocall $name="taglist" tag="me2b.participation" />
+Use the tabs below to explore Me2B Relationships and Me2B Participation statuses.
 
-Me2B Relationship
-
-<$list filter="[tags:me2b.relationship[]sort[title]]" variable="dha">
-<h2><<dha>></h2>
-<$list filter="[tags:me2b.relationship[<<dha>>]sort[title]]" >
-{{!!title}}<br />
-</$list>
-</$list>
-
-Me2B Participation
-<$list filter="[tags:me2b.participation[]sort[title]]" variable="dha">
-{{dha}}<br />
-</$list>
+<<tabs "WelcomeMe2B_Relationship WelcomeMe2B_Participation" "WelcomeMe2B_Relationship" "$:/state/tab94" >>

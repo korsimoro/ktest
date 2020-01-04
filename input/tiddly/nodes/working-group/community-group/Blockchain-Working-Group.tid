@@ -1,5 +1,5 @@
-created:1578136061202
-modified:1578136061202
+created:1578144510697
+modified:1578144510697
 title:Blockchain Working Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"d24a10c5-301c-4177-b989-1a884a4db074":{"to":"ca0a6cba-4bac-4b9f-bdf1-bb2f14b95349","type":"author"},"4580c4c7-2ece-4321-9022-da79aa9a8c18":{"to":"0b4bb8cb-8f86-41a2-9e6f-9fb0b62d2a01","type":"default"},"0b3b1c38-9d04-426e-a27f-eff30611184c":{"to":"2ee10f77-16a2-479d-9665-5c4da81f05f3","type":"organization-for-group"},"ac004699-8385-448d-babf-7efd5955a9c9":{"to":"f1e7ac79-0d75-41b0-ab6d-bfcdc76f49d5","type":"author"}}
-tmap.id:dcd85c7e-f754-49d1-94c4-e8b3a0b8b76c
+tmap.edges:{"41ab14fc-516a-4d13-aab6-ddf376d3971a":{"to":"f4bfe291-e86a-4f41-be9f-17fb8086f85f","type":"author"},"fbc3292b-2cbc-4a1a-9063-a4671b116e40":{"to":"3ede6ba3-075b-473e-ac7f-2aca632d40ff","type":"default"},"148c2b08-a62d-4e6e-bbd0-481d941c1101":{"to":"51a400df-be73-486e-933b-bbaf3c1ffc18","type":"organization-for-group"},"46d90d73-c806-4713-9dfb-3b4853b0e030":{"to":"77ed6f99-0091-4919-9e4a-9495e3691d8a","type":"author"}}
+tmap.id:4e9d6240-4767-4a3b-8432-886b4541700d
 url:http://staging1.trustindigitallife.eu/what-we-do/working-groups/blockchain/
 
 The emergence and success of Bitcoin propelled blockchain technologies into prominence. Since then, financial institutions have explored the potential of Bitcoin-like systems; the Open Source community has delved into the Open Source implementations, and the research community has worked on developing and optimizing associated cryptographic protocols, improving architectural solutions, and understanding the economics of systems like Bitcoin. Governments have started looking at the regulatory space for distributed financial systems and requirements for integrity; civil society organizations have looked into privacy support in blockchain systems, and law enforcement agencies have examined the new potential for financial crime. As work on exploring all the potential diverse uses of blockchain technology has expanded, applications for e-government, storage, document notarization, identity protection, real estate, and enterprise have emerged.

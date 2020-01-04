@@ -1,5 +1,5 @@
-created:1578136061638
-modified:1578136061638
+created:1578144514338
+modified:1578144514338
 title:Paul Grassi
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Paul Grassi
 organization:
 tags:
-tmap.edges:{"fa74bfb6-6515-452e-b84e-2c0e7c16dc49":{"to":"916ae24b-c544-44ba-9051-42c35833c8da","type":"employee"},"ce8bc744-9127-42d1-9dd8-21ee37b050c2":{"to":"77d920da-4fd4-4bbd-8618-6b24b4e36ab2","type":"vice-chair"}}
-tmap.id:99fb39db-404e-44f1-b538-db53676a6ab3
+tmap.edges:{"148a3bab-9f9e-44ea-9848-435566ecc184":{"to":"74c194fa-af3e-40ef-8044-08cd5bfd2a9f","type":"employee"},"881ab4e8-309e-4f50-89fb-b5c23a757395":{"to":"ac613bb7-ada8-4410-b6cc-565790d512cd","type":"vice-chair"}}
+tmap.id:a5d71ab3-f6e4-4f87-bf32-46b5719704bd
 twitter.profile:
 website:
 working.group:

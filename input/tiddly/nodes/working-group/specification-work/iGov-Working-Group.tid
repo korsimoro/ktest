@@ -1,5 +1,5 @@
-created:1578136061208
-modified:1578136061208
+created:1578144510705
+modified:1578144510705
 title:iGov Working Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"9bebe4cc-7408-4905-bbfb-4a8d0057ba46":{"to":"9b243e05-205d-4a36-a871-d5213fac2b20","type":"organization-for-group"}}
-tmap.id:77d920da-4fd4-4bbd-8618-6b24b4e36ab2
+tmap.edges:{"95e0fe0b-048a-40df-839d-e594470a6b58":{"to":"99a7998e-a836-41a7-a480-a9839205c88d","type":"organization-for-group"}}
+tmap.id:ac613bb7-ada8-4410-b6cc-565790d512cd
 url:https://openid.net/wg/igov/
 
 The purpose of this working group is to develop a security and privacy profile of the OpenID Connect specifications that allow users to authenticate and share consented attribute information with public sector services across the globe. The resulting profile will enable standardized integration with public sector relying parties in multiple jurisdictions. The profile will be applicable to, but not exclusively targeted at, identity broker-based implementations.

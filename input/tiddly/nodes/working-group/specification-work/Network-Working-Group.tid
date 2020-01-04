@@ -1,5 +1,5 @@
-created:1578136061206
-modified:1578136061206
+created:1578144510703
+modified:1578144510703
 title:Network Working Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"0c2f126c-4ba4-4c24-a23c-9cd95dcd103c":{"to":"711749e6-b543-42d6-9b3d-4c66148f77cf","type":"organization-for-group"}}
-tmap.id:cea65d6e-23b7-4f6e-89f0-b54c46d4bbc1
+tmap.edges:{"ce7762ed-56bc-40a0-b3db-b3073eeb79dd":{"to":"1acafb28-45a2-4b96-bc2a-dd7e25b4fdd0","type":"organization-for-group"}}
+tmap.id:b23a3ece-f3df-4f49-86a5-eed50604aeea
 url:
 
 

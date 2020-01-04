@@ -1,5 +1,5 @@
-created:1578136061217
-modified:1578136061217
+created:1578144510762
+modified:1578144510762
 title:Key Management Interoperability Protocol (KMIP)
 type:text/vnd.tiddlywiki
 activities:
@@ -19,7 +19,7 @@ relevant.standards:
 status:
 tech.focus:
 tmap.edges:{}
-tmap.id:62178739-25dd-4830-aed6-8d9af0f76967
+tmap.id:481cda16-2b50-468f-93e9-d2b7437cb39a
 url:https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=kmip
 
 The OASIS KMIP TC works to define a single, comprehensive protocol for communication between encryption systems and a broad range of new and legacy enterprise applications, including email, databases, and storage devices. By removing redundant, incompatible key management processes, KMIP will provide better data security while at the same time reducing expenditures on multiple products.

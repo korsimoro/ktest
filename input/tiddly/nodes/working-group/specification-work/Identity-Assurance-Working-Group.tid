@@ -1,5 +1,5 @@
-created:1578136061199
-modified:1578136061199
+created:1578144510691
+modified:1578144510691
 title:Identity Assurance Working Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"8675441b-1163-476d-b693-2494aee041b1":{"to":"b2263929-87c9-4300-b5b0-dec8e9495647","type":"organization-for-group"}}
-tmap.id:06c093f8-f830-4730-bcca-433ea699f157
+tmap.edges:{"27fe1c32-2249-4c8a-831b-bbaee3fc1413":{"to":"6f78bb68-4455-4f9b-9f6a-7ecfbe8d9200","type":"organization-for-group"}}
+tmap.id:e13ae3c8-45f3-4481-b735-a834b388b14b
 url:https://kantarainitiative.org/confluence/display/idassurance/Home
 
 The Identity Assurance Work Group (IAWG) has been formed within the Kantara Initiative to foster the adoption of trusted on-line identity services. To advance this goal, the IAWG will provide a forum for identifying and resolving obstacles to market and commercial acceptance that have limited broad deployment and adoption of trusted identity services thus far.

@@ -1,5 +1,5 @@
-created:1578136061596
-modified:1578136061596
+created:1578144513904
+modified:1578144513904
 title:Adam Cooper
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Adam Cooper
 organization:
 tags:
-tmap.edges:{"795bb357-a167-4dfd-a567-9364c2f18e21":{"to":"77d920da-4fd4-4bbd-8618-6b24b4e36ab2","type":"vice-chair"},"ec349b3d-3526-4df5-a21b-ff4bfc39b643":{"to":"8fc651f6-d048-4c18-9975-a63443a099d9","type":"employee"}}
-tmap.id:bc00d187-517f-4cef-891d-a3995d82dd31
+tmap.edges:{"b00232d2-797c-4bed-a06c-3f55b90f3ec4":{"to":"ac613bb7-ada8-4410-b6cc-565790d512cd","type":"vice-chair"},"f65c59fb-9bed-46e2-b040-c1c6857abc4e":{"to":"f94a3e01-799e-4bd6-b4fc-0333c0e8ef8e","type":"employee"}}
+tmap.id:509f1dd2-2b7e-4f47-8911-50e3cc832e42
 twitter.profile:
 website:https://identityassurance.blog.gov.uk/author/adam-cooper/
 working.group:

@@ -1,5 +1,5 @@
-created:1578136061209
-modified:1578136061209
+created:1578144510709
+modified:1578144510709
 title:Web Application Security Working Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"836c4b8d-9944-472f-8774-d5cebd54b721":{"to":"c7a542b0-c78b-439b-a0c4-8497b98b14d7","type":"organization-for-group"}}
-tmap.id:d731d6e3-5c01-4140-ac7c-e84e6ddfadae
+tmap.edges:{"477d8523-1e30-4c1f-8f37-e43154a26463":{"to":"6e6fae1a-76bc-4e5b-b0c1-2d8c034dd83b","type":"organization-for-group"}}
+tmap.id:06026054-0891-4a5f-ac72-3ad30559e88e
 url:http://www.w3.org/2011/webappsec/
 
 As stated in its charter, the mission of the Web Application Security Working Group is to develop technical and policy mechanisms to improve the security of and enable secure cross-site communications for applications on the Web.

@@ -1,5 +1,5 @@
-created:1578136061362
-modified:1578136061362
+created:1578144511873
+modified:1578144511873
 title:EAP ACR Values
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Enhanced Authentication Profile Working Group
 tags:
 tech.focus:
-tmap.edges:{"c6ea9884-6590-4504-9a33-a47f7a37a5e0":{"to":"a79c0a60-a2cf-4e79-a7c6-a1955fa94934","type":"specification-of-group"}}
-tmap.id:ec1da6b4-8f9b-43e4-987e-5f78d12a1b69
+tmap.edges:{"1966f18b-c0a2-436b-a521-ed850dc56f84":{"to":"21b9a2f3-a7d1-436e-8b2d-8cb017f0d575","type":"specification-of-group"}}
+tmap.id:e0ee310c-259d-42d9-bc36-34f5a90fd437
 url:http://openid.net/specs/openid-connect-eap-acr-values-1_0-00.html
 version.or.edition:
 volume.frequency:

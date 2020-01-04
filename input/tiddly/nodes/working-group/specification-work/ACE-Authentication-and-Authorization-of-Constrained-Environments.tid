@@ -1,5 +1,5 @@
-created:1578136061200
-modified:1578136061200
+created:1578144510694
+modified:1578144510694
 title:ACE - Authentication and Authorization of Constrained Environments
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"e9559f23-1b1f-4d7d-8357-1e2afad5b79e":{"to":"711749e6-b543-42d6-9b3d-4c66148f77cf","type":"organization-for-group"}}
-tmap.id:ce952043-b6ea-42bf-aaf9-5d1deefe1871
+tmap.edges:{"7aa846dc-5d44-4f24-9da7-efb669b17c75":{"to":"1acafb28-45a2-4b96-bc2a-dd7e25b4fdd0","type":"organization-for-group"}}
+tmap.id:3cda0804-4613-45b2-9bf3-ad150323db06
 url:
 
 The IETF has recently developed protocols for use in constrained

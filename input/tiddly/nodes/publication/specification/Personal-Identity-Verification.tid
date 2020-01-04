@@ -1,5 +1,5 @@
-created:1578136061313
-modified:1578136061313
+created:1578144511473
+modified:1578144511473
 title:Personal Identity Verification
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"ff39053b-214a-42d5-9d46-b8b440262a7b":{"to":"55ac984c-06d9-415c-9540-065dc81519ee","type":"organization-for-group"}}
-tmap.id:e4c9b6a1-2ac5-4434-b02b-82cf1e99806e
+tmap.edges:{"9ba47c97-d815-46f2-84ec-976fc5256836":{"to":"58c4aca5-98c0-4fed-9661-261496ac5e50","type":"organization-for-group"}}
+tmap.id:bf59dcf4-4dd1-4a25-a042-7f28123bdc70
 url:http://csrc.nist.gov/groups/SNS/piv/
 version.or.edition:
 volume.frequency:

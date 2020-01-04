@@ -1,5 +1,5 @@
-created:1578136061626
-modified:1578136061626
+created:1578144514218
+modified:1578144514218
 title:Bob West
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Bob West
 organization:
 tags:
-tmap.edges:{"0b6768cc-c7b0-4658-ba5f-9e3e52903f44":{"to":"69fd0fbb-d2a0-4ec3-898d-38bc23ee8219","type":"executive-member"}}
-tmap.id:c1476b2d-e836-4b78-849f-d7fe5c42e2ef
+tmap.edges:{"a0b41225-c1e6-436d-8b09-b635ee32828a":{"to":"5ad639d4-f993-42a1-895b-1576c8307e93","type":"executive-member"}}
+tmap.id:3e51c154-95d0-4ac0-aedb-c5e2c5178046
 twitter.profile:
 website:
 working.group:

@@ -1,5 +1,5 @@
-created:1578136061323
-modified:1578136061323
+created:1578144511553
+modified:1578144511553
 title:MODRNA Registration
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:MONDRNA
 tags:
 tech.focus:
-tmap.edges:{"b9190f36-2c67-4ae9-b369-8b205fd1f5db":{"to":"35737087-a53c-488f-a7f5-5c34ecc6475b","type":"specification-of-group"}}
-tmap.id:5a68fb57-d6c1-4c33-82fd-edbf140fadcc
+tmap.edges:{"9f998481-4c61-4732-982a-547cc45a82f2":{"to":"78a4a61b-abdd-456e-8025-212456e9181a","type":"specification-of-group"}}
+tmap.id:738dac8b-1b9a-4ad0-9c99-91217f734674
 url:http://openid.net/wordpress-content/uploads/2014/04/draft-mobile-registration-01.html
 version.or.edition:
 volume.frequency:
