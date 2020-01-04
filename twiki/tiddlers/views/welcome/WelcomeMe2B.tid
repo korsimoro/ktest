@@ -8,4 +8,4 @@ type: text/vnd.tiddlywiki
 
 Use the tabs below to explore Me2B Relationships and Me2B Participation statuses.
 
-<<tabs "WelcomeMe2B_Relationship WelcomeMe2B_Participation" "WelcomeMe2B_Relationship" "$:/state/tab94" >>
+<<tabs "WelcomeMe2B_Relationships WelcomeMe2B_Participation" "WelcomeMe2B_Relationship" "$:/state/tab94" >>
