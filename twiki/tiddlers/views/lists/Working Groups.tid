@@ -1,0 +1,51 @@
+created: 20191201134710530
+editing: no
+modified: 20200104132145415
+tags: 
+title: Working Group List
+tmap.id: 417e3db9-763e-42a9-bc0b-e69e1f7b4ffb
+type: text/vnd.tiddlywiki
+
+<h3>Complete Table Of Working Groups</h3>
+
+<<TableEditButton >>
+
+<$set name="editing" value={{!!editing}}>
+<table>
+<tr>
+<th>Working Group</th>
+<th>Category</th>
+<th>Parent Org</th>
+</tr>
+
+<$list filter="[all[]field:element.type[working-group]sort[title]sort[category]sort[parent.org]]">
+<tr>
+<td><$link>{{!!title}}</$link></td>
+<td>
+  <$reveal type="nomatch" default=<<editing>> text="yes">
+  {{!!category}}
+  </$reveal>
+  <$reveal type="match" default=<<editing>> text="yes">
+    <$select field="category">
+    <$list filter="[all[]field:element.type[working-group]each[category]get[category]sort[title]]" variable="field">
+    <option><<field>></option>
+    </$list>
+    </$select>
+  </$reveal>
+</td>
+<td>
+  <$reveal type="nomatch" default=<<editing>> text="yes">
+    <$link>{{!!parent.org}}</$link>
+  </$reveal>
+  <$reveal type="match" default=<<editing>> text="yes">
+    <$select field="parent.org">
+    <$list filter="[all[]field:element.type[organization]sort[title]]" variable="field">
+    <option><<field>></option>
+    </$list>
+    </$select>
+  </$reveal>
+</td>
+</tr>
+</$list>
+</table>
+</$set>

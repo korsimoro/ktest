@@ -1,0 +1,48 @@
+created: 20191201134710530
+modified: 20200104125704816
+tags: 
+title: Organization List
+tmap.id: 604a7e49-08d8-4a9f-bd5f-8b182bc65992
+type: text/vnd.tiddlywiki
+
+<h3>Complete Table Of Working Groups</h3>
+
+<<TableEditButton >>
+
+<table>
+<tr>
+<th>Working Group</th>
+<th>org.name</th>
+<th>Parent Org</th>
+</tr>
+
+<$list filter="[all[]field:element.type[organization]sort[title]sort[org.name]sort[parent.org]]">
+<tr>
+<td><$link>{{!!title}}</$link></td>
+<td>
+  <$reveal type="nomatch" state="!!editing" text="yes">
+  {{!!org.name}}
+  </$reveal>
+  <$reveal type="match" state="!!editing" text="yes">
+    <$select field="org.name">
+    <$list filter="[all[]field:element.type[organization]each[org.name]get[org.name]sort[title]]" variable="field">
+    <option><<field>></option>
+    </$list>
+    </$select>
+  </$reveal>
+</td>
+<td>
+  <$reveal type="nomatch" state="!!editing" text="yes">
+    <$link>{{!!parent.org}}</$link>
+  </$reveal>
+  <$reveal type="match" state="!!editing" text="yes">
+    <$select field="parent.org">
+    <$list filter="[all[]field:element.type[organization]sort[title]]" variable="field">
+    <option><<field>></option>
+    </$list>
+    </$select>
+  </$reveal>
+</td>
+</tr>
+</$list>
+</table>

@@ -5,25 +5,13 @@ title: Welcome
 tmap.id: 670904c8-0239-4459-a2dc-e5ce7823e439
 type: text/vnd.tiddlywiki
 
-\define taglist(tag)
-<$list filter="[tags:$tag$[]sort[title]]" variable="dha">
-<h3><<dha>></h3>
-<ul>
-<$list filter="[<dha>listed[$tag$]sort[title]!prefix[$]]">
-<li><$link>{{!!title}}</$link></li>
-</$list>
-</ul>
-</$list>
-\end
 
 
 * [[Event List]]
 * [[Publications List]]
 * [[Working Group List]]
-* [[Working Groups CSV]]
-* [[Type Breakdown]]
-* [[Tags]]
-* [[Activities Breakdown]]
+* [[People List]]
+* [[Organization List]]
 * [[Everything]]
 
-<<tabs "WelcomeDigitalHarms WelcomeActivities WelcomeTags WelcomeMe2B WelcomeAudience WelcomeLocation WelcomeLicenses" WelcomeDigitalHarms "$:/state/tab96" >>
+<<tabs "WelcomeDigitalHarms WelcomeActivities WelcomeTags WelcomeMe2B WelcomeAudience WelcomeLocation WelcomeLicenses TypeBreakdown" WelcomeDigitalHarms "$:/state/tab96" >>

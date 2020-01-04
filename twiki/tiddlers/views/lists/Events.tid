@@ -7,6 +7,8 @@ type: text/vnd.tiddlywiki
 
 <h3>Complete Table Of Events</h3>
 
+<<TableEditButton >>
+
 <table>
 <tr>
 <th>Event</th>
