@@ -1,6 +1,6 @@
 created: 20191201134710530
 modified: 20200104081814601
-tags: 
+tags:
 title: Event List
 tmap.id: 0dc19602-12c2-4f27-87c7-7432e2d5d688
 type: text/vnd.tiddlywiki
@@ -14,11 +14,11 @@ type: text/vnd.tiddlywiki
 <th>Parent Org</th>
 </tr>
 
-<$list filter="[all[]field:element.type[event]sort[title]sort[category]sort[parent.org]]">
+<$list filter="[all[]field:element.type[event]sort[title]sort[category]sort[host.organization]]">
 <tr>
 <td><$link>{{!!title}}</$link></td>
 <td><$link>{{!!category}}</$link></td>
-<td><$link>{{!!parent.org}}</$link></td>
+<td><$link>{{!!host.organization}}</$link></td>
 </tr>
 </$list>
 </table>

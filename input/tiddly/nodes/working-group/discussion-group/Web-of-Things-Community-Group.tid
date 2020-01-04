@@ -1,5 +1,5 @@
-created:1578123164100
-modified:1578123164100
+created:1578136061923
+modified:1578136061923
 title:Web of Things Community Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"19c65b9c-76ec-4e12-9e87-425341ab905a":{"to":"cace87a8-4c04-4207-b3f0-2c63ad941ed6","type":"organization-for-group"}}
-tmap.id:b89321ac-ca3f-4419-88dc-fdabcc49cffd
+tmap.edges:{"1f02688d-862b-4b79-b046-f0b88ecb1fa9":{"to":"c7a542b0-c78b-439b-a0c4-8497b98b14d7","type":"organization-for-group"}}
+tmap.id:78768ce7-d32f-4f56-b554-966d570469b3
 url:https://www.w3.org/community/wot/
 
 

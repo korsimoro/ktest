@@ -1,5 +1,5 @@
-created:1578123160964
-modified:1578123160964
+created:1578136061340
+modified:1578136061340
 title:FIDO 2.0: Signature format
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"bbc62719-f970-430d-bb67-d3a736e71ee9":{"to":"379def9a-fd46-492c-a7fa-27abcbe21c80","type":"organization-for-group"},"d5a8c97e-86aa-4af3-a763-dae97d475d6f":{"to":"c38ad25b-5d01-4837-82e8-383ef16bc903","type":"organization-for-group"}}
-tmap.id:3c09f9fe-9196-4d63-82ae-604cf122443a
+tmap.edges:{"8610982e-2190-46b0-acda-8a408f7cd2fe":{"to":"3fb78982-e164-4731-8f09-c18b9ab92a4c","type":"organization-for-group"},"eb026e44-d7e4-4f95-b2d9-3fdc006b8895":{"to":"07477bcb-2f90-4e65-979c-6b14e3921811","type":"organization-for-group"}}
+tmap.id:f573aa7f-95c6-44b6-bec5-f00a6490037d
 url:http://www.w3.org/Submission/2015/SUBM-fido-signature-format-20151120/
 version.or.edition:
 volume.frequency:

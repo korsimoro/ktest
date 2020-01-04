@@ -1,5 +1,5 @@
-created:1578123160463
-modified:1578123160463
+created:1578136061216
+modified:1578136061216
 title:Cryptography and Security Mechanisms WG2
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"5cfeab40-4754-4d4c-b4dd-5f22e4b6e022":{"to":"3480fdf7-19d5-4997-96d8-824389d6cc4a","type":"organization-for-group"}}
-tmap.id:7075fd33-3677-4fa4-a447-fffe246b08dc
+tmap.edges:{"83fcce25-7837-46e1-b34b-22bec137fb81":{"to":"9a4d6a42-1223-443c-8163-a9fb18dff41e","type":"organization-for-group"}}
+tmap.id:7db0ac34-b703-494c-9f64-f7f54ba1355a
 url:
 
 WG 2 provides a center of expertise for the standardization of IT Security techniques and mechanisms within JTC 1.

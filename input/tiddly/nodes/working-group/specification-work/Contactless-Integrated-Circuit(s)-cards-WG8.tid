@@ -1,5 +1,5 @@
-created:1578123160462
-modified:1578123160462
+created:1578136061216
+modified:1578136061216
 title:Contactless Integrated Circuit(s) cards WG8
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"084cdd64-c8e8-4920-a3a3-5b7e343b1a83":{"to":"b4a772c5-a9bc-4039-8561-424dba7fe907","type":"organization-for-group"}}
-tmap.id:ad2a9eaf-2255-421d-a929-7e1be3a1ed83
+tmap.edges:{"10392583-33c7-4f29-979f-e8ac86f5189d":{"to":"8a0fbd94-5617-4f65-bd82-13cdfa71b82e","type":"organization-for-group"}}
+tmap.id:9e54b646-a97c-40cf-b132-1b4692bb845f
 url:
 
 The scope of WG8 is to develop standards for the Contactless Integrated Circuit(s) Card which do not preclude the incorporation of other Standard technologies on the card.

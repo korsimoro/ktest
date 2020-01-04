@@ -1,5 +1,5 @@
-created:1578123160796
-modified:1578123160796
+created:1578136061311
+modified:1578136061311
 title:Tracking Compliance and Scope
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:The Tracking Protection Working Group
 tags:
 tech.focus:
-tmap.edges:{"23242bbd-e4b0-4913-8cf8-ff35b27c0292":{"to":"8a5a8869-7151-4296-9044-df4b7268859c","type":"specification-of-group"}}
-tmap.id:bcbb7724-6e0b-4881-b8db-eae138e07013
+tmap.edges:{"c55a8eb1-b467-4da9-9560-07eb3dfe2e3f":{"to":"c4aea316-28ae-4216-a4f7-7d8bc2d9df5a","type":"specification-of-group"}}
+tmap.id:88f884c7-9917-4b90-b603-b90c783a1d32
 url:http://www.w3.org/TR/tracking-compliance/
 version.or.edition:
 volume.frequency:

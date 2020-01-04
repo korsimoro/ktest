@@ -1,5 +1,5 @@
-created:1578123160454
-modified:1578123160454
+created:1578136061209
+modified:1578136061209
 title:IESG -  Internet Engineering Steering Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"a0a91a08-0f69-4577-bffc-a13e875c28ec":{"to":"cd1cd746-98b3-45b1-8b44-c21e743c513e","type":"connection"},"49552e44-646d-4410-8672-aa68ecbe2ca8":{"to":"93574622-a643-4276-9bdb-29fabb5b9d4e","type":"organization-for-group"}}
-tmap.id:11d5a0b8-cc73-4cd0-9c7d-60b2881e004a
+tmap.edges:{"70d6a7f0-16ee-45a2-aca8-85553ba551fc":{"to":"91945451-3a42-4441-9895-3b805b450841","type":"connection"},"4025dbe4-754d-4f56-b413-23029df53b81":{"to":"711749e6-b543-42d6-9b3d-4c66148f77cf","type":"organization-for-group"}}
+tmap.id:263a4e87-6c3c-42f8-95c8-bbf2d225853d
 url:
 
 

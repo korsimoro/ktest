@@ -49,24 +49,27 @@ export function createMe2BStar(ctx:Context) {
 
   const orgs = ctx.me2b.findElementsByType("organization")
   for(let p of orgs) {
-    const rel = p.fields["me2b.relationship"]
-    if(!rel) {
+    const relset = p.fields["me2b.relationship"] as string[]
+    if(!relset) {
       console.log("No Me2B Relationship",p.title)
     }
     else {
-      if(!rel)
+      if(!relset)
         console.log("RELATIONSHPI IS EMPTY")
       else {
+        var rel:string = ""
         try {
-          const metaModelTypeElement = M.model.ensureElementWithLabel(rel,"Me2B Relationship")
-          ctx.tiddly.registerNamedMap('me2bstar')
-          ctx.tiddly.registerNamedMap('me2bstar-'+ctx.me2b.slugify(rel))
-          new Me2BConnection(M.title,p.title,rel,ctx.me2b)
-          M.addToListField('tmap.names','me2bstar')
-          p.addToListField('tmap.names','me2bstar')
-          M.addToListField('tmap.names','me2bstar-'+ctx.me2b.slugify(rel))
-          p.addToListField('tmap.names','me2bstar-'+ctx.me2b.slugify(rel))
-          console.log("MAP2:",'me2bstar-'+p.model.ctx.me2b.slugify(rel),p.title)
+          for (rel of Array.from(relset.values())) {
+            const metaModelTypeElement = M.model.ensureElementWithLabel(rel,"Me2B Relationship")
+            //ctx.tiddly.registerNamedMap('me2bstar')
+            //ctx.tiddly.registerNamedMap('me2bstar-'+ctx.me2b.slugify(rel))
+            //new Me2BConnection(M.title,p.title,rel,ctx.me2b)
+            //M.addToListField('tmap.names','me2bstar')
+            //p.addToListField('tmap.names','me2bstar')
+            //M.addToListField('tmap.names','me2bstar-'+ctx.me2b.slugify(rel))
+            //p.addToListField('tmap.names','me2bstar-'+ctx.me2b.slugify(rel))
+            //console.log("MAP2:",'me2bstar-'+p.model.ctx.me2b.slugify(rel),p.title)
+          }
         }
         catch(E) {
           console.log("REL",rel,E)

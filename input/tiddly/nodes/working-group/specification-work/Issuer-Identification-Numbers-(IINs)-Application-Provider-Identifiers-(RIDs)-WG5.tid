@@ -1,5 +1,5 @@
-created:1578123160446
-modified:1578123160446
+created:1578136061203
+modified:1578136061203
 title:Issuer Identification Numbers (IINs) / Application Provider Identifiers (RIDs)  WG5
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"cc7ed8f5-6f67-4426-b6ef-3d468d7f6365":{"to":"b4a772c5-a9bc-4039-8561-424dba7fe907","type":"organization-for-group"}}
-tmap.id:c7a1093f-8442-474a-9a7a-b849e00367cc
+tmap.edges:{"1e13ab55-c244-4916-9ae6-9b59e8ee3081":{"to":"8a0fbd94-5617-4f65-bd82-13cdfa71b82e","type":"organization-for-group"}}
+tmap.id:bc0a13ce-10c3-437b-a6fc-6cfd469b6207
 url:
 
 To serve as the RMG for ISO/IEC 7812 Parts 1 & 2 and ISO/IEC 7816-5. Responsibility for maintenance of ISO/IEC 7812 Parts 1 & 2. Responsible for Registration of Application providers under ISO/IEC 7816-5. To liaise, when necessary with Working Group 4 on matters relating to ISO/IEC 7816-5.

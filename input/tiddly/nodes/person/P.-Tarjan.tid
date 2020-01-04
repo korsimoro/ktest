@@ -1,5 +1,5 @@
-created:1578123162262
-modified:1578123162262
+created:1578136061582
+modified:1578136061582
 title:P. Tarjan
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:P. Tarjan
 organization:
 tags:
-tmap.edges:{"94d50eed-108f-4d86-961f-323a9f19c592":{"to":"7db8b113-2ce2-46b0-b8ee-768398e27d51","type":"employee"},"95d5ad1c-07c9-439a-b6fa-d161bd97ddc3":{"to":"9920192e-6cdf-4e57-8c4a-22639850b0ff","type":"author"}}
-tmap.id:8791a2c1-7206-4eba-848d-dd9f0652ee01
+tmap.edges:{"f2c77eb4-fa55-46b1-a6bf-d2275cf741a3":{"to":"711cdfa2-5339-478a-a191-f1a2b6d77d44","type":"employee"},"14782d3a-a100-43bb-8c87-c11641584d6d":{"to":"fa5c627a-bf71-47de-ac37-2c68e4d7d8dc","type":"author"}}
+tmap.id:3a5853b1-d9e0-40b8-8d54-715852acdf2a
 twitter.profile:
 website:
 working.group:

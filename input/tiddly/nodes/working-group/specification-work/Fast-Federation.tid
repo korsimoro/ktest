@@ -1,5 +1,5 @@
-created:1578123160450
-modified:1578123160450
+created:1578136061205
+modified:1578136061205
 title:Fast Federation
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"fbbf987b-fc1f-4fdd-88e5-c95c1b54f241":{"to":"50bc9191-caed-4d4f-ab8f-ddf0c7991cee","type":"organization-for-group"}}
-tmap.id:3ffc6c13-7f5e-4671-9c2b-a40698b6325a
+tmap.edges:{"cbb7a521-4f22-47a6-a9b7-c0c9f2f9a838":{"to":"9b243e05-205d-4a36-a871-d5213fac2b20","type":"organization-for-group"}}
+tmap.id:de20871a-d1c4-409f-a39b-0439372ce42f
 url:http://openid.net/wg/fastfed/
 
 The purpose of this Working Group is to develop a meta-data document specification, APIs, and workflow to enable an administrator to federate an identity provider and a hosted application that supports one or more of OpenID Connect, SAML, and SCIM and enable configuration changes to be communicated between the identity provider and hosted application.

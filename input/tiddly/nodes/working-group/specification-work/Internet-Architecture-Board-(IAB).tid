@@ -1,5 +1,5 @@
-created:1578123160452
-modified:1578123160452
+created:1578136061207
+modified:1578136061207
 title:Internet Architecture Board (IAB)
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"9be12781-0cb6-414b-b51d-9c90adaa7fc6":{"to":"11d5a0b8-cc73-4cd0-9c7d-60b2881e004a","type":"connection"},"4917ee21-cf31-4592-bb66-d6954d0a2f0c":{"to":"fe5068be-3a85-4d4b-b9fb-cb4dc56bb3ef","type":"general-member"},"5467a400-4f3c-48e3-b823-81704213acd9":{"to":"93574622-a643-4276-9bdb-29fabb5b9d4e","type":"organization-for-group"}}
-tmap.id:f6b7f65b-2a3a-42c5-8802-62eff5d4aafe
+tmap.edges:{"5fb03680-60c3-4b0f-8a84-469b0ff48fa4":{"to":"263a4e87-6c3c-42f8-95c8-bbf2d225853d","type":"connection"},"6572b2ee-d601-434d-8b20-18ccbd161d04":{"to":"9742dc2b-86ba-4ec5-b3f3-4143dcd4ee17","type":"general-member"},"1caa4f3e-34d1-429d-920c-65f6d7ec58fb":{"to":"711749e6-b543-42d6-9b3d-4c66148f77cf","type":"organization-for-group"}}
+tmap.id:25140392-6c1f-469b-ae96-b184cee89769
 url:https://www.iab.org
 
 The Internet Architecture Board provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.

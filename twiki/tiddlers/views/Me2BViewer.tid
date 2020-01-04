@@ -10,7 +10,6 @@ tags: $:/tags/ViewTemplate
   <$list filter="[[SubTypeFields]getindex<elementType>]" variable="subTypeField">
   <$list filter="[[SubTypeLabels]getindex<elementType>]" variable="subTypeLabel">
   <$list filter="[all[current]get<subTypeField>]" variable="elementSubType">
-    <<elementType>>:<<subTypeField>>:<<subTypeLabel>>:<<elementSubType>>
     <<tabs "DescriptionPanel DataModelView Relationships LocalGraph FieldList Peers" "DescriptionPanel" "$:/state/tab98">>
   </$list>
   </$list>
