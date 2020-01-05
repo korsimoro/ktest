@@ -1,56 +1,25 @@
 created: 20191201134710530
-editing: yes
 modified: 20200105001101821
-tags: 
+tags:
 title: Publications List
 tmap.id: d7447855-602f-481b-8280-5d39e072c242
 type: text/vnd.tiddlywiki
 
 <h3>Complete Table Of Publications</h3>
 
-<<TableEditButton >>
-<$reveal type="nomatch" default={{!!editing}} text="yes">
 
 <table>
-<tr>
-<th>Publications</th>
-<th>Publication Type</th>
-<th>Authors</th>
-</tr>
+  <tr>
+    <th>Publications</th>
+    <th>Publication Type</th>
+    <th>Authors</th>
+  </tr>
 
-<$list filter="[all[]field:element.type[publication]sort[title]sort[publication.type]sort[parent.org]]">
-<tr>
-<td><$link>{{!!title}}</$link></td>
-<td><$link>{{!!publication.type}}</$link></td>
-<td><$link>{{!!pauthor(s)editor(s)}}</$link></td>
-</tr>
-</$list>
+  <$list filter="[all[]field:element.type[publication]sort[title]sort[publication.type]sort[parent.org]]">
+    <tr>
+      <td><$link>{{!!title}}</$link></td>
+      <td><$link>{{!!publication.type}}</$link></td>
+      <td><$link>{{!!pauthor(s)editor(s)}}</$link></td>
+    </tr>
+  </$list>
 </table>
-
-</$reveal>
-
-<$reveal type="match" default={{!!editing}} text="yes">
-
-<table>
-<tr>
-<th>Publications</th>
-<th>Publication Type</th>
-<th>Authors</th>
-</tr>
-
-<$list filter="[all[]field:element.type[publication]sort[title]sort[publication.type]sort[parent.org]]">
-<tr>
-<td><$link>{{!!title}}</$link></td>
-<td>
-    <$select field="publication.type">
-    <$list filter="[all[]field:element.type[publication]each[publication.type]get[publication.type]sort[title]]" variable="field">
-    <option><<field>></option>
-    </$list>
-    </$select>
-</td>
-<td><<EditTagLikeList "author(s)editor(s)" "Authors/Editors" >></td>
-</tr>
-</$list>
-</table>
-
-</$reveal>

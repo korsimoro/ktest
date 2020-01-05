@@ -117,20 +117,20 @@ export class NeighborMap implements TiddlyMap {
 		const physics = {
 	    forceAtlas2Based: {
 	      // <- more repulsion between nodes - 0 - more attraction between nodes ->
-	      gravitationalConstant: -650, // default: -50
+	      gravitationalConstant: -850, // default: -50
 	      // edge length
-	      springLength: 300, // default: 100
+	      springLength: 500, // default: 100
 	      // <- less stiff edges - 0 - stiffer edges ->
-	      springConstant: 0.8, // default: 0.08
+	      springConstant: 0.05, // default: 0.08
 	      // pulls the entire network back to the center.
-	      centralGravity: 0.002, // default: 0.01
+	      centralGravity: 0.92, // default: 0.01
 	      // kinetic energy reduction
 	      damping: 0.4
 	    },
 	    solver: 'forceAtlas2Based',
 	    stabilization: {
-	      enabled: true,
-	      iterations: 25,
+	      enabled: false,
+	      iterations: 5,
 	      updateInterval: 10,
 	      onlyDynamicEdges: false,
 	      fit: true

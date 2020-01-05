@@ -1,30 +1,48 @@
 title: $:/twiki/working-group/Viewer
 type: text/vnd.tiddlywiki
 
+<table>
+<tr>
+  <td>
+    <$link to={{!!parent.org}}>Parent Org</$link>
+  </td>
+  <td>
+    <<selectOrganization parent.org >>
+  </td>
+</tr>
 
-<$reveal default={{!!parent.org}} type="nomatch" text="">
-<h3>Parent <$link to={{!!parent.org}}>{{!!parent.org}}</$link></h3>
-</$reveal>
+<tr>
+  <td>
+    <<subTypeLabel>>
+  </td>
+  <td>
+    <$select field=category >
+    <$list filter="[all[]field:element.type[working-group]each[category]get[category]sort[title]]" variable="field">
+    <option><<field>></option>
+    </$list>
+    </$select>
+  </td>
+</tr>
+</table>
 
-<h3><<subTypeLabel>> <$select field=category >
-<$list filter="[all[]field:element.type[working-group]each[category]get[category]sort[title]]" variable="field">
-<option><<field>></option>
-</$list>
-</$select>
-</h3>
+{{||$:/twiki/event/Social}}
 
-{{||Location}}
-{{||WorkingGroupDates}}<br />
-{{||$:/twiki/working-group/Social}}
-{{||DigitalHarmsAddressed}}
-{{||Activities}}
-{{||$:/twiki/working-group/People}}<br />
+<ul>
+  <li>{{||Location}}</li>
+  <li>{{||WorkingGroupDates}}</li>
+  <li>{{||$:/twiki/working-group/Social}}</li>
+</ul>
+
+<<EditTagLikeList digital.harms.addressed "Digital Harms Addressed" wikify>>
+<<EditTagLikeList activities "Activities" >>
+<<EditTagLikeList people "People" wikify>>
+<<EditTagLikeList purpose "Purpose" wikify>>
+<<EditTagLikeList tech.focus "Tech Focus" wikify>>
+
 {{||$:/twiki/working-group/Standards}}<br />
 
 <table>
 <$macrocall $name="linkrow" title="IPR" value={{!!ipr}} field="ipr" />
-<$macrocall $name="linkrow" title="Purpose" value={{!!purpose}} field="purpose" />
 <$macrocall $name="linkrow" title="Status" value={{!!status}} field="status" />
 <$macrocall $name="linkrow" title="Meeting Frequency" value={{!!meeting.frequency}} field="meeting.frequency" />
-<$macrocall $name="linkrow" title="Tech Focus" value={{!!tech.focus}} field="tech.focus" />
 </table>

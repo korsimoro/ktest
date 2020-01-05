@@ -5,16 +5,6 @@ title: DataModelView
 tmap.id: 4d8a695e-7030-4c1c-b049-78d00a18ab46
 type: text/vnd.tiddlywiki
 
-\define linkrow(title,value,field)
-<$reveal default="$value$" type="nomatch" text="" tag="tr">
-  <td>$title$</td>
-  <td><a href="$value$" >$value$</a></td>
-</$reveal>
-<$reveal default="$value$" type="match" text="" tag="tr">
-  <td>$title$</td>
-  <td><$edit-text tag="input" field="$field$" /></td>
-</$reveal>
-\end
 
 
 <$reveal type="match" state="!!element.type" text="organization" >

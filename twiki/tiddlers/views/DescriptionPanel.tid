@@ -39,6 +39,6 @@ type: text/vnd.tiddlywiki
 </$list>
 </$button>
 <br />
-{{}}
+<h3>{{}}</h3>
 
 </$reveal>

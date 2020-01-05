@@ -1,5 +1,5 @@
-created:1578185243280
-modified:1578185243280
+created:1578221566623
+modified:1578221566623
 title:HEART Working Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"04a58ab8-c56a-4064-92a8-f88ef9daa7d8":{"to":"ba82760c-73d8-4727-b59e-3381b121a32b","type":"organization-for-group"}}
-tmap.id:60efe7c2-4f96-43d5-8c74-a2f088c86b7b
+tmap.edges:{"5517429c-5e24-4f12-860b-d53dc4704be8":{"to":"97aa28a8-d22d-478d-a33e-75510d4a2fa5","type":"organization-for-group"}}
+tmap.id:ff7abd24-bbb2-413e-8255-50d840afc5b9
 url:
 
 The HEART Working Group intends to harmonize and develop a set of privacy and security specifications that enable an individual to control the authorization of access to RESTful health-related data sharing APIs, and to facilitate the development of interoperable implementations of these specifications by others.

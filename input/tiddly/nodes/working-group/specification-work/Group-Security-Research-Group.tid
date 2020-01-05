@@ -1,5 +1,5 @@
-created:1578185243289
-modified:1578185243289
+created:1578221566630
+modified:1578221566630
 title:Group Security Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"ce791081-82fb-4504-942a-ecc159a2876a":{"to":"14b02e23-1354-43a3-b06f-8aeba35477f8","type":"organization-for-group"}}
-tmap.id:82942a2e-18f2-42ca-9ae1-577cbca83407
+tmap.edges:{"eaa70305-3e7e-4cc2-bf47-84a1f02be535":{"to":"884fa960-7de0-4140-9ebb-dc8fa2a9a89a","type":"organization-for-group"}}
+tmap.id:fc62757b-0f69-41da-b9e3-954c463fa241
 url:
 
 

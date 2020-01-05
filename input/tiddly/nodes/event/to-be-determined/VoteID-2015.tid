@@ -1,10 +1,10 @@
-created:1578185246900
-modified:1578185246900
+created:1578221570117
+modified:1578221570117
 title:VoteID 2015
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
-date:Start Date
+date:
 element.type:event
 frequency:
 github.profile:
@@ -15,8 +15,8 @@ partners:
 people:
 relevant.publications:
 tags:
-tmap.edges:{"913cc9fc-31fe-439b-a80c-92d363159c2e":{"to":"e88498f3-ea96-4602-aab7-79ef29241706","type":"author"}}
-tmap.id:349bedd3-b189-4a1c-8c1a-91ea6f5b98ca
+tmap.edges:{"1fe5a4cc-dacc-4239-b054-a20e1fa2128f":{"to":"76b9fab1-bc1d-47f4-bd78-39df44dbd114","type":"author"}}
+tmap.id:9343a87f-4749-4e4a-b03d-d7d48132e14e
 website:http://www.voteid15.org
 working.group:
 

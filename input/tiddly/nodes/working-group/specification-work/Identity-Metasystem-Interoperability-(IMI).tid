@@ -1,5 +1,5 @@
-created:1578185243283
-modified:1578185243283
+created:1578221566625
+modified:1578221566625
 title:Identity Metasystem Interoperability (IMI)
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"d33353d2-ce50-411f-a315-f6847a394481":{"to":"80613b1e-46bf-4c61-8ca5-b43a17cb2aeb","type":"organization-for-group"}}
-tmap.id:9c894f2f-ab88-4665-b70d-5e8df186c0c3
+tmap.edges:{"4820a901-eca6-46e7-8b90-bd1588675cdd":{"to":"04ca7e1e-465f-402c-824f-668eba88e8c9","type":"organization-for-group"}}
+tmap.id:abcdf71c-2842-4251-92ce-2b8dd83ee2b9
 url:
 
 The OASIS IMI TC works to enable the use of Information Cards to universally manage personal digital identities. A Web 2.0-friendly method for shared light authentication, Information Cards let people authenticate themselves on multiple web sites without maintaining passwords for each site.

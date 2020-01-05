@@ -21,7 +21,7 @@ export interface Me2BElement {
 
 	title:string
 	type:string
-	subtype:string
+	subtype:string|Set<string>
 
 	description:string
 
@@ -37,7 +37,7 @@ export class SimpleMe2BElement implements Me2BElement  {
 
 	title:string
 	type:string
-	subtype:string
+	subtype:string|Set<string>
 	description:string
 
 	slugmap:{[key:string]:string}

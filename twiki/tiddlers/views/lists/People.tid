@@ -1,13 +1,11 @@
 created: 20191201134710530
 modified: 20200104125704837
-tags: 
+tags:
 title: People List
 tmap.id: 31bec9e3-0616-48e4-83d8-882cad4689e4
 type: text/vnd.tiddlywiki
 
 <h3>Complete Table Of People</h3>
-
-<<TableEditButton >>
 
 <table>
 <tr>

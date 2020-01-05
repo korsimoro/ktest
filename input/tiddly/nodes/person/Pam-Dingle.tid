@@ -1,5 +1,5 @@
-created:1578185245440
-modified:1578185245440
+created:1578221568690
+modified:1578221568690
 title:Pam Dingle
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Pam Dingle
 organization:
 tags:
-tmap.edges:{"4a2c1716-e267-4f01-b137-06fe0986f52e":{"to":"15533a17-42ab-4b4d-9d36-00d0dc5c43bd","type":"employee"},"a851c04e-d004-4482-96cf-2f9e6e9a54a5":{"to":"65b5b0fd-d918-4640-9529-3498c5bd87be","type":"author"},"2a849281-512e-47e4-b197-a63f25ac2e48":{"to":"95a35275-61f1-4dc8-80b7-7279669c4b49","type":"author"}}
-tmap.id:51ca76ea-51b3-44dd-9de0-e34ffcea4fa0
+tmap.edges:{"e1208776-2257-46af-ab7b-0dd444a8db95":{"to":"a1ba85f3-0535-4619-abfc-8acae3bd3ff5","type":"employee"},"e9fe088a-e589-4041-acdd-1bb124527d5a":{"to":"1de39c80-019e-4d11-8174-0a0d4c41f6bd","type":"author"},"c22fe73f-42be-4b09-9d56-a60cc1b8b4d5":{"to":"f8a891f9-b3c8-41b7-91c2-228f9f14b1d6","type":"author"}}
+tmap.id:b3133ed3-f8f3-430f-9bcc-91555c5563f6
 twitter.profile:
 website:http://eternallyoptimistic.com
 working.group:

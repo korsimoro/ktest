@@ -1,5 +1,5 @@
-created:1578185247051
-modified:1578185247051
+created:1578221570260
+modified:1578221570260
 title:IDTrust Member Section
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"c01a4329-662d-4a22-9094-9e3a625c0448":{"to":"80613b1e-46bf-4c61-8ca5-b43a17cb2aeb","type":"organization-for-group"}}
-tmap.id:f3dd31b1-3aa2-4315-8bc0-273d6148cd55
+tmap.edges:{"887dba8d-af3d-4f58-bedb-30814e1bb239":{"to":"04ca7e1e-465f-402c-824f-668eba88e8c9","type":"organization-for-group"}}
+tmap.id:57e5e112-7fdb-49f9-8fda-d334bccf69dc
 url:
 
 The OASIS Identity and Trusted Infrastructure (IDtrust) Member Section promotes greater understanding and adoption of standards-based identity and trusted infrastructure technologies, policies, and practices. The group provides a neutral setting where government agencies, companies, research institutes, and individuals work together to advance the use of trusted infrastructures, including the Public Key Infrastructure (PKI).

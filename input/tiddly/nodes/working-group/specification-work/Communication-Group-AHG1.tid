@@ -1,5 +1,5 @@
-created:1578185243286
-modified:1578185243286
+created:1578221566627
+modified:1578221566627
 title:Communication Group AHG1
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"e31b1afa-6176-46a3-834f-fba0264700cd":{"to":"1776f52a-0aa5-4277-8333-9aa18806f331","type":"organization-for-group"}}
-tmap.id:805be33c-b071-4c2c-9570-fc0a97322f62
+tmap.edges:{"1ccfde07-50b7-4795-b241-400293d05a67":{"to":"7991efaa-37c7-4a25-9372-57fefc5d0c1c","type":"organization-for-group"}}
+tmap.id:dec4ca15-fde2-42e8-98e0-a6312c3c2dd8
 url:
 
 

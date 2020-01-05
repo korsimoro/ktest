@@ -1,10 +1,10 @@
-created:1578185246889
-modified:1578185246889
+created:1578221570062
+modified:1578221570062
 title:International Identity Law and Policy Workshop
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
-date:Start Date
+date:
 element.type:event
 frequency:
 github.profile:
@@ -15,8 +15,8 @@ partners:
 people:
 relevant.publications:
 tags:
-tmap.edges:{"56141910-a138-47ee-8a6d-a1842e081688":{"to":"4bcb4246-554d-4b37-ac16-0f2f98aa4492","type":"author"}}
-tmap.id:a1700092-0bc8-4394-95c3-7928886cbaf8
+tmap.edges:{"fcfc5a32-ea06-46ba-a5ce-210346fea0a1":{"to":"0ef8ada4-9bba-4d28-b41d-d2bd0064484f","type":"author"}}
+tmap.id:344291c3-1fb3-4c41-91a9-a9d2df1b39b9
 website:http://openidentityexchange.org/2016/01/international-identity-law-policy-workshop/
 working.group:
 

@@ -28,6 +28,13 @@ function getPublicationOrgs(elt:KumuElement) {
 }
 
 export const mappers:any = {
+  kumu_start_date(colName:string,dflt:string = '') {
+    function mapper(elt:KumuElement,schema:SchemaPropertyDef):string {
+      console.log("ELT.fields",colName,elt.fields[colName],elt.fields)
+      return elt.fields[colName] || dflt
+    }
+    return mapper
+  },
   string(colName:string,dflt:string = '') {
     function mapper(elt:KumuElement,schema:SchemaPropertyDef):string {
       return elt.fields[colName] || dflt
@@ -156,12 +163,41 @@ export const mappers:any = {
     function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
       let st = elt.slugmap[elt.model.slugify(column_name)]
       if(!st) st = 'to-be-determined'
-      elt.subtype = elt.model.slugify(st).trim()
+      st = elt.model.slugify(st).trim().toLowerCase()
+      elt.subtype = st
       return st
     }
     return mapper
-  }
-}
+  },
+  me2b_set_subtype_and_array_field(colName:string) {
+    function trimit(x:string) {
+      var y=x.trim().toLowerCase()
+      if(y.endsWith("."))
+        y = y.substring(0, y.length - 1);
+      if(y.endsWith(";"))
+        y = y.substring(0, y.length - 1);
+      return y
+    }
+
+    function mapper(elt:Me2BElement,schema:SchemaPropertyDef):Set<string> {
+      const colname = elt.model.slugify(colName)
+      const tagdata = (elt.slugmap[colname] || '').trim()
+      const tags = new Set<string>()
+      if(tagdata) {
+        const t = tagdata.split("\n").join(":").split(",").join(":").split(":")
+        console.log("MAPPED CATEGORY",colName,tagdata,t,elt.fields)
+        for(let a of t)
+          tags.add("[["+trimit(a)+"]]")
+      }
+      console.log("ST TAG-ARRAY",elt.type,"/",colname,":",tags)
+      const vals = [] as string[]
+      tags.forEach((v) => { vals.push(v.trim()) })
+      const tstr = vals.join(" ")
+      elt.subtype = tstr
+      return tags
+    }
+    return mapper
+  },}
 
 
 import { inbound as eventMapper } from './event'

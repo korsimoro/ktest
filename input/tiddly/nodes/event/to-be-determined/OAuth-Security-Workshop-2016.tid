@@ -1,10 +1,10 @@
-created:1578185246887
-modified:1578185246887
+created:1578221570057
+modified:1578221570057
 title:OAuth Security Workshop 2016
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
-date:Start Date
+date:
 element.type:event
 frequency:
 github.profile:
@@ -16,7 +16,7 @@ people:
 relevant.publications:
 tags:
 tmap.edges:{}
-tmap.id:e10dd334-9eb1-445b-a947-a7eab6cbce61
+tmap.id:80ef7b0f-7197-4fa1-8190-537d80f35447
 website:https://infsec.uni-trier.de/events/osw2016
 working.group:
 

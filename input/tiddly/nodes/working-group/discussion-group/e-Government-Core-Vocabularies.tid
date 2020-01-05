@@ -1,5 +1,5 @@
-created:1578185243275
-modified:1578185243275
+created:1578221566618
+modified:1578221566618
 title:e-Government Core Vocabularies
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"d388befa-3851-4338-a99b-24e7fc22d31d":{"to":"fe3cadf7-c42e-4469-a195-4ae15e1cce2e","type":"author"}}
-tmap.id:30e0dec3-4380-4cb6-9971-9921249bcba9
+tmap.edges:{"00ba2182-12a6-41f8-a7f9-e0b55eeccd44":{"to":"10a49852-9141-4249-a968-00cf508d2dd8","type":"author"}}
+tmap.id:5f827f60-653c-4cd8-af61-d9c9458ea495
 url:https://joinup.ec.europa.eu/node/145983
 
 The e-Government Core Vocabularies are simplified, re-usable and extensible data models that capture the fundamental characteristics of an entity, such as a person, a business, a location or a public service, in a context-neutral way. They can be used by public administrations to attain a minimum level of semantic interoperability for e-Government systems.

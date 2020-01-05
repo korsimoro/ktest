@@ -1,5 +1,5 @@
-created:1578185245095
-modified:1578185245095
+created:1578221568333
+modified:1578221568333
 title:Thomas Hardjono
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Thomas Hardjono
 organization:
 tags:
-tmap.edges:{"3f63d664-9e66-4dc3-8e40-220ab0e2bbdf":{"to":"8c640c14-d1a7-4241-aa0d-06f999e121f7","type":"vice-chair"},"cbb4352b-308c-4975-bbe0-0eb0de754337":{"to":"ab53619e-f010-4916-b3bc-2e04c11e6bfb","type":"vice-chair"},"4f03a17b-3f20-47e5-b4cc-db12bd4d64a8":{"to":"82942a2e-18f2-42ca-9ae1-577cbca83407","type":"vice-chair"},"2b4f7e0f-63d8-4a56-ae7a-3ce25de60d0e":{"to":"ea69b84f-6bde-4a28-aade-7962908c6a91","type":"person-affiliated"},"f939e279-6159-400d-8d83-eb5500102656":{"to":"cbc3d251-283f-437d-aeb5-0b52c30e7884","type":"employee"},"b5092d1b-e65c-4164-922b-1f8f5f45c07b":{"to":"e24bcd8f-5b7a-4f38-a41b-a0a87de0040c","type":"person-affiliated"},"7d531ff6-5105-4a58-995c-e958f3bf63b5":{"to":"b7ae7b76-7717-4b2a-8892-6fd379883d33","type":"vice-chair"},"75f2bbac-c4e5-424a-b3c9-477de6cb6e38":{"to":"f7cc5ce7-f970-4e9c-98e8-82ad29e6cf02","type":"author"}}
-tmap.id:fd04a22a-a403-403f-858f-900eef458125
+tmap.edges:{"b67d38ac-1f37-49a3-813b-fb4a20631e55":{"to":"1c4ba78d-4c5b-420a-baae-791749a985f2","type":"vice-chair"},"6637f226-b7b9-4745-8cd9-23c63de7dc3e":{"to":"931dc9f4-3b67-4b90-8d0d-74e2e31968ae","type":"vice-chair"},"b3f5e187-bd8e-44f1-bcf8-1e39f738bfa5":{"to":"fc62757b-0f69-41da-b9e3-954c463fa241","type":"vice-chair"},"e362e4c8-93d0-44aa-8b04-b4186c756aa5":{"to":"eae09368-f871-4bcf-a599-2640e2967dcf","type":"person-affiliated"},"577ad9aa-5b46-4d21-9513-4d9b394f3409":{"to":"c769e2a4-4a93-4175-9dbc-741b80480375","type":"employee"},"0fc613a5-17dd-4ea5-88b1-27b7c3126f53":{"to":"02a94f24-79e4-44eb-8e02-fb08f7bf767f","type":"person-affiliated"},"d52efb12-2754-4a9a-a90d-598d62049c1f":{"to":"baaa96b1-0b24-44ad-9a96-13225bb40c0f","type":"vice-chair"},"b648e9b7-daa2-422a-a66a-36028f895b6e":{"to":"99d69cbe-2d6e-41b6-8c87-b2f8194f4d73","type":"author"}}
+tmap.id:d544a910-b45a-4e51-b7fc-28398f203dd6
 twitter.profile:
 website:http://www.kerberos.org/people/hardjono.html
 working.group:

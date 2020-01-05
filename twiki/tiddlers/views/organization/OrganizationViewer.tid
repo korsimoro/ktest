@@ -2,40 +2,63 @@ title: $:/twiki/organization/Viewer
 type: text/vnd.tiddlywiki
 
 
-<$reveal state={{!!parent.org}} type="nomatch" text="">
-<h3>Parent <$link to={{!!parent.org}}>{{!!parent.org}}</$link></h3>
-</$reveal>
+<table>
+<tr>
+  <td>
+    <$link to={{!!parent.org}}>Parent</$link>
+  </td>
+  <td>
+    <<selectOrganization parent.org >>
+  </td>
+</tr>
 
-<h3>
-Organization Type:<$select field=org.type>
-<$list filter="[all[]each[org.type]get[org.type]sort[title]]" variable="type" >
-<option><<type>></option>
-</$list>
-</$select><br />
-Me2B Relationship:<$select field=me2b.relationship>
-<$list filter="[all[]each[me2b.relationship]get[me2b.relationship]sort[title]]" variable="type" >
-<option><<type>></option>
-</$list>
-</$select>
-</h3>
+<tr>
+  <td>
+    <$link to={{!!org.type}}>Organization Type</$link>
+  </td>
+  <td>
+    <$select field=org.type>
+      <$list filter="[all[]each[org.type]get[org.type]sort[title]]" variable="type" >
+      <option><<type>></option>
+      </$list>
+    </$select>
+  </td>
+</tr>
 
-{{||Location}}
-{{||Dates}}<br />
-{{||OrganizationFunding}}<br />
+<tr>
+  <td>
+    <$link to={{!!me2b.relationship}}>Me2B Relationship</$link>
+  </td>
+  <td>
+    <$select field=me2b.relationship>
+      <$list filter="[all[]each[me2b.relationship]get[me2b.relationship]sort[title]]" variable="type" >
+      <option><<type>></option>
+      </$list>
+    </$select>
+  </td>
+</tr>
+</table>
 {{||Social}}
-{{||DigitalHarmsAddressed}}
-{{||Activities}}
-{{||People}}<br />
+
+<ul>
+  <li>{{||Location}}</li>
+  <li>{{||Dates}}</li>
+  <li>{{||OrganizationFunding}}</li>
+</ul>
+
+<<EditTagLikeList digital.harms.addressed "Digital Harms Addressed" wikify>>
+<<EditTagLikeList activities "Activities" >>
+<<EditTagLikeList people "People" wikify>>
+<<EditTagLikeList audience "Audience" wikify>>
+<<EditTagLikeList purpose "Purpose" wikify>>
+<<EditTagLikeList tech.focus "Tech Focus" wikify>>
+
 {{||RelevantPublications}}<br />
 {{||ProductsAndServices}}<br />
 
 
-
 <table>
-<$macrocall $name="linkrow" title="Audience" value={{!!audience}} field="audience" />
 <$macrocall $name="linkrow" title="Partners" value={{!!partners}} field="partners" />
-<$macrocall $name="linkrow" title="Purpose" value={{!!purpose}} field="purpose" />
 <$macrocall $name="linkrow" title="Scope" value={{!!scope}} field="scope" />
 <$macrocall $name="linkrow" title="Sector" value={{!!sector}} field="sector" />
-<$macrocall $name="linkrow" title="Tech Focus" value={{!!tech.focus}} field="tech.focus" />
 </table>

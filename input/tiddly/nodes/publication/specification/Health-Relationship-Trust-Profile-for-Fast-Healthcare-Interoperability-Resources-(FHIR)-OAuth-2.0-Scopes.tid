@@ -1,5 +1,5 @@
-created:1578185243833
-modified:1578185243833
+created:1578221567145
+modified:1578221567145
 title:Health Relationship Trust Profile for Fast Healthcare Interoperability Resources (FHIR) OAuth 2.0 Scopes
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:HEART Working Group
 tags:
 tech.focus:
-tmap.edges:{"085bbc67-3265-4b10-b7c8-9810a817607a":{"to":"60efe7c2-4f96-43d5-8c74-a2f088c86b7b","type":"specification-of-group"}}
-tmap.id:eaf930d4-473c-4d40-9749-cd36fb5be200
+tmap.edges:{"c2997d7d-b827-4f9c-a426-e051abdc857c":{"to":"ff7abd24-bbb2-413e-8255-50d840afc5b9","type":"specification-of-group"}}
+tmap.id:ac9d8a02-7191-4f8c-ada8-1b90f8c06dde
 url:
 version.or.edition:
 volume.frequency:

@@ -15,7 +15,7 @@ export const inbound : any = {
   },
   "Category" : {
     "kumu": mappers.string('SubType'),
-    "me2b": mappers.me2b_set_subtype_and_field('Category')
+    "me2b": mappers.me2b_set_subtype_and_array_field('Category')
   },
   "Host Organization" : {
     "kumu": mappers.connectionIfExists('convenor'),
@@ -46,7 +46,7 @@ export const inbound : any = {
     "me2b": mappers.csv_value('Frequency')
   },
   "Date" : {
-    "kumu": mappers.default('Start Date'),
+    "kumu": mappers.kumu_start_date('Start Date'),
     "me2b": mappers.csv_value('Date')
   },
   "Location(s)": {

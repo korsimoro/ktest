@@ -5,7 +5,7 @@ tmap.id: 1f9f71e0-596d-4bd8-8baf-7a78f01432ab
 type: text/vnd.tiddlywiki
 
 <$reveal type="nomatch" state="!!editing.dates" text="yes">
-  <$button $setField="editing.dates" $setTo="yes">
+  <$button $setField="editing.dates" $setTo="yes" tag="div">
     <$action-setfield $field="editing.dates" $value="yes" />
     <$reveal type="match" state="!!date.ended" text="">
       <$reveal type="match" state="!!date.founded" text="">

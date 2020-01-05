@@ -7,13 +7,19 @@ type: text/vnd.tiddlywiki
 
 \define peerlist(elementtype,subtypefield,subtypevalue)
 <table>
-<$list filter="[all[]field:element.type[$elementtype$]field:$subtypefield$[$subtypevalue$]]" >
-<tr>
-  <td><$link>{{!!title}}</$link></td>
-  <td>{{!!activities}}</td>
-  <td>{{!!digital.harms.addressed}}</td>
-</tr>
-</$list>
+  <tr>
+    <th>Title</th>
+    <th>Activities</th>
+    <th>Digital Harms Addressed</th>
+  </tr>
+
+  <$list filter="[all[]field:element.type[$elementtype$]field:$subtypefield$[$subtypevalue$]]" >
+    <tr>
+      <td><$link>{{!!title}}</$link></td>
+      <td><<TagLikeList activities " " >></td>
+      <td><<TagLikeList digital.harms.addressed " " >></td>
+    </tr>
+  </$list>
 </table>
 \end
 

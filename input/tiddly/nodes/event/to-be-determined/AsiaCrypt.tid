@@ -1,10 +1,10 @@
-created:1578185246903
-modified:1578185246903
+created:1578221570121
+modified:1578221570121
 title:AsiaCrypt
 type:text/vnd.tiddlywiki
 audience:
 category:TO BE DETERMINED
-date:Start Date
+date:
 element.type:event
 frequency:
 github.profile:
@@ -16,7 +16,7 @@ people:
 relevant.publications:
 tags:
 tmap.edges:{}
-tmap.id:93cdcb94-fd20-4876-996f-02184ec815b0
+tmap.id:22bfb716-bb05-4a29-b627-b0e87c3f296d
 website:http://www.asiacrypt2016.com
 working.group:
 
