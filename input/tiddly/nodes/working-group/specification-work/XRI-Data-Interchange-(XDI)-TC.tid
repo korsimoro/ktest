@@ -1,5 +1,5 @@
-created:1578233353701
-modified:1578233353701
+created:1578267624955
+modified:1578267624955
 title:XRI Data Interchange (XDI) TC
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"b13ed7e3-56ed-4493-bbeb-b806eb6b4791":{"to":"cea98940-2d01-481f-9d9c-de239097ecf9","type":"organization-for-group"}}
-tmap.id:0aed7a76-7443-4ad9-a619-bf62ba21a863
+tmap.edges:{"edd5c89f-6a41-4fd3-8281-f4a5685992b1":{"to":"6619db48-636e-4771-8475-d5e19135dd0a","type":"organization-for-group"}}
+tmap.id:b5a8e470-476e-4bf8-8f09-b1d5f0f348c2
 url:https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=xdi
 
 The purpose of the XDI TC is to define a format and protocol for semantic data interchange using a standard addressable semantic graph model serialized in JSON.

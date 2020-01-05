@@ -1,5 +1,5 @@
-created:1578233356847
-modified:1578233356847
+created:1578267628002
+modified:1578267628002
 title:John Bradley
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:John Bradley
 organization:
 tags:
-tmap.edges:{"ff81dd0e-0573-45bd-a8a9-94991b68f02a":{"to":"92b480f7-c8e2-4094-a96f-1187a28673ca","type":"author"},"9e18e85d-c7b0-461a-b312-89ce78de613d":{"to":"80d9592d-3b7a-42a6-9fd2-f6ba69bb0247","type":"author"},"0548ddb8-c962-487f-91f3-b1ff6209b2e0":{"to":"d080bb10-a73f-47d9-910b-6e5898785bd8","type":"author"},"868cc28f-a283-4e40-92c6-881e8d2bba55":{"to":"51365a68-ccd5-4611-a56f-b2dc0eae6fcb","type":"author"},"96d17070-b2d9-4e79-bfde-e54f60065acb":{"to":"2f225e12-7036-4361-b492-ff4246633852","type":"author"},"fd12e874-3355-4f11-83ee-16acb7867eff":{"to":"057553cd-e5fa-4a6e-a5a7-6af224d800f1","type":"author"},"9eaeb97d-3c73-4814-a231-8c1e6c8fc456":{"to":"92b480f7-c8e2-4094-a96f-1187a28673ca","type":"default"},"0c0f07b9-3172-4f4e-a242-bffb529877b1":{"to":"b2c8b84c-3a31-45a3-9652-c5ef85267f85","type":"vice-chair"},"a76ad264-cf39-4899-9b98-787aa9b2672e":{"to":"24d35000-bf92-422e-ae7d-86c23163c890","type":"author"},"1273e37d-b5c2-473f-ba7c-10ba1ec392ee":{"to":"0e114d20-57a0-4cb9-a8e1-0b931bcc805e","type":"employee"},"fe2b2664-b557-4f4a-ac40-fb46321a272a":{"to":"ede9435f-b8d4-45ac-90bf-9095cf84cf59","type":"author"},"eb8efd13-8e6d-4c2e-8609-50a2d691f722":{"to":"951b67b1-973e-4545-a59d-0ad09833f3e0","type":"author"}}
-tmap.id:59ea15ba-07ed-49aa-9cb7-c5727c2b807f
+tmap.edges:{"03998b2b-7771-4336-8645-a62669719759":{"to":"0b316847-bd62-4924-9ac4-af785b7d5b9e","type":"author"},"ba236f9e-2c6a-4a23-a348-a3b38b6c15c5":{"to":"61c8b9ef-caee-4e51-95a5-9f23b8aed9b9","type":"author"},"28f5301f-a2bd-4a06-9460-1c576ea25ab2":{"to":"8618f2ec-4403-4a98-a23d-b72cdf760acf","type":"author"},"3117938d-41bb-487f-87e1-2f3fde47d0c5":{"to":"cf016510-fff0-4141-ab0d-7072e9289ea4","type":"author"},"b503d888-682b-4d4b-894d-522407a7e592":{"to":"f2319e1d-3a0a-4b63-8afe-8539fdf661ab","type":"author"},"be5d2516-df0c-4f75-9fd3-94d366e3b2ee":{"to":"1c64f192-3e5f-49bc-86f3-f92f8f8f5cf6","type":"author"},"7641315c-7b04-4db7-be26-a73b0f6cdd93":{"to":"0b316847-bd62-4924-9ac4-af785b7d5b9e","type":"default"},"95ee0e86-76db-4b1e-a9f5-d6f058b5f9a6":{"to":"8534e1a1-b66a-4666-8303-bd00492c7ee8","type":"vice-chair"},"a94519ae-521b-4c98-a1d5-1d4de4bdac28":{"to":"715f8b33-5f37-4fd8-85b6-20bb46a873b8","type":"author"},"94283797-79c5-48b6-b7fb-83f03fac15a7":{"to":"065d001f-d8ab-4a67-bde9-60b8113a40f2","type":"employee"},"ff9a5f38-98ee-4320-9295-06dfcb0f5fab":{"to":"dc3ae417-aac7-4313-8152-6cadc6970b13","type":"author"},"70048b94-1ca4-435b-891f-55db94b8f108":{"to":"cfe5e1d7-086e-4cc3-8cf2-5c8fa813f8fd","type":"author"}}
+tmap.id:ef0d9b12-a20c-45a1-a867-d4c3236456e8
 twitter.profile:
 website:http://www.thread-safe.com/
 working.group:

@@ -31,4 +31,4 @@ type: text/vnd.tiddlywiki
 </tr>
 </table>
 
-<<tabs "WelcomeDigitalHarms WelcomeActivities WelcomeTags WelcomeMe2B WelcomeAudience WelcomeLocation WelcomeLicenses TypeBreakdown" WelcomeDigitalHarms "$:/state/tab96" >>
+<<tabs "WelcomeDigitalHarms WelcomeActivities WelcomePurpose WelcomeTags WelcomeMe2B WelcomeAudience WelcomeLocation WelcomeLicenses TypeBreakdown" WelcomeDigitalHarms "$:/state/tab96" >>

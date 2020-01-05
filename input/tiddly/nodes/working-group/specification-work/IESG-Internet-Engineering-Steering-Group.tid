@@ -1,5 +1,5 @@
-created:1578233354138
-modified:1578233354138
+created:1578267625398
+modified:1578267625398
 title:IESG -  Internet Engineering Steering Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"fc129209-bcb7-438f-936b-ac510286d546":{"to":"bd6f2b23-f106-443b-b408-757927b5bedb","type":"connection"},"745ad1df-a1ef-4fb6-8714-37acdcb3de4c":{"to":"aab94e3d-e84a-4bd2-afbd-d21926a62702","type":"organization-for-group"}}
-tmap.id:486f9902-81b5-45dc-b4dc-a23951d5da2b
+tmap.edges:{"e4f894e2-3b6e-4514-b4a5-1dbef50c9df3":{"to":"780bfc8f-1ace-4c7b-adc4-51575215c114","type":"connection"},"f1f3fbae-ae93-4389-8bdf-3db1f31c82d3":{"to":"27c53b44-7973-44c7-847d-a3a54982cea3","type":"organization-for-group"}}
+tmap.id:469ebf44-e8d7-4c3f-afd2-8b19878c4d5e
 url:
 
 

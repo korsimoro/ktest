@@ -1,5 +1,5 @@
-created:1578233353704
-modified:1578233353704
+created:1578267624957
+modified:1578267624957
 title:Privacy Management Reference Model
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"2fc04831-90c1-44a1-99d2-791f3f742475":{"to":"cea98940-2d01-481f-9d9c-de239097ecf9","type":"organization-for-group"}}
-tmap.id:7c78b4a1-c05c-457a-b172-e4f1cc16bff8
+tmap.edges:{"88f2d77b-1378-47ed-8ae9-b029c91be8bc":{"to":"6619db48-636e-4771-8475-d5e19135dd0a","type":"organization-for-group"}}
+tmap.id:01b67675-dfdc-439b-adab-9f3e53b3efb1
 url:https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=pmrm
 
 The OASIS PMRM TC works to provide a standards-based framework that will help business process engineers, IT analysts, architects, and developers implement privacy and security policies in their operations. PMRM picks up where broad privacy policies leave off. Most policies describe fair information practices and principles but offer little insight into actual implementation. PMRM provides a guideline or template for developing operational solutions to privacy issues. It also serves as an analytical tool for assessing the completeness of proposed solutions and as the basis for establishing categories and groupings of privacy management controls.

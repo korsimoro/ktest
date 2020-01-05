@@ -1,5 +1,5 @@
-created:1578233354577
-modified:1578233354577
+created:1578267625827
+modified:1578267625827
 title:Health Relationship Trust Profile for OpenID Connect 1.0
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:HEART Working Group
 tags:
 tech.focus:
-tmap.edges:{"2078be66-45e1-4544-a43e-6cb7ae1c093e":{"to":"81f60836-22bf-42a1-8340-5e495a360c03","type":"specification-of-group"}}
-tmap.id:f3899266-5cd5-4fca-8b6d-9f14ef6eb2c8
+tmap.edges:{"6cd0c612-3c6e-4cb9-8c8e-a8716f9881ff":{"to":"0f0884fd-4a25-470b-aa5b-281533da1a42","type":"specification-of-group"}}
+tmap.id:1683fa78-fe26-49ac-9087-dbd1bb11958c
 url:http://openid.bitbucket.org/heart/openid-heart-oidc.html
 version.or.edition:
 volume.frequency:

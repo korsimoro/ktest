@@ -1,5 +1,5 @@
-created:1578233356731
-modified:1578233356731
+created:1578267627831
+modified:1578267627831
 title:Gershon Janssen
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Gershon Janssen
 organization:
 tags:
-tmap.edges:{"75da945a-e22b-4ca6-bf01-c4944b363727":{"to":"2a21cc23-bf96-4126-b21b-46048aa8f469","type":"person-affiliated"}}
-tmap.id:d3a5a313-a518-4ea3-8a2b-1db7d10fcf57
+tmap.edges:{"d580fa8b-805b-4c69-96be-2fcef4cc71f5":{"to":"da07af1d-732b-4ed1-b03b-7c44cfac3b66","type":"person-affiliated"}}
+tmap.id:dfea4ae8-a1ad-4811-9652-887daaf4c2a2
 twitter.profile:
 website:
 working.group:

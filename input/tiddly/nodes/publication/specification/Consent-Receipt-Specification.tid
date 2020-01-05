@@ -1,5 +1,5 @@
-created:1578233354807
-modified:1578233354807
+created:1578267626075
+modified:1578267626075
 title:Consent Receipt Specification
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Consent and Information Sharing Working  Group
 tags:
 tech.focus:
-tmap.edges:{"031e6c6b-a8cb-4615-b775-03bfcfe648e6":{"to":"01404495-6530-42c7-b6cb-550fcabd60a0","type":"author"},"da902748-2194-4765-9863-241c3f9a7836":{"to":"0070ea96-103e-4692-a2d2-d5647b3250fb","type":"author"},"a9b0d3b2-b581-4d47-9dd9-d781dfa2d4fd":{"to":"ce20fc21-ee0d-42c4-b4f0-1ab5e3f6a306","type":"author"},"ceb5f41f-8865-4b14-845b-fac07cfaefc0":{"to":"b6b721b6-9c97-48a9-aade-e137a92675a2","type":"specification-of-group"}}
-tmap.id:36a711d4-541c-4866-9e82-429af983196d
+tmap.edges:{"bbb76bc6-53a6-4da3-8054-d44ef1c96551":{"to":"e26943cb-b514-4e28-8acc-6c710f5eb3da","type":"author"},"2520efdc-6b77-4c35-9eda-e2aebb0fd11b":{"to":"44cad322-bdfc-4438-ad6f-460ccc6fd220","type":"author"},"62b47480-d930-48bb-8058-8f88dbd76bb3":{"to":"cafe3a16-3c55-48e5-a6f8-d6af7add28f0","type":"author"},"a0f00f6d-d4ab-4c61-baf5-ba5b8b9448a9":{"to":"88c91569-1588-4ea0-9804-ee40bf8acc76","type":"specification-of-group"}}
+tmap.id:e0006cdc-8676-49dd-9da0-8bfbf7eae64c
 url:https://kantarainitiative.org/confluence/display/infosharing/consent+receipt+specification
 version.or.edition:
 volume.frequency:

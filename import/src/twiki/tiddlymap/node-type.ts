@@ -16,7 +16,7 @@ const images = [
 ]
 const imageMap = {
 	"event": "\\xff417",
-	"organization": "\\xff50c", // f0c0
+	"organization": "\\xff209", //"\\xff50c", // f0c0
 	"project-or-product": "\\xff085",
 	"publication": "\\xff026", // f518
 	"working-group": "\\xff0b1", // f5ae, f6ec

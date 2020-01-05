@@ -1,5 +1,5 @@
-created:1578233355039
-modified:1578233355039
+created:1578267626244
+modified:1578267626244
 title:LDAP
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"e1b6522f-c971-4d8d-9c22-31667ea687e6":{"to":"09638545-76e2-44ed-bfcd-a5a72c8b935e","type":"organization-for-group"}}
-tmap.id:2821a095-9f0d-4922-9394-c9c6e50e1a4a
+tmap.edges:{"3cf70fd5-89b9-456d-95b1-09f9f6e60abd":{"to":"a54120ba-8e8f-4bdb-bb72-a22142cdff83","type":"organization-for-group"}}
+tmap.id:fc5a6133-2260-4c38-9b9a-ed12f6f38552
 url:https://tools.ietf.org/html/rfc4511
 version.or.edition:
 volume.frequency:

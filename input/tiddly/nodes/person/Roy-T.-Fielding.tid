@@ -1,5 +1,5 @@
-created:1578233356925
-modified:1578233356925
+created:1578267628014
+modified:1578267628014
 title:Roy T. Fielding
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Roy T. Fielding
 organization:
 tags:
-tmap.edges:{"79d72600-6b4f-400b-bc12-579595fb7b16":{"to":"89d5f665-2ecf-4428-a304-a95ae26b0d94","type":"employee"},"4f7b4377-7f56-4dd6-a27f-499288e02811":{"to":"a6cdaa7c-afde-49b2-91c8-970c14ce9f3f","type":"author"}}
-tmap.id:dcbdbe0d-c60f-41e9-a0d3-6418aaf719ae
+tmap.edges:{"678a6f9b-d311-46cd-8c0c-1b8919e16ab6":{"to":"6f625a60-4feb-4e5e-a7a3-1f35c0fb904a","type":"employee"},"46723cc1-13b3-4cb4-b73b-35231ea9c73b":{"to":"46b8849f-ac9f-4b97-a4d2-04fbce399f8d","type":"author"}}
+tmap.id:b102bb66-1da7-404b-b45d-2dcebd3c634c
 twitter.profile:
 website:
 working.group:

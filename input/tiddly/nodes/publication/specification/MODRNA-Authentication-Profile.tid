@@ -1,5 +1,5 @@
-created:1578233354891
-modified:1578233354891
+created:1578267626170
+modified:1578267626170
 title:MODRNA Authentication Profile
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:MONDRNA
 tags:
 tech.focus:
-tmap.edges:{"016fc0c3-9ed4-4184-88fa-4088aac29863":{"to":"97aee1a3-2952-4825-91df-1497abd9bdc8","type":"specification-of-group"}}
-tmap.id:2f225e12-7036-4361-b492-ff4246633852
+tmap.edges:{"f1b46e4c-1329-499a-b7d7-478136b9c2fb":{"to":"ae70aec4-8ee0-4b58-ac65-6af1ee7ab3c1","type":"specification-of-group"}}
+tmap.id:f2319e1d-3a0a-4b63-8afe-8539fdf661ab
 url:https://bitbucket.org/openid/mobile/raw/default/draft-mobile-authentication-01.txt
 version.or.edition:
 volume.frequency:

@@ -1,5 +1,5 @@
-created:1578233354883
-modified:1578233354883
+created:1578267626161
+modified:1578267626161
 title:OAuth Token Introspection (RFC7662)
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:OAuth WG
 tags:
 tech.focus:
-tmap.edges:{"9b10c3b5-9fd7-4bba-a25e-37eb7a1e5535":{"to":"c36e66dc-9da8-42a9-8894-0147cf76bd2b","type":"specification-of-group"}}
-tmap.id:49ff4bc7-d2d5-4ca9-8b2b-ae2b8f6b8e99
+tmap.edges:{"7ca1e912-0d79-4f21-8ee8-21cfef34e86b":{"to":"ecb9e251-d744-4084-9d8b-53185a52cf8f","type":"specification-of-group"}}
+tmap.id:48d35564-7d12-41c5-a1ae-92369f816b1c
 url:
 version.or.edition:
 volume.frequency:
