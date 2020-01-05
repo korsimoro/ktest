@@ -1,9 +1,9 @@
-created:1578221566641
-modified:1578221566641
+created:1578233354296
+modified:1578233354296
 title:Developing Countries Contact Group DCCG
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Developing Countries Contact Group DCCG
-parent.org:ISO/TC 292 Security and Resilience
+parent.org:iso/tc 292 security and resilience
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"f913c2ff-9804-4950-a604-d559604dc170":{"to":"7991efaa-37c7-4a25-9372-57fefc5d0c1c","type":"organization-for-group"}}
-tmap.id:4303a348-afd3-4930-9334-1c449d5eed01
+tmap.edges:{"459b514f-b730-4b25-8438-3f53d51cccb2":{"to":"5828614c-7084-4104-9f00-861b3501ab22","type":"organization-for-group"}}
+tmap.id:c3a54571-c579-4d96-aeb4-e997fe098141
 url:
 
 

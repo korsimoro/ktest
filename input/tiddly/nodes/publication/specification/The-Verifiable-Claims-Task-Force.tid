@@ -1,9 +1,9 @@
-created:1578221567044
-modified:1578221567044
+created:1578233354791
+modified:1578233354791
 title:The Verifiable Claims Task Force
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:The Verifiable Claims Task Force
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"ecb57ed4-8562-4490-b420-381691a811c8":{"to":"f1bd19ee-68b3-4959-b100-cbcc1c8ce291","type":"organization-for-group"}}
-tmap.id:a5a2baeb-4e8f-4916-9c7d-ced5ca86b51a
-url:https://www.w3.org/Payments/IG/wiki/Main_Page/ProposalsQ42015/VerifiableClaimsTaskForce
+tmap.edges:{"1abef8d7-cc14-4536-808e-e8eb6b7d876e":{"to":"40aad628-0e17-4ce5-823f-6b298476743b","type":"organization-for-group"}}
+tmap.id:3add1f88-b50e-492b-b6e3-ba1095008772
+url:https://www.w3.org/payments/ig/wiki/main_page/proposalsq42015/verifiableclaimstaskforce
 version.or.edition:
 volume.frequency:
 working.group:

@@ -1,9 +1,9 @@
-created:1578221566877
-modified:1578221566877
+created:1578233354577
+modified:1578233354577
 title:Health Relationship Trust Profile for OpenID Connect 1.0
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):Justin Richer
+authors.editors:Justin Richer
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:Health Relationship Trust Profile for OpenID Connect 1.0
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:HEART Working Group
 tags:
 tech.focus:
-tmap.edges:{"a787ec60-311c-4a37-b516-85100eed7dfe":{"to":"ff7abd24-bbb2-413e-8255-50d840afc5b9","type":"specification-of-group"}}
-tmap.id:0e6cca89-3e39-4439-a78c-b5933816fc08
-url:http://openid.bitbucket.org/HEART/openid-heart-oidc.html
+tmap.edges:{"2078be66-45e1-4544-a43e-6cb7ae1c093e":{"to":"81f60836-22bf-42a1-8340-5e495a360c03","type":"specification-of-group"}}
+tmap.id:f3899266-5cd5-4fca-8b6d-9f14ef6eb2c8
+url:http://openid.bitbucket.org/heart/openid-heart-oidc.html
 version.or.edition:
 volume.frequency:
 working.group:

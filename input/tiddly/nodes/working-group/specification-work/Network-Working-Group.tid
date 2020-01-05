@@ -1,9 +1,9 @@
-created:1578221566627
-modified:1578221566627
+created:1578233353962
+modified:1578233353962
 title:Network Working Group
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Network Working Group
-parent.org:IETF
+parent.org:ietf
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"ee3412d5-fab1-40f2-9667-c39b6b831d66":{"to":"884fa960-7de0-4140-9ebb-dc8fa2a9a89a","type":"organization-for-group"}}
-tmap.id:8d3c53c4-34e8-4e4b-81dc-c8ec8a6b43d4
+tmap.edges:{"03976d12-9827-444a-881e-a7ba19f7f38e":{"to":"aab94e3d-e84a-4bd2-afbd-d21926a62702","type":"organization-for-group"}}
+tmap.id:09638545-76e2-44ed-bfcd-a5a72c8b935e
 url:
 
 

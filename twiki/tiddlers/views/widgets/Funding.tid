@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
     <$action-setfield $field="editing.funding" $value="yes" />
     <$reveal type="match" state="!!annual.budget" text="">
       <$reveal type="match" state="!!funding" text="">
-          No Funding Information
+          Click to provide Funding Information
       </$reveal>
       <$reveal type="nomatch" state="!!funding" text="">
         Funding: {{!!funding}}

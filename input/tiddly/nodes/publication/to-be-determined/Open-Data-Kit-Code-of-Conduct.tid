@@ -1,9 +1,9 @@
-created:1578221571832
-modified:1578221571832
+created:1578233360432
+modified:1578233360432
 title:Open Data Kit Code of Conduct
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -12,14 +12,14 @@ input.source:me2b
 jurisdiction:
 license:
 name:Open Data Kit Code of Conduct
-publication.type:to-be-determined
+publication.type:[[TO BE DETERMINED]]
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:8441e0db-d52a-4d81-bc1b-0248aea28960
+tmap.id:0ae23ba7-5fcd-461e-8e24-9120c94d9e5d
 url:https://github.com/opendatakit/governance/blob/master/CODE-OF-CONDUCT.md
 version.or.edition:
 volume.frequency:

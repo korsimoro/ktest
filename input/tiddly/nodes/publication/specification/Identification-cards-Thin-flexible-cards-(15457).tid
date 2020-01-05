@@ -1,9 +1,9 @@
-created:1578221567218
-modified:1578221567218
+created:1578233354967
+modified:1578233354967
 title:Identification cards – Thin flexible cards (15457)
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Identification cards – Thin flexible cards (15457)
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:Physical Characteristics and Test Methods WG1
 tags:
 tech.focus:
-tmap.edges:{"f125e40b-e2d6-490b-b531-eba089351413":{"to":"e0a81bef-f4fe-43fd-8ce1-c2e1d28d4809","type":"specification-of-group"}}
-tmap.id:f07fd18e-aa6e-438f-84d5-b5a17eb7fbef
+tmap.edges:{"81640a54-9a3f-494b-a636-1d5b1bddd426":{"to":"a9d5fb2a-6d7b-4ea5-9f49-a09584291226","type":"specification-of-group"}}
+tmap.id:9c73191b-8453-4b31-998b-f45da9c644fe
 url:
 version.or.edition:
 volume.frequency:

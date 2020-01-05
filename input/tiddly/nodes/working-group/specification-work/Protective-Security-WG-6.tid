@@ -1,9 +1,9 @@
-created:1578221566622
-modified:1578221566622
+created:1578233353707
+modified:1578233353707
 title:Protective Security WG 6
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Protective Security WG 6
-parent.org:ISO/IEC JTC1/SC17
+parent.org:iso/iec jtc1/sc17
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"9c7150eb-55cd-4d45-b4f1-890b2328650f":{"to":"7991efaa-37c7-4a25-9372-57fefc5d0c1c","type":"organization-for-group"}}
-tmap.id:fea9d757-644f-4c99-b3f2-bd67149fd08c
+tmap.edges:{"0d1dc926-2849-4437-9394-a0d2acec0385":{"to":"5828614c-7084-4104-9f00-861b3501ab22","type":"organization-for-group"}}
+tmap.id:14bd93cb-00a2-41e7-8478-9d1011d668e1
 url:
 
 

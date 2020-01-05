@@ -1,9 +1,9 @@
-created:1578221570260
-modified:1578221570260
+created:1578233358679
+modified:1578233358679
 title:Web of Things Community Group
 type:text/vnd.tiddlywiki
 activities:
-category:Discussion Group
+category:[[discussion group]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"329ad5ae-4b28-48fd-94ab-00cca427084c":{"to":"f1bd19ee-68b3-4959-b100-cbcc1c8ce291","type":"organization-for-group"}}
-tmap.id:21e52ce6-0a22-49a6-adae-dad88213da08
+tmap.edges:{"cfec88a1-9467-48d8-971e-a729b4fb82fa":{"to":"40aad628-0e17-4ce5-823f-6b298476743b","type":"organization-for-group"}}
+tmap.id:bb4afd09-2629-43a3-a931-0f07936d07c5
 url:https://www.w3.org/community/wot/
 
 

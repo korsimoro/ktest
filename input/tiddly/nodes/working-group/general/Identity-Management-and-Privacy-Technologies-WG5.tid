@@ -1,9 +1,9 @@
-created:1578221566628
-modified:1578221566628
+created:1578233354047
+modified:1578233354047
 title:Identity Management and Privacy Technologies WG5
 type:text/vnd.tiddlywiki
 activities:
-category:General
+category:[[general]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Identity Management and Privacy Technologies WG5
-parent.org:Future of Identity in the Information Society (FIDIS)
+parent.org:future of identity in the information society (fidis)
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"0383ff5e-66bb-47c7-8dcf-03f1c50ee038":{"to":"6581fc76-ce0c-47e0-8744-c4e5d72aab19","type":"organization-for-group"}}
-tmap.id:88c6863d-ba46-4789-8207-96e3761ebdf7
+tmap.edges:{"397710dc-f81d-41c5-b3fc-4e5e103a8a52":{"to":"5166e20e-8262-41ee-a049-d2838d200312","type":"organization-for-group"}}
+tmap.id:b219f771-85f7-4024-b768-1a4e6f3fa9b7
 url:
 
 The terms of reference of this working group are:

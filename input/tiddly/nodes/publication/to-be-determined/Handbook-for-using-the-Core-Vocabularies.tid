@@ -1,9 +1,9 @@
-created:1578221568017
-modified:1578221568017
+created:1578233356226
+modified:1578233356226
 title:Handbook for using the Core Vocabularies
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Handbook for using the Core Vocabularies
-publication.type:TO BE DETERMINED
+publication.type:to be determined
 purpose:
 sector:
 sponsoring.org:e-Government Core Vocabularies
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:10a49852-9141-4249-a968-00cf508d2dd8
+tmap.id:1831ec0f-879c-423e-9366-253fb30eab60
 url:
 version.or.edition:
 volume.frequency:

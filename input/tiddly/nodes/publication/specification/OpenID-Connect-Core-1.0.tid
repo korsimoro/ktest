@@ -1,9 +1,9 @@
-created:1578221567307
-modified:1578221567307
+created:1578233355049
+modified:1578233355049
 title:OpenID Connect Core 1.0
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):B. de Medeiros;Chuck Mortimore;John Bradley;Mike Jones;Nat Sakimura
+authors.editors:B. de Medeiros;Chuck Mortimore;John Bradley;Mike Jones;Nat Sakimura
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:OpenID Connect Core 1.0
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"ec32be00-ef87-434a-9b67-220ed29078d2":{"to":"8610a9d1-0b5f-4b81-9d1c-2c033119eac5","type":"default"}}
-tmap.id:75f5e76f-64b8-4840-8b9f-ea0e8738c255
+tmap.edges:{"34e07e00-5351-444e-b2c9-b9f56dc2d692":{"to":"127a7f3c-2904-4357-a502-12cf426b9869","type":"default"}}
+tmap.id:ede9435f-b8d4-45ac-90bf-9095cf84cf59
 url:http://openid.net/specs/openid-connect-core-1_0.html
 version.or.edition:
 volume.frequency:

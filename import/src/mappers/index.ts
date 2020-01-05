@@ -37,7 +37,7 @@ export const mappers:any = {
   },
   string(colName:string,dflt:string = '') {
     function mapper(elt:KumuElement,schema:SchemaPropertyDef):string {
-      return elt.fields[colName] || dflt
+      return (elt.fields[colName] || dflt).trim().toLowerCase()
     }
     return mapper
   },
@@ -163,7 +163,7 @@ export const mappers:any = {
     function mapper(elt:Me2BElement,schema:SchemaPropertyDef) {
       let st = elt.slugmap[elt.model.slugify(column_name)]
       if(!st) st = 'to-be-determined'
-      st = elt.model.slugify(st).trim().toLowerCase()
+      st = st.trim().toLowerCase()
       elt.subtype = st
       return st
     }
@@ -188,6 +188,9 @@ export const mappers:any = {
         console.log("MAPPED CATEGORY",colName,tagdata,t,elt.fields)
         for(let a of t)
           tags.add("[["+trimit(a)+"]]")
+      }
+      else {
+        tags.add("[[TO BE DETERMINED]]")
       }
       console.log("ST TAG-ARRAY",elt.type,"/",colname,":",tags)
       const vals = [] as string[]

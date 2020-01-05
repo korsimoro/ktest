@@ -1,8 +1,8 @@
-created:1578221570806
-modified:1578221570806
+created:1578233359358
+modified:1578233359358
 title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/person
 type:text/vnd.tiddlywiki
 scope: [field:element.type[person]]
-style: {"color":{"border":"rgba(45,217,32,186)","background":"rgba(125,144,214,132)"}}
-fa-icon: \xff20b
+style: {"color":{"border":"rgba(196,218,154,168)","background":"rgba(172,156,225,66)"}}
+fa-icon: \xff207
 tw-icon: 

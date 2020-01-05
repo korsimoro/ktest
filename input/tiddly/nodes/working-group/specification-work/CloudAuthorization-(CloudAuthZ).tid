@@ -1,9 +1,9 @@
-created:1578221566631
-modified:1578221566631
+created:1578233354152
+modified:1578233354152
 title:CloudAuthorization (CloudAuthZ)
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:CloudAuthorization (CloudAuthZ)
-parent.org:OASIS
+parent.org:oasis
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
 tmap.edges:{}
-tmap.id:3523cc49-b1d0-496b-8d4e-dcfbb2b04cda
+tmap.id:d7614822-be55-4731-a7fb-566035f1cdfd
 url:https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=xspa
 
 The XSPA Technical Committee has regrouped and expanded its focus to develop data segmentation and healthcare security classification profiles in harmony with HL7 and IHE. The TC has elected new leadership and is starting a new round of activities. New members are welcome.

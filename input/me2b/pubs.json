@@ -1852,56 +1852,56 @@
     },
     {
         "About": "Data plays a central role in both medicine and insurance, enabling advances and creating new challenges. Although legislative efforts have attempted to protect the privacy of people\u2019s health data,...",
+        "Author(s)/Editors": "Alex Rosenblat: Kate Wikelius: danah boyd: Seeta Pe\u00f1a Gangadharan: Corrine Yu",
         "Name": "Data & Civil Rights: Health Primer'",
-        "Publication Type": "Alex Rosenblat: Kate Wikelius: danah boyd: Seeta Pe\u00f1a Gangadharan: Corrine Yu",
         "Sponsoring Org": "Data & Society Research Institute",
         "TAGS": "Health and Data",
         "URL": "https://datasociety.net/output/data-civil-rights-health-primer/"
     },
     {
         "About": "Data & Society Health + Data Lead Mary Madden considers what patient privacy means in the current age of technology. \u201cIn the era of data-driven medicine, systems for handling...",
+        "Author(s)/Editors": "Mary Madden",
         "Name": "Need medical help? Sorry, not until you sign away your privacy.",
-        "Publication Type": "Mary Madden",
         "Sponsoring Org": "Data & Society Research Institute",
         "TAGS": "Health and Data",
         "URL": "https://datasociety.net/output/need-medical-help-sorry-not-until-you-sign-away-your-privacy/"
     },
     {
         "About": "Increasingly, technology\u2019s impact on infrastructure is becoming a health concern. In this Points piece, Data & Society Researchers Mikaela Pitcan, Alex Rosenblat, Mary Madden, and Kadija Ferryman tease out...",
+        "Author(s)/Editors": "Mikaela Pitcan: Alex Rosenblat: Mary Madden: Kadija Ferryman",
         "Name": "Technology\u2019s Impact on Infrastructure is a Health Concern",
-        "Publication Type": "Mikaela Pitcan: Alex Rosenblat: Mary Madden: Kadija Ferryman",
         "Sponsoring Org": "Data & Society Research Institute",
         "TAGS": "Health and Data",
         "URL": "https://datasociety.net/output/technologys-impact-on-infrastructure-is-a-health-concern/"
     },
     {
         "About": "After the Cambridge Analytica scandal, can internet data be used ethically for research? Data & Society Postdoctoral Scholar Kadija Ferryman and Elaine O. Nsoesie, PhD from the Institute for...",
+        "Author(s)/Editors": "Kadija Ferryman: Elaine O. Nsoesie",
         "Name": "Proceed With Caution",
-        "Publication Type": "Kadija Ferryman: Elaine O. Nsoesie",
         "Sponsoring Org": "Data & Society Research Institute",
         "TAGS": "Health and Data",
         "URL": "https://datasociety.net/output/proceed-with-caution/"
     },
     {
         "About": "The rollout of Electronic Visit Verification (EVV for Medicaid recipients has serious privacy implications, argues Data & Society Researcher Jacob Metcalf. \u201cSo why should we be worried about rules...",
+        "Author(s)/Editors": "Jacob Metcalf",
         "Name": "When verification is also surveillance",
-        "Publication Type": "Jacob Metcalf",
         "Sponsoring Org": "Data & Society Research Institute",
         "TAGS": "Health and Data",
         "URL": "https://datasociety.net/output/when-verification-is-also-surveillance/"
     },
     {
         "About": "As data becomes more prevalent in the health world, Data & Society Postdoctoral Scholar Kadija Ferryman urges us to consider how we will regulate its collection and usage. \u201cAs...",
+        "Author(s)/Editors": "Kadija Ferryman",
         "Name": "Health Data Rush",
-        "Publication Type": "Kadija Ferryman",
         "Sponsoring Org": "Data & Society Research Institute",
         "TAGS": "Health and Data",
         "URL": "https://datasociety.net/output/health-data-rush/"
     },
     {
         "About": "D&S research analyst Mikaela Pitcan discusses how missing data can impact how students with mental health conditions. The areas in which data are lacking communicate priorities. However, without concrete...",
+        "Author(s)/Editors": "Mikaela Pitcan",
         "Name": "Student Data & Mental Health: What the Blank Spots Say",
-        "Publication Type": "Mikaela Pitcan",
         "Sponsoring Org": "Data & Society Research Institute",
         "TAGS": "Health and Data",
         "URL": "https://datasociety.net/output/student-data-mental-health-what-the-blank-spots-say/"
@@ -3027,20 +3027,6 @@
         "Name": "Analyzing Privacy Policies at Scale: From Crowdsourcing to Automated Annotations",
         "Sponsoring Org": "The Usable Privacy Policy Project",
         "URL": "https://usableprivacy.org/static/files/swilson_tweb_2018.pdf"
-    },
-    {
-        "About": "Conference on Empirical Methods in Natural Language Processing (EMNLP), Brussels, Belgium, Nov 2018",
-        "Author(s)/Editors": "Abhijith Athreya Mysore Gopinath: Shomir Wilson: Norman Sadeh",
-        "Name": "Supervised and Unsupervised Methods for Robust Separation of Section Titles and Prose Text in Web Documents\"\"\"",
-        "Sponsoring Org": "The Usable Privacy Policy Project",
-        "URL": "https://abhijith-athreya.github.io/ASDUS/"
-    },
-    {
-        "About": "IEEE 26th International Requirements Engineering Conference (RE), Banff, AB, Canada, Aug 2018",
-        "Author(s)/Editors": "J. Bhatia: T. D. Breaux",
-        "Name": "Semantic Incompleteness in Privacy Policy Goals",
-        "Sponsoring Org": "The Usable Privacy Policy Project",
-        "URL": "https://usableprivacy.org/static/files/jbhatia_re_2018.pdf"
     },
     {
         "About": "USENIX Security Symposium 2018, Aug 2018",

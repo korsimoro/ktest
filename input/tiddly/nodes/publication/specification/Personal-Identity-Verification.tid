@@ -1,9 +1,9 @@
-created:1578221566970
-modified:1578221566970
+created:1578233354721
+modified:1578233354721
 title:Personal Identity Verification
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:Personal Identity Verification
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"773eb728-6955-4239-ace6-c1be399279bd":{"to":"17edc3dc-778e-4302-9be8-d3a6cb4e99c1","type":"organization-for-group"}}
-tmap.id:86681f78-4777-4b3a-afae-3c7dd32769e6
-url:http://csrc.nist.gov/groups/SNS/piv/
+tmap.edges:{"357c05fa-8f8a-4d74-b3e4-051db6b5b767":{"to":"7a21862e-ffb6-463f-a884-9bbbe287bd01","type":"organization-for-group"}}
+tmap.id:429f9820-1ad1-4831-b0de-5c61e8125972
+url:http://csrc.nist.gov/groups/sns/piv/
 version.or.edition:
 volume.frequency:
 working.group:

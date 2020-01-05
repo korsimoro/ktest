@@ -1,9 +1,9 @@
-created:1578221566883
-modified:1578221566883
+created:1578233354639
+modified:1578233354639
 title:Token Bound Authentication
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):B. Campbell;John Bradley;Mike Jones
+authors.editors:B. Campbell;John Bradley;Mike Jones
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Token Bound Authentication
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:Enhanced Authentication Profile Working Group
 tags:
 tech.focus:
-tmap.edges:{"4f4a1010-8afb-4543-acb6-ac75f103f8c3":{"to":"75f5e76f-64b8-4840-8b9f-ea0e8738c255","type":"connection"},"4f4bfe53-38cc-40fa-a4a6-1a609c7317df":{"to":"7869d7b9-6715-455a-964c-c18e541fe1d1","type":"specification-of-group"}}
-tmap.id:768da7bb-59f7-452e-9ad2-5c6c4952ef30
+tmap.edges:{"d363b34b-c913-4220-9c59-4ab9cbe23714":{"to":"ede9435f-b8d4-45ac-90bf-9095cf84cf59","type":"connection"},"96494044-3295-4c94-9c8e-ad44c798f895":{"to":"f7790987-7cfe-4332-89ca-39876ce98286","type":"specification-of-group"}}
+tmap.id:24d35000-bf92-422e-ae7d-86c23163c890
 url:http://openid.net/specs/openid-connect-token-bound-authentication-1_0.html
 version.or.edition:
 volume.frequency:

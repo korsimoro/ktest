@@ -19,10 +19,10 @@ type: text/vnd.tiddlywiki
         <$link>{{!!title}}</$link>
       </td>
       <td>
-        <$link>{{!!category}}</$link>
+        {{!!category}}
       </td>
       <td>
-        <$link>{{!!host.organization}}</$link>
+        <$link to={{!!host.organization}}>{{!!host.organization}}</$link>
       </td>
     </tr>
   </$list>

@@ -1,9 +1,9 @@
-created:1578221566974
-modified:1578221566974
+created:1578233354726
+modified:1578233354726
 title:Identification cards – Contactless integrated circuit(s) cards  (10536)
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Identification cards – Contactless integrated circuit(s) cards  (10536)
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:Contactless Integrated Circuit(s) cards WG8
 tags:
 tech.focus:
-tmap.edges:{"2ce71d2f-2dec-4b9a-ba6d-a7d0b4e862b4":{"to":"cdb3a0da-297a-42a5-8477-3c35d321dca6","type":"specification-of-group"}}
-tmap.id:a4520f52-e910-45f3-9017-fe5092c766e9
+tmap.edges:{"0c54d2b9-aa20-43d8-82d6-2b8f952aa447":{"to":"b25fe163-f049-46c8-8551-5881ca1787f8","type":"specification-of-group"}}
+tmap.id:71cea725-4116-4c22-b734-9296c5522821
 url:
 version.or.edition:
 volume.frequency:

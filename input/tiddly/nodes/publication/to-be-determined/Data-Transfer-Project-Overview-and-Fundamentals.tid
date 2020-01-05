@@ -1,9 +1,9 @@
-created:1578221571832
-modified:1578221571832
+created:1578233360432
+modified:1578233360432
 title:Data Transfer Project Overview and Fundamentals
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -12,14 +12,14 @@ input.source:me2b
 jurisdiction:
 license:
 name:Data Transfer Project Overview and Fundamentals
-publication.type:to-be-determined
+publication.type:[[TO BE DETERMINED]]
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:b3dd29c8-4ac8-4f43-83da-2363cbf659c3
+tmap.id:984fc91e-26ea-4e48-850e-657a5b3f3bda
 url:https://datatransferproject.dev/dtp-overview.pdf
 version.or.edition:
 volume.frequency:

@@ -1,9 +1,9 @@
-created:1578221566629
-modified:1578221566629
+created:1578233354067
+modified:1578233354067
 title:Identity Verification Project
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Identity Verification Project
-parent.org:North American Security Products Organization
+parent.org:north american security products organization
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"9369ec0c-f511-4efa-81c8-837af7d9e624":{"to":"4ae05cca-d6cb-40e0-8d97-6a903c3eb478","type":"organization-for-group"}}
-tmap.id:e60c7ce3-cd86-42d0-a7bb-482eecd1bc2a
+tmap.edges:{"33d04195-a781-4993-9a57-57868f38919a":{"to":"8e048927-14ab-483c-b594-d4907d23cdc5","type":"organization-for-group"}}
+tmap.id:c27be247-9329-4386-abb6-ec905b30a84b
 url:http://www.naspo.info/naspo-idpv-project
 
 Developing minimum requirements for (a) Reconciling an asserted identity to a single individual (b) Proofing the asserted identity by verifying corroborative evidence and by looking for symptoms of fraud

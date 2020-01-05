@@ -1,9 +1,9 @@
-created:1578221566623
-modified:1578221566623
+created:1578233353776
+modified:1578233353776
 title:mef trust working group
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:mef trust working group
-parent.org:MEF
+parent.org:mef
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
 tmap.edges:{}
-tmap.id:564fdbf9-5b1f-4a43-97bf-fd9aa68585d1
+tmap.id:0ff0a823-eb3a-406d-9ce2-9ba425d1d1af
 url:
 
 

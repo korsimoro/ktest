@@ -1,9 +1,9 @@
-created:1578221568160
-modified:1578221568160
+created:1578233356317
+modified:1578233356317
 title:Civil Registry Consolidation through Digital Identity Management
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):Lucile Girollet
+authors.editors:Lucile Girollet
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Civil Registry Consolidation through Digital Identity Management
-publication.type:TO BE DETERMINED
+publication.type:to be determined
 purpose:
 sector:
 sponsoring.org:Secure Identity Alliance
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:a9b191cf-5bae-472a-9a3e-2e99b6288753
+tmap.id:c16343e9-0bdd-4e5e-ab10-bee3502378fa
 url:https://www.secureidentityalliance.org/index.php/news-events/news/325-new-civil-registry-and-identity-guidance-for-governments
 version.or.edition:
 volume.frequency:

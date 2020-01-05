@@ -1,9 +1,9 @@
-created:1578221567040
-modified:1578221567040
+created:1578233354787
+modified:1578233354787
 title:MODRNA Registration
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):B. Hjelm;John Bradley;T. Lodderstedt
+authors.editors:B. Hjelm;John Bradley;T. Lodderstedt
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:MODRNA Registration
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:MONDRNA
 tags:
 tech.focus:
-tmap.edges:{"1c2197a5-9985-4358-821d-294cd69007a4":{"to":"dc400c09-dfd5-4743-a089-d251fcaffdaf","type":"specification-of-group"}}
-tmap.id:cc607f57-3be4-4156-a428-bd48a20c1e8d
+tmap.edges:{"f86488c5-2671-4ab9-b267-c817a5030bb4":{"to":"97aee1a3-2952-4825-91df-1497abd9bdc8","type":"specification-of-group"}}
+tmap.id:057553cd-e5fa-4a6e-a5a7-6af224d800f1
 url:http://openid.net/wordpress-content/uploads/2014/04/draft-mobile-registration-01.html
 version.or.edition:
 volume.frequency:

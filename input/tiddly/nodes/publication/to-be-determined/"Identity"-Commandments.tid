@@ -1,9 +1,9 @@
-created:1578221567925
-modified:1578221567925
+created:1578233356094
+modified:1578233356094
 title:“Identity” Commandments
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):Paul Simmonds
+authors.editors:Paul Simmonds
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:“Identity” Commandments
-publication.type:TO BE DETERMINED
+publication.type:to be determined
 purpose:
 sector:
 sponsoring.org:Jericho Forum
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:65fbd453-9f71-41ce-ada0-e18f6450801c
-url:https://collaboration.opengroup.org/jericho/Jericho%20Forum%20Identity%20Commandments%20v1.0.pdf
+tmap.id:43a5b840-aaeb-40b4-91f5-c66c68b40ba2
+url:https://collaboration.opengroup.org/jericho/jericho%20forum%20identity%20commandments%20v1.0.pdf
 version.or.edition:
 volume.frequency:
 working.group:

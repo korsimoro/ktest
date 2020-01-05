@@ -1,9 +1,9 @@
-created:1578221567133
-modified:1578221567133
+created:1578233354874
+modified:1578233354874
 title:OAuth Dynamic Client Registration Management (RFC7592)
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):Justin Richer
+authors.editors:Justin Richer
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:OAuth Dynamic Client Registration Management (RFC7592)
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:OAuth WG
 tags:
 tech.focus:
-tmap.edges:{"2bd21295-ebce-4241-9559-0e2ea48e0bff":{"to":"d8911882-1c24-404b-b73f-1cc54beacb1f","type":"specification-of-group"}}
-tmap.id:49a38c9d-787f-449e-a2c6-40460b15cf33
+tmap.edges:{"687bc0a1-ce65-4559-b1ca-b05419992f2f":{"to":"c36e66dc-9da8-42a9-8894-0147cf76bd2b","type":"specification-of-group"}}
+tmap.id:2506b788-0035-4a77-85bc-3c6416b973d6
 url:
 version.or.edition:
 volume.frequency:

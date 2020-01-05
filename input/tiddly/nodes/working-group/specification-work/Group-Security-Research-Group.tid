@@ -1,9 +1,9 @@
-created:1578221566630
-modified:1578221566630
+created:1578233354134
+modified:1578233354134
 title:Group Security Research Group
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Group Security Research Group
-parent.org:IETF
+parent.org:ietf
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"eaa70305-3e7e-4cc2-bf47-84a1f02be535":{"to":"884fa960-7de0-4140-9ebb-dc8fa2a9a89a","type":"organization-for-group"}}
-tmap.id:fc62757b-0f69-41da-b9e3-954c463fa241
+tmap.edges:{"c4217b25-e93a-4864-88af-7ae169a0d14c":{"to":"aab94e3d-e84a-4bd2-afbd-d21926a62702","type":"organization-for-group"}}
+tmap.id:497bc99b-5b60-457b-aa37-81ca6347e623
 url:
 
 

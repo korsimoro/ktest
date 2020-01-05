@@ -1,9 +1,9 @@
-created:1578221566623
-modified:1578221566623
+created:1578233353714
+modified:1578233353714
 title:HEART Working Group
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:HEART Working Group
-parent.org:OpenID Foundation
+parent.org:openid foundation
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"5517429c-5e24-4f12-860b-d53dc4704be8":{"to":"97aa28a8-d22d-478d-a33e-75510d4a2fa5","type":"organization-for-group"}}
-tmap.id:ff7abd24-bbb2-413e-8255-50d840afc5b9
+tmap.edges:{"a9efdfb1-3460-494a-937a-dd1e25608aab":{"to":"f156a6d3-068f-432c-96a4-3cb8f0d6de2a","type":"organization-for-group"}}
+tmap.id:81f60836-22bf-42a1-8340-5e495a360c03
 url:
 
 The HEART Working Group intends to harmonize and develop a set of privacy and security specifications that enable an individual to control the authorization of access to RESTful health-related data sharing APIs, and to facilitate the development of interoperable implementations of these specifications by others.

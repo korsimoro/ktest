@@ -54,11 +54,12 @@ async function convert(inbase:string) {
 		createAndLinkNodesForListField(elt,"tech.focus","Tech Focus")
 		//createAndLinkNodesForListField(elt,"People","Related Person")
 	}
+	/*
 	for(let mapname of [
 		'pop-to-orgs','all-organizations','pubs-to-orgs','wg-to-orgs','orgs-to-orgs'
 	])
 		ctx.tiddly.registerNamedMap(mapname)
-
+	*/
 	console.log("Convert Me2B Connection Types -> Edge Type Tiddlers");
 	console.log("Set=",ctx.me2b.connectionTypes)
 	ctx.me2b.connectionTypes.forEach((type) => {

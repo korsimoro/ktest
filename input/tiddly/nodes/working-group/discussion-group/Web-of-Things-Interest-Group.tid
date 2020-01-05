@@ -1,9 +1,9 @@
-created:1578221570260
-modified:1578221570260
+created:1578233358681
+modified:1578233358681
 title:Web of Things Interest Group
 type:text/vnd.tiddlywiki
 activities:
-category:Discussion Group
+category:[[discussion group]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -18,9 +18,9 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"52c41918-3b80-48ea-bc65-cbf30696e464":{"to":"f1bd19ee-68b3-4959-b100-cbcc1c8ce291","type":"organization-for-group"},"91cdb64f-0ba6-4c71-bbc8-37664e349478":{"to":"21e52ce6-0a22-49a6-adae-dad88213da08","type":"connection"}}
-tmap.id:0e17d1ba-8709-4bfe-a9f5-c5a43f472fd4
-url:https://www.w3.org/WoT/IG/
+tmap.edges:{"036c714e-0b43-45ff-bd52-4f2feef45505":{"to":"40aad628-0e17-4ce5-823f-6b298476743b","type":"organization-for-group"},"0f735c5f-8a83-4ead-8cd8-99324db9b8db":{"to":"bb4afd09-2629-43a3-a931-0f07936d07c5","type":"connection"}}
+tmap.id:4315b4d3-cec5-4767-a1ef-d262513c46d7
+url:https://www.w3.org/wot/ig/
 
 The Internet of Things (IoT) suffers from a lack of interoperability across platforms. As a result developers are faced with data silos, high costs and limited market potential. This can be likened to the situation before the Internet when there were competing non-interoperable networking technologies. The Internet makes it easy to develop networked applications independently of those technologies. W3C is seeking to do the same for the Internet of Things.
 

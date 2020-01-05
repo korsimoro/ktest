@@ -1,9 +1,9 @@
-created:1578221569955
-modified:1578221569955
+created:1578233358182
+modified:1578233358182
 title:General Data Protection Regulation
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:General Data Protection Regulation
-publication.type:Legislation
+publication.type:legislation
 purpose:
 sector:
 sponsoring.org:European Commission
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:a9b01096-3bbd-42d8-8000-fe85d29783a2
-url:http://europa.eu/rapid/press-release_IP-15-6321_en.htm
+tmap.id:38110ecb-a003-4ed4-8d49-88a8bb1ef514
+url:http://europa.eu/rapid/press-release_ip-15-6321_en.htm
 version.or.edition:
 volume.frequency:
 working.group:

@@ -1,9 +1,9 @@
-created:1578221567326
-modified:1578221567326
+created:1578233355067
+modified:1578233355067
 title:Issuer Identification Numbers (IINs)/Application Provider Identifiers (RIDs)Identification cards – Machine readable travel documents – Part 3: Official travel documents
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Issuer Identification Numbers (IINs)/Application Provider Identifiers (RIDs)Identification cards – Machine readable travel documents – Part 3: Official travel documents
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:Machine Readable Travel Documents WG3
 tags:
 tech.focus:
-tmap.edges:{"2ed48c35-1a04-4645-8ef0-96bd7fce69f8":{"to":"4dcf820f-0e77-424c-b559-0e71ee98dd68","type":"specification-of-group"}}
-tmap.id:c6b8c548-a984-4a25-b8ae-7b5ce68ced02
+tmap.edges:{"6266e5c3-c2aa-4e2b-967b-70778756452b":{"to":"7b002057-c623-4a8a-9d8b-f9ef54dc5c70","type":"specification-of-group"}}
+tmap.id:fc24dcd5-6462-44fe-9f5a-6b03b98701b2
 url:
 version.or.edition:
 volume.frequency:

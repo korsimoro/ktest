@@ -1,9 +1,9 @@
-created:1578221567312
-modified:1578221567312
+created:1578233355054
+modified:1578233355054
 title:Electronic Identification Cards (7816)
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Electronic Identification Cards (7816)
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:Integrated Circuit Cards with Contacts WG4
 tags:
 tech.focus:
-tmap.edges:{"a58a3c85-a320-453e-a5b2-ebd32ce7dda5":{"to":"3e4c5235-19d2-472f-a33d-c41b828747e4","type":"specification-of-group"}}
-tmap.id:80015e52-df98-477a-953a-30167bf48d36
+tmap.edges:{"23d4f725-e494-4d93-8bfc-80ba9ea5fa88":{"to":"e9dbf3ed-735f-4c74-a358-753b31b09776","type":"specification-of-group"}}
+tmap.id:1220f8c8-1770-4e88-8c3c-2cf17cc94d18
 url:
 version.or.edition:
 volume.frequency:

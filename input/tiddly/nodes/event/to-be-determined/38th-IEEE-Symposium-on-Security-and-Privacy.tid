@@ -1,9 +1,9 @@
-created:1578221570187
-modified:1578221570187
+created:1578233358577
+modified:1578233358577
 title:38th IEEE Symposium on Security and Privacy
 type:text/vnd.tiddlywiki
 audience:
-category:TO BE DETERMINED
+category:[[to be determined]]
 date:
 element.type:event
 frequency:
@@ -16,8 +16,8 @@ people:
 relevant.publications:
 tags:
 tmap.edges:{}
-tmap.id:a4bf1fa0-0122-4fe0-ad36-40dd64c8a73e
-website:http://www.ieee-security.org/TC/SP2017/
+tmap.id:c8a1f4cb-1a1e-47c4-be16-e7d61b313003
+website:http://www.ieee-security.org/tc/sp2017/
 working.group:
 
 Since 1980, the IEEE Symposium on Security and Privacy has been the premier forum for presenting developments in computer security and electronic privacy, and for bringing together researchers and practitioners in the field. The 2017 Symposium will mark the 38th annual meeting of this flagship conference.

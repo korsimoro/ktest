@@ -1,9 +1,9 @@
-created:1578221567240
-modified:1578221567240
+created:1578233355042
+modified:1578233355042
 title:Web Authentication API
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:Web Authentication API
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"1256142d-a671-469a-a42d-4922a10482f8":{"to":"aa0507d3-77de-4b86-82f4-f7b75fd1d523","type":"organization-for-group"}}
-tmap.id:3552967b-0b8e-46c3-88b6-81811d6ecf49
-url:http://www.w3.org/TR/2016/WD-webauthn-20160902/
+tmap.edges:{"5563c124-3bbd-44ed-9a82-ccdc94842d87":{"to":"ee175dc1-8475-477b-8ada-c78451284661","type":"organization-for-group"}}
+tmap.id:a21b624e-0f6c-480f-83f2-60570334dbe6
+url:http://www.w3.org/tr/2016/wd-webauthn-20160902/
 version.or.edition:
 volume.frequency:
 working.group:

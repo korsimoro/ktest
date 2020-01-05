@@ -1,9 +1,9 @@
-created:1578221569945
-modified:1578221569945
+created:1578233358175
+modified:1578233358175
 title:ePrivacy Directive
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:ePrivacy Directive
-publication.type:Legislation
+publication.type:legislation
 purpose:
 sector:
 sponsoring.org:European Commission
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:dfc6a95f-63bf-4023-adc8-7a8eb51e20b4
+tmap.id:72158b75-148b-40b1-8d9e-10d98fd8910e
 url:https://ec.europa.eu/digital-single-market/en/news/eprivacy-directive
 version.or.edition:
 volume.frequency:

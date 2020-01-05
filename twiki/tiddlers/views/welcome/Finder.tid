@@ -16,20 +16,21 @@ Type <$select tiddler="$:/temp/elementtype">
 
 <$reveal type="nomatch" default={{$:/temp/elementtype}} text="">
 <$set name="elementtype" value={{$:/temp/elementtype}} >
-<$list filter="[[SubTypeFields]getindex<elementtype>]" variable="subtypefield">
-<<subtypefield>> <$select tiddler="$:/temp/elementsubtype">
-<$list filter="[all[]field:element.type<elementtype>each<subtypefield>get<subtypefield>sort[title]]" variable="field">
-<option><<field>></option>
-</$list>
-</$select>
+  <$list filter="[[SubTypeFields]getindex<elementtype>]" variable="subtypefield">
+    <$list filter="[[SubTypeLabels]getindex<elementtype>]" variable="subtypelabel">
+      <<subtypelabel>> <$select tiddler="$:/temp/elementsubtype">
+        <$list filter="[all[]field:element.type<elementtype>each<subtypefield>get<subtypefield>sort[title]]" variable="field">
+        <option><<field>></option>
+        </$list>
+        </$select>
+    </$list>
 
-<$reveal type="nomatch" default={{$:/temp/elementsubtype}} text="">
-<$set name="elementsubtype" value={{$:/temp/elementsubtype}} >
-<$macrocall $name="renderbreakdown" elementtype=<<elementtype>> subtypefield=<<subtypefield>> subtypevalue=<<elementsubtype>> />
+    <$reveal type="nomatch" default={{$:/temp/elementsubtype}} text="">
+      <$set name="elementsubtype" value={{$:/temp/elementsubtype}} >
+      <$macrocall $name="renderbreakdown" elementtype=<<elementtype>> subtypefield=<<subtypefield>> subtypevalue=<<elementsubtype>> />
 
-</$set>
-</$reveal>
-
-</$list>
+      </$set>
+    </$reveal>
+  </$list>
 </$set>
 </$reveal>

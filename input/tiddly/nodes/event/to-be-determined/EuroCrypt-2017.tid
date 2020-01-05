@@ -1,9 +1,9 @@
-created:1578221570204
-modified:1578221570204
+created:1578233358656
+modified:1578233358656
 title:EuroCrypt 2017
 type:text/vnd.tiddlywiki
 audience:
-category:TO BE DETERMINED
+category:[[to be determined]]
 date:
 element.type:event
 frequency:
@@ -16,7 +16,7 @@ people:
 relevant.publications:
 tags:
 tmap.edges:{}
-tmap.id:b97495c4-44c7-4ca9-89c9-12e078609945
+tmap.id:58a0315e-e910-4ab7-b96c-2a26827b6da9
 website:https://eurocrypt2017.di.ens.fr
 working.group:
 

@@ -1,9 +1,9 @@
-created:1578221566620
-modified:1578221566620
+created:1578233353622
+modified:1578233353622
 title:eBorders
 type:text/vnd.tiddlywiki
 activities:
-category:General
+category:[[general]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:eBorders
-parent.org:Secure Identity Alliance
+parent.org:secure identity alliance
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"68f9134b-c8b5-4b2e-92c9-771ac8bb1b1c":{"to":"c796e38b-cbff-49f3-8834-bfa4f2c7ee5b","type":"organization-for-group"}}
-tmap.id:bf786eaf-adfd-4c40-a033-2302ded33d25
+tmap.edges:{"e709b659-7406-4067-ae65-a29fbb8ce601":{"to":"23be0958-5a84-43a6-adb5-aa0ce9fd4d1b","type":"organization-for-group"}}
+tmap.id:6e149f98-89dc-4562-978d-e029d36455c4
 url:
 
 

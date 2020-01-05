@@ -1,9 +1,9 @@
-created:1578221567233
-modified:1578221567233
+created:1578233354981
+modified:1578233354981
 title:Information technology — Identification cards — On-Card matching (24787)
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Information technology — Identification cards — On-Card matching (24787)
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:Biometrics WG11
 tags:
 tech.focus:
-tmap.edges:{"16dccb5d-2c18-4608-ba80-45d322d58bc9":{"to":"8f1adf93-9814-42a2-9b9a-e8e28d1cdfd7","type":"specification-of-group"}}
-tmap.id:7715390b-c1c3-446f-b56d-b34cfd2743aa
+tmap.edges:{"4484a576-a97b-42bd-9b95-e80b95cc5ce6":{"to":"ebf84f2d-a991-4cb0-a271-f3edb65fb929","type":"specification-of-group"}}
+tmap.id:154ff6ec-98d9-469d-8f9f-d4b7e72f7f40
 url:
 version.or.edition:
 volume.frequency:

@@ -1,9 +1,9 @@
-created:1578221567332
-modified:1578221567332
+created:1578233355144
+modified:1578233355144
 title:User Submitted Terms
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:User Submitted Terms
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:Consent and Information Sharing Working  Group
 tags:
 tech.focus:
-tmap.edges:{"3be0e9f6-23b0-4348-a930-41738e57f882":{"to":"7153743b-2169-46b6-ac9f-b64328fab1e6","type":"specification-of-group"}}
-tmap.id:5de7e099-ebc5-4946-98de-40e84a3eacfa
-url:https://kantarainitiative.org/confluence/display/infosharing/User+Submitted+Terms+project+overview
+tmap.edges:{"00453f9c-498f-43d9-9196-a20bbfbe3485":{"to":"b6b721b6-9c97-48a9-aade-e137a92675a2","type":"specification-of-group"}}
+tmap.id:ca51610f-4950-458a-be89-ac31da147312
+url:https://kantarainitiative.org/confluence/display/infosharing/user+submitted+terms+project+overview
 version.or.edition:
 volume.frequency:
 working.group:

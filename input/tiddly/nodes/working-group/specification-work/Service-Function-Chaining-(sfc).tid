@@ -1,9 +1,9 @@
-created:1578221566622
-modified:1578221566622
+created:1578233353710
+modified:1578233353710
 title:Service Function Chaining  (sfc)
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Service Function Chaining  (sfc)
-parent.org:IETF
+parent.org:ietf
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"aceb577b-937b-45d3-b163-2c48ee85411e":{"to":"884fa960-7de0-4140-9ebb-dc8fa2a9a89a","type":"organization-for-group"}}
-tmap.id:14195ce8-fbb0-46eb-acfb-0f008f4cea85
+tmap.edges:{"fffb76a1-6ab2-4168-a917-da841c4879d5":{"to":"aab94e3d-e84a-4bd2-afbd-d21926a62702","type":"organization-for-group"}}
+tmap.id:88ba6875-dc06-489c-b9c1-0128ddbd57c7
 url:
 
 

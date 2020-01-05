@@ -1,9 +1,9 @@
-created:1578221566982
-modified:1578221566982
+created:1578233354782
+modified:1578233354782
 title:Financial Transaction Cards 4909
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Financial Transaction Cards 4909
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:Financial Transaction Cards WG7
 tags:
 tech.focus:
-tmap.edges:{"f98fd917-1fa4-442f-b314-427e8d9d19f3":{"to":"fd0aab33-465f-472b-9345-c1ec273f759d","type":"specification-of-group"}}
-tmap.id:680dadce-6802-4376-9843-7e43237a1116
+tmap.edges:{"e9bcf40f-5ac5-4e0a-8919-92af5c3a75d9":{"to":"6b8b97b9-1649-4de0-b77a-97dac61f6ca7","type":"specification-of-group"}}
+tmap.id:a722edd8-89cb-4df2-9bf8-faf03f4e4454
 url:
 version.or.edition:
 volume.frequency:

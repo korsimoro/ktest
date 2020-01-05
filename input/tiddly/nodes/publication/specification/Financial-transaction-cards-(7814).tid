@@ -1,9 +1,9 @@
-created:1578221566967
-modified:1578221566967
+created:1578233354719
+modified:1578233354719
 title:Financial transaction cards (7814)
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Financial transaction cards (7814)
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:Financial Transaction Cards WG7
 tags:
 tech.focus:
-tmap.edges:{"0de5272c-07b1-46dc-8ca1-c9411f2fbdae":{"to":"fd0aab33-465f-472b-9345-c1ec273f759d","type":"specification-of-group"}}
-tmap.id:48fed3a1-f21b-4c98-a2a6-049eb2d94fe3
+tmap.edges:{"9508b66e-596f-4092-b904-674b05c1bd11":{"to":"6b8b97b9-1649-4de0-b77a-97dac61f6ca7","type":"specification-of-group"}}
+tmap.id:f28d9e87-c20a-4d33-bf9f-d69b42aba826
 url:
 version.or.edition:
 volume.frequency:

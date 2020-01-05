@@ -1,9 +1,9 @@
-created:1578221566621
-modified:1578221566621
+created:1578233353695
+modified:1578233353695
 title:Security Controls and Services WG4
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Security Controls and Services WG4
-parent.org:ISO/IEC JTC 1 / SC27 IT Security Techniques
+parent.org:iso/iec jtc 1 / sc27 it security techniques
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"a9477c16-80dc-4a68-aca7-7a2d3e6e4e18":{"to":"6581fc76-ce0c-47e0-8744-c4e5d72aab19","type":"organization-for-group"}}
-tmap.id:8d3761f3-d838-41f8-9d0d-3fb8c612da65
+tmap.edges:{"9ce7deed-8677-46b7-a84d-dacd00e68870":{"to":"5166e20e-8262-41ee-a049-d2838d200312","type":"organization-for-group"}}
+tmap.id:7ba5595a-0006-4c57-89bf-0e8331dcb765
 url:
 
 The terms of reference of this working group are:

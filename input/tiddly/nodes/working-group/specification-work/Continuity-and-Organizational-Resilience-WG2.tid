@@ -1,9 +1,9 @@
-created:1578221566640
-modified:1578221566640
+created:1578233354285
+modified:1578233354285
 title:Continuity and Organizational Resilience WG2
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Continuity and Organizational Resilience WG2
-parent.org:ISO/TC 292 Security and Resilience
+parent.org:iso/tc 292 security and resilience
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"0b277df5-3daf-4f17-910e-d9f46a74b169":{"to":"7991efaa-37c7-4a25-9372-57fefc5d0c1c","type":"organization-for-group"}}
-tmap.id:9aa4337c-7263-4855-b812-bd6331b4d163
+tmap.edges:{"d8c368ad-ef12-4cc5-a589-734e4ca6e98d":{"to":"5828614c-7084-4104-9f00-861b3501ab22","type":"organization-for-group"}}
+tmap.id:77060c9c-0379-47e5-9333-003fc9e56a0b
 url:
 
 

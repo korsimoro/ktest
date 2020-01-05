@@ -1,9 +1,9 @@
-created:1578221566625
-modified:1578221566625
+created:1578233353867
+modified:1578233353867
 title:Authenticity, Integrity and Trust for Products and Documents  WG4
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Authenticity, Integrity and Trust for Products and Documents  WG4
-parent.org:ISO/TC 292 Security and Resilience
+parent.org:iso/tc 292 security and resilience
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"e5ac62dd-cd78-40d7-a887-2de0f440b5d5":{"to":"7991efaa-37c7-4a25-9372-57fefc5d0c1c","type":"organization-for-group"}}
-tmap.id:74d63315-d961-444c-aefe-9997882be231
+tmap.edges:{"481d2cec-b2ac-4f2a-96ec-f335e62eaed5":{"to":"5828614c-7084-4104-9f00-861b3501ab22","type":"organization-for-group"}}
+tmap.id:c6a00932-117a-49cf-8a05-d9ae7bfd13d7
 url:
 
 

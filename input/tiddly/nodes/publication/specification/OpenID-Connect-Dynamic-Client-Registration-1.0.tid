@@ -1,9 +1,9 @@
-created:1578221567330
-modified:1578221567330
+created:1578233355142
+modified:1578233355142
 title:OpenID Connect Dynamic Client Registration 1.0
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):John Bradley;Mike Jones;Nat Sakimura
+authors.editors:John Bradley;Mike Jones;Nat Sakimura
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:OpenID Connect Dynamic Client Registration 1.0
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"87ffc6dc-17aa-480b-8072-486bdcabea6b":{"to":"8610a9d1-0b5f-4b81-9d1c-2c033119eac5","type":"specification-of-group"}}
-tmap.id:e0d66b04-dab9-4541-8c29-4726f4e038fb
+tmap.edges:{"3f49debc-f765-49a7-99e8-73ed3ade6c9f":{"to":"127a7f3c-2904-4357-a502-12cf426b9869","type":"specification-of-group"}}
+tmap.id:51365a68-ccd5-4611-a56f-b2dc0eae6fcb
 url:http://openid.net/specs/openid-connect-registration-1_0.html
 version.or.edition:
 volume.frequency:

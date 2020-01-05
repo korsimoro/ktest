@@ -1,9 +1,9 @@
-created:1578221566631
-modified:1578221566631
+created:1578233354150
+modified:1578233354150
 title:Integrated Circuit Cards with Contacts WG4
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Integrated Circuit Cards with Contacts WG4
-parent.org:ISO/IEC JTC1/SC17
+parent.org:iso/iec jtc1/sc17
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"af375fe0-b885-4d56-abcc-208c239cd099":{"to":"09e86f03-41f5-4b41-ba3e-f174fa21ec71","type":"organization-for-group"}}
-tmap.id:3e4c5235-19d2-472f-a33d-c41b828747e4
+tmap.edges:{"506ef504-82b6-494e-acb6-9c2bf443b842":{"to":"8b219f57-3e50-41b0-871b-b8081cbe766c","type":"organization-for-group"}}
+tmap.id:e9dbf3ed-735f-4c74-a358-753b31b09776
 url:
 
 To define specifications related to the Integrated Circuits Card with Contacts within the area of SC17

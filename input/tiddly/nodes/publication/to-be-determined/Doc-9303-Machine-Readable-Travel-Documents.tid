@@ -1,9 +1,9 @@
-created:1578221567829
-modified:1578221567829
+created:1578233356000
+modified:1578233356000
 title:Doc 9303  Machine Readable Travel Documents
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:Doc 9303  Machine Readable Travel Documents
-publication.type:TO BE DETERMINED
+publication.type:to be determined
 purpose:
 sector:
 sponsoring.org:ICAO Technical Advisory Group on Traveller Identification Programme;Machine Readable Travel Documents WG3
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:6cce4e30-b1c4-4f62-ad38-7762d7bd7ea3
-url:http://www.icao.int/Security/mrtd/Pages/Document9303.aspx
+tmap.id:0b62b852-4243-41a7-a0c5-9b88ec84bd8d
+url:http://www.icao.int/security/mrtd/pages/document9303.aspx
 version.or.edition:
 volume.frequency:
 working.group:

@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
     <$action-setfield $field="editing.dates" $value="yes" />
     <$reveal type="match" state="!!date.ended" text="">
       <$reveal type="match" state="!!date.founded" text="">
-          No Founding or Ending Date Provided
+          Click to provide Founding and Ending Dates
       </$reveal>
       <$reveal type="nomatch" state="!!date.founded" text="">
         Active since: {{!!date.founded}}

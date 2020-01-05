@@ -1,9 +1,9 @@
-created:1578221567130
-modified:1578221567130
+created:1578233354871
+modified:1578233354871
 title:OpenID Connect Profile for SCIM Services
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):Chuck Mortimore;Phil Hunt
+authors.editors:Chuck Mortimore;Phil Hunt
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:OpenID Connect Profile for SCIM Services
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"8f46799e-d24b-4482-bb46-5b8bfe054a23":{"to":"8610a9d1-0b5f-4b81-9d1c-2c033119eac5","type":"specification-of-group"}}
-tmap.id:c2198e45-fa8e-416b-991e-a748aa7933a5
+tmap.edges:{"d0c29cc8-14f9-4c96-aeb7-f920f83c7d52":{"to":"127a7f3c-2904-4357-a502-12cf426b9869","type":"specification-of-group"}}
+tmap.id:8665d880-31b1-4253-940b-42c5a855d1df
 url:http://openid.net/specs/openid-connect-scim-profile-1_0.html
 version.or.edition:
 volume.frequency:

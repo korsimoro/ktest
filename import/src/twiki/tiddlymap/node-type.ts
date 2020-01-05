@@ -14,6 +14,14 @@ const images = [
 	"\\xff20e",
 	"\\xff20f",
 ]
+const imageMap = {
+	"event": "\\xff417",
+	"organization": "\\xff50c", // f0c0
+	"project-or-product": "\\xff085",
+	"publication": "\\xff026", // f518
+	"working-group": "\\xff0b1", // f5ae, f6ec
+	"person": "\\xff207"
+}
 let index = 0
 
 export class NodeTypeTiddler extends SimpleTiddler  {
@@ -56,7 +64,8 @@ export class NodeTypeTiddler extends SimpleTiddler  {
 
 		this.scope='[field:element.type['+this.filepart+']]'
 		this.style='{"color":{"border":"'+this.randomRGBA()+'","background":"'+this.randomRGBA()+'"}}'
-		this.faIcon=images[index % images.length]
+		console.log("NODE TYPE:",parts)
+		this.faIcon=imageMap[parts[0]] || images[index % images.length]
 		this.twIcon='' //images[index % images.length]
 		index = index + 1
 	}

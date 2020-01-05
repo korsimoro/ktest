@@ -1,9 +1,9 @@
-created:1578221566623
-modified:1578221566623
+created:1578233353719
+modified:1578233353719
 title:Emergency Management WG3
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Emergency Management WG3
-parent.org:ISO/TC 292 Security and Resilience
+parent.org:iso/tc 292 security and resilience
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"56057269-bacf-47c4-9772-150f0b69b2f9":{"to":"7991efaa-37c7-4a25-9372-57fefc5d0c1c","type":"organization-for-group"}}
-tmap.id:2be3bbe6-a94d-4e7d-80ad-53b2354a7831
+tmap.edges:{"d41fe918-d47e-473c-b929-5fa9c64d3da2":{"to":"5828614c-7084-4104-9f00-861b3501ab22","type":"organization-for-group"}}
+tmap.id:5cd6adff-35e7-4738-839f-c916eef07f84
 url:
 
 

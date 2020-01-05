@@ -12,4 +12,9 @@ type: text/vnd.tiddlywiki
 <li><$link>{{!!title}}</$link> - {{!!sector}}</li>
 </$list>
 </ul>
+<ul><$list filter="[all[]field:element.type<elementtype>[$subtypevalue$]listed[$subtypefield$]]
++[sort[title]]" >
+<li><$link>{{!!title}}</$link> - {{!!sector}}</li>
+</$list>
+</ul>
 \end

@@ -1,9 +1,9 @@
-created:1578221566627
-modified:1578221566627
+created:1578233353971
+modified:1578233353971
 title:Identity Event Subscription Protocol
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Identity Event Subscription Protocol
-parent.org:IETF
+parent.org:ietf
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"efc4922c-c4ca-4af0-88d8-d1172faff5c4":{"to":"884fa960-7de0-4140-9ebb-dc8fa2a9a89a","type":"organization-for-group"}}
-tmap.id:b82faa33-6ad9-4445-bc79-7fb77c99715e
+tmap.edges:{"28464278-9c85-4d35-9fb3-b5faec79ff9a":{"to":"aab94e3d-e84a-4bd2-afbd-d21926a62702","type":"organization-for-group"}}
+tmap.id:d66ca9ad-2bc8-4b47-8df4-3817ad5db507
 url:https://datatracker.ietf.org/doc/draft-hunt-idevent-distribution/
 
 

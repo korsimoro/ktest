@@ -1,9 +1,9 @@
-created:1578221571832
-modified:1578221571832
+created:1578233360432
+modified:1578233360432
 title:A tiered-layered-staged model for informed consent in personal genome testing
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:[[eline m bunnik]] [[a cecile j w janssens]] [[maartje h n schermer]]
 date:
 digital.harms.addressed:
 element.type:publication
@@ -12,14 +12,14 @@ input.source:me2b
 jurisdiction:
 license:
 name:A tiered-layered-staged model for informed consent in personal genome testing
-publication.type:to-be-determined
+publication.type:[[TO BE DETERMINED]]
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:a9398a6a-665e-4228-a1ab-02b5a6b6b156
+tmap.id:ac5b2909-d3d1-4b47-910f-8dafc8d60e4d
 url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3658183/
 version.or.edition:
 volume.frequency:

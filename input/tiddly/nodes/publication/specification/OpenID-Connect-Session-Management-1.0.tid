@@ -1,9 +1,9 @@
-created:1578221567324
-modified:1578221567324
+created:1578233355065
+modified:1578233355065
 title:OpenID Connect Session Management 1.0
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):B. de Medeiros;John Bradley;Mike Jones;N. Agarwal;Nat Sakimura
+authors.editors:B. de Medeiros;John Bradley;Mike Jones;N. Agarwal;Nat Sakimura
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:OpenID Connect Session Management 1.0
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"440ef935-269d-4809-b1a5-701bdd01d7aa":{"to":"8610a9d1-0b5f-4b81-9d1c-2c033119eac5","type":"specification-of-group"}}
-tmap.id:baa5268c-4cbc-495b-898f-7e4383a0cc70
+tmap.edges:{"b5aa3cb6-b48c-42d2-a501-e59e112c524c":{"to":"127a7f3c-2904-4357-a502-12cf426b9869","type":"specification-of-group"}}
+tmap.id:951b67b1-973e-4545-a59d-0ad09833f3e0
 url:http://openid.net/specs/openid-connect-session-1_0.html
 version.or.edition:
 volume.frequency:

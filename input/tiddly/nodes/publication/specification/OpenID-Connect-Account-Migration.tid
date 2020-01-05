@@ -1,9 +1,9 @@
-created:1578221567235
-modified:1578221567235
+created:1578233354984
+modified:1578233354984
 title:OpenID Connect Account Migration
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:OpenID Connect Account Migration
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:MONDRNA
 tags:
 tech.focus:
-tmap.edges:{"38959b22-4fe8-45b7-906e-f871fc47fd13":{"to":"dc400c09-dfd5-4743-a089-d251fcaffdaf","type":"specification-of-group"}}
-tmap.id:fdf8000f-cd19-41d1-8c3f-22ba653e24d6
+tmap.edges:{"9bd8c17b-4ab6-47b6-b762-f69ca3226242":{"to":"97aee1a3-2952-4825-91df-1497abd9bdc8","type":"specification-of-group"}}
+tmap.id:9b372a69-9600-4652-b2f9-251e198423b3
 url:
 version.or.edition:
 volume.frequency:

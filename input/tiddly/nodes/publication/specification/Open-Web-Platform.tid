@@ -1,9 +1,9 @@
-created:1578221566874
-modified:1578221566874
+created:1578233354574
+modified:1578233354574
 title:Open Web Platform
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:Open Web Platform
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:W3C
 tags:
 tech.focus:
-tmap.edges:{"72d11715-950d-4468-ba3f-b91a0579c424":{"to":"f1bd19ee-68b3-4959-b100-cbcc1c8ce291","type":"specification-of-group"}}
-tmap.id:c6af5a52-27d1-404a-aff2-8c806e4ca0c0
-url:https://www.w3.org/wiki/Open_Web_Platform
+tmap.edges:{"e635c508-04c0-40c1-bbf9-f602e20985b0":{"to":"40aad628-0e17-4ce5-823f-6b298476743b","type":"specification-of-group"}}
+tmap.id:dcaae20d-523b-4ab0-8b7f-f44957547c00
+url:https://www.w3.org/wiki/open_web_platform
 version.or.edition:
 volume.frequency:
 working.group:

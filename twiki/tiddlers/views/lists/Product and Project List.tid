@@ -10,16 +10,18 @@ type: text/vnd.tiddlywiki
 
 <table>
   <tr>
-    <th>Publications</th>
-    <th>Publication Type</th>
-    <th>Authors</th>
+    <th>Project/Product</th>
+    <th>Category</th>
+    <th>Digital Harms Addressed</th>
   </tr>
 
   <$list filter="[all[]field:element.type[project-or-product]sort[title]sort[category]sort[sponsoring.org]]">
     <tr>
       <td><$link>{{!!title}}</$link></td>
-      <td><$link>{{!!publication.type}}</$link></td>
-      <td><$link>{{!!author(s)editor(s)}}</$link></td>
+      <td><$link>{{!!category}}</$link></td>
+      <td>
+        <<TagLikeList digital.harms.addressed "" "" >>
+      </td>
     </tr>
   </$list>
 </table>

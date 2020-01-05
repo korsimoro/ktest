@@ -1,9 +1,9 @@
-created:1578221566629
-modified:1578221566629
+created:1578233354069
+modified:1578233354069
 title:ISO/TC 292 Security and Resilience
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:ISO/TC 292 Security and Resilience
-parent.org:ISO/IEC
+parent.org:iso/iec
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"09900bdd-99b9-4b57-ac3e-e42adb92f511":{"to":"ef38d057-3d43-4233-b4bf-69c09c418bf1","type":"organization-for-group"},"f9a0e9c5-5cec-485d-92e3-61b003b1b4c4":{"to":"09e86f03-41f5-4b41-ba3e-f174fa21ec71","type":"connection"}}
-tmap.id:7991efaa-37c7-4a25-9372-57fefc5d0c1c
+tmap.edges:{"b3610b22-0734-4587-b86a-9ba1e0a9424a":{"to":"f7a74548-7aa6-481b-90ab-45870d11cb54","type":"organization-for-group"},"0be49909-c9b2-4214-b32a-66aa70d8c7d4":{"to":"8b219f57-3e50-41b0-871b-b8081cbe766c","type":"connection"}}
+tmap.id:5828614c-7084-4104-9f00-861b3501ab22
 url:
 
 

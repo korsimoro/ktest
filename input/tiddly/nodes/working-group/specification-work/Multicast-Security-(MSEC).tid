@@ -1,9 +1,9 @@
-created:1578221566629
-modified:1578221566629
+created:1578233354061
+modified:1578233354061
 title:Multicast Security (MSEC)
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Multicast Security (MSEC)
-parent.org:IETF
+parent.org:ietf
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"1bbca761-cb37-403a-b435-bb0dabe680d0":{"to":"884fa960-7de0-4140-9ebb-dc8fa2a9a89a","type":"organization-for-group"}}
-tmap.id:baaa96b1-0b24-44ad-9a96-13225bb40c0f
+tmap.edges:{"ee8ce8d5-5675-4198-8cdc-4baf41f70f66":{"to":"aab94e3d-e84a-4bd2-afbd-d21926a62702","type":"organization-for-group"}}
+tmap.id:800d1440-a944-4c20-99b1-395a1422c84f
 url:
 
 

@@ -1,9 +1,9 @@
-created:1578221566643
-modified:1578221566643
+created:1578233354384
+modified:1578233354384
 title:ISO/IEC JTC1/SC17
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:ISO/IEC JTC1/SC17
-parent.org:ISO/IEC
+parent.org:iso/iec
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"093f9d65-8a7b-4388-8253-f32b2de3c583":{"to":"ef38d057-3d43-4233-b4bf-69c09c418bf1","type":"organization-for-group"}}
-tmap.id:09e86f03-41f5-4b41-ba3e-f174fa21ec71
+tmap.edges:{"ec953a25-d32a-475a-8dd4-1a073d4244fb":{"to":"f7a74548-7aa6-481b-90ab-45870d11cb54","type":"organization-for-group"}}
+tmap.id:8b219f57-3e50-41b0-871b-b8081cbe766c
 url:http://www.sc17.com/
 
 ISO/IEC JTC1 has accordingly developed and maintains its own procedures.

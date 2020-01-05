@@ -1,8 +1,8 @@
-created:1578221570805
-modified:1578221570805
+created:1578233359358
+modified:1578233359358
 title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/working-group
 type:text/vnd.tiddlywiki
 scope: [field:element.type[working-group]]
-style: {"color":{"border":"rgba(224,107,99,161)","background":"rgba(33,62,226,52)"}}
-fa-icon: \xff207
+style: {"color":{"border":"rgba(46,115,6,61)","background":"rgba(189,54,223,167)"}}
+fa-icon: \xff0b1
 tw-icon: 

@@ -1,9 +1,9 @@
-created:1578221567214
-modified:1578221567214
+created:1578233354965
+modified:1578233354965
 title:OAuth 2.0 Form Post Response Mode
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):B. Campbell;Mike Jones
+authors.editors:B. Campbell;Mike Jones
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:OAuth 2.0 Form Post Response Mode
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"e12954e8-969f-4e1b-9ab4-5d87186fe884":{"to":"8610a9d1-0b5f-4b81-9d1c-2c033119eac5","type":"specification-of-group"}}
-tmap.id:9a21c6c6-ed11-4587-90b9-19a5326d5b47
+tmap.edges:{"9ce5ff82-f89a-41c9-8b5c-c0b1cf7b35bf":{"to":"127a7f3c-2904-4357-a502-12cf426b9869","type":"specification-of-group"}}
+tmap.id:802d4b85-f3a3-41d7-8bab-0c5f9e5014be
 url:http://openid.net/specs/oauth-v2-form-post-response-mode-1_0.html
 version.or.edition:
 volume.frequency:

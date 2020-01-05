@@ -1,9 +1,9 @@
-created:1578221567126
-modified:1578221567126
+created:1578233354869
+modified:1578233354869
 title:FIDO 2.0: Signature format
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:FIDO 2.0: Signature format
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"30de9c69-de37-4eff-937f-f1dce4a0754d":{"to":"384be02f-44f0-4513-8339-49dc7b17478d","type":"organization-for-group"},"4aa4a2af-14ea-4883-ae13-832a34a5c42a":{"to":"aa0507d3-77de-4b86-82f4-f7b75fd1d523","type":"organization-for-group"}}
-tmap.id:3aa3b8ce-dd81-418a-bdc8-9b214ee7a148
-url:http://www.w3.org/Submission/2015/SUBM-fido-signature-format-20151120/
+tmap.edges:{"c4674c49-f440-46ed-a585-60b6f1558c0f":{"to":"832d7b69-c9c5-440a-9a9d-f09fe6f3768c","type":"organization-for-group"},"c3fc0a15-db59-4a81-8328-d7752f9e148e":{"to":"ee175dc1-8475-477b-8ada-c78451284661","type":"organization-for-group"}}
+tmap.id:ef3b43e8-96b8-4801-a771-bb716e21869c
+url:http://www.w3.org/submission/2015/subm-fido-signature-format-20151120/
 version.or.edition:
 volume.frequency:
 working.group:

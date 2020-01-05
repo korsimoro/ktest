@@ -1,9 +1,9 @@
-created:1578221568096
-modified:1578221568096
+created:1578233356302
+modified:1578233356302
 title:eSignature Introduction
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:eSignature Introduction
-publication.type:TO BE DETERMINED
+publication.type:to be determined
 purpose:
 sector:
 sponsoring.org:eSignature
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:0d3973f8-ac3a-4acb-9412-2bc5f284b81e
-url:https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eSignature+Discover?preview=/23003331/32768168/(Building%20Block%20DSI_IntroDocument)%20(eSignature)%20(v10.).pdf
+tmap.id:abe843c2-5a5f-4140-ba8b-a1db81ce0195
+url:https://ec.europa.eu/cefdigital/wiki/display/cefdigital/esignature+discover?preview=/23003331/32768168/(building%20block%20dsi_introdocument)%20(esignature)%20(v10.).pdf
 version.or.edition:
 volume.frequency:
 working.group:

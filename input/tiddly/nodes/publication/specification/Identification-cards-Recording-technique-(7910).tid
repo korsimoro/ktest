@@ -1,9 +1,9 @@
-created:1578221567053
-modified:1578221567053
+created:1578233354799
+modified:1578233354799
 title:Identification cards – Recording technique (7910)
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Identification cards – Recording technique (7910)
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:Physical Characteristics and Test Methods WG1
 tags:
 tech.focus:
-tmap.edges:{"02277d97-8163-41a7-8b0a-f813f6f28fb5":{"to":"e0a81bef-f4fe-43fd-8ce1-c2e1d28d4809","type":"specification-of-group"}}
-tmap.id:b3885a81-8c54-45ba-ae4c-8ffc2e8f3a76
+tmap.edges:{"cd8b7720-0e41-4270-906f-9b21a154ae07":{"to":"a9d5fb2a-6d7b-4ea5-9f49-a09584291226","type":"specification-of-group"}}
+tmap.id:713c8907-f55a-4c6b-b25e-267b2eeebef3
 url:
 version.or.edition:
 volume.frequency:

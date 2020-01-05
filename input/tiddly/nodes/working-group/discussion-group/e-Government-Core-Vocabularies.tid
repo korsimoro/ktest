@@ -1,9 +1,9 @@
-created:1578221566618
-modified:1578221566618
+created:1578233353536
+modified:1578233353536
 title:e-Government Core Vocabularies
 type:text/vnd.tiddlywiki
 activities:
-category:Discussion Group
+category:[[discussion group]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:e-Government Core Vocabularies
-parent.org:Semantic Interoperability Community (SEMIC)
+parent.org:semantic interoperability community (semic)
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"00ba2182-12a6-41f8-a7f9-e0b55eeccd44":{"to":"10a49852-9141-4249-a968-00cf508d2dd8","type":"author"}}
-tmap.id:5f827f60-653c-4cd8-af61-d9c9458ea495
+tmap.edges:{"dcfa433d-ccf4-42f1-aa6f-f53e29d08c0a":{"to":"1831ec0f-879c-423e-9366-253fb30eab60","type":"author"}}
+tmap.id:80763078-42fd-43a6-a497-43966a9006ee
 url:https://joinup.ec.europa.eu/node/145983
 
 The e-Government Core Vocabularies are simplified, re-usable and extensible data models that capture the fundamental characteristics of an entity, such as a person, a business, a location or a public service, in a context-neutral way. They can be used by public administrations to attain a minimum level of semantic interoperability for e-Government systems.

@@ -1,9 +1,9 @@
-created:1578221566630
-modified:1578221566630
+created:1578233354071
+modified:1578233354071
 title:OAuth WG
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:OAuth WG
-parent.org:IETF
+parent.org:ietf
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"2dcae85a-f45a-4db5-875d-dfbea983ee7e":{"to":"884fa960-7de0-4140-9ebb-dc8fa2a9a89a","type":"organization-for-group"}}
-tmap.id:d8911882-1c24-404b-b73f-1cc54beacb1f
+tmap.edges:{"27b02fa4-07ef-4bae-8e02-9d619f7433ed":{"to":"aab94e3d-e84a-4bd2-afbd-d21926a62702","type":"organization-for-group"}}
+tmap.id:c36e66dc-9da8-42a9-8894-0147cf76bd2b
 url:http://oauth.net/
 
 https://datatracker.ietf.org/doc/rfc6749/

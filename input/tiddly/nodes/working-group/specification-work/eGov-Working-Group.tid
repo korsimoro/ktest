@@ -1,9 +1,9 @@
-created:1578221566624
-modified:1578221566624
+created:1578233353797
+modified:1578233353797
 title:eGov Working Group
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,15 +12,15 @@ github.profile:
 ipr:
 meeting.frequency:
 name:eGov Working Group
-parent.org:Kantara
+parent.org:kantara
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"5ddcab8b-1bf8-4795-86a0-fb756cd22dc8":{"to":"3aa4088c-2785-4c34-aef5-9bff16554614","type":"connection"},"b55888c4-1db4-4852-b525-e19d7e17648d":{"to":"0e292f94-f3fa-4367-b459-a5ba65afb1ef","type":"organization-for-group"}}
-tmap.id:2bc8fe1a-ac69-4016-a142-0b40bbc616d8
-url:https://kantarainitiative.org/confluence/display/eGov/Home
+tmap.edges:{"869f0b9b-92b0-422c-9c3b-a5f2a514c396":{"to":"b2c8b84c-3a31-45a3-9652-c5ef85267f85","type":"connection"},"b74b68a4-1104-4051-9e89-b4c7cf875423":{"to":"1d1b9a0b-a6fc-4fea-86a1-39d32bc6958e","type":"organization-for-group"}}
+tmap.id:bded4a98-3b8a-4719-b804-f3754fcdb6e8
+url:https://kantarainitiative.org/confluence/display/egov/home
 
 The eGovernment Work Group (eGov WG) will be responsible for:
 * Facilitating collaboration and discussion among Kantara members with an interest in eGovernment identity management applications and services

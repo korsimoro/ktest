@@ -15,15 +15,15 @@ export const inbound : any = {
   },
   "Publication Type" : {
     "kumu": mappers.string('SubType'),
-    "me2b": mappers.me2b_set_subtype_and_field('Publication Type')
+    "me2b": mappers.me2b_set_subtype_and_array_field('Publication Type')
   },
   "Sponsoring Org" : {
     "kumu": mappers.publicationOrgs(),
     "me2b": mappers.csv_value('Sponsoring Organization')
   },
-  "Author(s)/Editor(s)" : {
+  "Authors-Editors" : {
     "kumu": mappers.publicationAuthors(),
-    "me2b": mappers.tagArray('Author(s)/Editor(s)')
+    "me2b": mappers.tagArray('Author(s)/Editors')
   },
   "Audience" : {
     "kumu": mappers.default(''),

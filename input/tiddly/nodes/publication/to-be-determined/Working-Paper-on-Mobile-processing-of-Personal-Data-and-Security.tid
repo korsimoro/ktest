@@ -1,9 +1,9 @@
-created:1578221568094
-modified:1578221568094
+created:1578233356300
+modified:1578233356300
 title:Working Paper on Mobile processing of Personal Data and Security
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Working Paper on Mobile processing of Personal Data and Security
-publication.type:TO BE DETERMINED
+publication.type:to be determined
 purpose:
 sector:
 sponsoring.org:International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:06b427bb-e241-4000-8140-6cf8a6a6f194
+tmap.id:abd2dff0-4079-42fd-85ce-d58dfc24c65e
 url:https://datenschutz-berlin.de/attachments/886/675.41.18.pdf?1345017918
 version.or.edition:
 volume.frequency:

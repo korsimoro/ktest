@@ -1,9 +1,9 @@
-created:1578221566631
-modified:1578221566631
+created:1578233354154
+modified:1578233354154
 title:Motor Vehicle Drivers Licence and Related Documents WG10
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Motor Vehicle Drivers Licence and Related Documents WG10
-parent.org:ISO/IEC JTC1/SC17
+parent.org:iso/iec jtc1/sc17
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"d9da8f09-0072-450b-8c3b-2730f47862ac":{"to":"09e86f03-41f5-4b41-ba3e-f174fa21ec71","type":"organization-for-group"}}
-tmap.id:2ae765f9-44ef-4d2c-a0d7-1a6a7a3e8c42
+tmap.edges:{"ac90ba98-0ebd-4e08-b85b-21c23358a650":{"to":"8b219f57-3e50-41b0-871b-b8081cbe766c","type":"organization-for-group"}}
+tmap.id:5d47b0b5-8628-405e-825e-8e150f0b2049
 url:
 
 Draft Terms of Reference: Standardization in the filed of Motor vehicle driver licences.

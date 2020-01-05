@@ -15,8 +15,8 @@ export const inbound : any = {
     "me2b": mappers.csv_value('URL')
   },
   "Category" : {
-    "kumu": mappers.string('SubType'),
-    "me2b": mappers.me2b_set_subtype_and_field('Category')
+    "kumu": mappers.tagArray('SubType'),
+    "me2b": mappers.me2b_set_subtype_and_array_field('Category')
   },
   "Parent Org" : {
     "kumu": mappers.string('Parent Org'),

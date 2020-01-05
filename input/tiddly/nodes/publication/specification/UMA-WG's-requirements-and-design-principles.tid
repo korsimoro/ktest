@@ -1,9 +1,9 @@
-created:1578221567222
-modified:1578221567222
+created:1578233354972
+modified:1578233354972
 title:UMA WG’s requirements and design principles
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):Eve Maler
+authors.editors:Eve Maler
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:UMA WG’s requirements and design principles
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:cd21ef64-a9c2-454d-a405-f5d6ab3a1d07
-url:http://kantarainitiative.org/confluence/display/uma/UMA+Requirements
+tmap.id:daa98d34-ace6-4a3f-80f4-36e624ab34b5
+url:http://kantarainitiative.org/confluence/display/uma/uma+requirements
 version.or.edition:
 volume.frequency:
 working.group:

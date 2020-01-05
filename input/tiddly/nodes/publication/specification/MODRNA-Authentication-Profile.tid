@@ -1,9 +1,9 @@
-created:1578221567150
-modified:1578221567150
+created:1578233354891
+modified:1578233354891
 title:MODRNA Authentication Profile
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):J. Connotte;John Bradley
+authors.editors:J. Connotte;John Bradley
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:MODRNA Authentication Profile
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:MONDRNA
 tags:
 tech.focus:
-tmap.edges:{"1ebe2967-9cce-4180-9352-ce3078d9dd3e":{"to":"dc400c09-dfd5-4743-a089-d251fcaffdaf","type":"specification-of-group"}}
-tmap.id:4b02629f-f367-49c4-a838-97501cd0f853
+tmap.edges:{"016fc0c3-9ed4-4184-88fa-4088aac29863":{"to":"97aee1a3-2952-4825-91df-1497abd9bdc8","type":"specification-of-group"}}
+tmap.id:2f225e12-7036-4361-b492-ff4246633852
 url:https://bitbucket.org/openid/mobile/raw/default/draft-mobile-authentication-01.txt
 version.or.edition:
 volume.frequency:

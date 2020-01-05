@@ -1,9 +1,9 @@
-created:1578221566626
-modified:1578221566626
+created:1578233353891
+modified:1578233353891
 title:Machine Readable Travel Documents WG3
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Machine Readable Travel Documents WG3
-parent.org:ISO/IEC JTC1/SC17
+parent.org:iso/iec jtc1/sc17
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"564b9da3-6ab3-49f4-88b6-8da2fac06372":{"to":"09e86f03-41f5-4b41-ba3e-f174fa21ec71","type":"organization-for-group"},"9af749c3-12e2-44e0-af8e-c4dd14a2c390":{"to":"6cce4e30-b1c4-4f62-ad38-7762d7bd7ea3","type":"author"}}
-tmap.id:4dcf820f-0e77-424c-b559-0e71ee98dd68
+tmap.edges:{"8a7ea1ef-5552-40f2-aafd-095add873b69":{"to":"8b219f57-3e50-41b0-871b-b8081cbe766c","type":"organization-for-group"},"bde2d6aa-a2df-44f9-942f-41ca4d80b6e8":{"to":"0b62b852-4243-41a7-a0c5-9b88ec84bd8d","type":"author"}}
+tmap.id:7b002057-c623-4a8a-9d8b-f9ef54dc5c70
 url:
 
 To prepare a revised text of ISO/IEC 7501; monitor the standards referenced; consider and define standards for machine readable travel documents and related machine readable cards; co-ordination of JTC1 liaison with ICAO for maintenance of ICAO 9303, machine readable passports and related ICAO documents.

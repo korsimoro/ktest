@@ -1,9 +1,9 @@
-created:1578221566619
-modified:1578221566619
+created:1578233353566
+modified:1578233353566
 title:ipen Internet Privacy Engineering Network
 type:text/vnd.tiddlywiki
 activities:
-category:Community Group
+category:[[community group]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,15 +12,15 @@ github.profile:
 ipr:
 meeting.frequency:
 name:ipen Internet Privacy Engineering Network
-parent.org:European Data Protection Supervisor (Contrôleur européen de la protection des données)
+parent.org:european data protection supervisor (contrôleur européen de la protection des données)
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
 tmap.edges:{}
-tmap.id:4bde2056-bed9-44d4-b37c-031cab10c7c7
-url:https://secure.edps.europa.eu/EDPSWEB/edps/EDPS/IPEN
+tmap.id:9a5bbb24-30b7-4b39-a89d-8eb682aa8b3d
+url:https://secure.edps.europa.eu/edpsweb/edps/edps/ipen
 
 The purpose of IPEN is to bring together developers and data protection experts with a technical background from different areas in order to launch and support projects that build privacy into everyday tools and develop new tools which can effectively protect and enhance our privacy.
 

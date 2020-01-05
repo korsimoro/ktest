@@ -1,9 +1,9 @@
-created:1578221566624
-modified:1578221566624
+created:1578233353788
+modified:1578233353788
 title:Internet Research Task Force IRTF
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:2012-04-17
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Internet Research Task Force IRTF
-parent.org:IETF
+parent.org:ietf
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"9f8e9c5d-2b8d-4006-9e77-94c8f748fbec":{"to":"884fa960-7de0-4140-9ebb-dc8fa2a9a89a","type":"organization-for-group"},"ddc4b5cd-2251-4ce1-bf2f-3919d49608ad":{"to":"7bf71358-785b-49ae-87e4-766f7f658c4d","type":"default"},"c3219e2b-1336-4eb9-83d4-bf805a08de68":{"to":"3c83412e-5072-4c62-8aae-af96103fef43","type":"organization-for-group"}}
-tmap.id:61364b50-9334-4c06-8c99-398368ba56a2
+tmap.edges:{"531d3237-c707-49fe-9c4c-1c064bc42800":{"to":"aab94e3d-e84a-4bd2-afbd-d21926a62702","type":"organization-for-group"},"53bcf4bc-0057-465c-9794-def246a20c73":{"to":"d8f1f6a9-b9ac-4421-bc6e-08ba16a69bdf","type":"default"},"6fa4c78d-92ec-4be5-934b-3881f859967f":{"to":"5d24bfb9-9108-434f-bd85-3564e301d750","type":"organization-for-group"}}
+tmap.id:bd6f2b23-f106-443b-b408-757927b5bedb
 url:https://irtf.org
 
 Distributing and manipulating named information is a major application in the Internet today. In addition to web-based content distribution, other distribution technologies (such as P2P and CDN) have emerged and are promoting a communication model of accessing data by name, regardless of origin server location.

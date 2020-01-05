@@ -1,9 +1,9 @@
-created:1578221568171
-modified:1578221568171
+created:1578233356324
+modified:1578233356324
 title:Communication: ICT Standardisation Priorities for the Digital Single Market
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Communication: ICT Standardisation Priorities for the Digital Single Market
-publication.type:TO BE DETERMINED
+publication.type:to be determined
 purpose:
 sector:
 sponsoring.org:Digitizing European Industry
 tags:
 tech.focus:
-tmap.edges:{"5b5e5bca-2e50-4982-b0f6-998cdd2b3a1e":{"to":"830e72cf-96e8-4979-940d-a2b44f3fa96b","type":"connection"}}
-tmap.id:7af5da80-8ef5-4350-ae7c-7d01787402b4
+tmap.edges:{"1a5c8e68-9c64-40cb-b6ac-4d11c02e6f08":{"to":"ecd6019b-05f4-47a7-9485-1cf05c2e15ae","type":"connection"}}
+tmap.id:ba1b8ea1-3f20-49c8-90ac-6ed490555dd0
 url:http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=15265
 version.or.edition:
 volume.frequency:

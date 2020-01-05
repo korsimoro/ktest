@@ -1,9 +1,9 @@
-created:1578221571833
-modified:1578221571833
+created:1578233360433
+modified:1578233360433
 title:NIST Privacy Framework
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -12,14 +12,14 @@ input.source:me2b
 jurisdiction:
 license:
 name:NIST Privacy Framework
-publication.type:to-be-determined
+publication.type:[[TO BE DETERMINED]]
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:0801bd99-f470-4dc5-bc61-2535c2769f11
+tmap.id:6abfd099-7d4a-4e12-b7d9-3ca591824a48
 url:https://www.nist.gov/privacy-framework
 version.or.edition:
 volume.frequency:

@@ -1,9 +1,9 @@
-created:1578221569952
-modified:1578221569952
+created:1578233358180
+modified:1578233358180
 title:Data protection Directive
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:Data protection Directive
-publication.type:Legislation
+publication.type:legislation
 purpose:
 sector:
 sponsoring.org:European Commission
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:e30f031b-7143-4f16-a85a-3b404ccf92c0
-url:http://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:31995L0046
+tmap.id:f3e4fa32-f977-4019-bacf-0aa5e2d1d491
+url:http://eur-lex.europa.eu/legal-content/en/all/?uri=celex:31995l0046
 version.or.edition:
 volume.frequency:
 working.group:

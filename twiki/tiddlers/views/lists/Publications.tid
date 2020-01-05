@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
     <tr>
       <td><$link>{{!!title}}</$link></td>
       <td><$link>{{!!publication.type}}</$link></td>
-      <td><$link>{{!!pauthor(s)editor(s)}}</$link></td>
+      <td><<TagLikeList "authors.editors" >></td>
     </tr>
   </$list>
 </table>

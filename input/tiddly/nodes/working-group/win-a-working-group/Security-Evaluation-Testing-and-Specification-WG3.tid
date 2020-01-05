@@ -1,9 +1,9 @@
-created:1578221566627
-modified:1578221566627
+created:1578233353956
+modified:1578233353956
 title:Security Evaluation, Testing and Specification WG3
 type:text/vnd.tiddlywiki
 activities:
-category:w/in a Working Group
+category:[[w/in a working group]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Security Evaluation, Testing and Specification WG3
-parent.org:ISO/IEC JTC1/SC17
+parent.org:iso/iec jtc1/sc17
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"7800a8d2-bbb4-49d3-9ab9-d5ecaf9b64b9":{"to":"6581fc76-ce0c-47e0-8744-c4e5d72aab19","type":"organization-for-group"}}
-tmap.id:ab57b176-fd41-4610-b2ee-f3a223a14e72
+tmap.edges:{"646a6b5d-f483-4b22-a991-cd84c41151b2":{"to":"5166e20e-8262-41ee-a049-d2838d200312","type":"organization-for-group"}}
+tmap.id:52b49136-135b-47c5-82ea-c264613d18e6
 url:
 
 The terms of reference of this working group are:

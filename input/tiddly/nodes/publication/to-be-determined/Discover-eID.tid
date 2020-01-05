@@ -1,9 +1,9 @@
-created:1578221567908
-modified:1578221567908
+created:1578233356075
+modified:1578233356075
 title:Discover eID
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:Discover eID
-publication.type:TO BE DETERMINED
+publication.type:to be determined
 purpose:
 sector:
 sponsoring.org:eID
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:0630f482-e904-4ea2-be6a-a5f160258af5
-url:https://ec.europa.eu/cefdigital/wiki/download/attachments/23003331/Building%20Block%20DSI_IntroDocument%20%28eID%29-v1.05.pdf?version=1&modificationDate=1466696334819&api=v2
+tmap.id:ca53e5a6-dddf-4d5e-8c60-ddce680f0632
+url:https://ec.europa.eu/cefdigital/wiki/download/attachments/23003331/building%20block%20dsi_introdocument%20%28eid%29-v1.05.pdf?version=1&modificationdate=1466696334819&api=v2
 version.or.edition:
 volume.frequency:
 working.group:

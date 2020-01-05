@@ -1,9 +1,9 @@
-created:1578221571833
-modified:1578221571833
+created:1578233360433
+modified:1578233360433
 title:Classification of Everyday Living V1.0 COEL
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -12,14 +12,14 @@ input.source:me2b
 jurisdiction:
 license:
 name:Classification of Everyday Living V1.0 COEL
-publication.type:to-be-determined
+publication.type:[[TO BE DETERMINED]]
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:b76de0b9-3518-4afe-9e27-10f76e25d31e
+tmap.id:3c71d2e4-a36f-4e45-b24f-67b76b71e28a
 url:http://docs.oasis-open.org/coel/COEL/v1.0/cs02/COEL-v1.0-cs02.pdf
 version.or.edition:
 volume.frequency:

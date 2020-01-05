@@ -1,9 +1,9 @@
-created:1578221566642
-modified:1578221566642
+created:1578233354377
+modified:1578233354377
 title:U2F
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:U2F
-parent.org:FIDO Alliance
+parent.org:fido alliance
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"a4f4339d-5dd6-4db7-8dda-62ec0efd22f1":{"to":"384be02f-44f0-4513-8339-49dc7b17478d","type":"organization-for-group"}}
-tmap.id:6847a28d-7679-4d07-b05d-9f5e1b8aba09
+tmap.edges:{"39dd4b86-99a9-476f-b1b9-89f85062bcbb":{"to":"832d7b69-c9c5-440a-9a9d-f09fe6f3768c","type":"organization-for-group"}}
+tmap.id:ca7c0b62-9be5-463a-aa36-796da05549d9
 url:
 
 Second Factor UX (U2F)

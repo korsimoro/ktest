@@ -1,9 +1,9 @@
-created:1578221567064
-modified:1578221567064
+created:1578233354862
+modified:1578233354862
 title:Privacy Considerations for Internet Protocols
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):Hannes Tschofenig
+authors.editors:Hannes Tschofenig
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Privacy Considerations for Internet Protocols
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"c9ded3a1-f4a2-4beb-9c1e-708e981a838e":{"to":"884fa960-7de0-4140-9ebb-dc8fa2a9a89a","type":"organization-for-group"},"963ae33b-1c9a-4ab8-82a7-eda2d2cc5560":{"to":"3c83412e-5072-4c62-8aae-af96103fef43","type":"connection"}}
-tmap.id:e3ed1b40-336e-40fe-82af-4276a83cbfdb
+tmap.edges:{"ba9d3af6-c04e-422e-96d9-2f3cba7170ab":{"to":"aab94e3d-e84a-4bd2-afbd-d21926a62702","type":"organization-for-group"},"03c633c4-aad2-4063-a84d-7823715522d9":{"to":"5d24bfb9-9108-434f-bd85-3564e301d750","type":"connection"}}
+tmap.id:18026777-d4ba-4b25-af93-6c503fef0f6c
 url:https://tools.ietf.org/html/rfc6973
 version.or.edition:
 volume.frequency:

@@ -1,9 +1,9 @@
-created:1578221566639
-modified:1578221566639
+created:1578233354236
+modified:1578233354236
 title:Cryptography and Security Mechanisms WG2
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Cryptography and Security Mechanisms WG2
-parent.org:ISO/IEC JTC 1 / SC27 IT Security Techniques
+parent.org:iso/iec jtc 1 / sc27 it security techniques
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"60bb8857-e25d-4102-8e17-550943eb1e10":{"to":"6581fc76-ce0c-47e0-8744-c4e5d72aab19","type":"organization-for-group"}}
-tmap.id:4bc739f9-a26f-4de8-a78d-cb763b07cfd1
+tmap.edges:{"2e187702-4c6c-49f7-9e03-8f8dfd6b1092":{"to":"5166e20e-8262-41ee-a049-d2838d200312","type":"organization-for-group"}}
+tmap.id:9cda7d34-4dfb-4e39-a94b-632049dcca1a
 url:
 
 WG 2 provides a center of expertise for the standardization of IT Security techniques and mechanisms within JTC 1.

@@ -1,9 +1,9 @@
-created:1578221566620
-modified:1578221566620
+created:1578233353619
+modified:1578233353619
 title:OECD Committee on Digital Economy Policy
 type:text/vnd.tiddlywiki
 activities:
-category:Policy Work
+category:[[policy work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:OECD Committee on Digital Economy Policy
-parent.org:OECD (The Organisation for Economic Co-operation and Development)
+parent.org:oecd (the organisation for economic co-operation and development)
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"8d1714ac-3166-4391-9a03-d1e59bce4fe3":{"to":"9b770a87-fb1a-4e17-a40d-f533882d5f19","type":"organization-for-group"}}
-tmap.id:05e94dcb-76e9-4a93-9a22-0f1546357141
+tmap.edges:{"ac701c6c-55e9-45e6-b50c-86c801f94060":{"to":"f974ed32-60e8-45e6-9185-df8040095c0d","type":"organization-for-group"}}
+tmap.id:15efa1fa-729f-4bb9-8911-510835eff47b
 url:
 
 

@@ -1,9 +1,9 @@
-created:1578221566978
-modified:1578221566978
+created:1578233354730
+modified:1578233354730
 title:Health Relationship Trust Profile for User Managed Access 1.0
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):Justin Richer
+authors.editors:Justin Richer
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:Health Relationship Trust Profile for User Managed Access 1.0
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:HEART Working Group
 tags:
 tech.focus:
-tmap.edges:{"ea1a6c79-a97e-4763-b8ef-87ed898a9e87":{"to":"ff7abd24-bbb2-413e-8255-50d840afc5b9","type":"specification-of-group"}}
-tmap.id:7c72796a-9519-40bf-8b5c-793671b92be4
-url:http://openid.bitbucket.org/HEART/openid-heart-uma.html
+tmap.edges:{"d7e44199-2e53-42d7-b8dc-ca1a249b78c1":{"to":"81f60836-22bf-42a1-8340-5e495a360c03","type":"specification-of-group"}}
+tmap.id:3dbd95bc-fd02-4a03-bea9-fadf45fddc3e
+url:http://openid.bitbucket.org/heart/openid-heart-uma.html
 version.or.edition:
 volume.frequency:
 working.group:

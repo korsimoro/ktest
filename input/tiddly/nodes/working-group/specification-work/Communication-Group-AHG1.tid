@@ -1,9 +1,9 @@
-created:1578221566627
-modified:1578221566627
+created:1578233353973
+modified:1578233353973
 title:Communication Group AHG1
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Communication Group AHG1
-parent.org:ISO/TC 292 Security and Resilience
+parent.org:iso/tc 292 security and resilience
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"1ccfde07-50b7-4795-b241-400293d05a67":{"to":"7991efaa-37c7-4a25-9372-57fefc5d0c1c","type":"organization-for-group"}}
-tmap.id:dec4ca15-fde2-42e8-98e0-a6312c3c2dd8
+tmap.edges:{"6c2765b8-617b-448c-a052-0fdbca38ca89":{"to":"5828614c-7084-4104-9f00-861b3501ab22","type":"organization-for-group"}}
+tmap.id:8186f236-3862-4b65-b88f-f3796772238f
 url:
 
 

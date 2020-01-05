@@ -1,9 +1,9 @@
-created:1578221567152
-modified:1578221567152
+created:1578233354956
+modified:1578233354956
 title:OAuth 2.0 Multiple Response Type Encoding Practices
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):B. de Medeiros;M. Scurtescu;Mike Jones;P. Tarjan
+authors.editors:B. de Medeiros;M. Scurtescu;Mike Jones;P. Tarjan
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:OAuth 2.0 Multiple Response Type Encoding Practices
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"45db03ce-4a98-458a-ad89-2896b4ff65c1":{"to":"8610a9d1-0b5f-4b81-9d1c-2c033119eac5","type":"specification-of-group"}}
-tmap.id:ea47f796-0861-415d-ad95-f41d37408022
+tmap.edges:{"38d3b548-69f6-4f9f-ac35-e8de42b1aa3e":{"to":"127a7f3c-2904-4357-a502-12cf426b9869","type":"specification-of-group"}}
+tmap.id:5ab63e21-d25e-490f-9ee7-768b076e7300
 url:http://openid.net/specs/oauth-v2-multiple-response-types-1_0.html
 version.or.edition:
 volume.frequency:

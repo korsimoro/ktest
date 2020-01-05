@@ -1,9 +1,9 @@
-created:1578221567833
-modified:1578221567833
+created:1578233356005
+modified:1578233356005
 title:HighTech ID
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:HighTech ID
-publication.type:TO BE DETERMINED
+publication.type:to be determined
 purpose:
 sector:
 sponsoring.org:Future of Identity in the Information Society (FIDIS)
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:581cd08b-98ee-4e02-b337-814656907541
+tmap.id:c081e81d-74f9-496c-a8d6-a44e8965bc33
 url:http://www.fidis.net/resources/fidis-deliverables/hightechid/
 version.or.edition:
 volume.frequency:

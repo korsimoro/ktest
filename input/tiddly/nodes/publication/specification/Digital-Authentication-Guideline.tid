@@ -1,9 +1,9 @@
-created:1578221567319
-modified:1578221567319
+created:1578233355061
+modified:1578233355061
 title:Digital Authentication Guideline
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Digital Authentication Guideline
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"e69e8a6b-9c47-448d-86bf-5c4afdf7e744":{"to":"17edc3dc-778e-4302-9be8-d3a6cb4e99c1","type":"organization-for-group"}}
-tmap.id:4142c9bd-f21a-4eec-95d7-68849a40bd17
+tmap.edges:{"be6a29dc-6064-4570-9e77-69f15f5592ec":{"to":"7a21862e-ffb6-463f-a884-9bbbe287bd01","type":"organization-for-group"}}
+tmap.id:6fcd1d3e-8a0f-4846-af4a-da92878f6604
 url:https://pages.nist.gov/800-63-3/
 version.or.edition:
 volume.frequency:

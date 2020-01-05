@@ -1,9 +1,9 @@
-created:1578221567141
-modified:1578221567141
+created:1578233354881
+modified:1578233354881
 title:UMA Profile of OAuth 2.o
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):Domenico Catalano;Eve Maler;Maciej Machulak;Thomas Hardjono
+authors.editors:Domenico Catalano;Eve Maler;Maciej Machulak;Thomas Hardjono
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:UMA Profile of OAuth 2.o
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"ef9c068c-7835-46b0-ba32-07772496108a":{"to":"eae09368-f871-4bcf-a599-2640e2967dcf","type":"organization-for-group"}}
-tmap.id:99d69cbe-2d6e-41b6-8c87-b2f8194f4d73
+tmap.edges:{"dcff9342-7d2d-435c-96e8-f9cc4e0b2b74":{"to":"bba1b9f1-820a-4cad-abae-5b52f33f4d33","type":"organization-for-group"}}
+tmap.id:2a71bd91-7480-4372-a0f2-c78fe499e9c0
 url:
 version.or.edition:
 volume.frequency:

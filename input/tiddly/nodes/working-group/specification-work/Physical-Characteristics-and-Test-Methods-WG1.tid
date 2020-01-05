@@ -1,9 +1,9 @@
-created:1578221566640
-modified:1578221566640
+created:1578233354291
+modified:1578233354291
 title:Physical Characteristics and Test Methods WG1
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Physical Characteristics and Test Methods WG1
-parent.org:ISO/IEC JTC1/SC17
+parent.org:iso/iec jtc1/sc17
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"be191900-5eea-4b63-949b-726f416079be":{"to":"09e86f03-41f5-4b41-ba3e-f174fa21ec71","type":"organization-for-group"}}
-tmap.id:e0a81bef-f4fe-43fd-8ce1-c2e1d28d4809
+tmap.edges:{"3ed0faa3-1ff3-4707-bac9-392c281e2337":{"to":"8b219f57-3e50-41b0-871b-b8081cbe766c","type":"organization-for-group"}}
+tmap.id:a9d5fb2a-6d7b-4ea5-9f49-a09584291226
 url:
 
 Physical characteristics, embossing, magnetic stripe, and test methods for conformance and card durability.

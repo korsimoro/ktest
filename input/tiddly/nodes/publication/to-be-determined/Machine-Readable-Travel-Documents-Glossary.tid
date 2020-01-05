@@ -1,9 +1,9 @@
-created:1578221568012
-modified:1578221568012
+created:1578233356173
+modified:1578233356173
 title:Machine Readable Travel Documents Glossary
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,14 +11,14 @@ github.profile:
 jurisdiction:
 license:
 name:Machine Readable Travel Documents Glossary
-publication.type:TO BE DETERMINED
+publication.type:to be determined
 purpose:
 sector:
 sponsoring.org:ICAO Technical Advisory Group on Traveller Identification Programme
 tags:
 tech.focus:
 tmap.edges:{}
-tmap.id:85fd063c-c603-4091-b954-6df0fafb24f4
+tmap.id:c8d67afa-b063-4de1-bc52-806a006ce329
 url:
 version.or.edition:
 volume.frequency:

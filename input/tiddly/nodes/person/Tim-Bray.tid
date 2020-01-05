@@ -1,5 +1,5 @@
-created:1578221568528
-modified:1578221568528
+created:1578233356831
+modified:1578233356831
 title:Tim Bray
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Tim Bray
 organization:
 tags:
-tmap.edges:{"c93792d9-8ae9-4022-8e43-41ba82ca0be2":{"to":"1de39c80-019e-4d11-8174-0a0d4c41f6bd","type":"author"},"ce657691-4289-49dd-8c90-eb86686e9abf":{"to":"9509334f-2c37-434e-8ac5-ad60b85e595b","type":"employee"},"c33cc3b2-7073-40f4-b4f9-dc91132a030b":{"to":"f8a891f9-b3c8-41b7-91c2-228f9f14b1d6","type":"author"}}
-tmap.id:18deeadc-6246-4e52-a41c-f0ec3b0bb089
+tmap.edges:{"1eaaab20-deb7-41dc-9759-cf064eb1fb09":{"to":"d923a2db-e7ed-4502-8222-a244646ce3eb","type":"author"},"8622a425-e7c9-4635-83d4-d700a21836fb":{"to":"deeee054-125a-4d03-87f9-737bdfd3eb3b","type":"employee"},"20094f5e-8a11-4364-8b54-4d7736acfd69":{"to":"f4eb66e2-2d37-4b7c-979e-7bfa2b101bfd","type":"author"}}
+tmap.id:11dbbf9a-10f5-4e91-9cd3-3eb8aba6fc6c
 twitter.profile:
 website:
 working.group:

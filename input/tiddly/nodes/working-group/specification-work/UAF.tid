@@ -1,9 +1,9 @@
-created:1578221566626
-modified:1578221566626
+created:1578233353883
+modified:1578233353883
 title:UAF
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:UAF
-parent.org:FIDO Alliance
+parent.org:fido alliance
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"20fbe4ea-e5b4-4d21-824c-afebd17818f1":{"to":"384be02f-44f0-4513-8339-49dc7b17478d","type":"organization-for-group"}}
-tmap.id:ee3e1c68-151e-4aad-b70a-48aaa96ca0f0
+tmap.edges:{"17f7c383-5d13-4ef3-8526-23e28fcc6e6c":{"to":"832d7b69-c9c5-440a-9a9d-f09fe6f3768c","type":"organization-for-group"}}
+tmap.id:fc0df35a-af3b-465e-bb5a-4f4b83c7166c
 url:
 
 Passwordless UX (UAF)

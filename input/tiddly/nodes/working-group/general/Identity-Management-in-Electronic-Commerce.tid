@@ -1,9 +1,9 @@
-created:1578221566624
-modified:1578221566624
+created:1578233353791
+modified:1578233353791
 title:Identity Management in Electronic Commerce
 type:text/vnd.tiddlywiki
 activities:
-category:General
+category:[[general]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Identity Management in Electronic Commerce
-parent.org:Uniform Law Commission
+parent.org:uniform law commission
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"65699479-1978-4495-987b-61ae93b63153":{"to":"36fafb84-82a5-448f-9bb3-6e7053561864","type":"organization-for-group"}}
-tmap.id:29c9dd50-d2c1-437b-b60b-9636f005745a
-url:http://uniformlaws.org/Committee.aspx?title=Identity%20Management%20in%20Electronic%20Commerce
+tmap.edges:{"fd0bfd2d-f5a3-42ce-af5b-728d9ec12f12":{"to":"b39150bc-fbce-49e0-ac56-2a20f28da215","type":"organization-for-group"}}
+tmap.id:4d37626e-ea77-45e3-ab85-1d9b3471f784
+url:http://uniformlaws.org/committee.aspx?title=identity%20management%20in%20electronic%20commerce
 
 

@@ -1,9 +1,9 @@
-created:1578221566961
-modified:1578221566961
+created:1578233354710
+modified:1578233354710
 title:FIDO 2.0: Key Attestation Format
 type:text/vnd.tiddlywiki
 audience:
-author(s)editor(s):
+authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +11,15 @@ github.profile:
 jurisdiction:
 license:
 name:FIDO 2.0: Key Attestation Format
-publication.type:Specification
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"bfb26566-2439-4d6f-b4c9-881365ba3851":{"to":"384be02f-44f0-4513-8339-49dc7b17478d","type":"organization-for-group"},"58100f2a-ecc2-4285-bc77-0fda0cb04974":{"to":"aa0507d3-77de-4b86-82f4-f7b75fd1d523","type":"organization-for-group"}}
-tmap.id:407713d3-0d6d-4093-8143-e8bd748b5714
-url:http://www.w3.org/Submission/2015/SUBM-fido-key-attestation-20151120/
+tmap.edges:{"a18549d5-c8b9-4612-a948-c62d55b5f3c2":{"to":"832d7b69-c9c5-440a-9a9d-f09fe6f3768c","type":"organization-for-group"},"86ba359e-f180-4ffe-a7cf-fd5c2830cc88":{"to":"ee175dc1-8475-477b-8ada-c78451284661","type":"organization-for-group"}}
+tmap.id:2a59b94a-7b60-41cf-8ed0-e12a0b4cfd99
+url:http://www.w3.org/submission/2015/subm-fido-key-attestation-20151120/
 version.or.edition:
 volume.frequency:
 working.group:

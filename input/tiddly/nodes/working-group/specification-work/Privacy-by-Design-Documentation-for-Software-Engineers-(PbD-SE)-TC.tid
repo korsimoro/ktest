@@ -1,9 +1,9 @@
-created:1578221566620
-modified:1578221566620
+created:1578233353626
+modified:1578233353626
 title:Privacy by Design Documentation for Software Engineers (PbD-SE) TC
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Privacy by Design Documentation for Software Engineers (PbD-SE) TC
-parent.org:OASIS
+parent.org:oasis
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"06895b17-8401-4886-83f0-0380ebfe1fea":{"to":"04ca7e1e-465f-402c-824f-668eba88e8c9","type":"organization-for-group"}}
-tmap.id:d146e2e3-e365-4452-a0ea-bbe6fb6cdfae
+tmap.edges:{"3925e7e2-74e4-4539-bcff-c47275ad5df1":{"to":"cea98940-2d01-481f-9d9c-de239097ecf9","type":"organization-for-group"}}
+tmap.id:e26403f0-84a1-48da-8b83-b9c3a5a68638
 url:https://www.oasis-open.org/committees/pbd-se/
 
 The OASIS PbD-SE TC provides privacy governance and documentation standards for software engineers. It enables software organizations to embed privacy into the design and architecture of IT systems, without diminishing system functionality.

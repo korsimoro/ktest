@@ -1,9 +1,9 @@
-created:1578221566626
-modified:1578221566626
+created:1578233353886
+modified:1578233353886
 title:The Tracking Protection Working Group
 type:text/vnd.tiddlywiki
 activities:
-category:Specification Work
+category:[[specification work]]
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:The Tracking Protection Working Group
-parent.org:W3C
+parent.org:w3c
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"8b075927-d303-4baa-a46f-e93d82e8547f":{"to":"f1bd19ee-68b3-4959-b100-cbcc1c8ce291","type":"organization-for-group"}}
-tmap.id:b98146e5-c2b2-4314-9d7e-4a56f3a75edd
+tmap.edges:{"ea8b6adc-69f9-4e5b-8314-d067699b30d6":{"to":"40aad628-0e17-4ce5-823f-6b298476743b","type":"organization-for-group"}}
+tmap.id:f893f369-3f87-482f-b54c-078c13b8fcdb
 url:http://www.w3.org/2011/tracking-protection/
 
 The Tracking Protection Working Group is chartered to improve user privacy and user control by defining mechanisms for expressing user preferences around Web tracking and for blocking or allowing Web tracking elements. The group seeks to standardize the technology and meaning of Do Not Track, and of Tracking Selection Lists.

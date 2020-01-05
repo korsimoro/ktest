@@ -28,8 +28,8 @@ type: text/vnd.tiddlywiki
       {{!!location}} <<makeLink >>
       </td>
       <td>
-      <$link>{{!!category}}</$link><br />
-      <$link>{{!!host.organization}}</$link>
+      {{!!category}}<br />
+      <$link to={{!!host.organization}}>{{!!host.organization}}</$link>
       </td>
       <td>
       {{!!audience}} {{!!people}} {{!!partners}}

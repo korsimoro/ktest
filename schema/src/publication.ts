@@ -51,7 +51,7 @@ export const schema : JSONSchema6 = {
         "type": "string",
         "description": ""
     },
-    "Author(s)/Editor(s)" : {
+    "Authors-Editors" : {
         "type": "array",
 
         "description": "",
