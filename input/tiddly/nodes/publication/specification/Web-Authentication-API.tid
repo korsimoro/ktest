@@ -1,5 +1,5 @@
-created:1578181490138
-modified:1578181490138
+created:1578185243921
+modified:1578185243921
 title:Web Authentication API
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"d9aecd19-3576-4da7-8746-557354cc2b1b":{"to":"015ce86c-8771-415e-b641-4840fcfffde9","type":"organization-for-group"}}
-tmap.id:0387282b-9cfc-4e10-b284-79dc4cedef6b
+tmap.edges:{"85a1a720-0c1c-47c3-bf3c-ca1c2fa70242":{"to":"4d072932-b3be-4e2c-b7e3-97363912c48c","type":"organization-for-group"}}
+tmap.id:3c3cdcee-2751-4890-91bb-f28dad1bf32d
 url:http://www.w3.org/TR/2016/WD-webauthn-20160902/
 version.or.edition:
 volume.frequency:

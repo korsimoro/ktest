@@ -1,5 +1,5 @@
-created:1578181490383
-modified:1578181490383
+created:1578185245286
+modified:1578185245286
 title:B. de Medeiros
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:B. de Medeiros
 organization:
 tags:
-tmap.edges:{"badb0373-b001-4cd5-a45c-054331b9d05c":{"to":"16183d26-0491-4f0f-9091-2b2e182c0da8","type":"employee"},"ff57d54c-5f0f-47c2-8e9b-fca4588c0252":{"to":"5c01ce4b-fd67-4199-9af9-954da29af415","type":"author"},"d4829b3a-0f9d-432d-bdea-cec896425fbb":{"to":"3776239b-5a6f-419c-8e99-52b96608a1b3","type":"author"},"fc0f7158-7253-4af2-895f-757d16aad6bc":{"to":"fcf01048-36e8-48f5-bf26-b6b1bbbbb53c","type":"author"}}
-tmap.id:80c23c60-de10-446b-b167-65f50c0124e0
+tmap.edges:{"35d61eb7-fee5-43b8-8878-b6c630407054":{"to":"46456e10-e35f-42a0-a505-233c285db8e8","type":"employee"},"09d22025-4413-4006-909d-5a14a9bd34dc":{"to":"015849f1-25d0-43fc-b29c-302e3ef2bb2b","type":"author"},"5bddfe2a-8e5a-406c-bdd7-7ec45a128811":{"to":"924fd7a2-3a8d-48f6-8e0a-5f708add6298","type":"author"},"01f65363-029b-4631-9b4e-9cfd14f5bb17":{"to":"a983c4c5-2e37-44a8-87b0-aac9e3c5516a","type":"author"}}
+tmap.id:1102066d-2be4-469f-8383-f4ec71a95356
 twitter.profile:
 website:
 working.group:

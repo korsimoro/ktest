@@ -1,5 +1,5 @@
-created:1578181490152
-modified:1578181490152
+created:1578185244015
+modified:1578185244015
 title:OpenID Connect Session Management 1.0
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"f4845d0e-c8c9-49ba-a5e2-0745f8d216ef":{"to":"6d6f2b55-71b6-4071-b288-89cb1ca5ee4e","type":"specification-of-group"}}
-tmap.id:fcf01048-36e8-48f5-bf26-b6b1bbbbb53c
+tmap.edges:{"6dc2993a-5203-4eba-9529-8eb936e65c5f":{"to":"f7dc4dd8-b635-404d-b90b-b3e1232ac7f3","type":"specification-of-group"}}
+tmap.id:a983c4c5-2e37-44a8-87b0-aac9e3c5516a
 url:http://openid.net/specs/openid-connect-session-1_0.html
 version.or.edition:
 volume.frequency:

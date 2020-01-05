@@ -1,5 +1,5 @@
-created:1578181489977
-modified:1578181489977
+created:1578185243287
+modified:1578185243287
 title:Identity Management and Privacy Technologies WG5
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"70f89bc9-8a81-49de-b68a-9dba73ac0b53":{"to":"51cf7d2f-bc04-4808-9659-35c641ad4425","type":"organization-for-group"}}
-tmap.id:8c0945e3-bba5-4099-98ff-25a20610c19b
+tmap.edges:{"d68275e8-5c61-42fd-a4e4-9636d98f3650":{"to":"0b7380a9-e630-4225-bdb0-6ac2b42ffe3c","type":"organization-for-group"}}
+tmap.id:a2294c63-f774-4a33-bd3a-1aecdc06ccff
 url:
 
 The terms of reference of this working group are:

@@ -1,5 +1,5 @@
-created:1578181489971
-modified:1578181489971
+created:1578185243279
+modified:1578185243279
 title:Service Function Chaining  (sfc)
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"4dc4412c-b14a-4d33-a4fc-ff9e744a1b6f":{"to":"c0d58c33-b50e-4069-bff9-8e0273e9a17d","type":"organization-for-group"}}
-tmap.id:0b9c175c-f9a6-49bd-bb43-4ac364169b08
+tmap.edges:{"f69059e4-0d47-4ca7-81ef-380700deff78":{"to":"14b02e23-1354-43a3-b06f-8aeba35477f8","type":"organization-for-group"}}
+tmap.id:bc0166a3-b450-47b0-9d9b-9ff5ecb3b575
 url:
 
 

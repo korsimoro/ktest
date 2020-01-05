@@ -1,5 +1,5 @@
-created:1578181490097
-modified:1578181490097
+created:1578185243725
+modified:1578185243725
 title:ABAC Attribute Based Access Control
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:
 tags:
 tech.focus:
-tmap.edges:{"3dfd6880-9e09-42cd-974c-da83b09d666a":{"to":"d9252bee-34f6-437f-a936-279f37fc919f","type":"organization-for-group"}}
-tmap.id:f455b3d4-b205-4c04-b0a6-4dc852df37cd
+tmap.edges:{"2d3e9cac-a81d-498b-b2bc-fa7f6ee706fb":{"to":"93f46005-402c-4504-8efa-ed173436ef3c","type":"organization-for-group"}}
+tmap.id:7af540c5-89cb-4481-a281-cc23423c30c8
 url:http://csrc.nist.gov/projects/abac/
 version.or.edition:
 volume.frequency:

@@ -1,5 +1,5 @@
-created:1578181489972
-modified:1578181489972
+created:1578185243281
+modified:1578185243281
 title:IEEE Future Directions Committee
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"204c70e9-a35a-49eb-ba16-d796a5d09737":{"to":"6be189b6-6ef2-4461-a144-0c77ce51936d","type":"organization-for-group"},"b7103f90-b9cd-4c17-9a53-90421331b809":{"to":"d372cc7f-2f81-46dc-aa19-0580042e23cd","type":"convenor"},"22fd4009-2f30-439a-8278-081f08352852":{"to":"9ff34b27-b9b8-4706-a364-266f5a5cbabe","type":"founder"}}
-tmap.id:9c1cdf66-5a90-422e-9ba8-7fc190e2f9ae
+tmap.edges:{"8a3e158f-9abd-464b-b67a-41b06e5b0377":{"to":"1e679e66-2ef3-4421-9c77-c4eafc44a45d","type":"organization-for-group"},"f416d056-9373-4e41-8ba2-723a243ccb2a":{"to":"96878e36-87d6-4d91-b81d-4eb4b94cf84b","type":"convenor"},"6fa82bce-6f27-4893-9034-e915861d4f69":{"to":"e01fa972-0579-4695-b761-8a9cb2244dd9","type":"founder"}}
+tmap.id:615cf99d-e4c0-4d47-9b3b-31c29aaa101a
 url:http://www.ieee.org/about/technologies/index.html
 
 The IEEE Future Directions Committee (FDC), in association with Societies, Councils, and OUs, anticipates and determines the direction of existing, new, and emerging technologies and related issues, and spearheads their investigation and development by IEEE. Taking a holistic view, the FDC emphasizes new, emerging technical areas and drives them to maturity within the IEEE infrastructure. Additionally, the FDC serves as a liaison to and fosters cooperative efforts among Societies, Councils, and industry to develop new products and services in emerging topics.

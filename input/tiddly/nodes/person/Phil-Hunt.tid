@@ -1,5 +1,5 @@
-created:1578181490369
-modified:1578181490369
+created:1578185245207
+modified:1578185245207
 title:Phil Hunt
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Phil Hunt
 organization:
 tags:
-tmap.edges:{"5d790979-41b7-4478-b856-53f0c1f04cfc":{"to":"9ea33cf4-e43c-4dd4-aa09-4444ec5c93cd","type":"author"},"c855e9cc-7dab-4620-8f88-17411757604d":{"to":"65fa8f2a-f957-415b-a57a-b9b8b7f8d03f","type":"employee"}}
-tmap.id:2ddda79d-bfce-4635-8ac0-2e71a00f04d8
+tmap.edges:{"f00867b0-6d89-4001-a6fc-66df474c5386":{"to":"73549d79-e076-4c36-8ef7-cfbc83d84b53","type":"author"},"696af2c9-befb-44e6-848d-50727573281d":{"to":"2f6f861d-a713-4bb9-9336-2d2053aa927f","type":"employee"}}
+tmap.id:5c3f484a-de40-4208-ba56-c2a14949723f
 twitter.profile:
 website:
 working.group:

@@ -1,5 +1,5 @@
-created:1578181489988
-modified:1578181489988
+created:1578185243302
+modified:1578185243302
 title:Enhanced Authentication Profile Working Group
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"2641561c-d6f9-4a8a-9832-51e0b74183de":{"to":"6947c8e7-98df-4e98-b095-e4935b02c545","type":"organization-for-group"}}
-tmap.id:17a972b9-354f-4d01-8999-1c1a1580bc1c
+tmap.edges:{"ca2df8cb-d601-4435-bb89-839acde0b9eb":{"to":"ba82760c-73d8-4727-b59e-3381b121a32b","type":"organization-for-group"}}
+tmap.id:688ec4c9-2cb7-4eac-a05e-bdd1929d5633
 url:http://openid.net/wg/eap/
 
 The purpose of this working group is to develop a security and privacy profile of the OpenID Connect specifications that enable users to authenticate to OpenID Providers using strong authentication specifications. The resulting profile will enable use of IETF Token Binding specifications with OpenID Connect and integration with FIDO relying parties and/or other strong authentication technologies.

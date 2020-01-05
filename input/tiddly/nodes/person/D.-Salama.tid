@@ -1,5 +1,5 @@
-created:1578181490379
-modified:1578181490379
+created:1578185245282
+modified:1578185245282
 title:D. Salama
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:D. Salama
 organization:
 tags:
-tmap.edges:{"612d6413-d804-46e4-ac84-9689f58f2ef7":{"to":"16183d26-0491-4f0f-9091-2b2e182c0da8","type":"employee"},"e8bb8e6f-1958-4bb4-a5e2-0863e266c99c":{"to":"9cf267d9-f870-4709-aea8-cdc8661fb2d4","type":"author"}}
-tmap.id:4d76b220-2354-4f3b-9ef4-fa600263a5f1
+tmap.edges:{"b5f3db23-d111-4449-948a-d461b313709a":{"to":"46456e10-e35f-42a0-a505-233c285db8e8","type":"employee"},"f3597953-5932-4e9e-b402-d17f817ec9c7":{"to":"65b5b0fd-d918-4640-9529-3498c5bd87be","type":"author"}}
+tmap.id:e99d1d6a-1344-4ab0-a7d5-9ba000dffe27
 twitter.profile:
 website:
 working.group:

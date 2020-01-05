@@ -1,5 +1,5 @@
-created:1578181490076
-modified:1578181490076
+created:1578185243627
+modified:1578185243627
 title:Health Relationship Trust Profile for OAuth 2.0
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:HEART Working Group
 tags:
 tech.focus:
-tmap.edges:{"1ad4496b-4407-4dcc-b9f8-db073983984f":{"to":"c9ce52cb-8c38-4521-943b-fc6645ece193","type":"specification-of-group"}}
-tmap.id:a571c702-43d8-4ae2-8bb5-501eec919f74
+tmap.edges:{"0f3892e7-c7db-4b8a-9032-46289cdab509":{"to":"60efe7c2-4f96-43d5-8c74-a2f088c86b7b","type":"specification-of-group"}}
+tmap.id:1de208f1-b404-492c-8784-129defeec8cc
 url:
 version.or.edition:
 volume.frequency:

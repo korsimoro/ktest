@@ -114,7 +114,7 @@ export class NeighborMap implements TiddlyMap {
 	}
 
 	tiddlerdata():string {
-		const physics: {
+		const physics = {
 	    forceAtlas2Based: {
 	      // <- more repulsion between nodes - 0 - more attraction between nodes ->
 	      gravitationalConstant: -650, // default: -50

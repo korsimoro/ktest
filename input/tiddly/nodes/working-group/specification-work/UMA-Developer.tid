@@ -1,5 +1,5 @@
-created:1578181489989
-modified:1578181489989
+created:1578185243302
+modified:1578185243302
 title:UMA Developer
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"cdc3489a-8cf7-4bc6-a307-adc52f57a145":{"to":"93ea5fd1-dac3-42d8-a562-488e5206e63f","type":"organization-for-group"}}
-tmap.id:f2a1ffc5-c481-4df2-9662-30a025ff4ea7
+tmap.edges:{"172a3a66-4e66-4d7e-bd68-75959d7292af":{"to":"c77f69c2-2922-4c60-8c83-30b31a71fbfd","type":"organization-for-group"}}
+tmap.id:09f4c767-e7d3-42a7-b44b-5b0e0f716377
 url:http://kantarainitiative.org/confluence/display/umadev/Home
 
 

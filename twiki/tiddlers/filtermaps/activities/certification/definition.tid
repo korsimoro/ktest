@@ -1,6 +1,6 @@
-config.neighbourhood_scope: 
+config.neighbourhood_scope: 1
 created: 20200104054253456
 isview: true
-modified: 20200104143740688
+modified: 20200105002033541
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/Activities - Certification
 type: text/vnd.tiddlywiki

@@ -1,5 +1,5 @@
-created:1578181489973
-modified:1578181489973
+created:1578185243283
+modified:1578185243283
 title:SCIM - System for Cross-domain Identity Management
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"1ed26b59-4ac7-4648-b9b4-549c2e532375":{"to":"c0d58c33-b50e-4069-bff9-8e0273e9a17d","type":"organization-for-group"}}
-tmap.id:84aa2d7a-fa1d-4da6-b04a-6204ffc2b6a6
+tmap.edges:{"6015bcde-c55c-4a32-b7c5-e220edbc7c87":{"to":"14b02e23-1354-43a3-b06f-8aeba35477f8","type":"organization-for-group"}}
+tmap.id:41adf466-8f12-48fe-8cc5-d0604abba931
 url:https://tools.ietf.org/html/rfc7643
 
 The System for Cross-domain Identity Management (SCIM) specifications

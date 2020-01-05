@@ -11,7 +11,7 @@ export const inbound : any = {
   },
   "URL" : {
     "kumu": mappers.string('Website'),
-    "me2b": mappers.csv_value('')
+    "me2b": mappers.csv_value('URL')
   },
   "Publication Type" : {
     "kumu": mappers.string('SubType'),
