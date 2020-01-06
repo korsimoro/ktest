@@ -1,0 +1,10 @@
+created: 15790426221809000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Activity
+modified: 20200104143335050
+title: creative
+tmap.edges: {"061b974c-062b-444f-b28e-0e09fbcf2442":{"to":"4d48894a-069f-4915-9517-6a95eff1713a","type":"Activity"},"8c2b6c0b-5dbd-421a-b96c-015a29a6d1c5":{"to":"718bad40-9e66-4039-99dc-ee5ffc76f76a","type":"Tag"},"5a518f72-b8fc-4ff4-90e4-80319ebb2bb4":{"to":"b1aedad7-1aca-4a17-84db-7cf0a884e3d0","type":"Activity"}}
+tmap.id: c14f001b-ab87-40d9-b004-35267e6ede43
+tw-icon: $:/images/fa5/solid/shower
+type: text/vnd.tiddlywiki

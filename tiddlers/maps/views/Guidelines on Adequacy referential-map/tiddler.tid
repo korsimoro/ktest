@@ -1,0 +1,8 @@
+id:91762c3d-11dc-4cf9-87a9-f726a17729b6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on Adequacy referential-map
+
+

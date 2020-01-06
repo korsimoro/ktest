@@ -1,0 +1,27 @@
+created:1578267625825
+modified:1578267625825
+title:Open Web Platform
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:Open Web Platform
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:W3C
+tags:
+tech.focus:
+tmap.edges:{"9dbda6db-78d3-4d38-bbd3-ea1b9a8c7a97":{"to":"f6faa49d-721c-4769-9819-a2ef37fd6992","type":"specification-of-group"}}
+tmap.id:c713836b-f14e-44a2-b11a-26101cc567dd
+url:https://www.w3.org/wiki/open_web_platform
+version.or.edition:
+volume.frequency:
+working.group:
+
+The Open Web Platform is the collection of open (royalty-free) technologies which enables the Web. Using the Open Web Platform, everyone has the right to implement a software component of the Web without requiring any approvals or waiving license fees.

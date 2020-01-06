@@ -1,0 +1,8 @@
+id:f656fafb-9876-40c5-a318-3f029a86913d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Letting autopilot off the hook-map
+
+

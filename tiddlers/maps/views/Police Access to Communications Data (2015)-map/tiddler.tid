@@ -1,0 +1,8 @@
+id:56d2b795-41d7-4fc7-9aa4-29e769266e13
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Police Access to Communications Data (2015)-map
+
+

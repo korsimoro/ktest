@@ -1,0 +1,8 @@
+id:584e1fa0-04d6-460d-bae2-14488f6dc7c0
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/eGov State of Play - Reports-map
+
+

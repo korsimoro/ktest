@@ -1,0 +1,8 @@
+id:d53c6478-180e-46dc-ad8e-4a63391a7fd3
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/FoCAS Manifesto-map
+
+

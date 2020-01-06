@@ -1,0 +1,9 @@
+id:c71a9f66-9644-40ee-a6e0-46d0514165bf
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Networks Group
+-map
+
+

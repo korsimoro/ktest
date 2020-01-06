@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143335534
+title: a new open source software foundation is born to support the creation of a secure
+tmap.edges: {"6d714c24-0a08-4e9f-86e4-43c0a5128767":{"to":"7b128583-8247-4d5a-bfaa-fb191ca903a2","type":"Tag"}}
+tmap.id: 2b7d4646-0f1c-4ec9-b7d9-7ff2fc330b50
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

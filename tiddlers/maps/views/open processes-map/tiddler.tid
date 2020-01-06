@@ -1,0 +1,8 @@
+id:ba9ba928-1a31-42f6-8d64-0354d281993b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/open processes-map
+
+

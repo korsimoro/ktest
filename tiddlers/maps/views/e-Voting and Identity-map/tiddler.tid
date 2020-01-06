@@ -1,0 +1,8 @@
+id:f844d464-e388-4543-a3be-95a7f1a4c6b4
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/e-Voting and Identity-map
+
+

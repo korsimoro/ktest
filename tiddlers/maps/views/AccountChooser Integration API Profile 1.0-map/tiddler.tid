@@ -1,0 +1,8 @@
+id:7bee8a06-d15a-4c52-95a2-88277e868c07
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/AccountChooser Integration API Profile 1.0-map
+
+

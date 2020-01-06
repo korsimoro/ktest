@@ -1,0 +1,8 @@
+id:4c9fa330-95fd-46ae-9b5c-b215182cabc4
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/DSS - XSD supporting ITU-T X.509 certificate version 3 rules in the eIDAS trusted list-map
+
+

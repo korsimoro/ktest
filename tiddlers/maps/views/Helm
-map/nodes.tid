@@ -1,0 +1,5 @@
+type: text/vnd.tiddlywiki
+filter:[field:tmap.id[6c126891-2fa9-44d6-8c47-032e93499aee]] 
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Helm
+-map/filter/nodes
+

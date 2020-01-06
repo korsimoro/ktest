@@ -1,0 +1,8 @@
+id:dacd8bc3-7fc7-473b-8f30-98e69a877283
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/DG Connect European Commission's Directorate General for Communications Networks, Content & Technology-map
+
+

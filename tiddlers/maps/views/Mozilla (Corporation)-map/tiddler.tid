@@ -1,0 +1,8 @@
+id:5bc39738-8d98-4988-b4a0-a85a8d103edb
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Mozilla (Corporation)-map
+
+

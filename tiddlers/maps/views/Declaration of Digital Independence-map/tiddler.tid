@@ -1,0 +1,8 @@
+id:0f71e63b-a5b3-48eb-970c-3a71ab4d72ab
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Declaration of Digital Independence-map
+
+

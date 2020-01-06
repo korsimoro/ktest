@@ -1,0 +1,8 @@
+id:de3156d6-0877-43f9-be4a-1b8e054a0717
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Identity in the Cloud-map
+
+

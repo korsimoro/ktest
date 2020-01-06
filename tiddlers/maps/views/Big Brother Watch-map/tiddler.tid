@@ -1,0 +1,8 @@
+id:03146231-5d10-48bd-a89d-92dc1f22794c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Big Brother Watch-map
+
+

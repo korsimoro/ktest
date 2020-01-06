@@ -1,0 +1,8 @@
+id:4950d62c-415b-4880-b363-221c347ada31
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/36th Activity Report 2015 - CNIL-map
+
+

@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tech Focus
+modified: 20200104143337202
+title: IOT
+tmap.edges: {"a98003de-3497-45ad-a89f-d4cfe053c3d4":{"to":"b55927eb-6571-43b9-8f7a-d6bcbac7e91b","type":"Tech Focus"},"db5de860-9fd2-4154-8297-d70ce8879706":{"to":"ee13134d-8c0c-4b1a-9759-ab6ec768b2b3","type":"Tech Focus"},"fe747fa5-e953-4789-8ec7-ed00857054fa":{"to":"7790ff78-07be-42d3-a12f-6fff5bf60400","type":"Tech Focus"},"2e9a51ac-17dd-4df7-bd16-b5e62252bfd2":{"to":"f4b218bb-1da0-4d3d-b992-43ec7fe240c3","type":"Tag"},"ac5854f3-2cec-49c5-b755-b78ab485984a":{"to":"d3102ca3-494f-4dfb-9e94-8eb0e01ac55f","type":"Tech Focus"},"4a772ec0-aa0a-477a-aadc-f0dc1379af12":{"to":"90bc12de-a254-456e-8874-5300b3577016","type":"Tech Focus"},"69aee2dd-3ecf-4996-b0a7-b786ea46ad00":{"to":"c5a71c30-0e74-40da-b784-9b31f831019b","type":"Tag"}}
+tmap.id: a976a814-0f9f-4cd8-9631-40242b1114c9
+tw-icon: $:/images/fa5/solid/fire-extinguisher
+type: text/vnd.tiddlywiki

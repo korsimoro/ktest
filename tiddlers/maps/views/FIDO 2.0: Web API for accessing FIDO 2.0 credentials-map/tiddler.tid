@@ -1,0 +1,8 @@
+id:fb28c23a-840b-4bc4-842c-b0393b1dfc4c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/FIDO 2.0: Web API for accessing FIDO 2.0 credentials-map
+
+

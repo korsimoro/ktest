@@ -1,0 +1,8 @@
+id:1bb7f737-d096-4e3d-90d3-c64392319cc4
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Information Fiduciary Consortium-map
+
+

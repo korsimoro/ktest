@@ -1,0 +1,8 @@
+id:f3225206-c207-46aa-af86-b84dd5258caa
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Warriors of the Net-map
+
+

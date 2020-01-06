@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Purpose
+modified: 20200104143337413
+title: usability
+tmap.edges: {"ef37c674-9108-45d5-92dd-6932a618277a":{"to":"7e2691c4-9b21-481e-a8e9-128ac85d935b","type":"Purpose"},"912a287b-6f04-4c1f-bec1-c3facaf521e8":{"to":"d2e70152-5f79-4b59-a376-ada1922778be","type":"Purpose"},"e572d010-9714-4a2f-92ff-188550f86f05":{"to":"f0577fda-a357-4c20-8dd6-e4e815e3c94c","type":"Purpose"},"d57617a0-1b8e-4b5d-af61-4e0ee37aff25":{"to":"50925dde-8621-49f6-aae6-3dcb6fda599d","type":"Purpose"},"07f7efbb-83ba-498b-9748-6940c5d3cbfe":{"to":"4f2196ae-d408-41f2-86da-c7a1d8fa85ba","type":"Purpose"},"207272b2-f2d6-41f2-8e3c-ec6a60c662fe":{"to":"e03df49a-e3b6-4aae-81bc-5c7103d210af","type":"Purpose"},"00ee3bab-bf25-4471-a843-ba7a96308c98":{"to":"694c01d2-ca25-46a5-a6d7-40c8795eb7db","type":"Purpose"},"de8671ca-0a99-4859-b9cf-c52a52a96708":{"to":"f8c4b4b2-6d0f-410a-94c8-0fd008424840","type":"Purpose"},"1d7ac876-16d2-498c-91be-5211d8e64eea":{"to":"fec7ac84-9e9c-4a07-a23f-729049cb025b","type":"Purpose"},"5d7f4df3-5972-4db1-b7a3-12e75ba5a5b5":{"to":"854c5c09-a965-4cf9-a8e5-d4598b38504b","type":"Purpose"}}
+tmap.id: 38516883-a799-421b-9952-85a1f9b15a74
+tw-icon: $:/images/fa5/solid/shuttle-van
+type: text/vnd.tiddlywiki

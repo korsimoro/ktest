@@ -1,0 +1,8 @@
+id:2342f032-17e2-41f4-9cab-b34b95589a43
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/COEL Standard-map
+
+

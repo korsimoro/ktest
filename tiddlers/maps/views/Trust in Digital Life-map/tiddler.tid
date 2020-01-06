@@ -1,0 +1,8 @@
+id:36420b6a-3185-4aa5-aaa3-97eb798fad8c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Trust in Digital Life-map
+
+

@@ -1,0 +1,8 @@
+id:fe56729f-a3d1-4ffe-b41d-b8c08600f425
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ACM Conference on Fairness, Accountability, and Transparency-map
+
+

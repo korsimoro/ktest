@@ -1,0 +1,8 @@
+id:9b8a83e0-795c-41bc-8676-506f7f91dd7e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/An Algorithm Watching a Movie Trailer-map
+
+

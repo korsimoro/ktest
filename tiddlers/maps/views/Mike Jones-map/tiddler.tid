@@ -1,0 +1,8 @@
+id:8d8f0c90-9d34-4e97-9c69-ea0f28c3a713
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Mike Jones-map
+
+

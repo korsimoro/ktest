@@ -1,0 +1,8 @@
+id:3c259601-a79a-48c3-83bc-64be30707b52
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Cookie Consent and Website Scanning-map
+
+

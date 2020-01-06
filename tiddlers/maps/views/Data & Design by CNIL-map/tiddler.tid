@@ -1,0 +1,8 @@
+id:4796eb11-e6e2-4cca-af11-36cebb98268b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Data & Design by CNIL-map
+
+

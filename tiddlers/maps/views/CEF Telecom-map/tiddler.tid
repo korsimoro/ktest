@@ -1,0 +1,8 @@
+id:e4bc9896-9bce-49a0-a5ca-1eb4cf6848fb
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/CEF Telecom-map
+
+

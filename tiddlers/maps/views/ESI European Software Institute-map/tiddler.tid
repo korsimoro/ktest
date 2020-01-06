@@ -1,0 +1,8 @@
+id:296456d1-3333-47ce-b59e-e8fc12a46d05
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ESI European Software Institute-map
+
+

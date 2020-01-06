@@ -1,0 +1,8 @@
+id:7ac12ecc-5e73-4a2f-bf8a-931f5123c273
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/DNA Database-map
+
+

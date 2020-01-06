@@ -1,0 +1,8 @@
+id:c34844ac-fd49-406f-b825-50a9a45a3a8e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/CIPA and Monitoring the Connected Classroom-map
+
+

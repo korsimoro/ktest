@@ -1,0 +1,8 @@
+id:7b6c75e6-12b2-4df9-bd6b-0f805243e07b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Identity Ecosystem Steering Group (IDESG)-map
+
+

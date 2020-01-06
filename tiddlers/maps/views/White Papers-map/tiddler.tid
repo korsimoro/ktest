@@ -1,0 +1,8 @@
+id:904eeab4-5d3a-4306-8c2c-8b4805701a5f
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/White Papers-map
+
+

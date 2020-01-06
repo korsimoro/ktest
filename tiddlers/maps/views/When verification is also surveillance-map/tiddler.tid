@@ -1,0 +1,8 @@
+id:f588140c-5bd4-42c9-b875-0486b7fd19e7
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/When verification is also surveillance-map
+
+

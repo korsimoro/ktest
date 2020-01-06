@@ -1,0 +1,8 @@
+id:31a74a43-263b-44fe-b5c3-25c1eba4cc4b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Annual Privacy Forum-map
+
+

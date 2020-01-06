@@ -1,0 +1,8 @@
+id:9d8bf0c6-1372-45de-8f07-10f50e841272
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Yale-map
+
+

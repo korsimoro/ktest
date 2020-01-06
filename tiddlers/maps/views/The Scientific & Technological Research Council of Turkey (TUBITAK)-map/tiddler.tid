@@ -1,0 +1,8 @@
+id:c4a27fec-1410-4cb3-ae01-22315e9a7a66
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Scientific & Technological Research Council of Turkey (TUBITAK)-map
+
+

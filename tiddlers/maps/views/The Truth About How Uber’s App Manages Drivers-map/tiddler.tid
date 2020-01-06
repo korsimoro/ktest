@@ -1,0 +1,8 @@
+id:a73e13d7-17d0-4053-9037-a70a0a488c30
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Truth About How Uber’s App Manages Drivers-map
+
+

@@ -1,0 +1,8 @@
+id:d4a2ca1b-35fd-45f4-a649-40c70face584
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Driving School Choice-map
+
+

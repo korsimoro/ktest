@@ -1,0 +1,10 @@
+created: 15790426221807000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Activity
+modified: 20200104143335175
+title: compliance auditing
+tmap.edges: {"7f316818-245b-4798-a780-14c9bda97593":{"to":"22a22554-40e7-4039-9a31-9e87ab0ae169","type":"Activity"},"97581401-f523-4ae3-a041-a8dd19f92a50":{"to":"a4e82847-f7d1-4d28-ad1b-73a56c98bddc","type":"Activity"},"c90451b8-bb85-435e-bb86-9c751bc034d5":{"to":"4a81ce6d-ef13-4fa1-aff8-357f4855ba19","type":"Activity"}}
+tmap.id: d2715647-1c66-47a0-98c6-0dbad22fcc3b
+tw-icon: $:/images/fa5/solid/shower
+type: text/vnd.tiddlywiki

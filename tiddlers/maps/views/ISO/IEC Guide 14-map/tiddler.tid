@@ -1,0 +1,8 @@
+id:1f150669-fe46-450e-a415-4d3297b1dda1
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO/IEC Guide 14-map
+
+

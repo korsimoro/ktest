@@ -1,0 +1,8 @@
+id:3546c874-9678-49ca-b6f4-444234b413cc
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/transparency and accountability-map
+
+

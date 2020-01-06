@@ -1,0 +1,8 @@
+id:450550c0-6c75-4f01-ac37-5e65cb935e99
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Trusted IoT Alliance-map
+
+

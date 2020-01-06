@@ -1,0 +1,8 @@
+id:2adf683c-b725-4e2a-8d4e-26ae61e06d04
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ACLU-map
+
+

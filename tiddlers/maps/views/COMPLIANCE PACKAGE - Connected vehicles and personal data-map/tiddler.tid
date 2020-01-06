@@ -1,0 +1,8 @@
+id:7c96053a-7ea4-406d-9a6f-0162c84b6932
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/COMPLIANCE PACKAGE - Connected vehicles and personal data-map
+
+

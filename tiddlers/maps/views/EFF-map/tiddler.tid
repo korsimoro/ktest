@@ -1,0 +1,8 @@
+id:315d7dbf-50e4-4d32-9cd2-7a5acd002f3c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/EFF-map
+
+

@@ -1,0 +1,8 @@
+id:86030659-d0c3-49bb-b438-bcd033badaae
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/A Decentralized Approach to Blockcerts Credential Revocation-map
+
+

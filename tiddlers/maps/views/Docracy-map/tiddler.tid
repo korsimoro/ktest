@@ -1,0 +1,8 @@
+id:bcec4ea2-deb5-4440-9c68-58d951c3bd7e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Docracy-map
+
+

@@ -1,0 +1,8 @@
+id:3315cc1a-0f74-46c2-8148-12697c396a64
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Recommendation on passwords-map
+
+

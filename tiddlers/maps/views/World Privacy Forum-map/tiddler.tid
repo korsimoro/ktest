@@ -1,0 +1,8 @@
+id:9fe1ec11-10dd-41f5-8a09-4e84b5109232
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/World Privacy Forum-map
+
+

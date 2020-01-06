@@ -1,0 +1,8 @@
+id:2ee79284-78ea-43ba-bda9-6160b951d294
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Privicons-map
+
+

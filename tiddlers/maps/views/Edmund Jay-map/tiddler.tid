@@ -1,0 +1,8 @@
+id:910a2032-f1a3-4b95-99bf-c52aadf0d7e6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Edmund Jay-map
+
+

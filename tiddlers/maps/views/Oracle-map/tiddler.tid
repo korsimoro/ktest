@@ -1,0 +1,8 @@
+id:09e5c64c-963f-4249-bb30-0b4abb55aa8a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Oracle-map
+
+

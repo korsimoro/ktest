@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143336282
+title: support innovation
+tmap.edges: {"1d59cf66-c66d-4b55-b1d4-5be90fae0783":{"to":"23c7bcec-ea97-47e5-bc75-98b52e100ac0","type":"Tag"}}
+tmap.id: f2007366-ccc5-4ef8-8a3b-0725c1412f36
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

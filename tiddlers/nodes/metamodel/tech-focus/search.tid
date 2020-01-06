@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tech Focus
+modified: 20200104143336613
+title: search
+tmap.edges: {"da4e67c3-f1f0-4969-946f-a1c7cad93915":{"to":"567ebe0f-b5ee-4217-b23f-3a744e6d0086","type":"Tech Focus"},"3506305f-f0de-4e8a-a6f4-331c2ca58192":{"to":"41af30c9-7dfb-45f4-ad10-f7d3bad44543","type":"Tech Focus"}}
+tmap.id: 2e4704ac-81ba-4af0-8fe8-e6112ddb081b
+tw-icon: $:/images/fa5/solid/fire-extinguisher
+type: text/vnd.tiddlywiki

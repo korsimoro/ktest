@@ -1,0 +1,8 @@
+id:74a20d56-11c4-491b-8f84-9c39a4f57a48
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Payment App API-map
+
+

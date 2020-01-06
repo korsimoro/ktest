@@ -1,0 +1,8 @@
+id:ce05271a-b64a-4b40-8a78-c8c79109fd54
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Midata-map
+
+

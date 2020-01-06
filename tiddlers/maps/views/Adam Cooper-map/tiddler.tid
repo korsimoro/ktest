@@ -1,0 +1,8 @@
+id:f933eca3-1e6b-48ce-bcf0-fddec85d9a57
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Adam Cooper-map
+
+

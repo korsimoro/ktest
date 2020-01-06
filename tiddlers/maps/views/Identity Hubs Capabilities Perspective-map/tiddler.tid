@@ -1,0 +1,8 @@
+id:3411c2b3-3476-41e9-a2d4-b6260f539cbf
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Identity Hubs Capabilities Perspective-map
+
+

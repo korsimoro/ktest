@@ -1,0 +1,8 @@
+id:cac6fcfc-7acd-4003-8ae9-736a9a8c3769
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/User Managed Access-map
+
+

@@ -1,0 +1,8 @@
+id:76386c17-4e69-4ef0-97bd-9c138332dcb4
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Oasis-map
+
+

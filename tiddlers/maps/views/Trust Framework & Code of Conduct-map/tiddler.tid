@@ -1,0 +1,8 @@
+id:1df5f2d1-df74-4b4d-830a-b67323e0dfac
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Trust Framework & Code of Conduct-map
+
+

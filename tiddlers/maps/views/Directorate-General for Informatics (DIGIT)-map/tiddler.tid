@@ -1,0 +1,8 @@
+id:68afa4de-8e54-4964-9818-fffd893013b2
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Directorate-General for Informatics (DIGIT)-map
+
+

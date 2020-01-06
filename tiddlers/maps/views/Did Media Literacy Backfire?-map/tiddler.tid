@@ -1,0 +1,8 @@
+id:e064e59d-2dc7-4dc2-b798-d3e3b48e81d2
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Did Media Literacy Backfire?-map
+
+

@@ -1,0 +1,8 @@
+id:4187c0f4-9a6c-4b0b-aed1-897dc4c155ba
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/CEN/ETSI (European Committee for Standardization/European Telecommunications Standards Institute)-map
+
+

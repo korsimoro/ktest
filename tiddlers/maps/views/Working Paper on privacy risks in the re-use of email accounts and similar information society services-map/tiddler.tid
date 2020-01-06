@@ -1,0 +1,8 @@
+id:701e99bb-cd47-4cb9-89f3-d506e11a1229
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on privacy risks in the re-use of email accounts and similar information society services-map
+
+

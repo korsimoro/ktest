@@ -1,0 +1,8 @@
+id:1833ffe4-276d-45af-bcfe-7d613bb56379
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Eve Maler-map
+
+

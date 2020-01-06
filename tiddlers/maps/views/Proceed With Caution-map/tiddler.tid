@@ -1,0 +1,8 @@
+id:014be2c2-da3a-4b89-b7c3-277516b59eb1
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Proceed With Caution-map
+
+

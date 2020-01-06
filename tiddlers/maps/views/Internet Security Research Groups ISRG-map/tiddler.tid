@@ -1,0 +1,8 @@
+id:b44e8011-f400-441f-bd58-6f896a9c1b37
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Internet Security Research Groups ISRG-map
+
+

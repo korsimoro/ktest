@@ -1,0 +1,8 @@
+id:d3f239a8-f78a-4bc3-b9df-ff25a1b4777b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Kantara Initiative-map
+
+

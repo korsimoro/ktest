@@ -1,0 +1,8 @@
+id:b04ebe4a-251c-4342-b805-d4cb9fa92057
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Oberthur-map
+
+

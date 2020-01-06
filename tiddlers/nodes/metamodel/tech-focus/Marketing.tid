@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tech Focus
+modified: 20200104143337194
+title: Marketing
+tmap.edges: {"bfcb33cc-d4c2-45d2-af57-2b4f6b7f709f":{"to":"aba55039-4b89-46e2-9a8f-e6989c966a3b","type":"Tech Focus"}}
+tmap.id: cac13948-583f-4b53-86db-3ae9d044cd64
+tw-icon: $:/images/fa5/solid/fire-extinguisher
+type: text/vnd.tiddlywiki

@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Activity
+modified: 20200104143336707
+title: regulation
+tmap.edges: {"5e2cc7f4-618c-4cb8-8c41-f8ae1961cbef":{"to":"aba55039-4b89-46e2-9a8f-e6989c966a3b","type":"Activity"}}
+tmap.id: 0bef8548-f87c-4a59-98df-a2caa6297c6e
+tw-icon: $:/images/fa5/solid/shower
+type: text/vnd.tiddlywiki

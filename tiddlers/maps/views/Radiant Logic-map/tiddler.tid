@@ -1,0 +1,8 @@
+id:909f07e2-4734-45c5-b4bf-1604e4f31ad4
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Radiant Logic-map
+
+

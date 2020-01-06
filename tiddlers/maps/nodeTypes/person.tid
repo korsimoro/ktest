@@ -1,0 +1,8 @@
+created:1578267630491
+modified:1578267630491
+title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/person
+type:text/vnd.tiddlywiki
+scope: [field:element.type[person]]
+style: {"color":{"border":"rgba(76,229,250,26)","background":"rgba(43,95,239,151)"}}
+fa-icon: \xff207
+tw-icon: 

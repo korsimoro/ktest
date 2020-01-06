@@ -1,0 +1,35 @@
+created:1578148367978
+modified:1578148367978
+title:Trustable Ltd.
+type:text/vnd.tiddlywiki
+activities:
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
+org.name:Trustable Ltd.
+org.type:Company
+parent.org:
+partners:
+products.and.or.services:
+purpose:
+relevant.publications:
+scope:
+sector:
+status:
+tags:
+tech.focus:
+tmap.edges:{"a7db233e-1808-442e-9e06-19ec8ac2d604":{"to":"a1ff81a3-f253-4e79-a416-f0b3e58f344c","type":"founder"},"af7948a6-9329-48dd-95b4-1c77d02e1ca1":{"to":"1230bd8c-8e6e-4fb1-9857-97916a8a4dad","type":"general-member"},"2d6764f7-2a22-470b-b136-d81934c7483b":{"to":"e7e446f1-e415-4bf9-9a12-2ccf9e44f335","type":"founder"}}
+tmap.id:fafa0026-4069-46dd-9aca-b63f0e704b8b
+twitter.profile:
+website:
+
+Trustable provides services, consulting and open source components regarding the use of (qualified) electronic signatures, authentication and PKI. trustable is a foundation member of the OASIS DSS / DSS-X technical committee and activly contributing to specifications and a compliance test bed. Committed to open source software trustable has founded several projects and supports their public use by running freely available services for more than a decade.

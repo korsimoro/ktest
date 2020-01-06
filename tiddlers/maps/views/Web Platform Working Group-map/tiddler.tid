@@ -1,0 +1,8 @@
+id:d97228d2-cb2e-4e6f-80a8-1ec8d9f58ca6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Web Platform Working Group-map
+
+

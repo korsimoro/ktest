@@ -1,0 +1,8 @@
+id:63df0e5a-de72-48d1-a6d9-d45724aedbe1
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Open Data Kit Code of Conduct-map
+
+

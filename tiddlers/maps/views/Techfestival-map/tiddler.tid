@@ -1,0 +1,8 @@
+id:17c0f818-7ba6-4714-9cba-4a271184a842
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Techfestival-map
+
+

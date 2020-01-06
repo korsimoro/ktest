@@ -1,0 +1,8 @@
+id:41fcbe65-c406-4140-8df6-0b243629466d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/INC: Industry Numbering Committee-map
+
+

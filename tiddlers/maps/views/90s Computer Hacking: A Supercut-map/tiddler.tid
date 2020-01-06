@@ -1,0 +1,8 @@
+id:b1712165-f524-4358-8c90-a34b22ebb8d2
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/90s Computer Hacking: A Supercut-map
+
+

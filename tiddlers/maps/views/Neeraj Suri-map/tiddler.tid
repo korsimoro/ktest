@@ -1,0 +1,8 @@
+id:030e3a69-02d5-4949-ba6a-d277259e03c4
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Neeraj Suri-map
+
+

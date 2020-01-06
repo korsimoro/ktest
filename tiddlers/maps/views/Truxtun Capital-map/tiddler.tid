@@ -1,0 +1,8 @@
+id:079cea00-4c07-475a-be9c-101f147f6a23
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Truxtun Capital-map
+
+

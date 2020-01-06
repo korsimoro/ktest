@@ -1,0 +1,8 @@
+id:07a5147a-a4fb-4510-b553-393c02bff497
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISS/PSA Brahms Model-map
+
+

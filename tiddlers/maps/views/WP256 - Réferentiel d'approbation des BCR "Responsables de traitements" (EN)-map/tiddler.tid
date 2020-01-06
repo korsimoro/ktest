@@ -1,0 +1,8 @@
+id:4b35c1f8-bd6c-4060-bfef-706651a86bb2
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/WP256 - Réferentiel d'approbation des BCR "Responsables de traitements" (EN)-map
+
+

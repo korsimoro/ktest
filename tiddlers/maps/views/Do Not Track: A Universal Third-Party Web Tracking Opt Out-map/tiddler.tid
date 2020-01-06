@@ -1,0 +1,8 @@
+id:f606f706-6ac8-4c3d-ab83-3810fb752969
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Do Not Track: A Universal Third-Party Web Tracking Opt Out-map
+
+

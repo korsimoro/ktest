@@ -1,0 +1,8 @@
+id:db90a2c7-c773-439e-91fc-4c69c3c311a7
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Hubs-map
+
+

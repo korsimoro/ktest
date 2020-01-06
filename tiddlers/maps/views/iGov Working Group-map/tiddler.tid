@@ -1,0 +1,8 @@
+id:dc60e2bc-63fa-443b-ba04-1884b4b7e29e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/iGov Working Group-map
+
+

@@ -1,0 +1,8 @@
+id:53d539fb-3560-4c55-99b3-06ba713ceb4a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Information Sharing Control-map
+
+

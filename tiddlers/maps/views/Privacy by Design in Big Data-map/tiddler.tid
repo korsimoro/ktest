@@ -1,0 +1,8 @@
+id:5a060f49-666d-4d48-a84a-c6937be8bf24
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Privacy by Design in Big Data-map
+
+

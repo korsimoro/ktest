@@ -1,0 +1,8 @@
+id:70b81f74-fd1d-44cb-baae-50952f58cbde
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Health Relationship Trust Profile for OpenID Connect 1.0-map
+
+

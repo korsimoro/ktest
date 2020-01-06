@@ -1,0 +1,8 @@
+id:5cdd3536-29ee-4f77-abd7-7ac3b7a5560e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/EuroCrypt 2017-map
+
+

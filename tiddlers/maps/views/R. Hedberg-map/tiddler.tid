@@ -1,0 +1,8 @@
+id:80ac5b15-84d4-4ec6-b501-66111ec331d0
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/R. Hedberg-map
+
+

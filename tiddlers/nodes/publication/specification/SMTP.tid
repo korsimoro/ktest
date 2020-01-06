@@ -1,0 +1,36 @@
+created:1578267626072
+modified:1578267626072
+title:SMTP
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:SMTP
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:
+tags:
+tech.focus:
+tmap.edges:{"a776c6ce-ecde-497a-9b1c-e163e44d0f13":{"to":"a54120ba-8e8f-4bdb-bb72-a22142cdff83","type":"organization-for-group"}}
+tmap.id:4c2a1482-24f7-43d7-9978-ac5d75fc8ffd
+url:https://tools.ietf.org/html/rfc5321
+version.or.edition:
+volume.frequency:
+working.group:
+
+This document is a specification of the basic protocol for Internet
+   electronic mail transport.  It consolidates, updates, and clarifies
+   several previous documents, making all or parts of most of them
+   obsolete.  It covers the SMTP extension mechanisms and best practices
+   for the contemporary Internet, but does not provide details about
+   particular extensions.  Although SMTP was designed as a mail
+   transport and delivery protocol, this specification also contains
+   information that is important to its use as a "mail submission"
+   protocol for "split-UA" (User Agent) mail reading systems and mobile
+   environments.

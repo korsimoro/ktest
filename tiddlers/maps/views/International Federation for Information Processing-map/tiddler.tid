@@ -1,0 +1,8 @@
+id:848a9b0b-4e69-40b5-8ac9-8e6b13ce15e0
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/International Federation for Information Processing-map
+
+

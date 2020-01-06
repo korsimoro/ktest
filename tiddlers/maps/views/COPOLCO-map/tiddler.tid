@@ -1,0 +1,8 @@
+id:a89e279f-1b82-4e1e-9638-c233179af402
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/COPOLCO-map
+
+

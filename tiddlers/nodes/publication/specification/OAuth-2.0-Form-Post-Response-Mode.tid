@@ -1,0 +1,27 @@
+created:1578267626224
+modified:1578267626224
+title:OAuth 2.0 Form Post Response Mode
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:B. Campbell;Mike Jones
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:OAuth 2.0 Form Post Response Mode
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:AB/Connect Working Group
+tags:
+tech.focus:
+tmap.edges:{"120bc945-5915-4aba-acfb-b92b71214cdf":{"to":"fe99bace-121a-4bf3-babb-519ea54ccd4f","type":"specification-of-group"}}
+tmap.id:99f5f56c-dd6c-4d62-91d3-b9d8435a123e
+url:http://openid.net/specs/oauth-v2-form-post-response-mode-1_0.html
+version.or.edition:
+volume.frequency:
+working.group:
+
+This specification defines the Form Post Response Mode. In this mode, Authorization Response parameters are encoded as HTML form values that are auto-submitted in the User Agent, and thus are transmitted via the HTTP POST method to the Client, with the result parameters being encoded in the body using the application/x-www-form-urlencoded format.

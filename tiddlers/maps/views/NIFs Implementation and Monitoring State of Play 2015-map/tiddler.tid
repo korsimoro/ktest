@@ -1,0 +1,8 @@
+id:a3665822-92e5-4276-a414-62ed0dd0c232
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/NIFs Implementation and Monitoring State of Play 2015-map
+
+

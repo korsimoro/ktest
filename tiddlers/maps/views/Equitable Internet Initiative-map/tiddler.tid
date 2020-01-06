@@ -1,0 +1,8 @@
+id:b1afa4f0-d57e-4dec-99ca-d98e79017d35
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Equitable Internet Initiative-map
+
+

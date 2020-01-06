@@ -1,0 +1,8 @@
+id:e5233886-bfe8-498b-8660-4ad9ded6c985
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Physical Characteristics and Test Methods WG1-map
+
+

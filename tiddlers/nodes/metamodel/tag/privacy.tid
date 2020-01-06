@@ -1,0 +1,10 @@
+created: 15790426221807000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143336817
+title: privacy
+tmap.edges: {"57f5c2fd-b00f-4c61-856f-12a3a02ef831":{"to":"a687e95d-282c-4380-ada1-456df12df510","type":"Tag"},"d92c6b74-c3e5-4ec6-af59-22a39d686656":{"to":"60bd987e-c007-46f7-8dc9-d9acbeca0904","type":"Tag"},"608326fb-eebf-45d4-9e86-2a53a1202a53":{"to":"c2182e48-48ea-4b3b-bbe3-ad2ee3b6b497","type":"Tag"},"5540461e-e3d3-4eb6-99e4-c1d4ee72f0b5":{"to":"d2e70152-5f79-4b59-a376-ada1922778be","type":"Tag"},"0a8e6e52-b8a9-4808-8421-a9023acd9e90":{"to":"499a6b3f-731a-4172-9c21-3018792577df","type":"Tag"},"c67ced3a-ef65-408c-a619-1d904c434022":{"to":"0514c4c7-7a19-40d6-9dd4-3cae03ecbb42","type":"Tag"},"e6dd48da-e5c7-4382-b07f-9d9ee94a4851":{"to":"5922d432-1e9f-4cee-bdf1-b451344e5759","type":"Tag"},"214395b3-dd66-4ebd-9cc5-675071258505":{"to":"e26117b2-b939-493e-9ae4-8a69b39d97c3","type":"Tag"}}
+tmap.id: d2591a58-e183-4bbf-a701-c3869293969d
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

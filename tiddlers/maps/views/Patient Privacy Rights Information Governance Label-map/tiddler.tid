@@ -1,0 +1,8 @@
+id:c013476d-79fc-4b11-900e-8fe4948e3754
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Patient Privacy Rights Information Governance Label-map
+
+

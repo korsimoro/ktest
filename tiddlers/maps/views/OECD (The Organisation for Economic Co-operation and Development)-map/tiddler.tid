@@ -1,0 +1,8 @@
+id:307efb41-fd4a-43c3-ab93-2d9cd8f618ef
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OECD (The Organisation for Economic Co-operation and Development)-map
+
+

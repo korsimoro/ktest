@@ -1,0 +1,8 @@
+id:e240e98e-1b0d-43f7-bc84-fa098370ff65
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Safe in Police Hands (2016)-map
+
+

@@ -1,0 +1,8 @@
+id:feae3c92-492c-43bd-99f1-5097d5a773ff
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on Automated individual decision-making and Profiling-map
+
+

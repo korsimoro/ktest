@@ -1,0 +1,10 @@
+created: 15790426221807000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Purpose
+modified: 20200104143337458
+title: transparency and accountability
+tmap.edges: {"bde6bfd8-4342-46d2-8a2d-b0335c06b06f":{"to":"c0e999c3-f545-4bae-af82-60a452cf8196","type":"Purpose"},"bb5ed4d4-6972-44e8-b069-1f3603e34a2e":{"to":"79dd580e-72a0-4f2a-aa00-deb25f5254e0","type":"Purpose"},"e99f20f5-9ccc-4e92-998d-96fa9faa8c3e":{"to":"a4e82847-f7d1-4d28-ad1b-73a56c98bddc","type":"Purpose"},"f5e11fb4-addb-4244-a67d-98577594792a":{"to":"236bea95-f4f1-4e3e-9660-d7d0d9052b15","type":"Purpose"},"a09ea50c-9ab9-4dae-8733-4bd55f327426":{"to":"04c03fc3-811e-443e-ad3d-c82dd160ab9d","type":"Purpose"}}
+tmap.id: 16662912-e54f-436e-81f5-3402f2f8c021
+tw-icon: $:/images/fa5/solid/shuttle-van
+type: text/vnd.tiddlywiki

@@ -1,0 +1,8 @@
+id:20c04a73-0f6f-4e7c-a34e-add0d8d1d15d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/TrustArc GDPR Validation-map
+
+

@@ -1,0 +1,8 @@
+id:0366443e-64a0-4ad6-9a2f-fa3c2477c116
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Attestations-map
+
+

@@ -1,0 +1,8 @@
+id:a5ba1462-80f1-4c50-9c00-cc7e41598197
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/DNSSEC-map
+
+

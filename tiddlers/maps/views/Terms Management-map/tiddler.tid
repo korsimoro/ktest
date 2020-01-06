@@ -1,0 +1,8 @@
+id:ad594487-3f60-4362-8eed-8d820471964d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Terms Management-map
+
+

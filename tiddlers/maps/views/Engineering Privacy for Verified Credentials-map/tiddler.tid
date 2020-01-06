@@ -1,0 +1,8 @@
+id:7b518196-7e90-4cd7-8a21-8bbbf2c09b6d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Engineering Privacy for Verified Credentials-map
+
+

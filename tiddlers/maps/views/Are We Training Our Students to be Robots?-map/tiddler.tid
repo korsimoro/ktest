@@ -1,0 +1,8 @@
+id:dd21eb1c-a994-4381-98f2-23d149265edd
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Are We Training Our Students to be Robots?-map
+
+

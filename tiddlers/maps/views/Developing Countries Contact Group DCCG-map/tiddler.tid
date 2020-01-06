@@ -1,0 +1,8 @@
+id:90b9a7cc-88b8-4ac9-b341-d6142ce31ffe
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Developing Countries Contact Group DCCG-map
+
+

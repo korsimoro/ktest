@@ -1,0 +1,8 @@
+id:e1212986-9766-400f-9a8b-6a2479e15746
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/CNIL Publications-map
+
+

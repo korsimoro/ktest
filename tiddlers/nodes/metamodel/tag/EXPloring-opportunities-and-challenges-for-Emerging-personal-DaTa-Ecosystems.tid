@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143334544
+title: exploring opportunities and challenges for emerging personal data ecosystems
+tmap.edges: {"3ec43a37-507f-4ee1-8126-1153719063ed":{"to":"5922d432-1e9f-4cee-bdf1-b451344e5759","type":"Tag"},"02fae07f-cce5-49df-a523-29bce6b72199":{"to":"118f980b-9360-4ee5-b65a-dea35ae5a03a","type":"Tag"},"0c083745-d26f-41a4-860f-acda922231cd":{"to":"77f58e90-4de9-460a-8d81-c7be6f9e9a99","type":"Tag"}}
+tmap.id: 3ab7e4b8-59bc-4371-8778-3501d2ba86bf
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

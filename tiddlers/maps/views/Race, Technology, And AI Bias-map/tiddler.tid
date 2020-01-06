@@ -1,0 +1,8 @@
+id:a9f1a122-3ab8-4bae-9b59-b28e908b0bb4
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Race, Technology, And AI Bias-map
+
+

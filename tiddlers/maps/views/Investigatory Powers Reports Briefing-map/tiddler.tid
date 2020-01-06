@@ -1,0 +1,8 @@
+id:b6a1e7c1-628d-4a0b-ba2c-f918f9f2512f
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Investigatory Powers Reports Briefing-map
+
+

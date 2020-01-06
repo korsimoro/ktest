@@ -1,0 +1,8 @@
+id:9b8368ee-c71a-41b0-bf52-2cdee41615c5
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Amazon-map
+
+

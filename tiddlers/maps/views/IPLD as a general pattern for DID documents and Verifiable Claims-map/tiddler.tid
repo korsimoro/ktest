@@ -1,0 +1,8 @@
+id:0ff25dae-e90a-4446-a857-77e7b2bdf08c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/IPLD as a general pattern for DID documents and Verifiable Claims-map
+
+

@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143337343
+title: information design
+tmap.edges: {"3f9b66c0-cd6f-4025-a43b-04f036eb6c44":{"to":"b1aedad7-1aca-4a17-84db-7cf0a884e3d0","type":"Tag"}}
+tmap.id: f24df1f0-c48c-4c2c-abc4-d0881ec4d3f7
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

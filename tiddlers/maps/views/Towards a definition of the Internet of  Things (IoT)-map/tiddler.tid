@@ -1,0 +1,8 @@
+id:1d3ce3ec-4c7a-482a-abd8-6cd811cf8897
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Towards a definition of the Internet of  Things (IoT)-map
+
+

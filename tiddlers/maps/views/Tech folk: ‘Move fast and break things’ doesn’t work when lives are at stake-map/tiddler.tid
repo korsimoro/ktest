@@ -1,0 +1,8 @@
+id:aa46574f-6027-4dc2-96f8-22cbffc5291b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Tech folk: ‘Move fast and break things’ doesn’t work when lives are at stake-map
+
+

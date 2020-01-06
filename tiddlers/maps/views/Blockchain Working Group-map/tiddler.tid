@@ -1,0 +1,8 @@
+id:621f96bb-af30-4279-a67f-891996352c3c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Blockchain Working Group-map
+
+

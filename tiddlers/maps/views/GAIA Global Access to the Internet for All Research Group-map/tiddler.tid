@@ -1,0 +1,8 @@
+id:23a0c2b0-b50b-4c48-b65e-2619f571e613
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/GAIA Global Access to the Internet for All Research Group-map
+
+

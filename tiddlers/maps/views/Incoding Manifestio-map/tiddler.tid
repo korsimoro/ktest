@@ -1,0 +1,8 @@
+id:d85a2662-cea4-4a97-a3bd-71af85004a1d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Incoding Manifestio-map
+
+

@@ -1,0 +1,36 @@
+created:1578267624935
+modified:1578267624935
+title:Privacy by Design Documentation for Software Engineers (PbD-SE) TC
+type:text/vnd.tiddlywiki
+activities:
+category:[[specification work]]
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:Privacy by Design Documentation for Software Engineers (PbD-SE) TC
+parent.org:oasis
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"7e5528d0-3384-45fa-8f7e-f617f4e25cbf":{"to":"6619db48-636e-4771-8475-d5e19135dd0a","type":"organization-for-group"}}
+tmap.id:4c13ade2-1ae3-4b81-bac8-1483b9bd7a58
+url:https://www.oasis-open.org/committees/pbd-se/
+
+The OASIS PbD-SE TC provides privacy governance and documentation standards for software engineers. It enables software organizations to embed privacy into the design and architecture of IT systems, without diminishing system functionality.
+
+The PbD-SE TC work follows the Seven Foundational Principles of Privacy by Design:
+
+Proactive not Reactive; Preventative Not Remedial
+Privacy as the Default Setting
+Privacy Embedded into Design
+Full Functionality - Positive-Sum, Not Zero-Sum
+End-to-End Security - Full Lifecycle Protection
+Visibility and Transparency - Keep It Open
+Respect for User Privacy - Keep It User-Centric
+PbD-SE offers a privacy extension/complement to OMG’s Unified Modeling Language (UML) and serves as a complement to OASIS’ eXtensible Access Control Mark-up Language (XACML) and Privacy Management Reference Model (PMRM).

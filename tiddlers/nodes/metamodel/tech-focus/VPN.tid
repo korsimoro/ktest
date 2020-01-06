@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tech Focus
+modified: 20200104143337400
+title: VPN
+tmap.edges: {"8a9da0b5-c310-4e92-9a24-deb306ac71e8":{"to":"9250bbe0-b32d-4888-8d70-495d07ec1fa1","type":"Tech Focus"}}
+tmap.id: 95460039-ba11-4a6e-bb22-31550050c35c
+tw-icon: $:/images/fa5/solid/fire-extinguisher
+type: text/vnd.tiddlywiki

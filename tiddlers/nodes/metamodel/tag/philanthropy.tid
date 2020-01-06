@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143336915
+title: philanthropy
+tmap.edges: {"dd7e7096-fbcb-43e4-a942-1a8a52bedc34":{"to":"e9958fb9-242b-4d0f-83a0-f137051a8606","type":"Tag"},"c2b24ac5-fb28-4385-9a41-c46ca7da313b":{"to":"5ce5ddcd-5140-4a1e-8fd2-f710b70d138d","type":"Tag"},"a238c9fd-1b0a-41b8-9292-53ad14581210":{"to":"4a81ce6d-ef13-4fa1-aff8-357f4855ba19","type":"Tag"}}
+tmap.id: 7de9c2bb-d750-4732-8bb7-da712f764062
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

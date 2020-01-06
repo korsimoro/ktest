@@ -1,0 +1,8 @@
+id:41685f1f-cf4b-4c6d-9305-1f7601b98011
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/I Shared What?!-map
+
+

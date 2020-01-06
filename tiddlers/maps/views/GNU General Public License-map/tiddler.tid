@@ -1,0 +1,8 @@
+id:78f3a381-2f99-4a36-a334-5b2091c7b7b1
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/GNU General Public License-map
+
+

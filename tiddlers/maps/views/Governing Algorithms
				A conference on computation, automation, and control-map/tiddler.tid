@@ -1,0 +1,9 @@
+id:10980cd4-e7c9-4126-bff2-2660b935a348
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Governing Algorithms
+				A conference on computation, automation, and control-map
+
+

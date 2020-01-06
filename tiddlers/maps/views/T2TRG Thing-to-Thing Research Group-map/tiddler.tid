@@ -1,0 +1,8 @@
+id:5c846c41-840a-4510-8c4f-a67343b2c364
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/T2TRG Thing-to-Thing Research Group-map
+
+

@@ -1,0 +1,8 @@
+id:5e9c2f02-a056-4436-96bf-bfb9f17a3139
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Social Security Numbers, Public Records, and Identity Theft-map
+
+

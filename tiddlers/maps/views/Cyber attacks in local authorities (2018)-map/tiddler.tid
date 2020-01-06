@@ -1,0 +1,8 @@
+id:8307d155-c5ce-4405-aa4a-e354e316bf0a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Cyber attacks in local authorities (2018)-map
+
+

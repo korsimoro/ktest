@@ -1,0 +1,27 @@
+created:1578267626086
+modified:1578267626086
+title:FIDO 2.0: Signature format
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:FIDO 2.0: Signature format
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:
+tags:
+tech.focus:
+tmap.edges:{"55cbb321-9e8f-45ea-885d-37c6db92929f":{"to":"4b030e5b-4256-4d47-803a-220da1b6262a","type":"organization-for-group"},"48961a1c-3664-4ad7-93f6-27916656c5e4":{"to":"a858cb09-b992-41a1-a31b-e0012f353641","type":"organization-for-group"}}
+tmap.id:42349a99-5878-482a-80a7-09e34b73624a
+url:http://www.w3.org/submission/2015/subm-fido-signature-format-20151120/
+version.or.edition:
+volume.frequency:
+working.group:
+
+A FIDO 2.0 signature proves possession of a private key of a FIDO 2.0 credential and asserts contextual information about the client and authenticator that generated it. This specification describes the data structures representing these assertions, how they are serialized to byte streams for signing with an authenticator, and the representation of the resulting signature and its associated data.

@@ -1,0 +1,8 @@
+id:614493b9-e3cc-49e2-aa07-5d692d5db50a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO_IEC_Guide_63_2019(E)-map
+
+

@@ -1,0 +1,8 @@
+id:c66fcc5b-b93c-4005-a9dc-0075fbcfd247
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Open Web Platform-map
+
+

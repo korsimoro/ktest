@@ -1,0 +1,8 @@
+id:0320d3f8-24ea-4b12-8ff4-cb3aae8e7ee0
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Josh Mandel-map
+
+

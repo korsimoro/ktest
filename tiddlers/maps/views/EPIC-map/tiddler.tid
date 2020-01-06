@@ -1,0 +1,8 @@
+id:f06f670b-6198-4cf3-b2b5-328ef55d88ee
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/EPIC-map
+
+

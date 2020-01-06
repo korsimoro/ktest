@@ -1,0 +1,8 @@
+id:fdc9a482-a763-4ef3-8030-4ab4da8bb210
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ABC4Trust-map
+
+

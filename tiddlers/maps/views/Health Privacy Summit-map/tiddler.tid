@@ -1,0 +1,8 @@
+id:8f094d2c-22cb-46c8-abb7-47af8a356c85
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Health Privacy Summit-map
+
+

@@ -1,0 +1,8 @@
+id:13cea04b-b300-4052-abf0-5773e70434c6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Identity Ecosystem Steering Group-map
+
+

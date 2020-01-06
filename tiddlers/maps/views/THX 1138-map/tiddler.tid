@@ -1,0 +1,8 @@
+id:00fca8ee-c6b7-4483-a93d-ec0514a3f715
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/THX 1138-map
+
+

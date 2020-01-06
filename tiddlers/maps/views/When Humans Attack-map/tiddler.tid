@@ -1,0 +1,8 @@
+id:4c8e19f3-e1f4-4411-9d9d-87b04516e9a6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/When Humans Attack-map
+
+

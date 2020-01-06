@@ -1,0 +1,8 @@
+id:8aa0e922-b5d1-40e0-aa84-79873b075cc7
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Trust Pilot-map
+
+

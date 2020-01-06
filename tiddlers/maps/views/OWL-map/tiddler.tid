@@ -1,0 +1,8 @@
+id:164519e8-3d3f-4c86-a9dc-a270ed15fa4b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OWL-map
+
+

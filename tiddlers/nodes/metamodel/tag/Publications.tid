@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143336749
+title: publications
+tmap.edges: {"1968271e-d405-4556-bc6c-7f3adfeb5622":{"to":"f9a1e1c2-c985-4075-81e2-436181bdca09","type":"Tag"}}
+tmap.id: 67acbbd8-1b29-4285-9a52-5337a8b88287
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

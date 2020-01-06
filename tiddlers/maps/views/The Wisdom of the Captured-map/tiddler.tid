@@ -1,0 +1,8 @@
+id:8ba82b53-0924-4d68-b798-5a7b66f82076
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Wisdom of the Captured-map
+
+

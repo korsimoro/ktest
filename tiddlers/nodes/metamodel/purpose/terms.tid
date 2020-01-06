@@ -1,0 +1,10 @@
+created: 15790426221807000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Purpose
+modified: 20200104143335743
+title: terms
+tmap.edges: {"578a6064-e405-453d-87cb-536402722145":{"to":"c4588a6d-32b2-43ba-81fe-3ca15edc83fd","type":"Purpose"}}
+tmap.id: 60c10c32-bf38-4e7c-ac37-153523357bb1
+tw-icon: $:/images/fa5/solid/shuttle-van
+type: text/vnd.tiddlywiki

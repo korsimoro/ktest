@@ -1,0 +1,8 @@
+id:16fcd302-28ec-44ec-8f84-d219f0a9658a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Secure Information Technology Center – Austria (A-SIT)-map
+
+

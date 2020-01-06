@@ -1,0 +1,8 @@
+id:068a1bfd-3c8b-4650-8ec5-73a61c836ac1
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/A People's Guide to AI-map
+
+

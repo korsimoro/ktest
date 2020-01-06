@@ -1,0 +1,8 @@
+id:1a153615-50ef-4bbe-b53b-3a12b511d226
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Justin Richer-map
+
+

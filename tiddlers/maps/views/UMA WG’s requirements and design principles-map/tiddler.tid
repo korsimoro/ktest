@@ -1,0 +1,8 @@
+id:f0ff6bca-15f2-47c4-9b74-dc09320b6e10
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/UMA WG’s requirements and design principles-map
+
+

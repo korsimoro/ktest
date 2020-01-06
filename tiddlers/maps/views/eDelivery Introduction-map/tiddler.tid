@@ -1,0 +1,8 @@
+id:efec6810-e99b-4d41-8b27-cc1103ca5029
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/eDelivery Introduction-map
+
+

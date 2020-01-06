@@ -1,0 +1,8 @@
+id:a4f38345-791e-42c1-9039-f6423f70cbcc
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/German Government-map
+
+

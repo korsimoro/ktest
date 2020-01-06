@@ -1,0 +1,8 @@
+id:13eda101-76b5-4c2f-be2f-2d84cb630e87
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Digital Log Book-map
+
+

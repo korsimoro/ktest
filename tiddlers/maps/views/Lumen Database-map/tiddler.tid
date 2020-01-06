@@ -1,0 +1,8 @@
+id:cbd01a31-2a00-442d-983a-94c0542b1a03
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Lumen Database-map
+
+

@@ -1,0 +1,8 @@
+id:acea1e6b-da29-4a97-8abf-7e5298e3f531
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/U2F-map
+
+

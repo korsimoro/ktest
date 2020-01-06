@@ -1,0 +1,8 @@
+id:5b10d3f1-700f-41e2-96cb-f106bcd0c6c0
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/standards development-map
+
+

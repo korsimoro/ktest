@@ -1,0 +1,36 @@
+created:1578148369721
+modified:1578148369721
+title:The Digital Standard
+type:text/vnd.tiddlywiki
+activities:[[standard development]] [[publication]]
+audience:
+category:research: open source
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:
+name:The Digital Standard
+parent.org:The Digital Standard
+partners:[[consumer reports]] [[disconnect]] [[ranking digital rights]] [[the cyber independent testing lab]]
+people:
+purpose:[[usability]] [[certification and compliance]]
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:
+terms.of.service:
+tmap.edges:{"f3709ce8-da53-45d2-9622-026ff6061286":{"to":"4db8dbd5-fd0d-4200-aa61-77830ef473e7","type":"Organization Supports Project or Product"}}
+tmap.id:4db8dbd5-fd0d-4200-aa61-77830ef473e7
+url:https://www.thedigitalstandard.org/
+version.or.edition:
+working.group:
+
+The Digital Standard is an ambitious, open, and collaborative effort to create a digital privacy and security standard to help guide the future design of consumer software, digital platforms and services, and Internet-connected products.
+
+The standard defines and reflects important consumer values that must be addressed in product development: electronics and software-based products should be secure, consumer information should be kept private, ownership rights of consumers should be maintained, and products should be designed to combat harassment and help protect freedom of expression.
+
+Our goals are to enable consumer organizations to test, evaluate, and report on whether new products protect consumer security and privacy, and to empower consumers to make smarter choices about the products they buy.

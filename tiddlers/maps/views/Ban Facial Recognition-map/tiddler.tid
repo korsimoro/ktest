@@ -1,0 +1,8 @@
+id:fc4806c4-f497-43bc-ad53-6e4f1b7b4356
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Ban Facial Recognition-map
+
+

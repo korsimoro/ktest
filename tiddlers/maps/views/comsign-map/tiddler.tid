@@ -1,0 +1,8 @@
+id:a0300dd8-5f7f-45cf-875a-2d500b5725a5
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/comsign-map
+
+

@@ -1,0 +1,8 @@
+id:43ca5b85-6758-42d0-8bbf-f87697f24330
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Aadhaar - Unique Identification Authority of India UIDAI-map
+
+

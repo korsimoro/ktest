@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143337211
+title: interoperable
+tmap.edges: {"5a43f931-c7f1-4165-92d3-bfc4e7549401":{"to":"7b128583-8247-4d5a-bfaa-fb191ca903a2","type":"Tag"}}
+tmap.id: 0e814f7f-da37-4e1e-acab-ce6243f1c125
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

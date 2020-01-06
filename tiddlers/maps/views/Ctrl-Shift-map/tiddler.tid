@@ -1,0 +1,8 @@
+id:944b5297-2ee4-4034-bdf8-9cce5d1f2106
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Ctrl-Shift-map
+
+

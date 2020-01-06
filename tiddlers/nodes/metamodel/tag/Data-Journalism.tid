@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143335024
+title: data journalism
+tmap.edges: {"97aec637-9c28-4a1f-844d-c61bbc8522f7":{"to":"b1aedad7-1aca-4a17-84db-7cf0a884e3d0","type":"Tag"}}
+tmap.id: 12793e72-cb85-4e9c-b580-b890f254d266
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

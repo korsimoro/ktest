@@ -1,0 +1,8 @@
+id:f7b0a64a-1ace-428b-831f-28373500c6aa
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/triedisec Trust-aware, REliable and Distributed Information SEcurity in the Cloud-map
+
+

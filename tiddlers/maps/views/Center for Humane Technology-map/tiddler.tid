@@ -1,0 +1,8 @@
+id:22deb197-9171-47f2-94b4-226351963cef
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Center for Humane Technology-map
+
+

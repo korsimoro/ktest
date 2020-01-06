@@ -1,0 +1,8 @@
+id:64b51f60-d41c-4cf0-ae1c-214ccddc4e48
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Briefing on the Report of the Bulk Powers Review by David Anderson QC-map
+
+

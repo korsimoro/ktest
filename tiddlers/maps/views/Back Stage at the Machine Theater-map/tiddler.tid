@@ -1,0 +1,8 @@
+id:a8bb8e1b-1b13-448a-a5b8-6c06337a825d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Back Stage at the Machine Theater-map
+
+

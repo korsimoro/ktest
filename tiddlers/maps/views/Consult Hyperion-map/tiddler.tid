@@ -1,0 +1,8 @@
+id:1da95bb8-726d-44cd-bb1f-2d4ae6583cc8
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Consult Hyperion-map
+
+

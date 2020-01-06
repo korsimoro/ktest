@@ -1,0 +1,8 @@
+id:da88c6b0-6b20-4309-9960-37813d1bcab1
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/compliance framework-map
+
+

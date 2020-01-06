@@ -1,0 +1,8 @@
+id:c4ea0439-849d-440b-b4b1-9fd4a9a0477c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Refugees’ New Infrastructure for Movement-map
+
+

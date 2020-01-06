@@ -1,0 +1,8 @@
+id:a6329d82-1b7c-410a-9062-13c190bb6f07
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Entry Allowed?-map
+
+

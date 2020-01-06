@@ -1,0 +1,8 @@
+id:cdbab9dd-8332-453c-9538-d6a2db27a96f
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Raisely-map
+
+

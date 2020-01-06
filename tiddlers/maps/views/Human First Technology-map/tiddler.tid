@@ -1,0 +1,8 @@
+id:2109e9d1-e207-40d5-8481-18690a85ab91
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Human First Technology-map
+
+

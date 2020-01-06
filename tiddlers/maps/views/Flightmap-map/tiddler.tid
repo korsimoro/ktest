@@ -1,0 +1,8 @@
+id:7b3547d4-a327-4976-8ff1-5a63d78ed95c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Flightmap-map
+
+

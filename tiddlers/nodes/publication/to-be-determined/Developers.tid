@@ -1,0 +1,30 @@
+created:1578148369744
+modified:1578148369744
+title:Developers
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Developers
+publication.type:to-be-determined
+purpose:
+sector:
+sponsoring.org:
+tags:
+tech.focus:
+tmap.edges:{}
+tmap.id:40f489ac-a59c-49b7-9d37-a3a4134b75d6
+url:
+version.or.edition:
+volume.frequency:
+working.group:
+
+These developer resources explain the sequence and details of the operations that are required to interact within the Coelition ecosystem.
+
+The SDK download provides code samples for .NET, Java, Python, iOS and Android that cover the key systems interactions. The rest of this page describes these interactions and example embodiments can be found in the case studies. Hash tags are used to link the description below with the code in the SDK.

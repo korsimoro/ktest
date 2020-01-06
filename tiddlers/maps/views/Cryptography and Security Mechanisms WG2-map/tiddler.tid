@@ -1,0 +1,8 @@
+id:8c0b4190-1cf2-40f9-b8d9-017b6afe279d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Cryptography and Security Mechanisms WG2-map
+
+

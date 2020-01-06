@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Activity
+modified: 20200104143333730
+title: incubation
+tmap.edges: {"ff43e5d2-69d4-4e03-9f99-b4747b9f1410":{"to":"c3612a99-d420-4ded-9cf9-8ef014574e39","type":"Activity"}}
+tmap.id: cf020517-3544-409d-b644-ffc626032519
+tw-icon: $:/images/fa5/solid/shower
+type: text/vnd.tiddlywiki

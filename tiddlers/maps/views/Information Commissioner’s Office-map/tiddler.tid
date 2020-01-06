@@ -1,0 +1,8 @@
+id:1c48494f-055c-439c-8e22-28d93614ff63
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Information Commissioner’s Office-map
+
+

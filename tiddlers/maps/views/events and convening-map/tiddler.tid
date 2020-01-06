@@ -1,0 +1,8 @@
+id:d342ce2f-7644-47e2-8d1c-6fd334b667f6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/events and convening-map
+
+

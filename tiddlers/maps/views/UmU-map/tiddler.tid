@@ -1,0 +1,8 @@
+id:4d461e17-99fc-4de1-8d23-735185339dfd
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/UmU-map
+
+

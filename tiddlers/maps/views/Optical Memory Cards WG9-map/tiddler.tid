@@ -1,0 +1,8 @@
+id:96f6f96f-91bb-4fe0-b705-d80bfa3cc705
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Optical Memory Cards WG9-map
+
+

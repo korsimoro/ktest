@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143335477
+title: advocacy
+tmap.edges: {"e4c479a7-846d-4fde-bdae-a42c6d048de0":{"to":"7e2691c4-9b21-481e-a8e9-128ac85d935b","type":"Tag"},"24fa2ebb-8ad4-4cb2-a25a-e94d2fbb49df":{"to":"90a16e76-6872-4191-b74a-78f84343d0d6","type":"Tag"},"fec163b9-3a4c-4180-9ae1-8ac13826d1ba":{"to":"4f2196ae-d408-41f2-86da-c7a1d8fa85ba","type":"Tag"},"95dd5a40-95b6-40bf-8681-e9f57ab81fea":{"to":"10c70551-7e4f-457a-9338-d00ce96e4f66","type":"Tag"},"222ed40a-1a6b-4723-ab9c-f68e3d912b98":{"to":"54510a98-f786-447c-a2bc-7bf4ceee2631","type":"Tag"},"e0d56159-e72e-4ded-8314-6a9b9491360a":{"to":"0ed46d8f-1c66-4c43-ae23-195012d12484","type":"Tag"}}
+tmap.id: 5e98f45d-a5aa-464a-afd8-ed0f02c3ba9b
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

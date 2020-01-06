@@ -1,0 +1,8 @@
+id:145a06f1-6e78-44ba-bbd2-bf388249ee66
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/One.thing.Less-map
+
+

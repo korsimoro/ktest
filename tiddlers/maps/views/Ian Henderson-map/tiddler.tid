@@ -1,0 +1,8 @@
+id:15b1c552-4af5-44e5-8cf4-17325a728e09
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Ian Henderson-map
+
+

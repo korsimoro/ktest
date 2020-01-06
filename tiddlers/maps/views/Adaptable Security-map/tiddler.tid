@@ -1,0 +1,8 @@
+id:e14f8d8c-0d65-4799-aa9c-0c31276b4a75
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Adaptable Security-map
+
+

@@ -1,0 +1,8 @@
+id:5db3df83-5f81-4edd-aef9-ce97903d8770
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Health Relationship Trust Profile for OAuth 2.0-map
+
+

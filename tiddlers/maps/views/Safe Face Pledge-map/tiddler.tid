@@ -1,0 +1,8 @@
+id:fd089d6f-3615-41fd-8df4-2acb232e375f
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Safe Face Pledge-map
+
+

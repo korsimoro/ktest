@@ -1,0 +1,8 @@
+id:9b4103c4-9cba-42a9-8bef-31c8e6659c8a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Democratic Value-map
+
+

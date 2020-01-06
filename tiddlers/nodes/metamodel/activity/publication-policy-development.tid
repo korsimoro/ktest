@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Activity
+modified: 20200104143336770
+title: publication; policy development
+tmap.edges: {"cca0bc2c-2552-4133-b43f-4f036b0d331c":{"to":"cf2a10bf-b26e-4ea1-a766-e5262e83500a","type":"Activity"}}
+tmap.id: 543b7d63-1746-4bdf-9511-bd77f321d506
+tw-icon: $:/images/fa5/solid/shower
+type: text/vnd.tiddlywiki

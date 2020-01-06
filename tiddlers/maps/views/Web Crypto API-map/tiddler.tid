@@ -1,0 +1,8 @@
+id:595d535f-1deb-41aa-ad4d-40494b6e9518
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Web Crypto API-map
+
+

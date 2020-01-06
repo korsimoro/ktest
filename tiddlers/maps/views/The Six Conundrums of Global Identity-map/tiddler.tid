@@ -1,0 +1,8 @@
+id:c4bcc2c3-7cd7-4948-9802-72ca3ab1b0d3
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Six Conundrums of Global Identity-map
+
+

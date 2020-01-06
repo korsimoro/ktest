@@ -1,0 +1,10 @@
+created: 15790426221807000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Activity
+modified: 20200104143335254
+title: certification
+tmap.edges: {"cdc96a8a-2d81-4b2d-87b5-ee2b9aca7546":{"to":"a51251b7-edb1-409a-86fb-ea9d2a8efac3","type":"Activity"},"fd71bafb-2657-412d-96b5-bc1a61f182f1":{"to":"54f5a56e-3822-47fa-a84e-d2a229505675","type":"Activity"},"fc1dd8a4-1224-4335-8fe8-c53813a947ff":{"to":"e46a5586-3017-46ea-914e-2389caf92b2c","type":"Activity"}}
+tmap.id: 3453d2b8-df3b-4e88-b9b4-16a459f49e60
+tw-icon: $:/images/fa5/solid/shower
+type: text/vnd.tiddlywiki

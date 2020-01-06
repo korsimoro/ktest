@@ -1,0 +1,8 @@
+id:dbca379a-c6c0-4413-be17-76082ccf0b1e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/IETF-map
+
+

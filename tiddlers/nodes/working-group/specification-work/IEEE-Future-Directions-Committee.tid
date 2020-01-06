@@ -1,0 +1,31 @@
+created:1578267625043
+modified:1578267625043
+title:IEEE Future Directions Committee
+type:text/vnd.tiddlywiki
+activities:
+category:[[specification work]]
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:IEEE Future Directions Committee
+parent.org:ieee
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"49219836-e0fe-4169-b6b1-6ccf5ed442fa":{"to":"0d68e9b6-944d-4c4e-9f09-33798dfc94bf","type":"organization-for-group"},"890ab8ff-a964-406c-9f30-4fa5107550c0":{"to":"fb3527a4-51d9-4849-b46c-244a39f339c0","type":"convenor"},"f0f0d4be-d729-42ee-8eae-3814779d171b":{"to":"c7ea99f1-cb73-4b37-beb3-6fc361de9dad","type":"founder"}}
+tmap.id:60773c97-fc5c-4f52-a323-38f125a5ec74
+url:http://www.ieee.org/about/technologies/index.html
+
+The IEEE Future Directions Committee (FDC), in association with Societies, Councils, and OUs, anticipates and determines the direction of existing, new, and emerging technologies and related issues, and spearheads their investigation and development by IEEE. Taking a holistic view, the FDC emphasizes new, emerging technical areas and drives them to maturity within the IEEE infrastructure. Additionally, the FDC serves as a liaison to and fosters cooperative efforts among Societies, Councils, and industry to develop new products and services in emerging topics.
+ 
+The primary working objective of the IEEE Future Directions Committee:
+* incubates emerging technologies and new applications of current technologies;
+* identifies opportunities to engage the engineering community and the general public;
+* works with IEEE members and staff to focus on emerging technologies through technical, professional, and educational activities;
+* serves as a catalyst for new conferences, publications, standards, educational products, forums, white papers, grants, and projects to support new technologies.

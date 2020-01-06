@@ -1,0 +1,8 @@
+id:f0087ebf-d339-4704-b5f8-7b412a91bda8
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Deep Trust Alliance-map
+
+

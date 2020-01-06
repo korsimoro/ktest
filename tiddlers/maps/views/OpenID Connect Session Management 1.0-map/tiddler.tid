@@ -1,0 +1,8 @@
+id:2ed09769-43cb-4d9f-b356-fad69c4a63c1
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OpenID Connect Session Management 1.0-map
+
+

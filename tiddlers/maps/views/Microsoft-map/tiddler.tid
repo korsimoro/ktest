@@ -1,0 +1,8 @@
+id:3084f4f5-5962-4096-a541-f9d9c1204011
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Microsoft-map
+
+

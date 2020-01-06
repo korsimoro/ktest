@@ -1,0 +1,8 @@
+id:e84c9a10-cbd1-4af7-ae83-b0afbbf8abb9
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ThingsCon-map
+
+

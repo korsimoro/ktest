@@ -1,0 +1,8 @@
+id:2e05d149-3f25-4d0e-be07-fdf6eda2cc3b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/People First-map
+
+

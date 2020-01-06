@@ -1,0 +1,8 @@
+id:0e0b306e-fe9d-4273-8f93-670a04684a20
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Microsoft France-map
+
+

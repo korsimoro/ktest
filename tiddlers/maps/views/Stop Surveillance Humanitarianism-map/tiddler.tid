@@ -1,0 +1,8 @@
+id:b36678d6-dd49-46f6-84d2-d5df53df7acd
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Stop Surveillance Humanitarianism-map
+
+

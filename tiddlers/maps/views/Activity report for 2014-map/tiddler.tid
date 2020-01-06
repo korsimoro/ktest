@@ -1,0 +1,8 @@
+id:c047fc83-d928-4519-a6e1-b2ff50317ffb
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Activity report for 2014-map
+
+

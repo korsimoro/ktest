@@ -1,0 +1,8 @@
+id:7250ac05-7392-4c88-8e0f-08558cb43660
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Law & Ethics in Computational Social Science-map
+
+

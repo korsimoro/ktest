@@ -1,0 +1,8 @@
+id:021871d1-b469-48b6-b902-844280e7a186
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/PwC-map
+
+

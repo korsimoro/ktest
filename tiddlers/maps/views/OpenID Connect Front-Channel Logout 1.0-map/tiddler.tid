@@ -1,0 +1,8 @@
+id:8b405dca-270a-4547-b356-6cc59e3de60c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OpenID Connect Front-Channel Logout 1.0-map
+
+

@@ -1,0 +1,10 @@
+created: 15790426221806000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tech Focus
+modified: 20200104143335648
+title: Terms Management
+tmap.edges: {"352ce85a-1b1b-4283-a9b5-379981bd963e":{"to":"909d3322-0cb2-4088-9a8a-3abdae390b04","type":"Tech Focus"}}
+tmap.id: d79d8049-e116-422d-906f-0f4fe21dd4a1
+tw-icon: $:/images/fa5/solid/fire-extinguisher
+type: text/vnd.tiddlywiki

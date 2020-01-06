@@ -1,0 +1,8 @@
+id:ff6c3c9c-bb7b-4dd7-b1e2-732a88e8a907
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Data Portability Cooperation-map
+
+

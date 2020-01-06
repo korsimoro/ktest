@@ -1,0 +1,8 @@
+id:ffeee144-18ad-4f78-8a6d-7ec1c48db98d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Which Apps have Privacy Policies?-map
+
+

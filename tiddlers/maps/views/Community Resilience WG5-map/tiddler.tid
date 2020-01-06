@@ -1,0 +1,8 @@
+id:2c2b0084-e6f7-4d0f-bcad-723c31a3eaba
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Community Resilience WG5-map
+
+

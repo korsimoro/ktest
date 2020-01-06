@@ -1,0 +1,8 @@
+id:ea28512b-0f1c-4209-ab45-5add220798b6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/NXP Semiconductors-map
+
+

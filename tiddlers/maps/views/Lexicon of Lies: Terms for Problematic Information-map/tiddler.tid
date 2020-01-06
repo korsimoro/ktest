@@ -1,0 +1,8 @@
+id:f3a163c1-5dd6-45fc-ba38-a7e08c9d9d68
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Lexicon of Lies: Terms for Problematic Information-map
+
+

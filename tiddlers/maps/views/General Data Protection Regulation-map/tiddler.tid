@@ -1,0 +1,8 @@
+id:65800d5c-757e-4603-ba39-d448113dca49
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/General Data Protection Regulation-map
+
+

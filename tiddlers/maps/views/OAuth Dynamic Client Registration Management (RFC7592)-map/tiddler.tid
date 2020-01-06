@@ -1,0 +1,8 @@
+id:0e19216a-4a64-4ce2-ac6d-9da768fdc4a8
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OAuth Dynamic Client Registration Management (RFC7592)-map
+
+

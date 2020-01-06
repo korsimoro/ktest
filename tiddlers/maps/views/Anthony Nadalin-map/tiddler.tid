@@ -1,0 +1,8 @@
+id:c4de28c9-c52a-41b2-a4aa-e6c0f20ffb1d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Anthony Nadalin-map
+
+

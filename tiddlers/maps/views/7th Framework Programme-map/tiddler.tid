@@ -1,0 +1,8 @@
+id:5c39da9a-252d-4970-a35f-5d190e67d96c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/7th Framework Programme-map
+
+

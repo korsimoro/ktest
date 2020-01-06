@@ -1,0 +1,46 @@
+created:1578148364333
+modified:1578148364333
+title:epSOS
+type:text/vnd.tiddlywiki
+activities:
+audience:
+category:Proof of Concept
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+license:
+me2b.participation:
+name:epSOS
+parent.org:
+partners:
+people:
+purpose:
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:[[europe|health|over]]
+terms.of.service:
+tmap.edges:{"cc9da5e6-ef22-42c7-bdca-e817f53cc44f":{"to":"03e774f6-8392-48c4-a07e-97eeaa7ffeb9","type":"connection"},"8481cc93-9f77-4af6-b5db-b3b37260bb87":{"to":"c08ed77e-fda0-4e75-b9ff-10437434143f","type":"connection"}}
+tmap.id:912fd89f-cea7-43cb-82ba-f9d8f4defb43
+url:http://www.epsos.eu
+version.or.edition:
+working.group:
+
+epSOS aimed to design, build and evaluate a service infrastructure that demonstrates cross-border interoperability between electronic health record systems in Europe.
+
+Cross-border eHealth Services
+epSOS attempts to offer seamless healthcare to European citizens. Key goals are to improve the quality and safety of healthcare for citizens when travelling to another European country. Moreover, it concentrates on developing a practical eHealth framework and ICT infrastructure that enables secure access to patient health information among different European healthcare systems. epSOS can make a significant contribution to patient safety by reducing the frequency of medical errors and by providing quick access to documentation as well as by increasing acessibility of ones prescribed medicine also abroad. In emergency situations, this documentation  provides the medical personnel with life-saving information and reduces the (sometimes needless) repetition of diagnostic procedures.
+The technical, legal and organizational concepts developed within the framework of the project are subject to an extensive practical testing phase which will last until the end of the project. epSOS will tests cross-border eHealth services in the following areas.
+
+epSOS in figures
+Time period	1st July 2008 - 31st June 2014
+Duration	72 months (6 years)
+Volume	€ 36,5 Million: co-funded by the European Commission Competitiveness and Innovation Programme (CIP) within the ICT Policy Support Programme
+Number of Beneficiaries (formation of the consortium)	45 Beneficiaries:
+Consisting of national ministries of health, national/regional competence centers , a consortium of industry and the Project Management Team:
+• Technical Project Management Leader: gematik
+• Administrative Project Management: empirica
+• Project Coordination: SALAR
+Number of countries	25 different European countries: 22 EU member states and 3 non-EU member states.

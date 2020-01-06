@@ -1,0 +1,8 @@
+id:62895ff3-a71b-4955-b14e-acececcca83a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Open Mobile Alliance-map
+
+

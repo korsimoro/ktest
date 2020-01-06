@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Digital Harm
+modified: 20200104143337268
+title: insecurity
+tmap.edges: {"be9ac2ce-e7e0-458e-8b66-6c6b4b46f0a2":{"to":"20215491-8d56-4f78-87fb-2038829e9c6e","type":"Digital Harm"},"14ae9ae1-d644-4263-bee3-d2ce3b94f673":{"to":"1713f5c1-f589-4a60-a09e-fc459c4a2f78","type":"Digital Harm"}}
+tmap.id: 80be6126-863c-486f-868c-a8f874a518cb
+tw-icon: $:/images/fa5/solid/snowflake
+type: text/vnd.tiddlywiki

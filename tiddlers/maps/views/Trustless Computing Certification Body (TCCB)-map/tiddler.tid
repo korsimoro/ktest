@@ -1,0 +1,8 @@
+id:b2c25989-b5a4-4c97-84e3-5a297345711a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Trustless Computing Certification Body (TCCB)-map
+
+

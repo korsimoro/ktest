@@ -1,0 +1,8 @@
+id:631749a6-ece6-4c82-9233-79f49561fb27
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Principles for Digital Development-map
+
+

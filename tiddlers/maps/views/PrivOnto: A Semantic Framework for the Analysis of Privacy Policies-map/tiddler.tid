@@ -1,0 +1,8 @@
+id:2450325d-8db7-47ca-a1c2-a51acc22ab88
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/PrivOnto: A Semantic Framework for the Analysis of Privacy Policies-map
+
+

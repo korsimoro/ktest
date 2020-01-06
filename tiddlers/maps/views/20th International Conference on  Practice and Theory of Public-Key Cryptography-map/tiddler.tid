@@ -1,0 +1,8 @@
+id:e05f8733-4e71-42d8-ba82-fd7925539a23
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/20th International Conference on  Practice and Theory of Public-Key Cryptography-map
+
+

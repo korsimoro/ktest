@@ -1,0 +1,8 @@
+id:8bf7e100-d721-4028-8967-f6d0b5127c3c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Center for Democracy & Technology-map
+
+

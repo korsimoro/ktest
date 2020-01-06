@@ -1,0 +1,8 @@
+id:2a310ad3-9d68-4e3a-af13-ceb342c8d528
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Discriminating Tastes: Customer Ratings as Vehicles for Bias-map
+
+

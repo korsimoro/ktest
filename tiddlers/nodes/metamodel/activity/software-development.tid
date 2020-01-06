@@ -1,0 +1,10 @@
+created: 15790426221807000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Activity
+modified: 20200104143336397
+title: software development
+tmap.edges: {"44203a21-074b-4330-b02e-780a1cda46df":{"to":"22a22554-40e7-4039-9a31-9e87ab0ae169","type":"Activity"},"82c9e6a1-87ed-43fd-8b86-ff70f00cce7c":{"to":"a9509fcd-488b-4436-b9e8-a8fcc494d011","type":"Activity"},"7625bf6a-f4f6-4a4a-9885-152d15dc435d":{"to":"60bd987e-c007-46f7-8dc9-d9acbeca0904","type":"Activity"},"9a380629-8a09-48f8-8945-8ac3bdffa955":{"to":"d2e70152-5f79-4b59-a376-ada1922778be","type":"Activity"},"e1d073eb-9dfd-4972-8702-367fab397220":{"to":"e03df49a-e3b6-4aae-81bc-5c7103d210af","type":"Activity"},"4f71da58-be29-49c7-a61c-38d58249c119":{"to":"06018368-7c68-477a-ac50-674abe076eda","type":"Activity"},"db697cca-e9fe-49a4-952f-4d1cb871700e":{"to":"fec7ac84-9e9c-4a07-a23f-729049cb025b","type":"Activity"},"38d751fe-6ccb-44d7-9ee7-e6bef96918fe":{"to":"e1ec8439-a695-4fb6-a426-be9b6ef11ccc","type":"Activity"},"7142d0a5-52ed-422b-ad69-223cf1735447":{"to":"0e814f59-a2fc-43ff-9283-aff06bcc5813","type":"Activity"},"97b8a868-5fc6-4a46-8f9f-ed95874b4876":{"to":"91e833d0-bd93-4894-a2d8-73a4b57b5517","type":"Activity"},"74d28e58-218c-45f2-ba68-7e259459432c":{"to":"6c126891-2fa9-44d6-8c47-032e93499aee","type":"Activity"}}
+tmap.id: 32eb350d-d552-4693-bd21-52fb96fe88cc
+tw-icon: $:/images/fa5/solid/shower
+type: text/vnd.tiddlywiki

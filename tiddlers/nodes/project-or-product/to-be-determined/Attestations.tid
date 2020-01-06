@@ -1,0 +1,32 @@
+created:1578148369721
+modified:1578148369721
+title:Attestations
+type:text/vnd.tiddlywiki
+activities:
+audience:
+category:to-be-determined
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:
+name:Attestations
+parent.org:Decentralized Identity Foundation
+partners:
+people:
+purpose:
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:
+terms.of.service:
+tmap.edges:{}
+tmap.id:aa8a7ff4-d3ad-4a20-a900-b33419c517c0
+url:https://github.com/decentralized-identity/attestations/
+version.or.edition:
+working.group:
+
+Attestation API implementations for various languages and platforms.

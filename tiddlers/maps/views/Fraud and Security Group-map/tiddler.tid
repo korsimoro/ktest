@@ -1,0 +1,8 @@
+id:faedc416-3a12-4a7e-9085-80bf2550b8d5
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Fraud and Security Group-map
+
+

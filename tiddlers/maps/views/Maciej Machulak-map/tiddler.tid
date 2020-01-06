@@ -1,0 +1,8 @@
+id:8d61ccfe-4d45-49ee-bbeb-85ca080edc4e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Maciej Machulak-map
+
+

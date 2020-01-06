@@ -1,0 +1,8 @@
+id:de60abd3-e31e-4146-9de4-40a1e4beb3dd
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Civil Registry Consolidation through Digital Identity Management-map
+
+

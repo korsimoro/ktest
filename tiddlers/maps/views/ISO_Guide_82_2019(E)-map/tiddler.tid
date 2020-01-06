@@ -1,0 +1,8 @@
+id:45e9b725-0f0d-4c74-a0ff-04eef73d3c34
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO_Guide_82_2019(E)-map
+
+

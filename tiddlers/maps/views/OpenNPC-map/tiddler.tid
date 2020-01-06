@@ -1,0 +1,8 @@
+id:94399a13-fa15-4d13-9ca2-837b9a645d09
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OpenNPC-map
+
+

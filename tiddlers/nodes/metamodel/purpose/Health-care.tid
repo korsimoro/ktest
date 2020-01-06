@@ -1,0 +1,10 @@
+created: 15790426221807000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Purpose
+modified: 20200104143334109
+title: health care
+tmap.edges: {"e9567b36-7eb4-41b4-8850-1c3cf2601322":{"to":"40c648e3-542e-4723-bd02-f49d5dc258a1","type":"Purpose"},"a7d3fd3f-80f4-4bd5-abac-538a8818194b":{"to":"37ddc55d-2136-4cf8-9eff-fe4ad05ac8c7","type":"Purpose"},"886b7f0d-23ca-4ab2-9e3c-7d9a9bfe8a28":{"to":"854c5c09-a965-4cf9-a8e5-d4598b38504b","type":"Purpose"}}
+tmap.id: e882fd45-2225-4f0f-b116-18cc0539778a
+tw-icon: $:/images/fa5/solid/shuttle-van
+type: text/vnd.tiddlywiki

@@ -1,0 +1,8 @@
+id:a078ace2-d673-42ce-9856-fe01bff7ab21
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Open Data ToolKit - Worldbank-map
+
+

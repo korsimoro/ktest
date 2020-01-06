@@ -1,0 +1,8 @@
+id:c478ed00-0f05-4737-bdd2-7e92748c5df7
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Callcredit Information Group-map
+
+

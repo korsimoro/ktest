@@ -1,0 +1,8 @@
+id:e62d3369-b9ad-4140-a255-c94452d109b0
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Keith Institute-map
+
+

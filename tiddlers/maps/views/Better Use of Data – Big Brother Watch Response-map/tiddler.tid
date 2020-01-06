@@ -1,0 +1,8 @@
+id:acac866d-23c3-4375-8e42-1b0cbdbeb0ac
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Better Use of Data – Big Brother Watch Response-map
+
+

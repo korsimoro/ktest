@@ -1,0 +1,23 @@
+created:1578267629495
+modified:1578267629495
+title:OAuth Security Workshop 2016
+type:text/vnd.tiddlywiki
+audience:
+category:[[to be determined]]
+date:
+element.type:event
+frequency:
+github.profile:
+host.organization:Chair for Information Security and Cryptography at the University of Trier
+location(s):
+name:OAuth Security Workshop 2016
+partners:
+people:
+relevant.publications:
+tags:
+tmap.edges:{}
+tmap.id:0f828a25-164d-4c1e-8a9e-9fe01135c67b
+website:https://infsec.uni-trier.de/events/osw2016
+working.group:
+
+In context of the recent findings from researchers related to OAuth, see announcement, the IETF OAuth Working Group (WG) is convinced that the wider Internet security community can help to improve the security of Internet protocols.

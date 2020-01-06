@@ -1,0 +1,8 @@
+id:f4e49e95-7744-48c7-94d2-3fcf5b69b9d0
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/SecureKey-map
+
+

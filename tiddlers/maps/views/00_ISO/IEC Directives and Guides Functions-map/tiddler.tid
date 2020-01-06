@@ -1,0 +1,8 @@
+id:7d1700f9-544e-43ce-9626-5a0cfe036bd5
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/00_ISO/IEC Directives and Guides Functions-map
+
+

@@ -1,0 +1,8 @@
+id:e66bb1bf-56c9-4002-8586-5bfb713a2f0b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Polisis-map
+
+

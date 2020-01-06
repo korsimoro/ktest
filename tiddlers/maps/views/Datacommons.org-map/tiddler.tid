@@ -1,0 +1,8 @@
+id:8c144803-8c7d-4b9f-94dd-3962e1dac807
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Datacommons.org-map
+
+

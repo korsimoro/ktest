@@ -1,0 +1,8 @@
+id:038b810e-a9e7-41fa-bf56-00a7c56a657d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The State of Surveillance 2018-map
+
+

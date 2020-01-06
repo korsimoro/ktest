@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143337237
+title: international electrotechnical commission
+tmap.edges: {"3982d8cc-b43f-46ee-b63d-5f4d959115ad":{"to":"f860d457-d1f4-4eb5-8888-1185df4d87a2","type":"Tag"}}
+tmap.id: 0d0d8903-404f-4f8a-a2d0-71205dab5e7d
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

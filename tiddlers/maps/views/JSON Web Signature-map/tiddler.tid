@@ -1,0 +1,8 @@
+id:be8bb391-2e89-400d-8cf9-c206f56d1b50
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/JSON Web Signature-map
+
+

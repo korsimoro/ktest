@@ -1,0 +1,8 @@
+id:5f741378-3b4e-4818-b599-0034f5a82164
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Labour Dynamics in the Russian Federation-map
+
+

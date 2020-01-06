@@ -1,0 +1,8 @@
+id:3ff946f9-c5d9-4728-9241-86cc6a7205b3
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/CloudAuthZ Cloud Authorization TC-map
+
+

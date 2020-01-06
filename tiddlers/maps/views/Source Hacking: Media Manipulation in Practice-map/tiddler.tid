@@ -1,0 +1,8 @@
+id:87c55c0b-53b6-4717-aa9c-f3f1ebe71e20
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Source Hacking: Media Manipulation in Practice-map
+
+

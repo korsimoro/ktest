@@ -1,0 +1,8 @@
+id:ed5f2869-3052-452a-99db-099acdd789dd
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Bern University of Applied Sciences-map
+
+

@@ -1,0 +1,8 @@
+id:5b5ef4a9-13d3-4e82-b809-e8ed1904abf3
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/PRISMACLOUD-map
+
+

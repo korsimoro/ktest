@@ -1,0 +1,8 @@
+id:d3881497-d128-4b8c-bc75-634498c784f9
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Mobility and Identity-map
+
+

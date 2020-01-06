@@ -1,0 +1,8 @@
+id:a9f15ed8-b62f-4df5-8c73-ac4ab1bcf3ac
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Justice Ministry in Israel-map
+
+

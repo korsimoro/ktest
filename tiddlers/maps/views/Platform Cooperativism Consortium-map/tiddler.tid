@@ -1,0 +1,8 @@
+id:e87a2e45-f81b-4dd0-994b-519c1e4ab452
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Platform Cooperativism Consortium-map
+
+

@@ -1,0 +1,8 @@
+id:a0589b76-a013-4229-954e-20815b272552
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Grim RIPA-map
+
+

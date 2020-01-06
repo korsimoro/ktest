@@ -1,0 +1,8 @@
+id:eee7835a-17db-49ca-bb68-d98ff03d4e00
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/NEC-map
+
+

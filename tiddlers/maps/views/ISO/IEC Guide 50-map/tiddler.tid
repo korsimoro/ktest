@@ -1,0 +1,8 @@
+id:2f746fe5-3e4e-4f2e-a0b3-99ce74d185d9
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO/IEC Guide 50-map
+
+

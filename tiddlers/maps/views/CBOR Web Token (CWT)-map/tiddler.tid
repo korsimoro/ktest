@@ -1,0 +1,8 @@
+id:d6312dab-98cd-46ff-b6b1-337fd6edacb8
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/CBOR Web Token (CWT)-map
+
+

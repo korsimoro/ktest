@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tech Focus
+modified: 20200104143335460
+title: analytics
+tmap.edges: {"6146f9f8-1939-4301-ae31-e5ff628b4821":{"to":"f0577fda-a357-4c20-8dd6-e4e815e3c94c","type":"Tech Focus"},"a102315d-f0ae-43f5-872d-aefd725fde2c":{"to":"334b59b8-6908-4920-8c5a-53bc43d2e181","type":"Tech Focus"},"eb9c3764-52f1-4e20-ab0e-6ca8259c2807":{"to":"e5b999e3-2905-4730-bed6-3a24ab77932b","type":"Tech Focus"}}
+tmap.id: d5df43b0-638b-4ccd-85c2-e2b339569424
+tw-icon: $:/images/fa5/solid/fire-extinguisher
+type: text/vnd.tiddlywiki

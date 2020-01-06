@@ -1,0 +1,8 @@
+id:0bbd3232-f921-43be-865f-760ef1c004e3
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Institute for the Future-map
+
+

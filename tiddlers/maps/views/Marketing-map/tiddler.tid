@@ -1,0 +1,8 @@
+id:8c4c30d5-2c00-4bd5-a9d0-6be3e0e65dd1
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Marketing-map
+
+

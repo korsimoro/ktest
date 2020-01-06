@@ -1,0 +1,8 @@
+id:b84befb5-6e47-434b-b6e9-f15217d0c9df
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Government Digital Service-map
+
+

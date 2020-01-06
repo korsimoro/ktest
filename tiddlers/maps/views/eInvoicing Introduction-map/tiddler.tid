@@ -1,0 +1,8 @@
+id:3339897a-91f9-49ae-bd1e-6478cd8542e4
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/eInvoicing Introduction-map
+
+

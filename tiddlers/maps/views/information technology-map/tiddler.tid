@@ -1,0 +1,8 @@
+id:612c51c3-d358-4d46-97e9-41df1cd537bd
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/information technology-map
+
+

@@ -1,0 +1,8 @@
+id:772551a4-3ee3-473b-968c-bb5a1e58af4a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Increasing the Salience of Data Use Opt-Outs Online-map
+
+

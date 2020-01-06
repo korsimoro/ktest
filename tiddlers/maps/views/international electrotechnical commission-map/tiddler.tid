@@ -1,0 +1,8 @@
+id:b21619f0-85c0-42df-b4db-2562e55d0560
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/international electrotechnical commission-map
+
+

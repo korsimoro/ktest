@@ -1,0 +1,8 @@
+id:f2daeaf4-8cde-4690-8ba2-f133ee17b84f
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Research & Briefings-map
+
+

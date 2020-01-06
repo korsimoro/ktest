@@ -1,0 +1,8 @@
+id:e2ca7165-b681-409c-acea-a1a432b1ca00
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Activity Report 2007-map
+
+

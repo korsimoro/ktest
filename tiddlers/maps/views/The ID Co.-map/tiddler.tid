@@ -1,0 +1,8 @@
+id:e149a5f3-4ed7-404b-aad8-b96cb3ec3c38
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The ID Co.-map
+
+

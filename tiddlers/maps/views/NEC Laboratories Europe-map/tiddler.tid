@@ -1,0 +1,8 @@
+id:ba1d69e5-4f6f-4bb6-81af-f07237d949e2
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/NEC Laboratories Europe-map
+
+

@@ -1,0 +1,8 @@
+id:bd3a2655-ca89-4d4a-81ab-bf9a067a2899
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The IO Foundation-map
+
+

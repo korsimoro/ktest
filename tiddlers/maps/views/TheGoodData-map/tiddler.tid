@@ -1,0 +1,8 @@
+id:7ac47a75-3245-4881-b9e8-ab2513b9258a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/TheGoodData-map
+
+

@@ -1,0 +1,8 @@
+id:4b797089-f8be-42a1-9d4d-778f0e03c653
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Internet Technical Advisory Committee-map
+
+

@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143335638
+title: to protect personal data
+tmap.edges: {"5add95eb-83cb-4e3c-92d9-cc607da44f28":{"to":"23c7bcec-ea97-47e5-bc75-98b52e100ac0","type":"Tag"}}
+tmap.id: e52fc285-c50b-49d3-bd1e-c8aee36f9d18
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

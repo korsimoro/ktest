@@ -1,0 +1,8 @@
+id:bc1e66d0-4bc7-453e-8767-75986bd55d0b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Identity Commons-map
+
+

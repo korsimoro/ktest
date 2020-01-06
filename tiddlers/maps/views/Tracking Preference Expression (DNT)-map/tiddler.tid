@@ -1,0 +1,8 @@
+id:c60bc0fb-1c57-4325-84ea-74662b2d0c87
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Tracking Preference Expression (DNT)-map
+
+

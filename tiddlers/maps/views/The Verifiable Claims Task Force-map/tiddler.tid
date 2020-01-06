@@ -1,0 +1,8 @@
+id:188b9a1c-57e2-48e6-b1a2-378957523e88
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Verifiable Claims Task Force-map
+
+

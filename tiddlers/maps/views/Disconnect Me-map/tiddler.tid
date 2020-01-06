@@ -1,0 +1,8 @@
+id:b0227ff8-522b-4273-a196-c58c029e4b99
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Disconnect Me-map
+
+

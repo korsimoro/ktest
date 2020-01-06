@@ -1,0 +1,8 @@
+id:19194c2d-7a62-4bcb-90ae-36e63a5e66cc
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Open Humans-map
+
+

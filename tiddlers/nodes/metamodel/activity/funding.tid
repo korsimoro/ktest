@@ -1,0 +1,10 @@
+created: 15790426221805000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Activity
+modified: 20200104143334207
+title: funding
+tmap.edges: {"323d4a99-dcee-42ae-a58c-4ab035b40eee":{"to":"4b1643fe-67fe-4cb0-bcf1-623a1f63138f","type":"Activity"}}
+tmap.id: a67934be-eab3-4641-804f-a84cc4a1fbf8
+tw-icon: $:/images/fa5/solid/shower
+type: text/vnd.tiddlywiki

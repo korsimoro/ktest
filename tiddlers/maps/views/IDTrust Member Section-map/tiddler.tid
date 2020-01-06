@@ -1,0 +1,8 @@
+id:e4f669be-42fb-48e2-be24-5f7218abeaa8
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/IDTrust Member Section-map
+
+

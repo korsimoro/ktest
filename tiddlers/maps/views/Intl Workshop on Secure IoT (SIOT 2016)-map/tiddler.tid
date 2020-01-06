@@ -1,0 +1,8 @@
+id:88693271-dd3b-4cad-b5b9-ee2728eb94c9
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Intl Workshop on Secure IoT (SIOT 2016)-map
+
+

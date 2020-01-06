@@ -1,0 +1,8 @@
+id:25731a99-3075-47d5-b1a5-921078c907c7
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO_IEC_Guide_98-3_2008_Suppl_2_2011(E)-map
+
+

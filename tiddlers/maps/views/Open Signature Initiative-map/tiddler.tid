@@ -1,0 +1,8 @@
+id:b4286924-cba0-4d47-bb9d-b7096a5fdab9
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Open Signature Initiative-map
+
+

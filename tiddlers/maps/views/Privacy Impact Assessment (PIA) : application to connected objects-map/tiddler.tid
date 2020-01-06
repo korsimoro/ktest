@@ -1,0 +1,8 @@
+id:dfb42316-e1ea-4b06-a4eb-39084237bc7d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Impact Assessment (PIA) : application to connected objects-map
+
+

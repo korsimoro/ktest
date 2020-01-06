@@ -1,0 +1,8 @@
+id:e126f1cb-c7a3-4159-9a14-341fcfde02bc
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Location Tracking from Communications of Mobile Devices-map
+
+

@@ -1,0 +1,10 @@
+created: 15790426221806000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Purpose
+modified: 20200104143335237
+title: certification and compliance
+tmap.edges: {"dc9aa07c-97cc-4e48-b273-9c9ee0cd7a0e":{"to":"a687e95d-282c-4380-ada1-456df12df510","type":"Purpose"},"13c98a48-7e6d-4e35-b2db-901b25dcf852":{"to":"a51251b7-edb1-409a-86fb-ea9d2a8efac3","type":"Purpose"},"6c80d307-2d5d-42f2-86a2-4a2175336d5d":{"to":"54f5a56e-3822-47fa-a84e-d2a229505675","type":"Purpose"},"5cce7a15-eca8-4572-b38c-4805d8507c2e":{"to":"e46a5586-3017-46ea-914e-2389caf92b2c","type":"Purpose"},"821fe7d9-951f-44a1-96b8-39e0f41c7a9f":{"to":"70320ab8-e8c4-4f5b-ba95-fdf611e156b0","type":"Purpose"},"603358be-e3a9-4200-92ea-af81393c7808":{"to":"f5de8aeb-02c2-4a56-9e17-9eff360d2ac4","type":"Purpose"},"58c57488-2c34-419b-bcdb-55480dec68a3":{"to":"ee13134d-8c0c-4b1a-9759-ab6ec768b2b3","type":"Purpose"},"66a4a848-4128-4713-b0c7-7984f8cb707e":{"to":"44fad49a-f0ee-4067-a734-3ce66d98829c","type":"Purpose"},"c8d80874-95b9-433b-aac9-6a1b577fb9ee":{"to":"4454eb03-4aa9-409b-a867-2ff00391584f","type":"Purpose"},"4b07ed53-c36a-4a9e-8729-6e0b7e8ca4d6":{"to":"8035ceb7-60b3-4abf-a663-22f652c7fa36","type":"Purpose"},"519bf682-5b0a-41bc-a537-bae0e520a115":{"to":"fb75b089-2c62-4af4-8b1f-cdb285fc22cf","type":"Purpose"},"62ad8fb8-d207-469c-b599-35ef59921f61":{"to":"77d80bde-71d5-4364-b347-1bd4c5517b81","type":"Purpose"},"0ad87990-b2bb-468f-a69d-0104db0b4624":{"to":"cbc79eae-7224-4e75-a5a6-46664c22a137","type":"Purpose"}}
+tmap.id: 96d6afce-ea1f-4af6-bd5d-b5065f9689b9
+tw-icon: $:/images/fa5/solid/shuttle-van
+type: text/vnd.tiddlywiki

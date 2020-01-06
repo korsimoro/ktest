@@ -1,0 +1,8 @@
+id:ba034177-52f7-4c8a-b609-07f66c9842d9
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Communication Group AHG1-map
+
+

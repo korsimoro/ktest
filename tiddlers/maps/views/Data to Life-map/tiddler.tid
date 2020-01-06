@@ -1,0 +1,8 @@
+id:8a90a107-92c1-4032-8250-6253f51b8d39
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Data to Life-map
+
+

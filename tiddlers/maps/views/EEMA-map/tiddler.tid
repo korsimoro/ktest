@@ -1,0 +1,8 @@
+id:5ff65567-ff4b-44a0-a086-f6f8e1dfae52
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/EEMA-map
+
+

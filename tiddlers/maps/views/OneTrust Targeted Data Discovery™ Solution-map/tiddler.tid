@@ -1,0 +1,8 @@
+id:b2b9e080-deec-40fb-97b1-004fa354a8ae
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OneTrust Targeted Data Discovery™ Solution-map
+
+

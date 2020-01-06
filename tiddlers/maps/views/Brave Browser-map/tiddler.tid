@@ -1,0 +1,8 @@
+id:3193d07a-690a-4cb4-8cc7-420667472ac2
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Brave Browser-map
+
+

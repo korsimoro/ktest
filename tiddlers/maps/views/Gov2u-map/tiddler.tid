@@ -1,0 +1,8 @@
+id:5cb5ed5d-6358-4a83-823a-d264e203bf3c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Gov2u-map
+
+

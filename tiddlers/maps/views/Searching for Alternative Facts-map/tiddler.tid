@@ -1,0 +1,8 @@
+id:2022b1a9-1d2b-4a24-a0da-f3ab13be2c1d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Searching for Alternative Facts-map
+
+

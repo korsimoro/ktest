@@ -1,0 +1,8 @@
+id:33f79f95-38ee-41be-864c-7ea7968712da
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Workshop on Trustworthy Algorithmic Decision-Making-map
+
+

@@ -1,0 +1,8 @@
+id:9d4c2c31-c55c-43e7-a0de-fda9ac132ffa
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/CA Technologies-map
+
+

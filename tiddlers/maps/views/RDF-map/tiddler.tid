@@ -1,0 +1,8 @@
+id:b936e80c-9cc5-472d-adb1-0774a82acccb
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/RDF-map
+
+

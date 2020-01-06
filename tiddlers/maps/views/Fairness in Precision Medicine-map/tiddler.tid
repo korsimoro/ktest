@@ -1,0 +1,8 @@
+id:5debad67-423e-4847-9c12-adafb2a24389
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Fairness in Precision Medicine-map
+
+

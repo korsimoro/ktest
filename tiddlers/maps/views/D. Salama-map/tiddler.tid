@@ -1,0 +1,8 @@
+id:941a9418-5bee-4800-be16-98345e090f22
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/D. Salama-map
+
+

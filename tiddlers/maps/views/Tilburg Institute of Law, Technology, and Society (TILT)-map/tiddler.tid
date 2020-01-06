@@ -1,0 +1,8 @@
+id:57faf863-ba78-4077-b49c-5e8c2ec3838f
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Tilburg Institute of Law, Technology, and Society (TILT)-map
+
+

@@ -1,0 +1,8 @@
+id:51312d89-06e1-40e7-9f20-b4b9fbc10d8f
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ICAO-map
+
+

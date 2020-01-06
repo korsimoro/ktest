@@ -1,0 +1,8 @@
+id:c7bee77b-f4b3-4297-b21b-9abed32c8be2
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Identity Event Subscription Protocol-map
+
+

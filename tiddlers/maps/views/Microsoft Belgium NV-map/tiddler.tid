@@ -1,0 +1,8 @@
+id:af1b6308-c59a-48c4-adca-942676bba01d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Microsoft Belgium NV-map
+
+

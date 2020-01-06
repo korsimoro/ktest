@@ -1,0 +1,8 @@
+id:49b53dfe-b5bd-42c9-b99f-3790c0ed80be
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Western Hemisphere Travel Initiative-map
+
+

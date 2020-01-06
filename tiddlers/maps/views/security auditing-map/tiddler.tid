@@ -1,0 +1,8 @@
+id:57dcc07e-fe1c-4e84-b291-ee118bba4335
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/security auditing-map
+
+

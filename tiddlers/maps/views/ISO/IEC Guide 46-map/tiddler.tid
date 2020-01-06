@@ -1,0 +1,8 @@
+id:0693b328-65de-4c7c-b6e9-56f86f5b6611
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO/IEC Guide 46-map
+
+

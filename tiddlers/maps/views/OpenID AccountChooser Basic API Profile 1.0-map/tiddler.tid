@@ -1,0 +1,8 @@
+id:d93949f8-7759-4ee5-9f90-cb73f1cffe8a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OpenID AccountChooser Basic API Profile 1.0-map
+
+

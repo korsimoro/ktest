@@ -1,0 +1,8 @@
+id:02a92d0e-1508-4da4-8f39-760504c7b368
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO_IEC_Guide_71_2014(E)-map
+
+

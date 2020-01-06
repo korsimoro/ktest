@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Activity
+modified: 20200104143336337
+title: standards development
+tmap.edges: {"bc1b356e-bc64-4630-8bfb-db1ff81d6412":{"to":"c31836b3-6564-4676-a4a9-8d2f23fd23b6","type":"Activity"}}
+tmap.id: 6284e8a9-7673-4b48-b44a-b30141e415f1
+tw-icon: $:/images/fa5/solid/shower
+type: text/vnd.tiddlywiki

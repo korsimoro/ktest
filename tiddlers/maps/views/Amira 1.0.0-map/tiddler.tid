@@ -1,0 +1,8 @@
+id:58dfa52a-7024-42a0-9315-f4c2d7f61361
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Amira 1.0.0-map
+
+

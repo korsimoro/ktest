@@ -1,0 +1,8 @@
+id:6ff10183-42a2-4710-9af6-b83fdf59c26a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/38th IEEE Symposium on Security and Privacy-map
+
+

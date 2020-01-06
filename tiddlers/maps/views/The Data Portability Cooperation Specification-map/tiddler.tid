@@ -1,0 +1,8 @@
+id:84baba35-8dec-46ac-ad1e-a09026e315cc
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Data Portability Cooperation Specification-map
+
+

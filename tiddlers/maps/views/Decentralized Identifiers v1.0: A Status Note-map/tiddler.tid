@@ -1,0 +1,8 @@
+id:d20fe975-0bc1-48db-bce1-24c0af6a741b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Decentralized Identifiers v1.0: A Status Note-map
+
+

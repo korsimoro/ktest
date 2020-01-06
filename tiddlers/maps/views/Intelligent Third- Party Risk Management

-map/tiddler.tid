@@ -1,0 +1,10 @@
+id:ed386329-8dd1-4a25-a5da-21e3ffdc0133
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Intelligent Third- Party Risk Management
+
+-map
+
+

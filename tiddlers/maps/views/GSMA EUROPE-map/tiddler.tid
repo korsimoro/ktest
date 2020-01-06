@@ -1,0 +1,8 @@
+id:37ce38b1-be43-4ac2-bc1c-7d110a47c950
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/GSMA EUROPE-map
+
+

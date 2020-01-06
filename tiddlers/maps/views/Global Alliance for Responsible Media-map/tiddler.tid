@@ -1,0 +1,8 @@
+id:1ffad9cc-2506-49a7-ab06-f22430672d8d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Global Alliance for Responsible Media-map
+
+

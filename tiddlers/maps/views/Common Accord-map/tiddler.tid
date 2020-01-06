@@ -1,0 +1,8 @@
+id:3f801986-ae32-4a44-a71c-21cc78aafa64
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Common Accord-map
+
+

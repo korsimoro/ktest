@@ -1,0 +1,25 @@
+created:1578267625568
+modified:1578267625568
+title:Account Chooser
+type:text/vnd.tiddlywiki
+activities:
+category:[[specification work]]
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:Account Chooser
+parent.org:openid foundation
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"104452d9-5dc0-4f2a-878e-a7b8ebb46805":{"to":"340b6eca-2117-4117-9769-b828f64d754f","type":"organization-for-group"}}
+tmap.id:fae5a964-cbf8-4d16-8d34-1e3d0f039d89
+url:http://accountchooser.net
+
+Account Chooser is an industry effort to standardize that approach on both mobile and the desktop. It also provides a way for applications to start supporting identity providers to improve security without requiring a large user experience change. That security improvement is becoming more important as hackers become more sophisticated.

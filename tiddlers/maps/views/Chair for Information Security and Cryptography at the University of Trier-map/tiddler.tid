@@ -1,0 +1,8 @@
+id:35e6b886-5c85-44ef-8f3c-ce3e4161abfc
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Chair for Information Security and Cryptography at the University of Trier-map
+
+

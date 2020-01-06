@@ -1,0 +1,8 @@
+id:50a4168d-5e89-43bb-b8cc-d65650d625d1
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/epSOS-map
+
+

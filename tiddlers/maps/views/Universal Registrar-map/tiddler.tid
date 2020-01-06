@@ -1,0 +1,8 @@
+id:1f30fed4-b63c-4b85-b19b-56d62a584f2d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Universal Registrar-map
+
+

@@ -1,0 +1,8 @@
+id:1bbb3c5c-a2d4-400d-8ea8-ca466633019f
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on transparency (EN)-map
+
+

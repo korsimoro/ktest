@@ -1,0 +1,8 @@
+id:92fb38a3-de54-4302-8ce2-d2fc4b039429
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Community Work Items from the CCG-map
+
+

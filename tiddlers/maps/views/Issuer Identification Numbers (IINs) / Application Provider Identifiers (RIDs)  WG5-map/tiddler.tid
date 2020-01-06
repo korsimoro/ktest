@@ -1,0 +1,8 @@
+id:a630c7b4-aa3b-4f3a-8e0b-eb1c3be059fa
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Issuer Identification Numbers (IINs) / Application Provider Identifiers (RIDs)  WG5-map
+
+

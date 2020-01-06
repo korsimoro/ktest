@@ -1,0 +1,8 @@
+id:0ada8c6a-9cd1-4ef5-a804-23e970bb61e1
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/CBOR Object Signing and Encryption (COSE)-map
+
+

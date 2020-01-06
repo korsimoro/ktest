@@ -1,0 +1,8 @@
+id:20eed6c4-7d56-4e29-8963-483138d0ac7d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Rebooting the Web of Trust-map
+
+

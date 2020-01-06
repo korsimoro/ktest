@@ -1,0 +1,29 @@
+created:1578267625995
+modified:1578267625995
+title:Health Relationship Trust Profile for User Managed Access 1.0
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:Justin Richer
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:Health Relationship Trust Profile for User Managed Access 1.0
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:HEART Working Group
+tags:
+tech.focus:
+tmap.edges:{"76671d5d-9a40-4637-bb08-6ca47f3343db":{"to":"0f0884fd-4a25-470b-aa5b-281533da1a42","type":"specification-of-group"}}
+tmap.id:773f07b3-a5ce-42f8-92be-55924f3aa05b
+url:http://openid.bitbucket.org/heart/openid-heart-uma.html
+version.or.edition:
+volume.frequency:
+working.group:
+
+The User Managed Access protocol defines a method for an end user to introduce a resource to an authorization server, define a set of policies governing access to that resource, and for a requesting party to provide claims to fulfill those policies in order to gain access to the resource.
+
+This specification profiles the User Managed Access protocol to increase baseline security, provide greater interoperability, and structure deployments in a manner specifically applicable to (but not limited to) the healthcare domain.

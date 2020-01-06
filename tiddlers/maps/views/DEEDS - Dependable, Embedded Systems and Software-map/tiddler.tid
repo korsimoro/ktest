@@ -1,0 +1,8 @@
+id:a6f9c19b-5222-45bb-926c-4811aee4e0df
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/DEEDS - Dependable, Embedded Systems and Software-map
+
+

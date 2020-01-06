@@ -1,0 +1,8 @@
+id:c1ec8adc-a75e-48f9-ada7-843fda46c981
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Open your Italian VAT online-map
+
+

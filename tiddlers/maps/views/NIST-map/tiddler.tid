@@ -1,0 +1,8 @@
+id:0f0dc245-ed09-459d-988f-9fdd9f72c9a5
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/NIST-map
+
+

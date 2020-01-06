@@ -1,0 +1,8 @@
+id:dce1e411-facd-4f05-87b4-d1f3c3d469ba
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Technology’s Impact on Infrastructure is a Health Concern-map
+
+

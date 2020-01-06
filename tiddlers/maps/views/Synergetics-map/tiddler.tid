@@ -1,0 +1,8 @@
+id:3911fd26-a562-409e-ad11-3f28d3d4ce20
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Synergetics-map
+
+

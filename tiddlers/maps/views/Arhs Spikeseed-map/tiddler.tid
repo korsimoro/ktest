@@ -1,0 +1,8 @@
+id:c051a18a-6e73-4c4a-8c86-6c2807c88c64
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Arhs Spikeseed-map
+
+

@@ -1,0 +1,8 @@
+id:96178887-fc8d-41e6-8c5e-a4e3a6b7cfcd
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Questions about Google autocompl-map
+
+

@@ -1,0 +1,8 @@
+id:5d60ed22-99c0-4896-b4b8-f5fff9bbf15e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/preserve individual liberties-map
+
+

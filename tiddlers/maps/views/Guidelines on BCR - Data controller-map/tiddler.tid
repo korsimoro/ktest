@@ -1,0 +1,8 @@
+id:22cbce35-799a-4cf2-91be-871efb959b25
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on BCR - Data controller-map
+
+

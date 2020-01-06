@@ -1,0 +1,8 @@
+id:85ba0fde-a900-4dcb-bf83-62e45e080af5
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Privacy and the legal-social content of identity-map
+
+

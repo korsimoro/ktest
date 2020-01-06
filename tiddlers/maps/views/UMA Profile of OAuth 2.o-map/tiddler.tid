@@ -1,0 +1,8 @@
+id:d23f5b6e-829c-405c-9bb1-3daa3529db5e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/UMA Profile of OAuth 2.o-map
+
+

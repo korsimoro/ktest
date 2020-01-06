@@ -1,0 +1,8 @@
+id:28c19b1f-565f-4a91-a788-1b7deff0f519
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Next Generation Internet-map
+
+

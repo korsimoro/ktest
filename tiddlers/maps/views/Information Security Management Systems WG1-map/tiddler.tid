@@ -1,0 +1,8 @@
+id:f47f2f3a-aa61-43ff-bd71-ddc43bbf688e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Information Security Management Systems WG1-map
+
+

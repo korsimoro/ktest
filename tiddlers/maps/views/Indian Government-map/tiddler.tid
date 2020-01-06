@@ -1,0 +1,8 @@
+id:45bc5945-9ffd-4ad2-83d0-e65c889eed91
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Indian Government-map
+
+

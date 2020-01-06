@@ -1,0 +1,8 @@
+id:27064fd6-1a5d-4364-bd64-7852eca66e9d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OnlineCensorship.org-map
+
+

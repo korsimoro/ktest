@@ -1,0 +1,8 @@
+id:2d4d3303-bebd-4851-b66c-77e1c6ad356f
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Connect Smart-map
+
+

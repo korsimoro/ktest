@@ -1,0 +1,8 @@
+id:e9a5db2a-f803-4a1b-a514-f4c6d5477a02
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/VMWare-map
+
+

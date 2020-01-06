@@ -1,0 +1,8 @@
+id:c20d502c-2b23-4513-91f9-4f61fdd0b271
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO_Guide_78_2012(E)-map
+
+

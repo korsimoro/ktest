@@ -1,0 +1,8 @@
+id:f9fb46a6-8305-49d3-bf6e-35bf92404e4b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/EAP ACR Values-map
+
+

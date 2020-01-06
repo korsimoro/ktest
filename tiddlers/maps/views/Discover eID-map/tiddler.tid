@@ -1,0 +1,8 @@
+id:303caa94-87f6-4180-9227-d717210f4d96
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Discover eID-map
+
+

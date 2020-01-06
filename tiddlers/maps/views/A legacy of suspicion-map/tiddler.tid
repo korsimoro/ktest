@@ -1,0 +1,8 @@
+id:6ddaf6bb-5f71-499b-a230-3dc2affa1a09
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/A legacy of suspicion-map
+
+

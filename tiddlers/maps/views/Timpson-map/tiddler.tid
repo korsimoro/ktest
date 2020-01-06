@@ -1,0 +1,8 @@
+id:7d6d509b-1036-454f-a7ae-7b211cb2798b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Timpson-map
+
+

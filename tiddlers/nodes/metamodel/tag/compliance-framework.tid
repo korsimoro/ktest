@@ -1,0 +1,10 @@
+created: 15790426221809000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143335151
+title: compliance framework
+tmap.edges: {"5d498568-8e8e-4793-a849-318d597770b7":{"to":"77d80bde-71d5-4364-b347-1bd4c5517b81","type":"Tag"}}
+tmap.id: c009d794-6a8b-4a0d-9ab7-f7f3e3d43284
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

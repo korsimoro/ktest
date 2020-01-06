@@ -1,0 +1,8 @@
+id:b9d9280a-1849-47fc-9abc-3c327cc93a5b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Innovate UK-map
+
+

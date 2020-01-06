@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143335039
+title: curation
+tmap.edges: {"40635733-41a0-4ba0-a1d9-ff5854a63e3a":{"to":"70320ab8-e8c4-4f5b-ba95-fdf611e156b0","type":"Tag"}}
+tmap.id: 932aa6e9-b11b-48d1-809c-de376b5b853c
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

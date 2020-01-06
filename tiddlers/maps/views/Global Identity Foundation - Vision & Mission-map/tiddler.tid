@@ -1,0 +1,8 @@
+id:4f29aeaa-e6ad-4ff3-9d78-e6b81c3dc3d4
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Global Identity Foundation - Vision & Mission-map
+
+

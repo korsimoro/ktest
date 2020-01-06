@@ -1,0 +1,8 @@
+id:2f95d675-1540-4dfc-8e01-60ddc4c9c6ec
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Education Equality Needs More Than Bootstraps-map
+
+

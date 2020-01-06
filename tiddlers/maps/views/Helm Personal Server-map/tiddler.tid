@@ -1,0 +1,8 @@
+id:fe722e0d-b152-4084-931e-39cbc87da876
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Helm Personal Server-map
+
+

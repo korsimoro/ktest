@@ -1,0 +1,8 @@
+id:59f4b600-7fcb-43b0-bac4-d6e4c3afcc88
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/How do you deal with a problem like “fake news?”-map
+
+

@@ -1,0 +1,8 @@
+id:94e5d25e-9e97-4a16-93c2-5b46ac1ed1e9
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Cookie Clearinghouse-map
+
+

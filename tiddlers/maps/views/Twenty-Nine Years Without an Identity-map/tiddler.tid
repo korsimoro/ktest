@@ -1,0 +1,8 @@
+id:2fb5af5f-ca44-414b-9854-5481f5ecd804
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Twenty-Nine Years Without an Identity-map
+
+

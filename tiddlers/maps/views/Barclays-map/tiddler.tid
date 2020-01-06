@@ -1,0 +1,8 @@
+id:1d51b5e0-0ebb-49ff-9bec-24052c5f6ab9
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Barclays-map
+
+

@@ -1,0 +1,8 @@
+id:d79fc1b6-0971-4754-b7e0-9c48ef6fd222
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on Anonymisation Techniques-map
+
+

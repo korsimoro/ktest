@@ -1,0 +1,8 @@
+id:1db53ca9-f74a-40c3-b6c2-b407dedefe6e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The International Conference of Data Protection and Privacy Commissioners-map
+
+

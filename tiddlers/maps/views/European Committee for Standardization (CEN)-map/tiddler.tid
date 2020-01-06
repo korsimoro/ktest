@@ -1,0 +1,8 @@
+id:3b8aee97-5acd-4a30-90bd-377cfeb9454b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/European Committee for Standardization (CEN)-map
+
+

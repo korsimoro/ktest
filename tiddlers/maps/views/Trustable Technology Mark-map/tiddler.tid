@@ -1,0 +1,8 @@
+id:88ead12d-4ec5-4f1a-9901-22590754ae36
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Trustable Technology Mark-map
+
+

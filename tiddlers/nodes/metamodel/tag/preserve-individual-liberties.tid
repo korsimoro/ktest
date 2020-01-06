@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143336859
+title: preserve individual liberties
+tmap.edges: {"b6c4ea18-f120-437a-8953-2d0dc46e0234":{"to":"23c7bcec-ea97-47e5-bc75-98b52e100ac0","type":"Tag"}}
+tmap.id: 5750b7c0-82e9-4025-a5ff-c86c94ff3725
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

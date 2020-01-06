@@ -1,0 +1,8 @@
+id:72719a41-eaaa-4e4d-8fd5-7f30345ba935
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/M. Scurtescu-map
+
+

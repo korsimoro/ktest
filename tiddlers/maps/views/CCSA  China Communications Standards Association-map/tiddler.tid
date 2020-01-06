@@ -1,0 +1,8 @@
+id:bdfc0806-2b59-46dd-99d7-aa39ed9717c1
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/CCSA  China Communications Standards Association-map
+
+

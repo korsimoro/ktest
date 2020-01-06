@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143337281
+title: information technology
+tmap.edges: {"3d8a9a3c-7ed3-4a5a-9648-33cd53408174":{"to":"b1aedad7-1aca-4a17-84db-7cf0a884e3d0","type":"Tag"}}
+tmap.id: 96bf325a-13e4-46ea-b967-f97c901ad4bf
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

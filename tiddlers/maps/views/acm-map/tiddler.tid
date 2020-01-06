@@ -1,0 +1,8 @@
+id:20ab85a0-5aff-440f-abf6-3b56dd2f1370
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/acm-map
+
+

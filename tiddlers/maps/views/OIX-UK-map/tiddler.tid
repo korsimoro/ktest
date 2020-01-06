@@ -1,0 +1,8 @@
+id:adaf21ab-d30e-4e8e-b06f-98d5f7c4be2e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OIX-UK-map
+
+

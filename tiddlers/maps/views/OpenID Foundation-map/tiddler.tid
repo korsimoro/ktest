@@ -1,0 +1,8 @@
+id:64e1c9fd-8171-488c-81bf-740bc1102190
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OpenID Foundation-map
+
+

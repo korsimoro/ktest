@@ -1,0 +1,8 @@
+id:1eb2f8f9-dfc2-4ace-ba96-73d2dfb3ec8c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/2nd IEEE European Symposium on Security and Privacy-map
+
+

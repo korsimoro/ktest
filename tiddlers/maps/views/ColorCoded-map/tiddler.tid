@@ -1,0 +1,8 @@
+id:fa98fdd9-d750-4f9a-b1ab-bec229d564ea
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ColorCoded-map
+
+

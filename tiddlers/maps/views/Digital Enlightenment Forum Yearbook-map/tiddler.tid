@@ -1,0 +1,8 @@
+id:8cda9071-4b6d-424f-8798-8a9ec1316703
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Digital Enlightenment Forum Yearbook-map
+
+

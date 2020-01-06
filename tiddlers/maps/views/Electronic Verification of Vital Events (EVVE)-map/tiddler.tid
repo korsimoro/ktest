@@ -1,0 +1,8 @@
+id:aea6da1c-8a57-4425-9e27-bebffa2020fd
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Electronic Verification of Vital Events (EVVE)-map
+
+

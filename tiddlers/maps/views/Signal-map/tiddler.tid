@@ -1,0 +1,8 @@
+id:a8abe8ba-0884-439a-bc5f-54c0357c9ba8
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Signal-map
+
+

@@ -1,0 +1,8 @@
+id:b448ce12-7d31-4f3c-9905-edbff172b035
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/tech interoperabiltiy-map
+
+

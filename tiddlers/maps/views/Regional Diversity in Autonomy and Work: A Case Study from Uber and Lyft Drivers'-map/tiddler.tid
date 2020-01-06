@@ -1,0 +1,8 @@
+id:5eb4cdad-fa74-4b22-bd6f-0e60d5e128d8
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Regional Diversity in Autonomy and Work: A Case Study from Uber and Lyft Drivers'-map
+
+

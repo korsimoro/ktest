@@ -1,0 +1,8 @@
+id:37e3b635-c370-4849-9567-d61f1e5952ef
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/One Trust-map
+
+

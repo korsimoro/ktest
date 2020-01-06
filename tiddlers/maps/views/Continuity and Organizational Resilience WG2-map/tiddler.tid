@@ -1,0 +1,8 @@
+id:06d79a35-1b18-4291-a477-99ea6d85e9ec
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Continuity and Organizational Resilience WG2-map
+
+

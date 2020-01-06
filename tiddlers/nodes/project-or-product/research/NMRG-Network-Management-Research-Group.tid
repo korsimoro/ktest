@@ -1,0 +1,37 @@
+created:1578148362979
+modified:1578148362979
+title:NMRG Network Management Research Group
+type:text/vnd.tiddlywiki
+activities:
+audience:
+category:Research
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+license:
+me2b.participation:
+name:NMRG Network Management Research Group
+parent.org:
+partners:
+people:
+purpose:
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:
+terms.of.service:
+tmap.edges:{"742ca2e9-237e-498f-801c-060ed5bec1a0":{"to":"87c5f951-9b46-4865-923f-097259121c1e","type":"organization-for-group"}}
+tmap.id:9d534485-88c8-4028-a7b3-78569ad5dd91
+url:https://irtf.org/nmrg
+version.or.edition:
+working.group:
+
+The Network Management Research Group (NMRG) provides a forum for researchers to explore new technologies for the management of the Internet. In particular, the NMRG will work on solutions for problems that are not yet considered well understood enough for engineering work within the IETF.
+
+The initial focus of the NMRG will be on higher-layer management services that interface with the current Internet management framework. This includes communication services between management systems, which may belong to different management domains, as well as customer-oriented management services. The NMRG is expected to identify and document requirements, to survey possible approaches, to provide specifications for proposed solutions, and to prove concepts with prototype implementations that can be tested in large-scale real-world environments.
+
+The IETF Operations and Management Area Directors are members of the NMRG mailing list and invited to NMRG meetings in order to ensure free flow of information in both directions, and to avoid duplication of work with the various IETF working groups.
+
+The group will report its progress through a publicly accessible web site and presentations at IETF meetings. Specifications developed by the NMRG will be submitted for publication as Experimental or Informational RFCs.

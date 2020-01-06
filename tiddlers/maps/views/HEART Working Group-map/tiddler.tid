@@ -1,0 +1,8 @@
+id:93b14f71-31f9-4848-bd84-d3f29e95e0cf
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/HEART Working Group-map
+
+

@@ -1,0 +1,8 @@
+id:75a860f6-15ea-49c3-943d-77868b7f7a72
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Interoperability of Identities and Identity Management Systems-map
+
+

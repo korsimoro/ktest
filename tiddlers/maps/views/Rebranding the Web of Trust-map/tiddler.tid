@@ -1,0 +1,8 @@
+id:8a3e2f8e-cffa-4216-b64a-b75af63b9eab
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Rebranding the Web of Trust-map
+
+

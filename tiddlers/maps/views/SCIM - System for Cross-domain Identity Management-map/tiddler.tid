@@ -1,0 +1,8 @@
+id:cd8a4c8b-dd71-47f0-b021-0418f8ea27e6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/SCIM - System for Cross-domain Identity Management-map
+
+

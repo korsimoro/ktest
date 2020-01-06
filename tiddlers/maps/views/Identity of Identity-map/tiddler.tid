@@ -1,0 +1,8 @@
+id:f8adbc7d-b3e1-4181-9cdb-854f5c023fa0
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Identity of Identity-map
+
+

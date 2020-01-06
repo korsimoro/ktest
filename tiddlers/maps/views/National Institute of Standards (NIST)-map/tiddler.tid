@@ -1,0 +1,8 @@
+id:1ce46401-e8f0-4657-9dd7-86e98c1f530b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/National Institute of Standards (NIST)-map
+
+

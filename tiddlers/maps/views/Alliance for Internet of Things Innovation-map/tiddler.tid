@@ -1,0 +1,8 @@
+id:5579562c-0d28-4ff9-b0dd-d53fca9de811
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Alliance for Internet of Things Innovation-map
+
+

@@ -1,0 +1,8 @@
+id:bdf120f4-3d90-4cff-809a-d3f7ec374bee
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Trust::Data Consortium-map
+
+

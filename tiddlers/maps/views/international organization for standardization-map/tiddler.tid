@@ -1,0 +1,8 @@
+id:74e44e6f-2f6d-4cb5-8da1-d95602c0dffc
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/international organization for standardization-map
+
+

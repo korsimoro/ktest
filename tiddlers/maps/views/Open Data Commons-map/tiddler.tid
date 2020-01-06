@@ -1,0 +1,8 @@
+id:8deb8092-ea53-4a0f-b281-2d176e9394ff
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Open Data Commons-map
+
+

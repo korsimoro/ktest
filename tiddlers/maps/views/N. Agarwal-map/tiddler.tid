@@ -1,0 +1,8 @@
+id:455924f6-07ab-4b92-8521-013ffeb0524d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/N. Agarwal-map
+
+

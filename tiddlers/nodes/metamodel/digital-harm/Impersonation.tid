@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Digital Harm
+modified: 20200104143333825
+title: impersonation
+tmap.edges: {"7763c561-3905-4aa6-bb7f-dda3772362cf":{"to":"7b128583-8247-4d5a-bfaa-fb191ca903a2","type":"Digital Harm"}}
+tmap.id: 23a93c65-8478-4108-b1d6-5f81788efc96
+tw-icon: $:/images/fa5/solid/snowflake
+type: text/vnd.tiddlywiki

@@ -1,0 +1,8 @@
+id:d20a2782-681c-480c-9c22-4ecc2b27cb24
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Information Fiduciary Consortium: A United Front-map
+
+

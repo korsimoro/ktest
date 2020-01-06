@@ -1,0 +1,8 @@
+id:7e80d539-ff81-442d-ae91-96d8437e7363
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Global Standards Collaboration-map
+
+

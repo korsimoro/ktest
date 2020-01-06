@@ -1,0 +1,8 @@
+id:53e2c11b-1b51-4116-a1bb-0dc7ef11f92e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Avoco-map
+
+

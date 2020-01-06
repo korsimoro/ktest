@@ -1,0 +1,8 @@
+id:81c646b8-6f2b-4d37-b6b7-96070d6a2c17
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Data & Society Research-map
+
+

@@ -1,0 +1,8 @@
+id:025b314a-e02a-4f1f-b213-f8b93dcbf7a2
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Phil Hunt-map
+
+

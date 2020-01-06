@@ -1,0 +1,8 @@
+id:7ebe1842-2e3a-4a1d-aae8-d0f02574cd66
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/IAPP (International Association of Privacy Professionals)-map
+
+

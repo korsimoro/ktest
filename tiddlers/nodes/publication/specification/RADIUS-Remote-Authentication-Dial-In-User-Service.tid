@@ -1,0 +1,30 @@
+created:1578267626007
+modified:1578267626007
+title:RADIUS - Remote Authentication Dial In User Service
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:RADIUS - Remote Authentication Dial In User Service
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:
+tags:
+tech.focus:
+tmap.edges:{"3acdc5d5-2d8d-403b-973e-cb64d7771487":{"to":"a54120ba-8e8f-4bdb-bb72-a22142cdff83","type":"organization-for-group"}}
+tmap.id:6250246e-90bc-47f9-ba8c-cad99b7d3761
+url:https://tools.ietf.org/html/rfc2865
+version.or.edition:
+volume.frequency:
+working.group:
+
+This document describes a protocol for carrying authentication,
+   authorization, and configuration information between a Network Access
+   Server which desires to authenticate its links and a shared
+   Authentication Server.

@@ -1,0 +1,8 @@
+id:56ee663b-cb5c-4a6e-98ce-e0800ec98d25
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites-map
+
+

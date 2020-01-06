@@ -1,0 +1,8 @@
+id:a140f248-a8d2-4259-b546-96cca58b1018
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Data & Civil Rights: Education Primer-map
+
+

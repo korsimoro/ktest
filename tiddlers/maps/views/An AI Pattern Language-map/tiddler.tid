@@ -1,0 +1,8 @@
+id:f9fc24b6-0a4f-4028-b4ca-0ff28c830ac1
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/An AI Pattern Language-map
+
+

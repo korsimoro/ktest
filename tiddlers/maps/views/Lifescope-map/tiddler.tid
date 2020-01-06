@@ -1,0 +1,8 @@
+id:35e0d2f9-c846-4330-9226-7d744f92ab4b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Lifescope-map
+
+

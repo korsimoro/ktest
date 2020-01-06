@@ -1,0 +1,8 @@
+id:9a086e76-65c8-422a-8190-4e94cda49778
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/J.M Bond & Partners-map
+
+

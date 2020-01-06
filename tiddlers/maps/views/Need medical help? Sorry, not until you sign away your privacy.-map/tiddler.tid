@@ -1,0 +1,8 @@
+id:b3ab0ce7-374a-4326-ada4-7140ec9ae1b4
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Need medical help? Sorry, not until you sign away your privacy.-map
+
+

@@ -1,0 +1,8 @@
+id:363a074a-e24e-4a0f-a3f5-e3cbea01f8eb
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ABAC Attribute Based Access Control-map
+
+

@@ -1,0 +1,8 @@
+id:582e72b0-259d-425b-a5e6-0db288414b67
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)-map
+
+

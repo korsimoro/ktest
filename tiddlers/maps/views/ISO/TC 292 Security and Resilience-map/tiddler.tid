@@ -1,0 +1,8 @@
+id:73868e5e-9bc9-4de0-ad27-54a661a71efb
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO/TC 292 Security and Resilience-map
+
+

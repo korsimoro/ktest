@@ -1,0 +1,8 @@
+id:15ccfcd6-b82f-4abf-a6dc-d52654850a69
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Economics of Personal Data and the Economics of Privacy-map
+
+

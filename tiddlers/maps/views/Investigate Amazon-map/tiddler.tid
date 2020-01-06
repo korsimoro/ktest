@@ -1,0 +1,8 @@
+id:55408888-4361-4dd7-8f20-4b936ddc9fae
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Investigate Amazon-map
+
+

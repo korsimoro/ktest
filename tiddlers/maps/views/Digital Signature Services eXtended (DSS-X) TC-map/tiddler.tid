@@ -1,0 +1,8 @@
+id:702bc258-60f7-4a78-8665-b51b9ed69a59
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Digital Signature Services eXtended (DSS-X) TC-map
+
+

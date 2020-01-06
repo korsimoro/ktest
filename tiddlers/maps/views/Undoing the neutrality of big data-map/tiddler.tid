@@ -1,0 +1,8 @@
+id:9de80288-be6c-49c0-8459-a24a26dfac5d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Undoing the neutrality of big data-map
+
+

@@ -1,0 +1,8 @@
+id:40535c0f-8591-4e1c-b8b6-f552545dc3a9
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/SAML - Security Assertion Markup Language-map
+
+

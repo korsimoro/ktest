@@ -1,0 +1,8 @@
+id:a5b20062-900a-42c3-b4f0-1072b0a73996
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/There’s an App for Wrecking Nannies’ Lives-map
+
+

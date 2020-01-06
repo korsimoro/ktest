@@ -1,0 +1,8 @@
+id:162818bf-73ed-4e7b-9295-37551155edf3
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Web Payments Working Group-map
+
+

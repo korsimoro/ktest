@@ -1,0 +1,8 @@
+id:ba827d56-5d9e-4d11-9812-a5a4ac78cb35
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Why America is Self-Segregating-map
+
+

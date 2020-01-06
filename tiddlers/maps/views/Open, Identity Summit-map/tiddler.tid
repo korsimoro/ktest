@@ -1,0 +1,8 @@
+id:b2e0e1c0-606f-485b-a1d7-00b491222e10
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Open, Identity Summit-map
+
+

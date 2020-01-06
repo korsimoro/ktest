@@ -1,0 +1,8 @@
+id:31609f59-b47b-4fce-a6e6-843941c7cadd
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Rebecka Gulliksson-map
+
+

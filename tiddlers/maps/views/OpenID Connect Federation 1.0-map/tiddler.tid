@@ -1,0 +1,8 @@
+id:c0874699-1079-41be-b5eb-fd0af56fa321
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OpenID Connect Federation 1.0-map
+
+

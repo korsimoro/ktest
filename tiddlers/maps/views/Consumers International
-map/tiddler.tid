@@ -1,0 +1,9 @@
+id:370a6d98-c958-44af-9c67-8b6ad9b8ee5a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Consumers International
+-map
+
+

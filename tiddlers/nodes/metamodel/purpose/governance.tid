@@ -1,0 +1,10 @@
+created: 15790426221807000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Purpose
+modified: 20200104143334147
+title: governance
+tmap.edges: {"c948cb6a-976e-4127-a882-b559938dc418":{"to":"265c37e5-3824-46a4-b938-7ff57be451de","type":"Purpose"},"e351b3d7-d39f-42cb-9e8a-9b7a06156c28":{"to":"70320ab8-e8c4-4f5b-ba95-fdf611e156b0","type":"Purpose"},"0ad62544-0921-4ef5-a1b9-67efb696bcac":{"to":"83b0f45d-b4d1-46db-a9e2-4b36a00f2a91","type":"Purpose"},"1476f6dc-bccb-4a1d-88b2-1c2d7c93488d":{"to":"7b128583-8247-4d5a-bfaa-fb191ca903a2","type":"Purpose"},"fbab78cc-c294-4af9-890e-61cbeb5fce3b":{"to":"d3102ca3-494f-4dfb-9e94-8eb0e01ac55f","type":"Purpose"},"f3d37576-7212-4064-a9d7-e23590118aca":{"to":"236bea95-f4f1-4e3e-9660-d7d0d9052b15","type":"Purpose"},"2db38e77-f955-4fb9-95ec-f5fc4c3a493f":{"to":"c1d78cf0-bb3f-4108-b9b8-295802219f35","type":"Purpose"},"e5144939-2445-4f51-91ed-b3eb0d240311":{"to":"c31836b3-6564-4676-a4a9-8d2f23fd23b6","type":"Purpose"}}
+tmap.id: f7d8d005-0b31-4718-bbed-58ad6fe86319
+tw-icon: $:/images/fa5/solid/shuttle-van
+type: text/vnd.tiddlywiki

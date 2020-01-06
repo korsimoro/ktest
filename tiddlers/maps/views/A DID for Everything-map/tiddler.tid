@@ -1,0 +1,8 @@
+id:04aeb2b7-8dca-4ca9-9a28-fc33a1042fda
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/A DID for Everything-map
+
+

@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tech Focus
+modified: 20200104143335278
+title: Blockchain
+tmap.edges: {"45cc2233-91fc-499b-be01-75b4f6962d11":{"to":"d3102ca3-494f-4dfb-9e94-8eb0e01ac55f","type":"Tech Focus"}}
+tmap.id: 2b6cb2f1-9ee5-43b5-868b-a3ce2e6ca79d
+tw-icon: $:/images/fa5/solid/fire-extinguisher
+type: text/vnd.tiddlywiki

@@ -1,0 +1,8 @@
+id:81c9e039-3453-4eee-b45d-cba44197f833
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Native Applications Working Group-map
+
+

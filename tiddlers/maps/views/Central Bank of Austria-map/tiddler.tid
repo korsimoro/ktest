@@ -1,0 +1,8 @@
+id:768c4d04-4bbc-4e98-914d-31fc4fa6c72b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Central Bank of Austria-map
+
+

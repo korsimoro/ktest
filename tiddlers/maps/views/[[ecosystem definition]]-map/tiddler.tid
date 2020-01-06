@@ -1,0 +1,8 @@
+id:916859b1-3339-4937-babe-5ff4a9168cd0
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/[[ecosystem definition]]-map
+
+

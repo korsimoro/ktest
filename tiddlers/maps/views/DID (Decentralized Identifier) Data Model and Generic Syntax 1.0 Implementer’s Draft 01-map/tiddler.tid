@@ -1,0 +1,8 @@
+id:43263811-d9a8-4d44-9c13-4741b544c6c6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/DID (Decentralized Identifier) Data Model and Generic Syntax 1.0 Implementer’s Draft 01-map
+
+

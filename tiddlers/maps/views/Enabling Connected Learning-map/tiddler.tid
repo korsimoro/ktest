@@ -1,0 +1,8 @@
+id:2610ec81-8991-4514-a3e9-3dc8b25f2478
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Enabling Connected Learning-map
+
+

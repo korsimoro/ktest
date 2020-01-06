@@ -1,0 +1,8 @@
+id:b59bb288-6a3a-418b-8f3f-84dac2ff4bde
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/B. de Medeiros-map
+
+

@@ -1,0 +1,8 @@
+id:0ba22295-359a-40a4-b6f2-87644a2c0539
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/eBorders-map
+
+

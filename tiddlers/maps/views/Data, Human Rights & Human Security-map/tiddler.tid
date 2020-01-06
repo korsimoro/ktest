@@ -1,0 +1,8 @@
+id:a944b2b1-63c8-47c0-9654-46f4952b6872
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Data, Human Rights & Human Security-map
+
+

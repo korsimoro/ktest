@@ -1,0 +1,8 @@
+id:c6b10280-3836-4fda-b152-d9634a6cc4aa
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Security Pledge-map
+
+

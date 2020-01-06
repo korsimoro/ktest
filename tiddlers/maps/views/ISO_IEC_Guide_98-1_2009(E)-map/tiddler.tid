@@ -1,0 +1,8 @@
+id:dd52d422-8da6-4a07-a2b4-e07d5248ebf1
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO_IEC_Guide_98-1_2009(E)-map
+
+

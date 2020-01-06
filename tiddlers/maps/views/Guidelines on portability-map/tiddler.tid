@@ -1,0 +1,8 @@
+id:e632829a-e8ea-4f14-af96-3fadcc4c011b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on portability-map
+
+

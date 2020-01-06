@@ -1,0 +1,8 @@
+id:0dc23621-8d10-4cef-b3b8-e43ddb474351
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Horizon 2020-map
+
+

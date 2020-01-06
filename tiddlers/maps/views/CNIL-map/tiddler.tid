@@ -1,0 +1,8 @@
+id:fd00f97e-7ed8-4d0a-bea2-ca024a76d3bb
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/CNIL-map
+
+

@@ -1,0 +1,39 @@
+created:1578148369715
+modified:1578148369715
+title:The Usable Privacy Policy Project
+type:text/vnd.tiddlywiki
+activities:
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:National Science Foundation under its Secure and Trustworthy Computing initiative (CNS-1330596)
+github.profile:
+input.source:me2b
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
+org.name:The Usable Privacy Policy Project
+org.type:to-be-determined
+parent.org:
+partners:Carnegie Mellon University: Fordham University: Stanford University: Center for Internet and Society: University of Cincinnati: Penn State: Columbia University: University of Michigan
+products.and.or.services:
+purpose:
+relevant.publications:
+scope:
+sector:
+status:
+tags:
+tech.focus:
+tmap.edges:{"c2c88500-eab6-4d85-af4e-21074bb460fa":{"to":"b08191ed-7a2a-4bcd-af02-0348c3ea107d","type":"Organization Supports Project or Product"}}
+tmap.id:cae9e4ee-bb38-4558-b984-3867d3264d69
+twitter.profile:
+website:https://usableprivacy.org/
+
+The Usable Privacy Policy Project
+Towards Effective Web Privacy Notice and Choice
+
+Natural language privacy policies have become a de facto standard to address expectations of “notice and choice” on the Web. Yet, there is ample evidence that users generally do not read these policies and that those who occasionally do struggle to understand what they read. Initiatives aimed at addressing this problem through the development of machine implementable standards or other solutions that require website operators to adhere to more stringent requirements have run into obstacles, with many website operators showing reluctance to commit to anything more than what they currently do.

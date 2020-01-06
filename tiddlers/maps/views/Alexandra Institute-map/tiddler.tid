@@ -1,0 +1,8 @@
+id:b10f7192-fcd0-40ec-b2a9-9c773ede5b4d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Alexandra Institute-map
+
+

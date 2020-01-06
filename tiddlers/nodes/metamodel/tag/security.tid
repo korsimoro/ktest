@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143336581
+title: security
+tmap.edges: {"2ac81297-5ba5-4677-ab18-6041a9e253ea":{"to":"f4b218bb-1da0-4d3d-b992-43ec7fe240c3","type":"Tag"},"21611c16-6495-4382-b0ef-f92f9f4a92b4":{"to":"fb75b089-2c62-4af4-8b1f-cdb285fc22cf","type":"Tag"}}
+tmap.id: 0edde8df-07df-4815-a043-0a2f231acbee
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

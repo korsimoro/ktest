@@ -1,0 +1,8 @@
+id:a7a33e53-dc5c-4d94-a461-0f65a1e8304c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Hacking the Attention Economy-map
+
+

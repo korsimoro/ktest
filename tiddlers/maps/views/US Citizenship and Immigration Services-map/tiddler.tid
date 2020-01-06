@@ -1,0 +1,8 @@
+id:d625d010-ff30-4cf6-afc7-f7cf1ad31226
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/US Citizenship and Immigration Services-map
+
+

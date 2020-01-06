@@ -1,0 +1,8 @@
+id:d45d0b92-ab66-432a-9e18-7e3d5b5a96b9
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Equifax-map
+
+

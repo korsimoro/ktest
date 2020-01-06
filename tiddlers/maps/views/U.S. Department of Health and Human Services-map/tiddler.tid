@@ -1,0 +1,8 @@
+id:3ff46da8-1288-44c8-b97e-e92cba93a02a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/U.S. Department of Health and Human Services-map
+
+

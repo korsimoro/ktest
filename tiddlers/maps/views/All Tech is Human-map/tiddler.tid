@@ -1,0 +1,8 @@
+id:085cf209-fabc-445f-92b1-6a4b9b043c5d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/All Tech is Human-map
+
+

@@ -1,0 +1,8 @@
+id:b9bb3253-cf85-426e-ab17-68ff9c11876b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Cryptas-map
+
+

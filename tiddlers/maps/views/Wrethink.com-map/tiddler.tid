@@ -1,0 +1,8 @@
+id:ea88c246-a7f1-4648-a56e-8ffbd1f9b07d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Wrethink.com-map
+
+

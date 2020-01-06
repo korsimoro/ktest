@@ -1,0 +1,10 @@
+created: 15790426221807000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143337017
+title: open processes
+tmap.edges: {"c4988c9b-7969-469a-8979-da728b76f99d":{"to":"c0e999c3-f545-4bae-af82-60a452cf8196","type":"Tag"}}
+tmap.id: 25137f72-42c7-45d2-a359-c52fa47fcdd0
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

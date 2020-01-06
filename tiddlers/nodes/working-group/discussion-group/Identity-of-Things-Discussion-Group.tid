@@ -1,0 +1,32 @@
+created:1578267629813
+modified:1578267629813
+title:Identity of Things Discussion Group
+type:text/vnd.tiddlywiki
+activities:
+category:[[discussion group]]
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:Identity of Things Discussion Group
+parent.org:
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"6584d2f4-302f-4df3-89b5-8a64040f3817":{"to":"a22de904-db63-43c6-867f-b7e06d59f0bf","type":"organization-for-group"}}
+tmap.id:6fe2494d-725d-4ee9-9a72-0ca4f419d291
+url:https://kantarainitiative.org/confluence/display/idot/home
+
+Object IdM addresses the handling of identities of things (IDoT), goods and objects. The Internet of Things (IoT) is beginning to evolve and early solutions are now being implemented. In the context of IoT, some Object Identities are managed with proprietary solutions or niche standards that have not been mapped to each other nor interoperate. As a consequence, there is no overall framework how to recognize and manage identities across different solutions.
+The purpose of the Identities of Things DG is to start the evolution of an overarching Identity Framework for the IoT.  
+The discussion group intends to deliver the following:
+* Deliver “Landscape document” / State-of-the-art analysis of the current Object IdM approaches
+* Describe the Object IdM problem with exemplary use-cases
+* Submit article proposal to IEEE about identities in the internet of things
+* Prepare the foundation for a working group to develop an Object IdM 
+* Framework for the IDoT, in support of IoT broader landscape.

@@ -1,0 +1,8 @@
+id:48b0b331-72fe-44c6-a99d-2a544c9f3d6e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Coelition-map
+
+

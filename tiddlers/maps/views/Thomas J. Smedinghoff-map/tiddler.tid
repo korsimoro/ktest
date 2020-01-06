@@ -1,0 +1,8 @@
+id:346400af-ede6-4013-a363-0dfb7bb1296d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Thomas J. Smedinghoff-map
+
+

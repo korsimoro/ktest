@@ -1,0 +1,8 @@
+id:70b67604-e4c3-43e9-b3b2-e6b7e86fa5a4
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/B Corp Certification-map
+
+

@@ -1,0 +1,8 @@
+id:5074e2d0-5bf6-46ef-b0b5-09e328e094c6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Considerations for Web Protocols-map
+
+

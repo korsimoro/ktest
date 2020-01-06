@@ -1,0 +1,8 @@
+id:65c28eff-3439-4aa3-a102-e8439bc1d650
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Metamatrix AB-map
+
+

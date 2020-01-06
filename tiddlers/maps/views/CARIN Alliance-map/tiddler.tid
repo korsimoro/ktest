@@ -1,0 +1,8 @@
+id:e0a2fc9e-e7f3-4cc1-a2b5-4dd8eb38de54
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/CARIN Alliance-map
+
+

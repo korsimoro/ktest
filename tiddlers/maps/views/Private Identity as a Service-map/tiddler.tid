@@ -1,0 +1,8 @@
+id:e5ccc0e9-1b6f-47d3-ae19-a2066134fe7b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Private Identity as a Service-map
+
+

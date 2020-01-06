@@ -1,0 +1,8 @@
+id:38270786-d6fa-4107-aca6-f11453d7162b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Phones, but No Papers-map
+
+

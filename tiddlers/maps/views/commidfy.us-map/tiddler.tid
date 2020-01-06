@@ -1,0 +1,8 @@
+id:96807b0b-273c-4807-94c4-60cdab42a1eb
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/commidfy.us-map
+
+

@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Activity
+modified: 20200104143334717
+title: events and convening
+tmap.edges: {"5c72df55-7348-4e11-bc17-b35b70a1a30e":{"to":"70bb227b-f85c-441c-847e-861c344f7983","type":"Activity"},"e4accd9b-a326-4b35-a82c-362fcafda476":{"to":"caa0c4e0-2467-450c-8d3c-1c8232516e42","type":"Activity"},"530be365-59fb-4220-8b23-2a6f6746cdc9":{"to":"7790ff78-07be-42d3-a12f-6fff5bf60400","type":"Activity"},"91c52dde-1409-423e-9ec2-909551e92566":{"to":"fb75b089-2c62-4af4-8b1f-cdb285fc22cf","type":"Activity"},"5a325bfa-a766-4854-89cb-e5dc7cb20368":{"to":"37ddc55d-2136-4cf8-9eff-fe4ad05ac8c7","type":"Activity"},"0f929129-4443-42ef-ac0a-c26a144dec5f":{"to":"6c3d300e-36f4-4a01-acdf-a914acc2f005","type":"Activity"},"dc58dd3d-2cbf-4a30-a447-e0c810ca117d":{"to":"4d48894a-069f-4915-9517-6a95eff1713a","type":"Activity"},"3a1c710f-d599-4480-9ec4-ea374663f134":{"to":"9f03995e-d898-4557-9a63-f76af461dab3","type":"Activity"}}
+tmap.id: 2200e22b-2034-4847-a339-cfd0e26e0e94
+tw-icon: $:/images/fa5/solid/shower
+type: text/vnd.tiddlywiki

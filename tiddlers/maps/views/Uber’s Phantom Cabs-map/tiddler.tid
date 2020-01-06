@@ -1,0 +1,8 @@
+id:5b7376c3-6e5b-4a98-8acd-10a2e260536f
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Uber’s Phantom Cabs-map
+
+

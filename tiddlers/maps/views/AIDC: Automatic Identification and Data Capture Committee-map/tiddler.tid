@@ -1,0 +1,8 @@
+id:a2618c13-7c7f-46b0-8fa8-4163c6e4ea9b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/AIDC: Automatic Identification and Data Capture Committee-map
+
+

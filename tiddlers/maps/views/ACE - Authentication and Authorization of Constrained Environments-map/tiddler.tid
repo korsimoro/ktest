@@ -1,0 +1,8 @@
+id:4f4fad0f-105a-4357-904d-7de161987e5d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ACE - Authentication and Authorization of Constrained Environments-map
+
+

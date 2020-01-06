@@ -1,0 +1,8 @@
+id:f31b3e2b-ac4e-4266-8087-f6a58f6ee265
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Accountability: Calling Education to A Count-map
+
+

@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143335435
+title: and trusted iot ecosystem
+tmap.edges: {"0d59828e-13ba-4127-aff7-8c90b03d47e4":{"to":"7b128583-8247-4d5a-bfaa-fb191ca903a2","type":"Tag"}}
+tmap.id: fc21ff6a-14b8-40e9-a538-9897fd27a23f
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

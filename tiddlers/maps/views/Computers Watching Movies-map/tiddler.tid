@@ -1,0 +1,8 @@
+id:2abb101d-b454-4be7-b449-c0c8910d649b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Computers Watching Movies-map
+
+

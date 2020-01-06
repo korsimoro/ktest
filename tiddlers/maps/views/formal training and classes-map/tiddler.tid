@@ -1,0 +1,8 @@
+id:ab6449d2-cef8-4a9f-a843-7bf876898c88
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/formal training and classes-map
+
+

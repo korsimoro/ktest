@@ -1,0 +1,8 @@
+id:53dac86e-b664-4fa4-beb9-7dd567a74236
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/W3C-map
+
+

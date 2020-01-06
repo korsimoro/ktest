@@ -1,0 +1,8 @@
+id:a1fe53f5-06c9-4213-83f4-3571b02f1796
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Web of Things Community Group-map
+
+

@@ -1,0 +1,8 @@
+id:cd067580-2570-4bd1-abc9-b07f98843ad7
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ATAM ID-map
+
+

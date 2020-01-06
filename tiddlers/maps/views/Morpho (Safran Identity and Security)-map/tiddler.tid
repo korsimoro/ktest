@@ -1,0 +1,8 @@
+id:5b182f5f-2d6d-4daa-9f7d-f7b9cc86d1d2
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Morpho (Safran Identity and Security)-map
+
+

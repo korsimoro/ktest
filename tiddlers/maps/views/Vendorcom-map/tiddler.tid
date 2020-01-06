@@ -1,0 +1,8 @@
+id:7ffe0ba0-9229-46c2-b5ee-c78a2b09b38b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Vendorcom-map
+
+

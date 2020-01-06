@@ -1,0 +1,8 @@
+id:5690228f-4c22-4879-afc1-9ae57811fd6f
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Challenges in Automated Question Answering for Privacy Policies-map
+
+

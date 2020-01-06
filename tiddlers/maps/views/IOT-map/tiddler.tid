@@ -1,0 +1,8 @@
+id:9cd59957-0e9c-4c1d-a060-3d192b5addc6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/IOT-map
+
+

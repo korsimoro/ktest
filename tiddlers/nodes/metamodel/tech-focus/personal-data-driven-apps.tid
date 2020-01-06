@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tech Focus
+modified: 20200104143336949
+title: personal data driven apps
+tmap.edges: {"cf97edb6-6562-4e63-a212-fa68ed9aaa20":{"to":"15022b2b-22bf-462e-9271-1e3c7d7c2f48","type":"Tech Focus"}}
+tmap.id: b33c86c5-20b4-4a3c-965f-ae0bdb2b9a26
+tw-icon: $:/images/fa5/solid/fire-extinguisher
+type: text/vnd.tiddlywiki

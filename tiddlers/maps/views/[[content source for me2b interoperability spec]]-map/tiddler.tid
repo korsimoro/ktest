@@ -1,0 +1,8 @@
+id:a741f57c-dacb-426c-b99a-4ff8cf3bd0ca
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/[[content source for me2b interoperability spec]]-map
+
+

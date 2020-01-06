@@ -1,0 +1,8 @@
+id:dabc8d27-13ea-4714-ab70-97e79c69c4d2
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/IoT Trust Framework-map
+
+

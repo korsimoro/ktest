@@ -1,0 +1,8 @@
+id:f13f35cc-5ca1-430e-9289-ac97abd64b83
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Standard on data protection governance-map
+
+

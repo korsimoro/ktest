@@ -1,0 +1,8 @@
+id:e602b608-e6bd-4942-9b3d-7aa6f13b4d4d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Consent Receipt Specification-map
+
+

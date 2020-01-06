@@ -1,0 +1,8 @@
+id:4907bda3-3f00-4a18-b543-45a7e8379f21
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Gemalto-map
+
+

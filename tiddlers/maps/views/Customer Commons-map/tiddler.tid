@@ -1,0 +1,8 @@
+id:17cea295-1d1d-436e-af75-c8765fc268fd
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Customer Commons-map
+
+

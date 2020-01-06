@@ -1,0 +1,10 @@
+created: 15790426221806000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Purpose
+modified: 20200104143334814
+title: education
+tmap.edges: {"45ee64ce-30e3-40b5-bc46-f4aa37799dcc":{"to":"4b1643fe-67fe-4cb0-bcf1-623a1f63138f","type":"Purpose"},"b32c4bc3-cc03-49c1-9047-ee9a1f8c9a0e":{"to":"440538b0-83c4-488a-8abb-8d0abaf0f064","type":"Purpose"},"258c6008-96f6-44a9-9023-3838fe9fe373":{"to":"c3612a99-d420-4ded-9cf9-8ef014574e39","type":"Purpose"},"40bc9805-aa00-4650-a6ba-d10036d39443":{"to":"ad3180b5-2747-47fa-b648-7db9e2fa23c2","type":"Purpose"},"c10a7ea5-3e45-404d-b323-918098fc699b":{"to":"70bb227b-f85c-441c-847e-861c344f7983","type":"Purpose"},"8108616f-b0ea-41d9-a77b-21e5b0e12194":{"to":"70320ab8-e8c4-4f5b-ba95-fdf611e156b0","type":"Purpose"},"6c3416b0-9d48-48cd-b455-d8ca1842e9f1":{"to":"2c412362-02db-4d2d-a1ce-d791833d121e","type":"Purpose"},"0f1d47f6-e813-422d-b7f4-017ee94fe218":{"to":"10c70551-7e4f-457a-9338-d00ce96e4f66","type":"Purpose"},"d5ad2b3c-2d66-40c0-bb23-2a60948349e5":{"to":"47dbc7d9-2dd3-4b65-aa20-c40b78dcda24","type":"Purpose"},"56aae3aa-8107-4c05-b0ea-5877ad2fdf32":{"to":"d72b06a9-03f0-4059-adf4-39ce706c9bb9","type":"Purpose"},"b08983d8-2975-4754-a6f7-ce87c7a78a60":{"to":"6c3d300e-36f4-4a01-acdf-a914acc2f005","type":"Purpose"},"4936ff1a-17f5-47b0-afed-6b48f5e50e04":{"to":"0f05232d-0c4a-4e0d-879b-553576d95ce7","type":"Purpose"},"b5eb051d-de72-4ffc-91b9-58a823cdaffa":{"to":"24f540b3-02ad-4ecc-9f1f-72fc98c1056c","type":"Activity"}}
+tmap.id: 272a63c6-aba1-41a6-88db-f1b220a8a4cc
+tw-icon: $:/images/fa5/solid/shuttle-van
+type: text/vnd.tiddlywiki

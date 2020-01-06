@@ -1,0 +1,8 @@
+id:f7c21c23-8ff9-4ddb-89d8-583db1190fd3
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Decentralized Public Key Infrastructure-map
+
+

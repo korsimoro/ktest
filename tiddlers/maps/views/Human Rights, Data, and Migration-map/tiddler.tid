@@ -1,0 +1,8 @@
+id:5a01f482-d733-4fda-b727-bc27b26242df
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Human Rights, Data, and Migration-map
+
+

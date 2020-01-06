@@ -1,0 +1,33 @@
+created:1578267626170
+modified:1578267626170
+title:MODRNA Authentication Profile
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:J. Connotte;John Bradley
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:MODRNA Authentication Profile
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:MONDRNA
+tags:
+tech.focus:
+tmap.edges:{"f1b46e4c-1329-499a-b7d7-478136b9c2fb":{"to":"ae70aec4-8ee0-4b58-ac65-6af1ee7ab3c1","type":"specification-of-group"}}
+tmap.id:f2319e1d-3a0a-4b63-8afe-8539fdf661ab
+url:https://bitbucket.org/openid/mobile/raw/default/draft-mobile-authentication-01.txt
+version.or.edition:
+volume.frequency:
+working.group:
+
+RPs are keen to use high quality authentication methods, which can be provided by Mobile Network Operators (MNO).  However a RP must be able to describe its demands for an authentication request and it must be able to do this in an interoperable way.
+
+The MODRNA Authentication Profile will specify how RP's request a certain level of assurance for the authentication.
+
+In addition, the profile will specify an encrypted login hint token to allow for the transport of user identifiers to the OP in a privacy preserving fashion.
+
+Lastly, the profile will specify an additional message parameter intended to serve as an interlock between the user's consumption device and authentication device.

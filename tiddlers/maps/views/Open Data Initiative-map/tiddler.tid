@@ -1,0 +1,8 @@
+id:59e552c3-82e4-493f-8c05-90b720c5ea89
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Open Data Initiative-map
+
+

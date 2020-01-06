@@ -1,0 +1,8 @@
+id:67637457-8b84-4a2b-8be3-111784015157
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Digital Footprint Videos-map
+
+

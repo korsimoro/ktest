@@ -1,0 +1,8 @@
+id:abf7d2d8-5fca-4c71-abf5-d4aeccb913fa
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Student Data & Equity News Round-Up-map
+
+

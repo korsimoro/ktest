@@ -1,0 +1,8 @@
+id:cbe17b3e-2377-46de-855c-d4eb9115cd2d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Identity Crisis: Clear Identity through Correlation-map
+
+

@@ -1,0 +1,8 @@
+id:97c635df-3e0a-4e43-8a65-218c578aa7aa
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/For Refugees, a Digital Passage to Europe-map
+
+

@@ -1,0 +1,8 @@
+id:d1674a56-fa63-475b-9edd-685ed7168e89
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/FIDO 2.0: Signature format-map
+
+

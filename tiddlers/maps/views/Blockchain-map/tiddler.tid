@@ -1,0 +1,8 @@
+id:b6193ffd-0142-42b2-8177-e3edd5b6bf06
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Blockchain-map
+
+

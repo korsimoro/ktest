@@ -1,0 +1,8 @@
+id:221d39ee-35a2-4bb3-8715-e2c6dd1fca73
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Cogito Group-map
+
+

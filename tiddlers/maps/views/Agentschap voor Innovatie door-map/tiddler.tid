@@ -1,0 +1,8 @@
+id:58d6a39e-0d87-4c5e-b0d3-f69cd724c320
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Agentschap voor Innovatie door-map
+
+

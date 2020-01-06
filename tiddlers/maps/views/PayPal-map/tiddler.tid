@@ -1,0 +1,8 @@
+id:80f10f85-d71c-4f70-a503-f70ea05bd4ee
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/PayPal-map
+
+

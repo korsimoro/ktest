@@ -1,0 +1,8 @@
+id:693cc8df-110e-4f6a-89a2-08884479894a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Encrypted Data Vaults-map
+
+

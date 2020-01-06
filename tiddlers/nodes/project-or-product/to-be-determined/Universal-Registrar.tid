@@ -1,0 +1,32 @@
+created:1578148369721
+modified:1578148369721
+title:Universal Registrar
+type:text/vnd.tiddlywiki
+activities:
+audience:
+category:to-be-determined
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:https://github.com/decentralized-identity/universal-registrar
+input.source:me2b
+license:
+me2b.participation:
+name:Universal Registrar
+parent.org:Decentralized Identity Foundation
+partners:
+people:
+purpose:
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:[[implementation and drivers]]
+terms.of.service:
+tmap.edges:{}
+tmap.id:a5a9ff3d-ae46-4204-8b0c-b27780cc3776
+url:https://uniregistrar.io/
+version.or.edition:
+working.group:
+
+Similar to the Universal Resolver, the Universal Registrar also makes use of "drivers" to allow registration of various types of identifiers (e.g. different DID methods, or naming systems such as BNS or ENS).

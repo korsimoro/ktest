@@ -1,0 +1,8 @@
+id:6a7f0eb9-d712-4ce9-9ab5-8150cd8595ca
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Open Badges are Verifiable Credentials-map
+
+

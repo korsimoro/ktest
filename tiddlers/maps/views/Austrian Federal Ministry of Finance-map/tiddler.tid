@@ -1,0 +1,8 @@
+id:7b4b5270-903d-4bbc-ac81-6898d3ff659e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Austrian Federal Ministry of Finance-map
+
+

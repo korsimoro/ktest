@@ -1,0 +1,8 @@
+id:836d1c26-c6ab-433b-8242-a2e6f5308dcf
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Campus Support Systems for Technical Researchers Navigating Big Data Ethics-map
+
+

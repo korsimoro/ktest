@@ -1,0 +1,4 @@
+type: text/vnd.tiddlywiki
+filter:[contains:tmap.names[orgs-to-orgs]]
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/orgs-to-orgs/filter/nodes
+

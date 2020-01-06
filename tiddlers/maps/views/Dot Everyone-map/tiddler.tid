@@ -1,0 +1,8 @@
+id:d9fbca0f-2224-4b0f-bf6f-8b1f0012f989
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Dot Everyone-map
+
+

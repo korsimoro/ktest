@@ -1,0 +1,8 @@
+id:4759c94b-af85-4638-92e9-05fa42af4af8
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/That One Privacy Site-map
+
+

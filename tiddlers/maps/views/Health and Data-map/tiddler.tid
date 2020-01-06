@@ -1,0 +1,8 @@
+id:a92dcdda-4f87-40c7-bf17-43482b67c485
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Health and Data-map
+
+

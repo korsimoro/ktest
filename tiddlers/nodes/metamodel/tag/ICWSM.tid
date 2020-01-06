@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143333946
+title: icwsm
+tmap.edges: {"997b6d8d-6311-4e16-988a-2faa4be06d94":{"to":"270710db-e528-467c-be73-82cdffba49dc","type":"Tag"}}
+tmap.id: a44cc2ba-4b69-4c10-b3d4-398e3c86b4e7
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

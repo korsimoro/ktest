@@ -1,0 +1,8 @@
+id:4fd1399c-3829-4b32-9019-f37811557d8e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Center for Internet and Society-map
+
+

@@ -1,0 +1,8 @@
+id:bd8d500e-f8d2-4ec6-a437-1efc1b2c6748
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Osano-map
+
+

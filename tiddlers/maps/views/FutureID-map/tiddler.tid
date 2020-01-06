@@ -1,0 +1,8 @@
+id:5c2e2637-df11-4b8c-b06b-4bada6c8628f
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/FutureID-map
+
+

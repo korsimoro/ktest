@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Purpose
+modified: 20200104143334771
+title: enterprise support
+tmap.edges: {"8564c1fe-e81b-4e2a-a2bf-472e1c3f262d":{"to":"499a6b3f-731a-4172-9c21-3018792577df","type":"Purpose"}}
+tmap.id: 85f80182-b03d-40e3-8fe7-90ece8970455
+tw-icon: $:/images/fa5/solid/shuttle-van
+type: text/vnd.tiddlywiki

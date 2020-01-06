@@ -1,0 +1,8 @@
+id:3c1839c3-56a3-4f1c-9d44-821000ced4a8
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/International Data Spaces-map
+
+

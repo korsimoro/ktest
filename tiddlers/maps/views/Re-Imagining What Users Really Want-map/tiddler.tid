@@ -1,0 +1,8 @@
+id:a920ec44-0bef-4a90-a98e-920c3eb6dfb3
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Re-Imagining What Users Really Want-map
+
+

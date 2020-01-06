@@ -1,0 +1,8 @@
+id:5ab757f9-58f3-4c6f-9586-8adbb6ad7281
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO_IEC_Guide_75_2006(E)-map
+
+

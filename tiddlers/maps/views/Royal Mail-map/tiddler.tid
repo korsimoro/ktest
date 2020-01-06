@@ -1,0 +1,8 @@
+id:840e2430-883f-427d-98ba-18830a876829
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Royal Mail-map
+
+

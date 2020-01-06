@@ -1,0 +1,8 @@
+id:baf69983-2d5d-4777-89d8-8f2d334cf0a3
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/UK - Online Harms-map
+
+

@@ -1,0 +1,8 @@
+id:2bf141e5-f94a-482d-925e-6eea507f3388
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/A Computer Glossary-map
+
+

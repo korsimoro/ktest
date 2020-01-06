@@ -1,0 +1,8 @@
+id:dddcae59-f8aa-45ec-a7c7-5bec22d52b9a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Police Databases-map
+
+

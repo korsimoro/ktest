@@ -1,0 +1,8 @@
+id:e04ce638-6f13-4a0e-a366-2b7ae2438717
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Pribot: A Chatbot for Privacy Policies-map
+
+

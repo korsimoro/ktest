@@ -1,0 +1,8 @@
+id:e2223aa6-f3d5-45b9-b16e-d843c9f79912
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Teen-Self-Esteem App-map
+
+

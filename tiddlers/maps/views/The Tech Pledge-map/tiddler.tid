@@ -1,0 +1,8 @@
+id:09b3f002-18ca-4e54-82bc-3411ac944514
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Tech Pledge-map
+
+

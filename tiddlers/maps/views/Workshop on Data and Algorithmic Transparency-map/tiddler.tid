@@ -1,0 +1,8 @@
+id:7610da75-c6fc-40ec-9715-a2f085797083
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Workshop on Data and Algorithmic Transparency-map
+
+

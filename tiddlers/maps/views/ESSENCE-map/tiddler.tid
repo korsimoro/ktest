@@ -1,0 +1,8 @@
+id:5c0ea240-bfe2-4e44-a400-a9b8e3f5a461
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ESSENCE-map
+
+

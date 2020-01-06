@@ -1,0 +1,8 @@
+id:040f7eaf-0ced-47dc-88a0-76103e07d06a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/TermSafe Reviews-map
+
+

@@ -1,0 +1,8 @@
+id:792f60b2-b971-4373-a377-69e241fd8449
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/UMA Developer-map
+
+

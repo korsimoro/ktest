@@ -1,0 +1,8 @@
+id:9fdfafbb-87c4-44de-b8b8-d5a4e82c101b
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Hyperledger-map
+
+

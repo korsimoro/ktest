@@ -1,0 +1,8 @@
+id:dd6a1aad-8ee1-4845-8ec2-1b790a79368c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/multi-disciplinary collaboration-map
+
+

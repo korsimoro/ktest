@@ -1,0 +1,8 @@
+id:b8b246cb-416e-4932-8f85-ed6fbadd863a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Netnod-map
+
+

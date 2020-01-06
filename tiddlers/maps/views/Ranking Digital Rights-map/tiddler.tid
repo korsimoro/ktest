@@ -1,0 +1,8 @@
+id:bcfadc09-df06-48bb-86a6-f127098ba1c5
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Ranking Digital Rights-map
+
+

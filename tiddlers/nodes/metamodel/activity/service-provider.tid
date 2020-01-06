@@ -1,0 +1,10 @@
+created: 15790426221807000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Activity
+modified: 20200104143336469
+title: service provider
+tmap.edges: {"e5868643-90a3-43d9-b893-2026c4296df2":{"to":"a51251b7-edb1-409a-86fb-ea9d2a8efac3","type":"Activity"},"b7c845d0-7e16-4550-a97d-be3e1a171098":{"to":"54f5a56e-3822-47fa-a84e-d2a229505675","type":"Activity"},"2d6e0b2d-e6bc-46f2-beb0-5b4af6067dbe":{"to":"e46a5586-3017-46ea-914e-2389caf92b2c","type":"Activity"},"619ac447-b41e-4b20-8822-28f9fbc42816":{"to":"22a22554-40e7-4039-9a31-9e87ab0ae169","type":"Activity"},"edb871d8-d0bd-4924-8fb9-158fb872f6b3":{"to":"94140c65-1643-4dad-8cd2-d2f58c29f62b","type":"Activity"},"c3a82aee-398a-41ff-a47d-d0d143af05ca":{"to":"10c70551-7e4f-457a-9338-d00ce96e4f66","type":"Activity"},"f09f1d24-a44c-4b45-a637-519d57e8f21d":{"to":"ae0f00a0-2257-4e89-912e-caea30f8ea59","type":"Activity"},"31bd4d5a-688f-4bb7-b2c0-e02d8163c67b":{"to":"0e814f59-a2fc-43ff-9283-aff06bcc5813","type":"Activity"},"898c65b8-52b1-4544-83ad-7ac144f507e2":{"to":"567ebe0f-b5ee-4217-b23f-3a744e6d0086","type":"Activity"},"831cded0-04bd-4159-b8e1-c1389b6be365":{"to":"e5b999e3-2905-4730-bed6-3a24ab77932b","type":"Activity"},"182a54df-d0ad-49a0-a872-ab73b583da0e":{"to":"698bdc26-9e50-48c3-b5d8-43e990bd7e31","type":"Activity"},"a9d03799-240f-41b8-9ece-9921c24f8e5f":{"to":"6c126891-2fa9-44d6-8c47-032e93499aee","type":"Activity"}}
+tmap.id: 34fa0df2-0c08-4f07-a0af-bb8df1d183f4
+tw-icon: $:/images/fa5/solid/shower
+type: text/vnd.tiddlywiki

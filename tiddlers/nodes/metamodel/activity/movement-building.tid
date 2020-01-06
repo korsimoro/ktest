@@ -1,0 +1,10 @@
+created: 15790426221805000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Activity
+modified: 20200104143337180
+title: movement building
+tmap.edges: {"55772c4b-e7e1-4e5f-a6d3-d5b115ccad52":{"to":"4b1643fe-67fe-4cb0-bcf1-623a1f63138f","type":"Activity"},"14a8b12a-b361-4c0f-8f5c-c497b6d4afce":{"to":"909d3322-0cb2-4088-9a8a-3abdae390b04","type":"Activity"},"ff4525c5-2504-4147-b7c2-f02e9c62ebed":{"to":"1a455988-6a6d-4937-b4a7-60fdf7d26aef","type":"Activity"},"26a17f9f-c72b-47b6-acd2-aceb0e31360a":{"to":"c3612a99-d420-4ded-9cf9-8ef014574e39","type":"Activity"},"b26362c2-716a-44fb-a4bf-f7a657f71540":{"to":"111375e2-8ebc-43a2-98f9-905f86f10842","type":"Activity"},"200d0766-9f28-43ce-9671-3a53c355e646":{"to":"c2182e48-48ea-4b3b-bbe3-ad2ee3b6b497","type":"Activity"},"119bae19-d91c-453a-b647-56b8773ec7a7":{"to":"47dbc7d9-2dd3-4b65-aa20-c40b78dcda24","type":"Activity"},"7c0e2051-d81e-4563-bda3-becc4282f33c":{"to":"03626639-f2da-43a8-b5c1-2c3792e930f5","type":"Activity"},"0475bdb9-948f-4e68-9883-2f1169201d09":{"to":"79dd580e-72a0-4f2a-aa00-deb25f5254e0","type":"Activity"},"4c403815-2df0-463b-b2ca-f6f9e6c6a940":{"to":"6c3d300e-36f4-4a01-acdf-a914acc2f005","type":"Activity"},"02bc8faf-c808-46a0-965a-2388edc0366d":{"to":"4d48894a-069f-4915-9517-6a95eff1713a","type":"Activity"},"616d34e2-a544-450d-ba4d-a7632810726b":{"to":"7b128583-8247-4d5a-bfaa-fb191ca903a2","type":"Activity"},"b8edf51b-5998-4eda-a7f6-5b254da5aa25":{"to":"c31836b3-6564-4676-a4a9-8d2f23fd23b6","type":"Activity"},"38edbc0c-0c16-43d7-ad2e-7736e3672940":{"to":"ad0b3584-0915-4259-ac3e-c31b904ea64c","type":"Activity"},"517aeba9-cc55-40e2-abdf-86d36ac767f9":{"to":"15e7cd63-4ea3-4ece-9eed-9bab14a0672f","type":"Activity"},"2a6f5d04-ba06-42c3-8567-648cb62657c7":{"to":"698bdc26-9e50-48c3-b5d8-43e990bd7e31","type":"Activity"},"0dec6ab2-bea3-44b4-a591-9c41875d002d":{"to":"d14b6fc1-ad76-4905-864b-cfcd112b451d","type":"Activity"}}
+tmap.id: c16caa25-3992-4e91-a4c7-673237678131
+tw-icon: $:/images/fa5/solid/shower
+type: text/vnd.tiddlywiki

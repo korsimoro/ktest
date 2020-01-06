@@ -1,0 +1,8 @@
+id:7abeca6b-4b3b-436f-a546-10c0755aa829
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Brahms Tutorial-map
+
+

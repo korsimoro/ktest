@@ -1,0 +1,10 @@
+created: 15790426221806000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tech Focus
+modified: 20200104143334958
+title: Data Storage
+tmap.edges: {"cbad20e4-c083-4052-8f2c-c72d92a20d34":{"to":"909d3322-0cb2-4088-9a8a-3abdae390b04","type":"Tech Focus"},"e963ec46-a01f-49e9-8aa9-341871e62c68":{"to":"15022b2b-22bf-462e-9271-1e3c7d7c2f48","type":"Tech Focus"},"98dfbccb-0fdb-4a62-b582-01296dfe9667":{"to":"493df4db-9b87-4861-a205-a6c9813e5c8f","type":"Tech Focus"}}
+tmap.id: fe6215a5-e51e-490d-a302-709a8fd3ce6f
+tw-icon: $:/images/fa5/solid/fire-extinguisher
+type: text/vnd.tiddlywiki

@@ -1,0 +1,3 @@
+filter: -[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/32c224a6-77db-4b99-9cd1-9a342dba54af-map/filter/edges
+

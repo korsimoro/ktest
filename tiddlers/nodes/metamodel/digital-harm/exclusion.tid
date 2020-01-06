@@ -1,0 +1,10 @@
+created: 15790426221806000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Digital Harm
+modified: 20200104143334663
+title: exclusion
+tmap.edges: {"8471f1c8-3a10-4930-af92-df5feddc14cb":{"to":"4b1643fe-67fe-4cb0-bcf1-623a1f63138f","type":"Digital Harm"}}
+tmap.id: 0a5d6ac7-36ed-463e-ab70-becbc05683f0
+tw-icon: $:/images/fa5/solid/snowflake
+type: text/vnd.tiddlywiki

@@ -1,0 +1,8 @@
+id:f8e7c325-e53a-4a7c-bd0f-0aa9a4769621
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Readiness & Accountability Tool-map
+
+

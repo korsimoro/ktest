@@ -1,0 +1,45 @@
+created:1578148362921
+modified:1578148362921
+title:Future of Identity in the Information Society (FIDIS)
+type:text/vnd.tiddlywiki
+activities:
+audience:
+category:Research
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+license:
+me2b.participation:
+name:Future of Identity in the Information Society (FIDIS)
+parent.org:
+partners:
+people:
+purpose:
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:[[europe|over]]
+terms.of.service:
+tmap.edges:{"532da034-8b1a-440a-85bb-d56d4f7efb00":{"to":"10e307bb-2b97-4696-ae8b-763bc817dba7","type":"author"},"4fa2287d-2a86-4743-98d8-db6036d40c2d":{"to":"3031eb50-d212-4f9b-96a5-d3a2ea0a06f5","type":"author"},"1c103a32-37e2-4b30-a5ae-1b58a6fbcf3f":{"to":"cde0ec45-7289-4faf-bdad-34000660b965","type":"author"},"2f98ceb0-940f-44e9-9d5e-ad5b1341b2ab":{"to":"01ed864a-a4f7-44bd-ab04-cfbac6343892","type":"connection"},"f1162e84-7290-4446-a239-e9472e459807":{"to":"b97d0367-6e2b-49b2-bd60-f56c659dd1ff","type":"author"},"e0436769-410b-4032-bf67-42713c3f2250":{"to":"60eb8db8-5503-45b7-9a9f-f9a9ad37b13d","type":"author"},"5aceffa6-d5b8-4d3f-b3a8-1ae442c35ab8":{"to":"1aa39c6e-693d-4d3b-9753-fb702f1ec6b6","type":"connection"},"18c52adf-68ef-4511-a663-fab422dceaa2":{"to":"09ea377b-3d12-4e60-b486-eb47be6f98be","type":"author"},"22388553-4718-47a7-b25d-88653a5872c4":{"to":"2063ba3c-653d-438f-9b3f-ab57b6bfc875","type":"author"}}
+tmap.id:98f956af-2f0f-4261-ab15-36ec2a05936a
+url:http://www.fidis.net/about/
+version.or.edition:
+working.group:
+
+The European Information Society (EIS) requires technologies which address trust and security yet also preserve the privacy of individuals. As the EIS develops, the increasingly digital representation of personal characteristics changes our ways of identifying individuals, and supplementary digital identities, so-called virtual identities, embodying concepts such as pseudonymity and anonymity, are being created for security, profit, convenience or even for fun. These new identities are feeding back into the world of social and business affairs, offering a mix of plural identities and challenging traditional notions of identity. At the same time, European states manage identities in very different ways. For example, in Germany holding an ID card is mandatory for every adult, while in the UK state-issued ID cards do not exist. FIDIS objectives are shaping the requirements for the future management of identity in the EIS and contributing to the technologies and infrastructures needed.
+
+As a multidisciplinary and multinational NoE FIDIS, appropriately, comprises different country research experiences with heterogeneous focuses, and integrates European expertise around a common set of activities. Additionally, all relevant stakeholders are addressed to ensure that the requirements are considered from different levels. FIDIS overcomes the extreme fragmentation of research into the future of identity by consolidating and fostering joint research in this area. Research results will be made accessible to European citizens, researchers and in particular to SMEs. FIDIS will accomplish ERA objectives by durably integrating the research implementation efforts, as well as the medium term target setting, and in the long run the strategic objective planning.
+
+Our Objectives:
+Integrating European research with regard to Technologies to:
+* Support identity and identification
+* Interoperability of identity and identification concepts
+* ID-theft, privacy and security
+ *Profiling and forensic implications
+
+Our Results:
+* Integrated approaches to research
+* Legal, socio-economic, usability and application requirements.
+* Public architecture & specifications.

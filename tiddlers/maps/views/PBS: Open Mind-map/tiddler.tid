@@ -1,0 +1,8 @@
+id:eaebbb81-0c3f-4fb8-9fe0-02802cacc509
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/PBS: Open Mind-map
+
+

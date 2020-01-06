@@ -1,0 +1,8 @@
+id:89a75f08-ba5f-4834-9228-0c3f05eb93a3
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Trust Elevation TC-map
+
+

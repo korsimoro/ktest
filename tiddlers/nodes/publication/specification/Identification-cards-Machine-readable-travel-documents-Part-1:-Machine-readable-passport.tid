@@ -1,0 +1,45 @@
+created:1578267626150
+modified:1578267626150
+title:Identification cards – Machine readable travel documents – Part 1: Machine readable passport
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:Identification cards – Machine readable travel documents – Part 1: Machine readable passport
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:Machine Readable Travel Documents WG3
+tags:
+tech.focus:
+tmap.edges:{"e8848ecd-8ec5-4557-a656-96ed81bb5498":{"to":"1494c6e2-518e-47b4-b981-a5fb37a69cff","type":"specification-of-group"}}
+tmap.id:9f14f703-07e1-4d62-87d2-b1263c06e77e
+url:
+version.or.edition:
+volume.frequency:
+working.group:
+
+The following document is adopted as ISO/IEC International Standard 7501-1:2007 – Sixth Edition of the International Civil Aviation Organization (ICAO) Document; i.e. Doc 9303 
+
+Part 1 - Machine Readable Passports; specifically,
+From Volume 1 - Passports with Machine Readable Data Stored in Optical Character Recognition Format
+Section II: Technical specifications for machine readable passports - References and definitions; 
+Section III: Technical specifications for the security of the design, manufacture and issuance of machine readable travel documents; and
+Section IV: Technical specifications for machine readable passports
+
+From Volume 2 - Specifications for Electronically Enabled Passports with Biometric Identification Capability
+Section II: The deployment of biometric identification and the electronic storage of data in machine readable passports;
+Section III: A logical data structure for contactless integrated circuit data storage technology; and
+Section IV:  PKI for machine readable travel documents offering ICC read only access
+
+
+ISO/IEC International Standard 7501-1:2007 is intended for use in all applications relating to machine readable passports. It specifies the form and provides guidance on the construction of machine readable passports (MRPs), in particular in relation to those aspects of the MRP where details of the rightful holder are presented in a form which is both visual and machine readable. It equally defines the specifications to be used by States wishing to issue an electronically enabled version of the machine readable passport (ePassport) for secure carriage and access to an expanded set of details, including globally interoperable biometric data for confirming the presenter as the rightful-holder of the ePassport.
+
+ISO/IEC International Standard 7501-1:2007 is based on a Standard established by the International Civil Aviation Organization; ICAO Doc 9303 Part 1. ICAO Doc 9303 
+
+Part 1 is maintained by a Technical Advisory Group on Machine Readable Travel Documents (TAG/MRTD). ISO/IEC JTC1 has and continues to provide liaison during the TAG/MRTD meetings on ICAO Doc 9303 Part 1 and considered the technical specifications to which the endorsement notice applies.

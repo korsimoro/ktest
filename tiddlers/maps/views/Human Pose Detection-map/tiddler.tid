@@ -1,0 +1,8 @@
+id:a7b03ff6-84a3-441a-b607-045198b7a2a8
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Human Pose Detection-map
+
+

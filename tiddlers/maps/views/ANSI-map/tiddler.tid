@@ -1,0 +1,8 @@
+id:27c70c2a-4c6e-4704-9273-8568ef58dcad
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ANSI-map
+
+

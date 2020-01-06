@@ -1,0 +1,8 @@
+id:83461bad-e60c-4be2-8f48-7866474f1965
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/consumer education-map
+
+

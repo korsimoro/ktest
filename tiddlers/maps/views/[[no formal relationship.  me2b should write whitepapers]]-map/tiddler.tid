@@ -1,0 +1,8 @@
+id:f402e229-ad30-432c-903f-878544b52c13
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/[[no formal relationship.  me2b should write whitepapers]]-map
+
+

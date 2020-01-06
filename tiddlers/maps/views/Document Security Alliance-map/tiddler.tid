@@ -1,0 +1,8 @@
+id:eb16bfc3-2a37-409f-8911-c4bd7ab44c5f
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Document Security Alliance-map
+
+

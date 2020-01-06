@@ -1,0 +1,10 @@
+created: 15790426221806000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tech Focus
+modified: 20200104143333867
+title: identity
+tmap.edges: {"d4730fce-db73-405c-8c27-eadbc8e10b3c":{"to":"4b1643fe-67fe-4cb0-bcf1-623a1f63138f","type":"Tech Focus"},"f7b3f9fe-7da8-4307-9022-e6ceb7035d2a":{"to":"5d71e0a3-a8fa-4f98-8ebf-6e662a3fe35b","type":"Tech Focus"},"0a84a49a-a838-4e23-b054-98af457edb2d":{"to":"a9509fcd-488b-4436-b9e8-a8fcc494d011","type":"Tech Focus"},"994bf421-07ba-4c99-b839-e47e8b3d7380":{"to":"0541e238-cb8c-471d-b857-7c8370ee8436","type":"Tech Focus"},"6607de9c-c765-4563-b732-3db629dbf64a":{"to":"c3612a99-d420-4ded-9cf9-8ef014574e39","type":"Tech Focus"},"6ee1b23a-2d5f-47d8-aabc-6bc61325ad9f":{"to":"d2e70152-5f79-4b59-a376-ada1922778be","type":"Tech Focus"},"dcaa6034-6aee-4793-94ab-6de38078631f":{"to":"c447e037-bba2-4670-b6a8-31fc009aefc0","type":"Tech Focus"},"6df33bc0-52c4-4ac4-9428-60165d5bec0b":{"to":"91e833d0-bd93-4894-a2d8-73a4b57b5517","type":"Tech Focus"}}
+tmap.id: 4f0fecd1-e793-49c8-9334-87405ba36db3
+tw-icon: $:/images/fa5/solid/fire-extinguisher
+type: text/vnd.tiddlywiki

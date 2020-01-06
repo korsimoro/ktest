@@ -1,0 +1,9 @@
+id:4bd465fc-44de-4b28-96f8-543b733e64fc
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Activinsights
+-map
+
+

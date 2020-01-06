@@ -1,0 +1,8 @@
+id:2332a10c-d44a-490f-8fe5-083a1e7dd54f
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Open WPM (Web Privacy Measurement)-map
+
+

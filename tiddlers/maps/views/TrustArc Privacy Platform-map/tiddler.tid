@@ -1,0 +1,8 @@
+id:e28bd8ad-836d-49a9-a275-de9a563c28d8
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/TrustArc Privacy Platform-map
+
+

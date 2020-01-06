@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Activity
+modified: 20200104143334227
+title: formal training and classes
+tmap.edges: {"f89397ff-5854-4512-b4f6-7b3ca7aed91f":{"to":"10c70551-7e4f-457a-9338-d00ce96e4f66","type":"Activity"},"f8f609e5-8cb8-4de9-b082-dffa0d8a3cb4":{"to":"df5853ce-cf86-4e37-a93b-ad4bfb8462cc","type":"Activity"},"1a41e00b-5a89-4294-9884-893f327f3d69":{"to":"36089fea-eb19-49b6-a398-971fd9443871","type":"Activity"}}
+tmap.id: e5601a52-0a2d-4d0f-a9d9-d3c985b3d9d5
+tw-icon: $:/images/fa5/solid/shower
+type: text/vnd.tiddlywiki

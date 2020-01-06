@@ -1,0 +1,8 @@
+id:5c89312d-0d14-45f2-9a73-170d03b5878e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Luminate-map
+
+

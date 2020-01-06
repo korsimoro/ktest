@@ -1,0 +1,8 @@
+id:4a644064-5189-44c4-83bf-3623f21e4f6a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Fight for the Future Projects-map
+
+

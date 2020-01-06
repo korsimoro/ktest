@@ -1,0 +1,8 @@
+id:035da298-a213-4853-976b-6f194d3a5821
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Biometrics WG11-map
+
+

@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Purpose
+modified: 20200104143335626
+title: transparancy
+tmap.edges: {"3c11da76-1893-4454-b47c-6d1b4019837b":{"to":"72c35253-37d8-471f-92ae-3ce0c2ad5557","type":"Purpose"}}
+tmap.id: e379bcb3-0cfe-4610-8c76-fad08db73452
+tw-icon: $:/images/fa5/solid/shuttle-van
+type: text/vnd.tiddlywiki

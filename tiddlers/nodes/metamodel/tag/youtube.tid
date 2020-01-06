@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143337384
+title: youtube
+tmap.edges: {"24f275c9-4b61-45b6-8f20-7479f97d8319":{"to":"ecb6f76f-6740-4459-854a-de37061f5529","type":"Tag"}}
+tmap.id: 547def89-184c-406f-b316-676dc6dec6ef
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

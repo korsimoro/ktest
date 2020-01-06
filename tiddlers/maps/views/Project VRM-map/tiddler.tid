@@ -1,0 +1,8 @@
+id:cacc0774-966b-4ad6-a3ef-8a0a75224657
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Project VRM-map
+
+

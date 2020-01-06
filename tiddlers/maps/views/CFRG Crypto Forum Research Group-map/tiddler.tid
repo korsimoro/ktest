@@ -1,0 +1,8 @@
+id:9656bf71-deb5-42a1-8100-baf446672e8e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/CFRG Crypto Forum Research Group-map
+
+

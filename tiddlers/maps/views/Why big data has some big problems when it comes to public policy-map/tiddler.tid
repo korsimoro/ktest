@@ -1,0 +1,8 @@
+id:9742f0eb-9e6e-4515-95c2-2b3c058c9493
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Why big data has some big problems when it comes to public policy-map
+
+

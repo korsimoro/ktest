@@ -1,0 +1,8 @@
+id:fb54f283-2d45-4b19-81ee-4a5979217365
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Design Justice Principles-map
+
+

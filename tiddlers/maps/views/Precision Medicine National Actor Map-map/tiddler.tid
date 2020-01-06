@@ -1,0 +1,8 @@
+id:4933560c-1110-4c5b-91a7-8c2f7f4db8f5
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Precision Medicine National Actor Map-map
+
+

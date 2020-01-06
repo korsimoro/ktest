@@ -1,0 +1,8 @@
+id:6eb3ad80-0309-4df1-bebf-aec0adef58b5
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO/IEC JTC1/SC17-map
+
+

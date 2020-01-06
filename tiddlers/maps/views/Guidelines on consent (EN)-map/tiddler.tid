@@ -1,0 +1,8 @@
+id:14e505c2-08d9-4716-9cf0-c1289de41145
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on consent (EN)-map
+
+

@@ -1,0 +1,8 @@
+id:a4e4cb53-8359-48c7-89cd-27eeccea0157
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Salesforce-map
+
+

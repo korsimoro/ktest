@@ -1,0 +1,8 @@
+id:0db8a7cc-a58a-44dc-a02e-c1f4c76a9a52
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO-map
+
+

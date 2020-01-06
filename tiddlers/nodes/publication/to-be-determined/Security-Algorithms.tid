@@ -1,0 +1,28 @@
+created:1578148369784
+modified:1578148369784
+title:Security Algorithms
+type:text/vnd.tiddlywiki
+audience:
+author(s)editor(s):
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Security Algorithms
+publication.type:to-be-determined
+purpose:
+sector:
+sponsoring.org:
+tags:[[gsma working groups]] [[fraud and security group]]
+tech.focus:
+tmap.edges:{}
+tmap.id:335fc484-5e20-4e6f-8285-5420f799f137
+url:
+version.or.edition:
+volume.frequency:
+working.group:
+
+A variety of security algorithms are used to provide authentication, cipher key generation, integrity and radio link privacy to users on mobile networks. Details of the various algorithms and how they can be obtained are provided below.

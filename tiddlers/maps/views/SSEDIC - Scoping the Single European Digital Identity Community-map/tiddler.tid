@@ -1,0 +1,8 @@
+id:3e818d9d-8b0e-47e6-a223-aa10ef7a8436
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/SSEDIC - Scoping the Single European Digital Identity Community-map
+
+

@@ -1,0 +1,3 @@
+filter: -[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Supervised and Unsupervised Methods for Robust Separation of Section Titles and Prose Text in Web Documents"""-map/filter/edges
+

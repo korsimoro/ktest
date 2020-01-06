@@ -1,0 +1,8 @@
+id:9053c6db-d5f6-4dcd-a65c-92e1c2b28fe6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/icwsm-map
+
+

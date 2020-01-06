@@ -1,0 +1,8 @@
+id:2141c6c2-a9d9-4790-a5f1-3328b9409224
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Lawtrust-map
+
+

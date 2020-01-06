@@ -1,0 +1,8 @@
+id:ffe4f77b-5e29-47e3-aa92-3b3e93d4ccf4
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/“Identity” Commandments-map
+
+

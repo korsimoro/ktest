@@ -1,0 +1,8 @@
+id:30d2866a-c1de-46af-8ffe-3dc5554753cc
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/consumer privacy tools-map
+
+

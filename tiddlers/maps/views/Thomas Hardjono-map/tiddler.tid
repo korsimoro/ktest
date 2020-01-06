@@ -1,0 +1,8 @@
+id:886b756d-9c63-4651-adc3-3b0fa305b763
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Thomas Hardjono-map
+
+

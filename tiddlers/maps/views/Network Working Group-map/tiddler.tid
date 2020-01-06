@@ -1,0 +1,8 @@
+id:f882ad0a-364c-4ba8-8d0e-e47997275304
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Network Working Group-map
+
+

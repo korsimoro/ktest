@@ -1,0 +1,10 @@
+created: 15790426221809000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143335224
+title: community support
+tmap.edges: {"2fc70bdb-a991-4882-8299-2d31a63802f0":{"to":"0ed46d8f-1c66-4c43-ae23-195012d12484","type":"Tag"}}
+tmap.id: 24edac02-59d9-4914-8df7-1f64ae02f241
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

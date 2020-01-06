@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143335326
+title: anti-virus
+tmap.edges: {"b86e4e83-81f7-4b81-b898-35d57ecf3381":{"to":"a918cdcb-76cb-4cf1-b376-fe34581e8eea","type":"Tag"}}
+tmap.id: 3b6f992e-462b-4bbb-90f2-fd4d73c32041
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

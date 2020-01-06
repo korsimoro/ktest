@@ -1,0 +1,8 @@
+id:f60c49a6-912b-417b-812e-5dbc1ce46360
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Federal Computing Centre of Austria – Bundesrechenzentrum (BRZ)-map
+
+

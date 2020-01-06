@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143335523
+title: acm
+tmap.edges: {"34572590-e170-43e2-a9d5-0035b62bed5e":{"to":"d0b32bb4-8436-401f-bd75-efd6130a2db4","type":"Tag"}}
+tmap.id: 41dc7961-4cc2-49ce-a922-9782c8f51487
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

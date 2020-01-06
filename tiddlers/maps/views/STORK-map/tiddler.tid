@@ -1,0 +1,8 @@
+id:47881b68-4b8f-4ef8-9ef9-58ee978c970d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/STORK-map
+
+

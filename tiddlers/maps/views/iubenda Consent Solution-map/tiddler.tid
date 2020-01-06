@@ -1,0 +1,8 @@
+id:80387cc6-3391-433b-a127-176ce01b03ad
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/iubenda Consent Solution-map
+
+

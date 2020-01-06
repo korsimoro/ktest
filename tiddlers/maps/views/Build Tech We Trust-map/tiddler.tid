@@ -1,0 +1,8 @@
+id:f4b7c2a3-d29c-4158-b8c7-3253f228d00c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Build Tech We Trust-map
+
+

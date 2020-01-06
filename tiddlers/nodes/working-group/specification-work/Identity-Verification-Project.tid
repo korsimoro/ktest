@@ -1,0 +1,27 @@
+created:1578267625332
+modified:1578267625332
+title:Identity Verification Project
+type:text/vnd.tiddlywiki
+activities:
+category:[[specification work]]
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:Identity Verification Project
+parent.org:north american security products organization
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"6314c963-31fe-4c41-83e5-0d9e8e446c96":{"to":"4ca04ba3-9134-4ad9-bbd4-040d07d91e15","type":"organization-for-group"}}
+tmap.id:6072324c-2c06-47ed-a1c5-44faf448c2cc
+url:http://www.naspo.info/naspo-idpv-project
+
+Developing minimum requirements for (a) Reconciling an asserted identity to a single individual (b) Proofing the asserted identity by verifying corroborative evidence and by looking for symptoms of fraud
+Providing guidance for implementation and privacy concerns
+The proposed standard identifies sets of core identity attributes across the dimensions of Name, Location, Time and Identifier that in most cases, allows for resolution to a single identity. It also provides a list of supplemental attributes that can be used to prevent collisions in cases where the core attributes are not enough. The basis of these core and supplemental attributes are not theoretical, but based on extensive data modeling and analysis done on data sets that covered the U.S. population.

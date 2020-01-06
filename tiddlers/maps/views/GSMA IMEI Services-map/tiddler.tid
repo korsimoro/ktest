@@ -1,0 +1,8 @@
+id:b59b633d-becb-432c-b110-06740ac0225a
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/GSMA IMEI Services-map
+
+

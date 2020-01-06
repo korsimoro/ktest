@@ -1,0 +1,8 @@
+id:fbb71e08-b6cd-4566-88d0-3039dbfeebd9
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Preference Center Management-map
+
+

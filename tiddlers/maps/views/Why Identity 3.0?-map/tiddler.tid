@@ -1,0 +1,8 @@
+id:e5ce94f7-f595-43ca-9d35-d2b6043bc0dd
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Why Identity 3.0?-map
+
+

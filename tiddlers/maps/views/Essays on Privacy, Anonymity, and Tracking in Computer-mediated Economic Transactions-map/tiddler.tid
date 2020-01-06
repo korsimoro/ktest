@@ -1,0 +1,8 @@
+id:6c684794-9a44-4e25-a7c5-7ae8fec59371
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Essays on Privacy, Anonymity, and Tracking in Computer-mediated Economic Transactions-map
+
+

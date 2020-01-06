@@ -1,0 +1,8 @@
+id:b8e89f46-6180-4612-8e7a-ac37a3691417
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/certification-map
+
+

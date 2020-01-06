@@ -1,0 +1,8 @@
+id:ae67a508-c811-4ee8-8df6-f0da1470ab42
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Smart Signatures-map
+
+

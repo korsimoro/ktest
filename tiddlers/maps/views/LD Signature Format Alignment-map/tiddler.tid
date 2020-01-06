@@ -1,0 +1,8 @@
+id:07f74ef4-0c27-451a-8d0f-f3412254fcc4
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/LD Signature Format Alignment-map
+
+

@@ -1,0 +1,8 @@
+id:d716206c-3377-4f9c-bd03-f816358e89f9
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/scytl-map
+
+

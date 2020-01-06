@@ -1,0 +1,8 @@
+id:03b48996-a2c0-4bc2-9da0-f0addbac866d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Incorporate your company-map
+
+

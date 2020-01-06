@@ -1,0 +1,8 @@
+id:fbb29ddf-9e14-4a54-aca2-31f9e65f0b9c
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/whiteonwhite:algorithmicnoir Demo-map
+
+

@@ -1,0 +1,10 @@
+created: 15790426221809000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143337059
+title: open internet
+tmap.edges: {"aa01828b-08b5-4b91-a73e-be9b4ea39784":{"to":"0514c4c7-7a19-40d6-9dd4-3cae03ecbb42","type":"Tag"}}
+tmap.id: 21118720-91fd-42b0-90ce-73fd566981e1
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

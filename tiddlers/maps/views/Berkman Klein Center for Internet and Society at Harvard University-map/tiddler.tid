@@ -1,0 +1,8 @@
+id:e824a302-1d24-492f-bccb-e672c8ea912e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Berkman Klein Center for Internet and Society at Harvard University-map
+
+

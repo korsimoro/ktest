@@ -1,0 +1,8 @@
+id:03cfcd2b-c855-431f-ad33-ec0dbb449014
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ELSA-map
+
+

@@ -1,0 +1,10 @@
+[
+    {
+        "created": "20200104144243663",
+        "title": "/Users/korsimoro/Desktop/ktest/twiki/tiddlers/nodes/metamodel/me2b-relationship/.tid",
+        "text": "[\n    {\n        \"created\": \"20200104143540653\",\n        \"text\": \"[\\n    {\\n        \\\"created\\\": \\\"20200104143335545\\\",\\n        \\\"text\\\": \\\"created:1578148369785\\\\nmodified:1578148369785\\\\ntitle:[[???]]\\\\ntype:text/vnd.tiddlywiki\\\\nelement.type:metamodel\\\\ninput.source:me2b\\\\nmetamodel.subtype:Me2B Relationship\\\\ntmap.edges:{}\\\\ntw-icon:$:/images/fa5/solid/shopping-cart\\\\n\\\\n\\\\n\\\",\\n        \\\"type\\\": \\\"text/plain\\\",\\n        \\\"title\\\": \\\"/Users/korsimoro/Desktop/ktest/twiki/tiddlers/nodes/metamodel/me2b-relationship/.tid\\\",\\n        \\\"tmap.id\\\": \\\"daf4626e-216e-4ae0-b0bc-ff7318db7798\\\",\\n        \\\"modified\\\": \\\"20200104143335545\\\"\\n    }\\n]\",\n        \"type\": \"text/plain\",\n        \"title\": \"/Users/korsimoro/Desktop/ktest/twiki/tiddlers/nodes/metamodel/me2b-relationship/.tid\",\n        \"tmap.id\": \"bd531e9f-3946-42f5-9a82-4c82b12913f2\",\n        \"modified\": \"20200104143540653\"\n    }\n]",
+        "type": "text/plain",
+        "tmap.id": "dceecbbc-5a2d-407d-bf07-d5e43f6e56ca",
+        "modified": "20200104144243663"
+    }
+]

@@ -1,0 +1,8 @@
+id:06081196-c45e-4e0b-96d6-9abed45267a1
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Token Bound Authentication-map
+
+

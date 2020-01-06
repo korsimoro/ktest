@@ -1,0 +1,27 @@
+created:1578267626325
+modified:1578267626325
+title:Privacy Considerations for Web Protocols
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:Hannes Tschofenig
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:Privacy Considerations for Web Protocols
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:The Tracking Protection Working Group
+tags:
+tech.focus:
+tmap.edges:{"22d53d6c-a716-4cd0-bfcd-2b761965bf8e":{"to":"44c46248-1b04-4dab-a472-1068d495969d","type":"connection"},"ef9e00f6-1fba-48c2-aa70-77ee27014d28":{"to":"9f49d5dc-f041-4487-b6ab-8505e537114c","type":"specification-of-group"}}
+tmap.id:af2db0f3-c2fd-404c-aaa2-2a1b5dc182a6
+url:https://w3c.github.io/privacy-considerations/
+version.or.edition:
+volume.frequency:
+working.group:
+
+This document offers guidance for writing privacy considerations test in W3C specifications. It aims to make designers, implementers, and those who deploy W3C specifications aware of privacy- related design choices.

@@ -1,0 +1,8 @@
+id:9317fb32-952c-467b-a565-bd9c8bbe49e3
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/BTCR v0.1 Decisions-map
+
+

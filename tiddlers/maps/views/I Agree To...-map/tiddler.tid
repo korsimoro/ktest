@@ -1,0 +1,8 @@
+id:8bed11f7-59eb-480e-a9b9-895ed63f5d99
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/I Agree To...-map
+
+

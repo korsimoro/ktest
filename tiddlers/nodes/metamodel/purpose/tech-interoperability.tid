@@ -1,0 +1,10 @@
+created: 15790426221806000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Purpose
+modified: 20200104143336242
+title: tech interoperability
+tmap.edges: {"ba533a75-3bb3-4b65-9dab-7c5a85c6b866":{"to":"909d3322-0cb2-4088-9a8a-3abdae390b04","type":"Purpose"},"c0a84d8e-8047-4da2-9f97-bf3df551d653":{"to":"c4588a6d-32b2-43ba-81fe-3ca15edc83fd","type":"Purpose"},"2e5752ff-b110-45f1-ab14-2c830ffe5b0f":{"to":"c3612a99-d420-4ded-9cf9-8ef014574e39","type":"Purpose"},"3dea2a9b-71c5-403f-a74f-d40eaff15469":{"to":"f0577fda-a357-4c20-8dd6-e4e815e3c94c","type":"Purpose"},"2a39f98b-95b8-4c52-a858-06a4bdeff374":{"to":"50925dde-8621-49f6-aae6-3dcb6fda599d","type":"Purpose"},"cedc91c9-6877-474d-996b-02bd94750ffd":{"to":"e03df49a-e3b6-4aae-81bc-5c7103d210af","type":"Purpose"},"8379407c-223f-4c84-b53e-c4a43de7a575":{"to":"70320ab8-e8c4-4f5b-ba95-fdf611e156b0","type":"Purpose"},"af031752-b004-411f-abb8-412c9d8c4c64":{"to":"83b0f45d-b4d1-46db-a9e2-4b36a00f2a91","type":"Purpose"},"1dd761ec-48d0-4f32-bfdd-78e452053753":{"to":"4fd56c29-f050-4d7c-ae83-9afd18dee8c5","type":"Purpose"},"b767b8aa-ed04-4a0f-9c2f-8231fc5fa006":{"to":"1f135029-72f7-4b18-9ff1-e2c1112ff071","type":"Purpose"},"e8461279-e6c5-4eaa-94e9-8fe64f008d69":{"to":"d3102ca3-494f-4dfb-9e94-8eb0e01ac55f","type":"Purpose"},"6f19f2a4-617d-4a7f-90e3-f245b891acff":{"to":"72c35253-37d8-471f-92ae-3ce0c2ad5557","type":"Purpose"},"68349543-fb6e-4ca7-a4cb-5ef694e7f27c":{"to":"90bc12de-a254-456e-8874-5300b3577016","type":"Purpose"}}
+tmap.id: 06727b51-db49-49be-a2ac-df05428c4d98
+tw-icon: $:/images/fa5/solid/shuttle-van
+type: text/vnd.tiddlywiki

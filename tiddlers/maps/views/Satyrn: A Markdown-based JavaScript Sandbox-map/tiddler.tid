@@ -1,0 +1,8 @@
+id:907ef9dd-b410-4149-9bd9-1b44ac3c3e55
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Satyrn: A Markdown-based JavaScript Sandbox-map
+
+

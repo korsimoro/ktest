@@ -1,0 +1,8 @@
+id:b690326e-dd17-4ba8-9884-9c9f032709d6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/5 Star Service: A curated reading list-map
+
+

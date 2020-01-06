@@ -1,0 +1,8 @@
+id:0f178d15-82ae-4799-9641-90dd6084b6b9
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/mef trust working group-map
+
+

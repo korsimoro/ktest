@@ -1,0 +1,8 @@
+id:aace96e6-a09b-4a3f-81fb-cb12e36ba2ff
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OpenID Connect Core 1.0-map
+
+

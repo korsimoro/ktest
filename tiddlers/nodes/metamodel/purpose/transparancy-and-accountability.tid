@@ -1,0 +1,10 @@
+created: 15790426221806000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Purpose
+modified: 20200104143335615
+title: transparancy and accountability
+tmap.edges: {"49a59f7d-d436-4229-b51b-019f5ed5e80a":{"to":"a687e95d-282c-4380-ada1-456df12df510","type":"Purpose"},"09f3f835-0009-4351-91d8-97c2debee6a0":{"to":"c9bcc089-dfa4-4ab7-9158-1edc736074f1","type":"Purpose"},"0a6c10b8-1698-4594-8874-ef5f74fd02b9":{"to":"c4588a6d-32b2-43ba-81fe-3ca15edc83fd","type":"Purpose"},"50f0dee9-cd0b-4b8d-b0b0-109925424652":{"to":"d3426bbc-9bb7-4f2a-89f4-9a2fec6e6f54","type":"Purpose"},"d2020647-f6e4-4e57-a267-12444fd9fab6":{"to":"372fb6ff-36b3-48a0-822c-cab2a2dc7934","type":"Purpose"},"4f2f7c45-aee1-499b-8a7f-cf5f947c8e77":{"to":"e9958fb9-242b-4d0f-83a0-f137051a8606","type":"Purpose"},"8add5f83-6006-4b5c-bb44-1a0c70ee3e49":{"to":"90a16e76-6872-4191-b74a-78f84343d0d6","type":"Purpose"},"4eeecf67-2e11-4ea3-a318-cfb002008b0d":{"to":"4f2196ae-d408-41f2-86da-c7a1d8fa85ba","type":"Purpose"},"e932342c-c8f6-4bce-a834-6d2484d85575":{"to":"f8c4b4b2-6d0f-410a-94c8-0fd008424840","type":"Purpose"},"71379372-f59c-4d10-8f19-a03c018b9fe0":{"to":"ee13134d-8c0c-4b1a-9759-ab6ec768b2b3","type":"Purpose"},"d3753ea5-84bc-4e76-871a-13903187e001":{"to":"f4b218bb-1da0-4d3d-b992-43ec7fe240c3","type":"Purpose"},"9b5c0f37-01c5-456a-ab6c-ca2c67b7e768":{"to":"a20f8978-59b6-4c64-a0af-b48c0aca71e3","type":"Purpose"},"d37f769d-7840-44c9-9bf1-0d8f0200b355":{"to":"0a080312-681a-4818-a1ba-02dfd7fef40a","type":"Purpose"},"a983dee0-6e32-4b1e-9b57-f04c21ebecc9":{"to":"7b128583-8247-4d5a-bfaa-fb191ca903a2","type":"Purpose"},"9dc18b29-a779-4a37-8e18-5870c6289203":{"to":"ecb6f76f-6740-4459-854a-de37061f5529","type":"Purpose"},"122be367-d26c-4b52-a095-850e60b5101b":{"to":"7d716853-bba8-4921-a41a-fed76fdd52d2","type":"Purpose"},"879b0623-4d01-40f0-9c71-a89357ce1530":{"to":"24f540b3-02ad-4ecc-9f1f-72fc98c1056c","type":"Purpose"},"d6a97de1-3235-42b7-a939-f87b5d7339b1":{"to":"4a81ce6d-ef13-4fa1-aff8-357f4855ba19","type":"Purpose"}}
+tmap.id: 7f4354f9-3503-4657-8841-91f4bec42f85
+tw-icon: $:/images/fa5/solid/shuttle-van
+type: text/vnd.tiddlywiki

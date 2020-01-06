@@ -1,0 +1,8 @@
+id:9e7f6729-84ff-486d-bd4e-86f288040c98
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/DMTF Distributed Management Task Force Inc.-map
+
+

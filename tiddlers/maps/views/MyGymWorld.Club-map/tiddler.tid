@@ -1,0 +1,8 @@
+id:88fce028-4dc0-4e51-a7ed-f8133005d3ee
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/MyGymWorld.Club-map
+
+

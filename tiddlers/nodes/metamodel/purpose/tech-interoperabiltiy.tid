@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Purpose
+modified: 20200104143335990
+title: tech interoperabiltiy
+tmap.edges: {"db4fdb60-a846-4b06-b2a6-1d9dee2c48cd":{"to":"4f2196ae-d408-41f2-86da-c7a1d8fa85ba","type":"Purpose"}}
+tmap.id: 665c908a-65cd-4ecf-9891-416ff829755a
+tw-icon: $:/images/fa5/solid/shuttle-van
+type: text/vnd.tiddlywiki

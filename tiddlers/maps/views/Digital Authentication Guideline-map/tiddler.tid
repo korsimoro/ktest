@@ -1,0 +1,8 @@
+id:41e7a78b-2d32-4ce4-9335-8affc825bbe8
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Digital Authentication Guideline-map
+
+

@@ -1,0 +1,35 @@
+created:1578148366557
+modified:1578148366557
+title:Netnod
+type:text/vnd.tiddlywiki
+activities:
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
+org.name:Netnod
+org.type:Trade Association
+parent.org:
+partners:
+products.and.or.services:
+purpose:
+relevant.publications:
+scope:
+sector:
+status:
+tags:
+tech.focus:
+tmap.edges:{"67896d43-ccae-4b92-a173-db1e545b6270":{"to":"996c5555-2f4f-4895-b8a9-efa33516eb6e","type":"founder"},"49e4e7dc-34ec-447b-9829-d4a1afb6e425":{"to":"4159afb4-f264-41c3-93b8-96d50cb9e9f6","type":"general-member"}}
+tmap.id:70bea144-7d15-4635-9e4e-acda6829fa25
+twitter.profile:
+website:http://www.netnod.se
+
+Netnod is a non-profit Internet infrastructure organisation. Netnod manages Internet exchange points (IXPs) in five cities in Sweden and one in Denmark. Netnod offers DNS anycast services worldwide, and is the proud operator of i.root-servers.net, one of 13 logical DNS root name servers in the world.

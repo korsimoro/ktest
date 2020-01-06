@@ -1,0 +1,10 @@
+created: 15790426221809000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143337161
+title: multi-disciplinary collaboration
+tmap.edges: {"cc2da421-cb47-4118-a099-23c858b26fdd":{"to":"0514c4c7-7a19-40d6-9dd4-3cae03ecbb42","type":"Tag"}}
+tmap.id: 16b25a72-ec33-4a9b-bded-3928352a3f59
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

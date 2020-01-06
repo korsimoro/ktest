@@ -1,0 +1,32 @@
+created:1578267626244
+modified:1578267626244
+title:LDAP
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:LDAP
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:
+tags:
+tech.focus:
+tmap.edges:{"3cf70fd5-89b9-456d-95b1-09f9f6e60abd":{"to":"a54120ba-8e8f-4bdb-bb72-a22142cdff83","type":"organization-for-group"}}
+tmap.id:fc5a6133-2260-4c38-9b9a-ed12f6f38552
+url:https://tools.ietf.org/html/rfc4511
+version.or.edition:
+volume.frequency:
+working.group:
+
+This document describes the protocol elements, along with their
+   semantics and encodings, of the Lightweight Directory Access Protocol
+   (LDAP).  LDAP provides access to distributed directory services that
+   act in accordance with X.500 data and service models.  These protocol
+   elements are based on those described in the X.500 Directory Access
+   Protocol (DAP).

@@ -1,0 +1,8 @@
+id:5395a704-8097-4f20-9153-8cfbfcb3f6c9
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/InternetNZ-map
+
+

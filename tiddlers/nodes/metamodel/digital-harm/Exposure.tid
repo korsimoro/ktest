@@ -1,0 +1,10 @@
+created: 15790426221808000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Digital Harm
+modified: 20200104143334422
+title: exposure
+tmap.edges: {"9ae84a0c-12b6-4e17-bfbf-a1f0833d33e7":{"to":"499a6b3f-731a-4172-9c21-3018792577df","type":"Digital Harm"}}
+tmap.id: f63b4e91-6e0a-4e53-822c-666d6e2f6569
+tw-icon: $:/images/fa5/solid/snowflake
+type: text/vnd.tiddlywiki

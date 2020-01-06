@@ -1,0 +1,10 @@
+created: 15790426221900000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tag
+modified: 20200104143336983
+title: p2p
+tmap.edges: {"bb9aeecb-2fb4-4c8f-a37b-8cba1656c7a3":{"to":"0f05232d-0c4a-4e0d-879b-553576d95ce7","type":"Tag"}}
+tmap.id: 2ebec57a-a143-4975-a0de-be2eebdbacce
+tw-icon: $:/images/fa5/solid/flask
+type: text/vnd.tiddlywiki

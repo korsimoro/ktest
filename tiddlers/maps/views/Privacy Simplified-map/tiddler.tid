@@ -1,0 +1,8 @@
+id:4483eca0-8d10-49ce-8530-fa8d69a5144d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Simplified-map
+
+

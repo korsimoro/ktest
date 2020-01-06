@@ -1,0 +1,8 @@
+id:ab0bec26-e734-4ec0-a37e-0b72fd379196
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/the Center on Technology & Privacy at Georgetown Law-map
+
+

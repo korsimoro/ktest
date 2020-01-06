@@ -1,0 +1,8 @@
+id:193a6cfb-c864-4118-b6bf-1d8e4c78e02e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/AsiaCrypt-map
+
+

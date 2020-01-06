@@ -1,0 +1,8 @@
+id:c5638c93-cca2-4d6f-aa6f-f66217937d49
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/SITRA-map
+
+

@@ -1,0 +1,8 @@
+id:e2017f6c-d210-4df8-aeab-ef5c17f9bbc6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Secure Identity Alliance-map
+
+

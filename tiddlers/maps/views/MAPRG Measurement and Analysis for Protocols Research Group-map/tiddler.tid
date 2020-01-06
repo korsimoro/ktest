@@ -1,0 +1,8 @@
+id:f8d19295-0f9c-4a81-9937-0e727abe6ee7
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/MAPRG Measurement and Analysis for Protocols Research Group-map
+
+

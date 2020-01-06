@@ -1,0 +1,8 @@
+id:5065048e-e8b9-4967-917e-e0cdb5ccfca6
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/BTCR DID Resolver Specification-map
+
+

@@ -1,0 +1,10 @@
+created: 15790426221806000
+element.type: metamodel
+input.source: me2b
+metamodel.subtype: Tech Focus
+modified: 20200104143335006
+title: Data Mobility
+tmap.edges: {"0c4aefb6-d0bc-4f1a-89b5-36d35aa64f5d":{"to":"909d3322-0cb2-4088-9a8a-3abdae390b04","type":"Tech Focus"},"d30b16ca-1ee0-47c1-bdb2-f0d90a7d1992":{"to":"f0577fda-a357-4c20-8dd6-e4e815e3c94c","type":"Tech Focus"},"690d4b6d-33ef-4c98-8581-81b60e7d057c":{"to":"50925dde-8621-49f6-aae6-3dcb6fda599d","type":"Tech Focus"},"040e233c-eba1-4bad-8426-d3f84acfb13e":{"to":"4f2196ae-d408-41f2-86da-c7a1d8fa85ba","type":"Tech Focus"},"8f4c7439-635b-4334-9e60-9bf911436788":{"to":"60558916-2ba8-48aa-b56e-07c94df20112","type":"Tech Focus"},"e1e8de4f-6720-4ef0-8a7a-354ac2371704":{"to":"df5853ce-cf86-4e37-a93b-ad4bfb8462cc","type":"Tech Focus"},"67f2609c-05ee-406a-93aa-56acb2d7a37e":{"to":"d9b9263c-a196-4bb0-bda7-4c44088d24bd","type":"Tech Focus"},"998c3980-6dfe-43fb-8a58-cc8bdfcb3496":{"to":"04c03fc3-811e-443e-ad3d-c82dd160ab9d","type":"Tech Focus"},"5463e4e0-68d0-4592-a5ca-2a1309d1cae0":{"to":"469c6187-5052-4919-93bd-d7e31ba1d6b3","type":"Tech Focus"},"515890fe-7559-439c-90f1-21816a80848e":{"to":"b2b20a00-7fc4-4c79-9902-8e23ae2e3827","type":"Tech Focus"}}
+tmap.id: 8537ae63-4e32-4148-a518-37653ca5e44f
+tw-icon: $:/images/fa5/solid/fire-extinguisher
+type: text/vnd.tiddlywiki

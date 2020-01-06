@@ -1,0 +1,8 @@
+id:7a13f0b7-ffea-4209-aadd-273dec04b11e
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Healthcare Human Factors-map
+
+

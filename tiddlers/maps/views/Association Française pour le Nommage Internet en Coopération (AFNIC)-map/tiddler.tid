@@ -1,0 +1,8 @@
+id:632f4aee-f96f-40eb-a796-a9dfdf013ffe
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Association Française pour le Nommage Internet en Coopération (AFNIC)-map
+
+

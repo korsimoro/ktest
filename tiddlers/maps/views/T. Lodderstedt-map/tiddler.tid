@@ -1,0 +1,8 @@
+id:ce15a8f5-726d-4009-82cc-ef44c27e684d
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/T. Lodderstedt-map
+
+

@@ -1,0 +1,8 @@
+id:c76e0e28-c10d-4a6a-a306-5091d0ff8cd4
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Digi.me-map
+
+

@@ -1,0 +1,8 @@
+id:21a1d18b-4614-4f85-939e-4e54ee15e016
+config.neighbourhood_directions: 
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/HEART profile for FHIR UMA resource set types, scopes, and claims-gathering flows-map
+
+
