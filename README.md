@@ -18,7 +18,7 @@ we will make canned downloadable  reports from the wiki easily available.
 We can think of this as a front end to the [core wiki](wiki.html).  The wiki
 will be editable within the wiki itself upon release (direct saving is
 currently disabled).  The data is also editable via standard git mechanisms,
-but also via [Prose](https://prose.io/#ewelton/ktest/tree/master/twiki/tiddlers/nodes).
+but also via [Prose](https://prose.io/#ewelton/ktest/tree/gh-pages/tiddlers/nodes).
 
 Publication of changes to GitHub triggers a regeneration of the site, which
 automatically updates all reports, search indices, and content using

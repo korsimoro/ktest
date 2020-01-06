@@ -1,0 +1,33 @@
+title: $:/twiki/publication/Viewer
+type: text/vnd.tiddlywiki
+
+<$reveal state={{!!sponsoring.org}} type="nomatch" text="">
+<h3>Sponsoring Org [[{{!!sponsoring.org}}]]</h3>
+</$reveal>
+
+<h3>
+Publication Type:<$select field=publication.type>
+<$list filter="[all[]each[publication.type]get[publication.type]sort[title]]" variable="type" >
+<option><<type>></option>
+</$list>
+</$select>
+</h3>
+
+{{||$:/twiki/publication/Jurisdiction}}
+{{||$:/twiki/publication/Date}}<br />
+{{||$:/twiki/publication/License}}<br />
+{{||$:/twiki/publication/Social}}
+{{||DigitalHarmsAddressed}}
+{{||Activities}}
+{{||$:/twiki/publication/People}}<br />
+
+
+
+<table>
+<$macrocall $name="linkrow" title="Audience" value={{!!audience}} field="audience" />
+<$macrocall $name="linkrow" title="Working Group" value={{!!working.group}} field="working.group" />
+<$macrocall $name="linkrow" title="Version or Edition" value={{!!version.or.edition}} field="version.or.edition" />
+<$macrocall $name="linkrow" title="Volume Frequency" value={{!!volume.frequency}} field="volume.frequency" />
+<$macrocall $name="linkrow" title="Sector" value={{!!sector}} field="sector" />
+<$macrocall $name="linkrow" title="Tech Focus" value={{!!tech.focus}} field="tech.focus" />
+</table>
