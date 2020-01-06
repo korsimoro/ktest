@@ -1,5 +1,5 @@
-created:1578267625119
-modified:1578267625119
+created:1578297314436
+modified:1578297314436
 title:Community Resilience WG5
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Community Resilience WG5
-parent.org:iso/tc 292 security and resilience
+parent.org:ISO/TC 292 Security and Resilience
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"653f988a-8077-4043-bd05-e4b6430ddb61":{"to":"96b97bd8-8b1f-4069-8d99-ed13eaf8ef04","type":"organization-for-group"}}
-tmap.id:7de99967-58a3-4200-89a3-61f9cbbd41b0
+tmap.edges:{"a4caab14-3449-4eb4-aa02-a2712dc4f095":{"to":"12422902-a5a3-4e92-88eb-b49500ff7434","type":"organization-for-group"}}
+tmap.id:6770b29e-9b18-4c6b-86e5-71fc1eb20344
 url:
 
 

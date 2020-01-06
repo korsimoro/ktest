@@ -1,5 +1,5 @@
-created:1578267625234
-modified:1578267625234
+created:1578297314602
+modified:1578297314602
 title:Communication Group AHG1
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Communication Group AHG1
-parent.org:iso/tc 292 security and resilience
+parent.org:ISO/TC 292 Security and Resilience
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"a79eb90c-ccb7-4db5-82a0-c183398ebe13":{"to":"96b97bd8-8b1f-4069-8d99-ed13eaf8ef04","type":"organization-for-group"}}
-tmap.id:436196f0-fb06-493c-b404-a62e1de7f36d
+tmap.edges:{"748b66a4-939a-49f7-8160-573ec4662bfd":{"to":"12422902-a5a3-4e92-88eb-b49500ff7434","type":"organization-for-group"}}
+tmap.id:f35eb169-18ee-4702-a63e-73d59311febb
 url:
 
 

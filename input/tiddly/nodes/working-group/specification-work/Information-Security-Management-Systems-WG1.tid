@@ -1,5 +1,5 @@
-created:1578267624892
-modified:1578267624892
+created:1578297314213
+modified:1578297314213
 title:Information Security Management Systems WG1
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Information Security Management Systems WG1
-parent.org:iso/iec
+parent.org:ISO/IEC
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"a4ac152b-5fa5-469a-ac76-884adb5720bf":{"to":"6ac061fb-b1e9-4323-9a33-f600e0b41254","type":"organization-for-group"}}
-tmap.id:77880f5f-b6ba-45ba-9406-a973aa9eb085
+tmap.edges:{"fb55a60b-2139-4ee6-bb88-bc1deb338f0b":{"to":"f69420c6-0bfd-499f-8299-4dd3c5f565dc","type":"organization-for-group"}}
+tmap.id:cc0e1b56-07b9-4e4e-b990-d011cccea11d
 url:
 
 The scope of WG 1 covers the development of ISMS (Information Security Management System) standards and guidelines (see SC 27 N5114). This includes:

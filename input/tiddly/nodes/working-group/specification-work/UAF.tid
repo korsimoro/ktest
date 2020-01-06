@@ -1,5 +1,5 @@
-created:1578267625141
-modified:1578267625141
+created:1578297314512
+modified:1578297314512
 title:UAF
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:UAF
-parent.org:fido alliance
+parent.org:FIDO Alliance
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"6683405f-e613-49b7-86d7-f246f1a0661e":{"to":"4b030e5b-4256-4d47-803a-220da1b6262a","type":"organization-for-group"}}
-tmap.id:4c3c44a9-cccd-4651-8e4c-b544bcf7e4dd
+tmap.edges:{"1d3e9ba3-d1fd-47d8-bd9d-609cca5d6e54":{"to":"00f3c45c-d891-4b25-ad2b-a34e9f9729b4","type":"organization-for-group"}}
+tmap.id:d69c72b0-a509-499e-9859-f279a85a8187
 url:
 
 Passwordless UX (UAF)

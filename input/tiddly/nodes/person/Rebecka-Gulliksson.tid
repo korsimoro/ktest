@@ -1,5 +1,5 @@
-created:1578267627816
-modified:1578267627816
+created:1578297317242
+modified:1578297317242
 title:Rebecka Gulliksson
 type:text/vnd.tiddlywiki
 element.type:person
@@ -9,8 +9,8 @@ location:
 name:Rebecka Gulliksson
 organization:
 tags:
-tmap.edges:{"6576c03b-8f22-47c2-9bca-b51abc962d08":{"to":"8618f2ec-4403-4a98-a23d-b72cdf760acf","type":"author"},"fc63b326-2481-4ca9-8465-bd715974c7d4":{"to":"c7be263e-a587-46ea-ae66-d0c4311ef9e2","type":"employee"}}
-tmap.id:dc0b6273-6fb2-40f2-a727-5606efb30461
+tmap.edges:{"8d28e8a2-11eb-4b67-9080-fec716168c2e":{"to":"8dd676e4-3e16-4626-9ebb-c622c1f2f5ad","type":"author"},"2b60c5bc-3fe8-4984-8767-e97085f94ced":{"to":"0eacc867-d5ba-4398-89ef-a8ed280315ca","type":"employee"}}
+tmap.id:9a794e4a-567a-491a-b898-a205d5b51e35
 twitter.profile:
 website:
 working.group:

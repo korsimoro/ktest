@@ -1,5 +1,5 @@
-created:1578267626154
-modified:1578267626154
+created:1578297315518
+modified:1578297315518
 title:Identification cards – Contactless integrated circuit(s) cards – Proximity integrated circuit(s) cards (14443)
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:Contactless Integrated Circuit(s) cards WG8
 tags:
 tech.focus:
-tmap.edges:{"25af690c-2264-4c15-aa2a-912e4357f5f9":{"to":"7036e490-2874-40ac-8f5c-13490cca49a1","type":"specification-of-group"}}
-tmap.id:3f0b0ec9-53e2-47bd-bd00-4aaa7e76529d
+tmap.edges:{"bc5bbc62-9390-4166-8fd1-650650bdfa77":{"to":"32c9e6c1-2546-4230-8e8e-b8a12e0fc9d9","type":"specification-of-group"}}
+tmap.id:cfb2707e-ae01-44bb-83f8-c3eceaeaa454
 url:
 version.or.edition:
 volume.frequency:

@@ -1,5 +1,5 @@
-created:1578267625501
-modified:1578267625501
+created:1578297314858
+modified:1578297314858
 title:Financial Transaction Cards WG7
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Financial Transaction Cards WG7
-parent.org:iso/iec jtc1/sc17
+parent.org:ISO/IEC JTC1/SC17
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"4b1b7cbf-768f-40d6-8e04-78d5f0e037c2":{"to":"8b2e28ce-2000-4eb5-9a72-98d54b15f268","type":"organization-for-group"}}
-tmap.id:075e9054-d88c-4cae-9823-17a543d93d6f
+tmap.edges:{"76b1b211-197d-4103-8a14-4dcaf5ba3696":{"to":"27f9f500-0b73-41dc-aed7-b02ef8555d4d","type":"organization-for-group"}}
+tmap.id:a568b4d4-2f7d-482e-bb37-73bb7b163503
 url:
 
 To maintain and revise where necessary, ISO/IEC 4909 and ISO/IEC 7813.

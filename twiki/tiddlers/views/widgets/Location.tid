@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
     <$reveal type="match" state="!!location(s)" text="">
       Click to provide location Info
     </$reveal>
-    <$reveal type="nomatch" state="!!location(s)s" text="">
+    <$reveal type="nomatch" state="!!location(s)" text="">
       Location: {{!!location(s)}}
     </$reveal>
   </$button>

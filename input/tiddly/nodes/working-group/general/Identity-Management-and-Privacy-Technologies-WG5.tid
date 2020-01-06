@@ -1,5 +1,5 @@
-created:1578267625317
-modified:1578267625317
+created:1578297314674
+modified:1578297314674
 title:Identity Management and Privacy Technologies WG5
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Identity Management and Privacy Technologies WG5
-parent.org:future of identity in the information society (fidis)
+parent.org:Future of Identity in the Information Society (FIDIS)
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"fc90bd76-3fe4-46b3-a59d-74a9a801311f":{"to":"6ac061fb-b1e9-4323-9a33-f600e0b41254","type":"organization-for-group"}}
-tmap.id:56b08935-927c-4a3b-bfa1-d0bbcfecc6e6
+tmap.edges:{"e0746eab-0c17-424b-a7c6-73a208d0e6cc":{"to":"f69420c6-0bfd-499f-8299-4dd3c5f565dc","type":"organization-for-group"}}
+tmap.id:4264e2a9-3135-402c-9fc2-265e9ce4e126
 url:
 
 The terms of reference of this working group are:

@@ -1,5 +1,5 @@
-created:1578267624946
-modified:1578267624946
+created:1578297314271
+modified:1578297314271
 title:eServices
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:eServices
-parent.org:secure identity alliance
+parent.org:Secure Identity Alliance
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"9323aafa-b3a4-4746-9feb-06f42b2c620f":{"to":"91c359b3-74a6-4ef1-a2f1-64b9db9fd55a","type":"organization-for-group"}}
-tmap.id:9c3f3a2e-e229-4c33-a0fa-6930f00d209f
+tmap.edges:{"5d4cc6ee-00d8-4026-93b7-7e43e8ead258":{"to":"e311fcd1-7850-4738-9baf-fbd90805126c","type":"organization-for-group"}}
+tmap.id:8f40566a-3a71-4f23-a063-e9955aafb6ac
 url:
 
 

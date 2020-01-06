@@ -1,5 +1,5 @@
-created:1578267624933
-modified:1578267624933
+created:1578297314256
+modified:1578297314256
 title:eBorders
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:eBorders
-parent.org:secure identity alliance
+parent.org:Secure Identity Alliance
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"d0900f4a-d9fb-4df4-8dc8-189872842c31":{"to":"91c359b3-74a6-4ef1-a2f1-64b9db9fd55a","type":"organization-for-group"}}
-tmap.id:d752e80f-a8b5-420b-a992-fc48ac92ba40
+tmap.edges:{"28c1f803-f8be-4eed-9f5c-7f2412d56202":{"to":"e311fcd1-7850-4738-9baf-fbd90805126c","type":"organization-for-group"}}
+tmap.id:e5b81bf8-568d-4cbe-9611-b472fcb84b48
 url:
 
 

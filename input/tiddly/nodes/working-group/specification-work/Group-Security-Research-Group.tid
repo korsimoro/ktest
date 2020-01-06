@@ -1,5 +1,5 @@
-created:1578267625396
-modified:1578267625396
+created:1578297314703
+modified:1578297314703
 title:Group Security Research Group
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Group Security Research Group
-parent.org:ietf
+parent.org:IETF
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"39abc61e-9f4c-4a27-94e9-a8d2213652a6":{"to":"27c53b44-7973-44c7-847d-a3a54982cea3","type":"organization-for-group"}}
-tmap.id:9005e1b1-758d-484a-8cfb-dbf409913d9e
+tmap.edges:{"5f1a33be-c496-4bda-9c27-61446f561584":{"to":"7c586930-5efb-4999-9332-10a959176859","type":"organization-for-group"}}
+tmap.id:ff5dea1d-6fb3-44cf-b8ab-68bee2d6e24a
 url:
 
 

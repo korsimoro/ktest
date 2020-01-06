@@ -1,5 +1,5 @@
-created:1578267625563
-modified:1578267625563
+created:1578297314934
+modified:1578297314934
 title:ID4D
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:ID4D
-parent.org:secure identity alliance
+parent.org:Secure Identity Alliance
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"921e34c3-71a6-4e7e-b93d-49a00ac44c22":{"to":"91c359b3-74a6-4ef1-a2f1-64b9db9fd55a","type":"organization-for-group"}}
-tmap.id:5908269d-61df-46d8-b49f-318b26ce1e2e
+tmap.edges:{"d79763c5-49f5-4ea8-8992-7308fab0e313":{"to":"e311fcd1-7850-4738-9baf-fbd90805126c","type":"organization-for-group"}}
+tmap.id:e62befb1-b7ca-4d2f-9710-0a740f43da14
 url:
 
 

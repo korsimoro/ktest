@@ -1,24 +1,24 @@
-created:1578267629720
-modified:1578267629720
-title:Future Security: Security Research Conference
-type:text/vnd.tiddlywiki
-audience:
-category:[[to be determined]]
-date:
-element.type:event
-frequency:
-github.profile:
-host.organization:Fraunhofer Group for Defense and Security VVS
-location(s):
-name:Future Security: Security Research Conference
-partners:
-people:
-relevant.publications:
-tags:[[europe]]
-tmap.edges:{}
-tmap.id:e051bc49-a61e-4af1-9a10-fde7c1e47d71
-website:http://www.future-security2016.de
-working.group:
+audience: 
+category: [[to be determined]]
+created: 15800712192505000
+date: 
+element.type: event
+frequency: 
+github.profile: 
+host.organization: Fraunhofer Group for Defense and Security VVS
+location(s): 
+modified: 20200106103110695
+name: Future Security: Security Research Conference
+partners: 
+people: [[mark latonero]]
+relevant.publications: 
+tags: europe
+title: Future Security: Security Research Conference
+tmap.edges: {}
+tmap.id: 139121d7-d834-414a-894c-c2e9a5d6c6e6
+type: text/vnd.tiddlywiki
+website: http://www.future-security2016.de
+working.group: 
 
 »Sensor Systems for Safety and Security«
 In most industrialized countries, in particular within Europe, a high level of both safety and security has been reached. However, it becomes increasingly challenging to maintain or to increase this standard even further, given the great challenges and current threats Europe is facing. Upholding and restoring the necessary level of safety and security we are accustomed to requires the development and implementation of innovative technical solutions such as intelligent sensing systems and sensor networks. These hold the promise that hazards and threats can be detected early enough to avoid severe adverse impact, while still allowing people to travel and move freely as well as maintaining free trade and circulation of goods.

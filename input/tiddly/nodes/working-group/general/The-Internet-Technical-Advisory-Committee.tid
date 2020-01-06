@@ -1,5 +1,5 @@
-created:1578267625030
-modified:1578267625030
+created:1578297314356
+modified:1578297314356
 title:The Internet Technical Advisory Committee
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:The Internet Technical Advisory Committee
-parent.org:oecd (the organisation for economic co-operation and development)
+parent.org:OECD (The Organisation for Economic Co-operation and Development)
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"9e42cd32-dd6c-4966-a4ec-9408fe96fe2a":{"to":"aa7e11a9-d99b-45fd-989f-8d2ae7b1eefb","type":"organization-for-group"},"e98e4160-6cb5-4b37-acf6-257474cf29a7":{"to":"3952b150-3334-47e3-a61f-d069228f4a17","type":"connection"},"0e20d30b-7ca4-42ca-9617-a741b2a3a13d":{"to":"96d972c2-2d1a-4bf6-a514-b689c1cc7065","type":"author"},"b990bb10-29bb-46fc-a83b-8cc6789fd015":{"to":"586ab439-d34c-46f4-a4a4-d6868570d8d5","type":"convenor"}}
-tmap.id:be2e7b9e-61e6-4164-846e-edd0cefff33e
+tmap.edges:{"a31e8ec1-7248-42cc-94fe-fe8aed160366":{"to":"22ec7438-46b9-43ac-b10e-9d7f65b64875","type":"organization-for-group"},"eadd89f5-dc49-421f-a3fc-5255a226a579":{"to":"b0f0405d-6ade-4ebd-bbb9-3b8d5451565f","type":"connection"},"f76400f9-242b-4e11-8208-6eb769137f16":{"to":"dff57e7c-50a8-4791-a714-2290d269b7a7","type":"author"},"9484a713-1e93-42ea-b097-24a5540dfdf3":{"to":"04dce2c3-276a-4e17-8441-b35434b05b60","type":"convenor"}}
+tmap.id:da480a8b-7891-4627-bd77-251d27cdb26d
 url:http://www.internetac.org
 
 Building together the future economy and society supported by the Internet

@@ -19,8 +19,8 @@ export const inbound : any = {
     "me2b": mappers.me2b_set_subtype_and_array_field('Category')
   },
   "Parent Org" : {
-    "kumu": mappers.string('Parent Org'),
-    "me2b": mappers.csv_value('Parent Org')
+    "kumu": mappers.directString('Parent Org'),
+    "me2b": mappers.direct_csv_value('Parent Org')
   },
   "People" : {
     "kumu": mappers.default(''),

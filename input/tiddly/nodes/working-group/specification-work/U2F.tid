@@ -1,5 +1,5 @@
-created:1578267625634
-modified:1578267625634
+created:1578297315007
+modified:1578297315007
 title:U2F
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:U2F
-parent.org:fido alliance
+parent.org:FIDO Alliance
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"c2854680-56ed-4c2b-ace8-c1a840f05daa":{"to":"4b030e5b-4256-4d47-803a-220da1b6262a","type":"organization-for-group"}}
-tmap.id:fbbc5090-effb-41a5-80da-17bc55f20831
+tmap.edges:{"b540af87-b487-4a25-af69-44145d9024df":{"to":"00f3c45c-d891-4b25-ad2b-a34e9f9729b4","type":"organization-for-group"}}
+tmap.id:17180bb6-6222-4b73-8e9b-5fde45b4e0e5
 url:
 
 Second Factor UX (U2F)

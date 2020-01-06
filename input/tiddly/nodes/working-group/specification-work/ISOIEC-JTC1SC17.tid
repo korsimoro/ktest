@@ -1,5 +1,5 @@
-created:1578267625640
-modified:1578267625640
+created:1578297315014
+modified:1578297315014
 title:ISO/IEC JTC1/SC17
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:ISO/IEC JTC1/SC17
-parent.org:iso/iec
+parent.org:ISO/IEC
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"e4a69e57-2b38-478b-92ba-9dd92294b1a7":{"to":"03f3bbec-4e70-4881-91c8-101e120d64ab","type":"organization-for-group"}}
-tmap.id:8b2e28ce-2000-4eb5-9a72-98d54b15f268
+tmap.edges:{"fa5f1521-33cd-44f3-9d64-6f60405d15f8":{"to":"854a67b6-7e90-4867-a955-1201b402e467","type":"organization-for-group"}}
+tmap.id:27f9f500-0b73-41dc-aed7-b02ef8555d4d
 url:http://www.sc17.com/
 
 ISO/IEC JTC1 has accordingly developed and maintains its own procedures.

@@ -1,5 +1,5 @@
-created:1578267625225
-modified:1578267625225
+created:1578297314591
+modified:1578297314591
 title:Network Working Group
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Network Working Group
-parent.org:ietf
+parent.org:IETF
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"8c3ded16-a730-4f50-b9f5-f7b190e463c4":{"to":"27c53b44-7973-44c7-847d-a3a54982cea3","type":"organization-for-group"}}
-tmap.id:a54120ba-8e8f-4bdb-bb72-a22142cdff83
+tmap.edges:{"379b732e-732a-4ccd-ae61-d67ccd3692bd":{"to":"7c586930-5efb-4999-9332-10a959176859","type":"organization-for-group"}}
+tmap.id:1e68e2a2-4770-4e8f-9504-55095eb542d5
 url:
 
 

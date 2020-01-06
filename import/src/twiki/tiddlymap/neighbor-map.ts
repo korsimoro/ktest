@@ -123,14 +123,14 @@ export class NeighborMap implements TiddlyMap {
 	      // <- less stiff edges - 0 - stiffer edges ->
 	      springConstant: 0.05, // default: 0.08
 	      // pulls the entire network back to the center.
-	      centralGravity: 3.92, // default: 0.01
+	      centralGravity: 0.01, // default: 0.01
 	      // kinetic energy reduction
 	      damping: 0.4
 	    },
 	    solver: 'forceAtlas2Based',
 	    stabilization: {
 	      enabled: false,
-	      iterations: 5,
+	      iterations: 1000,
 	      updateInterval: 10,
 	      onlyDynamicEdges: false,
 	      fit: true

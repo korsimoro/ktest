@@ -35,6 +35,12 @@ export const mappers:any = {
     }
     return mapper
   },
+  directString(colName:string,dflt:string = '') {
+    function mapper(elt:KumuElement,schema:SchemaPropertyDef):string {
+      return (elt.fields[colName] || dflt).trim()
+    }
+    return mapper
+  },
   string(colName:string,dflt:string = '') {
     function mapper(elt:KumuElement,schema:SchemaPropertyDef):string {
       return (elt.fields[colName] || dflt).trim().toLowerCase()
@@ -122,6 +128,19 @@ export const mappers:any = {
   default(value:string) {
     function mapper(elt:KumuElement,schema:SchemaPropertyDef):string {
       return value
+    }
+    return mapper
+  },
+  direct_csv_value(column_name:string) {
+    function mapper(elt:Me2BElement,schema:SchemaPropertyDef):string|string[] {
+      const colname = elt.model.slugify(column_name)
+      const val = elt.slugmap[colname] || ''
+      //console.log("Running Mapper",me2b_slugify(column_name),val,Object.keys(elt.slugmap))
+      if(val)
+        console.log("CSV-VALUE",elt.type,elt.title,"/",colname,":",val)
+      else
+        console.log("CSV-EMPTY",colname)
+      return val
     }
     return mapper
   },

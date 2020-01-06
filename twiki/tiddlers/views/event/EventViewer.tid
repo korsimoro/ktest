@@ -24,6 +24,7 @@ type: text/vnd.tiddlywiki
   <li>{{||Location}}</li>
   <li>{{||$:/twiki/event/Date}}</li>
   <li>{{||OrganizationFunding}}</li>
+  <li>{{||$:/twiki/event/Frequency}}</li>
 </ul>
 
 <<EditTagLikeList people "People" wikify>>
@@ -33,5 +34,4 @@ type: text/vnd.tiddlywiki
 
 <table>
 <$macrocall $name="linkrow" title="Partners" value={{!!partners}} field="partners" />
-<$macrocall $name="linkrow" title="Frequency" value={{!!frequency}} field="frequency" />
 </table>

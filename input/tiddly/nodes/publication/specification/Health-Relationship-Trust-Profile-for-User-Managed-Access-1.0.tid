@@ -1,5 +1,5 @@
-created:1578267625995
-modified:1578267625995
+created:1578297315363
+modified:1578297315363
 title:Health Relationship Trust Profile for User Managed Access 1.0
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:HEART Working Group
 tags:
 tech.focus:
-tmap.edges:{"76671d5d-9a40-4637-bb08-6ca47f3343db":{"to":"0f0884fd-4a25-470b-aa5b-281533da1a42","type":"specification-of-group"}}
-tmap.id:773f07b3-a5ce-42f8-92be-55924f3aa05b
+tmap.edges:{"e4c8c03c-93af-4c5a-9b7e-fda907ed047a":{"to":"ab180199-31cd-47dd-86f5-3217eda1b097","type":"specification-of-group"}}
+tmap.id:224d1c3f-e1f1-44ef-b282-39cdba0e8c37
 url:http://openid.bitbucket.org/heart/openid-heart-uma.html
 version.or.edition:
 volume.frequency:

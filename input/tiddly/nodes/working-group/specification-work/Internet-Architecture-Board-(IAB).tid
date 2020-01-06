@@ -1,5 +1,5 @@
-created:1578267625305
-modified:1578267625305
+created:1578297314609
+modified:1578297314609
 title:Internet Architecture Board (IAB)
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Internet Architecture Board (IAB)
-parent.org:ietf
+parent.org:IETF
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"beca8475-f0f9-44f7-aa2c-bee0295b249d":{"to":"469ebf44-e8d7-4c3f-afd2-8b19878c4d5e","type":"connection"},"e39f9f0f-221e-45a2-acc3-97057f196e7c":{"to":"be2e7b9e-61e6-4164-846e-edd0cefff33e","type":"general-member"},"194a98ca-98e7-4a99-81e5-26b9333c7a94":{"to":"27c53b44-7973-44c7-847d-a3a54982cea3","type":"organization-for-group"}}
-tmap.id:49d9ac88-4b39-4096-b4fa-726275232497
+tmap.edges:{"2fc73a9e-cc7b-4f4c-8acb-28ce783e0c1e":{"to":"0af1af99-4cab-4cb5-9c55-a8b10b06a49c","type":"connection"},"70010fb4-2529-4815-945a-2d3ce04d091a":{"to":"da480a8b-7891-4627-bd77-251d27cdb26d","type":"general-member"},"b2e42e6d-39ae-45de-9269-3d8bb7b13029":{"to":"7c586930-5efb-4999-9332-10a959176859","type":"organization-for-group"}}
+tmap.id:9419d9df-2384-4b07-90e7-342c110cc4f6
 url:https://www.iab.org
 
 The Internet Architecture Board provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.

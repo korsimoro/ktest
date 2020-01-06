@@ -1,5 +1,5 @@
-created:1578267625546
-modified:1578267625546
+created:1578297314867
+modified:1578297314867
 title:Continuity and Organizational Resilience WG2
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Continuity and Organizational Resilience WG2
-parent.org:iso/tc 292 security and resilience
+parent.org:ISO/TC 292 Security and Resilience
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"cb9f1095-f7ed-4e55-a9eb-a7296aab0ced":{"to":"96b97bd8-8b1f-4069-8d99-ed13eaf8ef04","type":"organization-for-group"}}
-tmap.id:26952d41-3a1e-4661-b316-933c2586fbfa
+tmap.edges:{"9f052d7e-a533-42f5-be1b-46a6bc76fab1":{"to":"12422902-a5a3-4e92-88eb-b49500ff7434","type":"organization-for-group"}}
+tmap.id:375b21d1-3ebc-44a8-80d3-82ff4083820b
 url:
 
 

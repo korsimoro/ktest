@@ -1,5 +1,5 @@
-created:1578267626331
-modified:1578267626331
+created:1578297315708
+modified:1578297315708
 title:OpenID Connect Front-Channel Logout 1.0
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:AB/Connect Working Group
 tags:
 tech.focus:
-tmap.edges:{"aefa2b3c-b541-4a58-b3db-366da97a4dc0":{"to":"fe99bace-121a-4bf3-babb-519ea54ccd4f","type":"specification-of-group"}}
-tmap.id:679f69e5-86fb-4299-b3b7-fb62a9b5dabd
+tmap.edges:{"bd83ac6a-e948-420b-b1fa-4a1745db6929":{"to":"12b7634a-f4e2-41fb-8848-40f60dd98ef4","type":"specification-of-group"}}
+tmap.id:99d74881-d986-4815-ad20-d41f85a429ba
 url:http://openid.net/specs/openid-connect-frontchannel-1_0.html
 version.or.edition:
 volume.frequency:

@@ -1,5 +1,5 @@
-created:1578267629820
-modified:1578267629820
+created:1578297319352
+modified:1578297319352
 title:Online Identity
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Online Identity
-parent.org:internet society isoc
+parent.org:Internet Society ISOC
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"37333ab5-cfd5-4263-bfd5-253eaa235865":{"to":"9e6c3e80-e24e-43a1-86bb-e576b22b2662","type":"specification-of-group"},"6d0e674d-efb0-475f-a48e-13cc98e4d1ef":{"to":"bfcf3d43-7947-449c-b39e-6347013d82f8","type":"author"},"044afae7-e94c-4cc3-92d1-b822766273e9":{"to":"69c5f6c9-746d-4c76-a32a-76f555f3a6d1","type":"author"},"e1a230e0-85fc-4219-a0d8-fbe7be9a1ad0":{"to":"e6aec8b4-55ad-4dd7-baa4-c0b5fcf36e29","type":"author"}}
-tmap.id:ae6d833c-fd08-4458-8e37-7172db26ce12
+tmap.edges:{"649940db-1090-414d-92b8-9a3eec5bf195":{"to":"2344abd4-d71a-4c8b-9686-5b04290c3105","type":"specification-of-group"},"0c963a31-786d-408c-ab5d-3818d9bb2ee3":{"to":"5791781c-4411-4646-9f95-0276bf57cab8","type":"author"},"aa2e9dc4-a58f-4c67-935e-5aedab4bb792":{"to":"6153e77c-eefc-43f3-be38-d97c011d32da","type":"author"},"3f108924-80e8-4967-bebc-b5890dfc2c25":{"to":"864405fa-a987-4d97-a982-2b6436acbb8f","type":"author"}}
+tmap.id:651fb7b0-348a-4dad-bc3c-dc633bdf236c
 url:http://www.internetsociety.org/what-we-do/internet-issues/online-identity
 
 The Internet Society works in both the technical and policy arenas to support the development of tools and policies that empower people to manage their online identities.

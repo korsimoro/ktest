@@ -1,5 +1,5 @@
-created:1578267625329
-modified:1578267625329
+created:1578297314689
+modified:1578297314689
 title:Native Applications Working Group
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Native Applications Working Group
-parent.org:openid foundation
+parent.org:OpenID Foundation
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"9a3c7609-75dd-4971-929d-df3af349125f":{"to":"340b6eca-2117-4117-9769-b828f64d754f","type":"organization-for-group"}}
-tmap.id:4ad7da67-e640-4a30-9914-b095bbeaaa10
+tmap.edges:{"09b4aa5f-cbe9-4032-b754-b032e5e97e4d":{"to":"ad236f55-5ab2-4762-a103-c1bad7cd16db","type":"organization-for-group"}}
+tmap.id:edb30b8f-9a85-480f-b960-38299b107856
 url:
 
 

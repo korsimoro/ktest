@@ -1,5 +1,5 @@
-created:1578267627042
-modified:1578267627042
+created:1578297316468
+modified:1578297316468
 title:National Strategy for Trusted Identities in Cyberspace
 type:text/vnd.tiddlywiki
 audience:
@@ -17,8 +17,8 @@ sector:
 sponsoring.org:White House - Office of Science and Technology Policy
 tags:
 tech.focus:
-tmap.edges:{"def2ed69-87c1-4154-8557-3f04ab653bce":{"to":"0d525451-bc12-45fa-8d28-9aa1aadcd359","type":"connection"},"60e368ed-2b8e-4594-8b4e-03bbd76fb8cb":{"to":"06a62fc7-fe9a-4bcb-bca3-f229f347cac0","type":"connection"}}
-tmap.id:c03cdb3e-e29b-4b8f-aaec-391e8546776c
+tmap.edges:{"54203805-6162-4306-8a0d-ccd39dc07d52":{"to":"5f03529d-c473-4a99-b2ad-8c74841b6ddb","type":"connection"},"b3f3c151-4f9b-4be5-808a-c62368d50131":{"to":"a2c1da4d-4161-4c38-8e37-8ff5c7edcd58","type":"connection"}}
+tmap.id:56c30938-480f-458a-8a51-619fcc782848
 url:
 version.or.edition:
 volume.frequency:

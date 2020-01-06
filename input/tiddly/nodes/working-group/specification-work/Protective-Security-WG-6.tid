@@ -1,5 +1,5 @@
-created:1578267625024
-modified:1578267625024
+created:1578297314348
+modified:1578297314348
 title:Protective Security WG 6
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Protective Security WG 6
-parent.org:iso/iec jtc1/sc17
+parent.org:ISO/IEC JTC1/SC17
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"52e1d641-56e2-46a1-9811-31cab0f0c728":{"to":"96b97bd8-8b1f-4069-8d99-ed13eaf8ef04","type":"organization-for-group"}}
-tmap.id:1cd25587-66fd-4441-a100-e9b85713886b
+tmap.edges:{"5a0bfe33-2dd7-4807-a080-4382d708dc92":{"to":"12422902-a5a3-4e92-88eb-b49500ff7434","type":"organization-for-group"}}
+tmap.id:b1adeac7-b6ea-4dc3-9be8-7f2123048da3
 url:
 
 

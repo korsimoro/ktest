@@ -1,5 +1,5 @@
-created:1578267625327
-modified:1578267625327
+created:1578297314687
+modified:1578297314687
 title:Multicast Security (MSEC)
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Multicast Security (MSEC)
-parent.org:ietf
+parent.org:IETF
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"013a5503-24a7-418f-8934-6cb975301074":{"to":"27c53b44-7973-44c7-847d-a3a54982cea3","type":"organization-for-group"}}
-tmap.id:35392991-ba5c-490c-9ffb-0dfe9108aa7a
+tmap.edges:{"89ddde6c-330e-4402-8df1-b64a0db25818":{"to":"7c586930-5efb-4999-9332-10a959176859","type":"organization-for-group"}}
+tmap.id:69a9823b-daf5-4b86-822b-c89c2a277d5b
 url:
 
 

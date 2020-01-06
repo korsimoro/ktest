@@ -1,5 +1,5 @@
-created:1578267625549
-modified:1578267625549
+created:1578297314870
+modified:1578297314870
 title:eDocuments
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:eDocuments
-parent.org:secure identity alliance
+parent.org:Secure Identity Alliance
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"43c4fcfd-ca25-498c-aed8-eb3b62ded826":{"to":"91c359b3-74a6-4ef1-a2f1-64b9db9fd55a","type":"organization-for-group"}}
-tmap.id:c76afdec-5ada-4657-85ad-85389a4ad875
+tmap.edges:{"9b667e01-cbed-49e4-8d62-f5a45bc5f611":{"to":"e311fcd1-7850-4738-9baf-fbd90805126c","type":"organization-for-group"}}
+tmap.id:f73ebfba-b87f-4aca-b3a7-6a6f884f48bf
 url:
 
 

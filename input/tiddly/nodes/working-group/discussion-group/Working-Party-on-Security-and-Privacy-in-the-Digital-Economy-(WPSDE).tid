@@ -1,5 +1,5 @@
-created:1578267629874
-modified:1578267629874
+created:1578297319415
+modified:1578297319415
 title:Working Party on Security and Privacy in the Digital Economy (WPSDE)
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Working Party on Security and Privacy in the Digital Economy (WPSDE)
-parent.org:oecd (the organisation for economic co-operation and development)
+parent.org:OECD (The Organisation for Economic Co-operation and Development)
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"8fb3ed45-c78b-40b5-a02b-3e3dae40e47e":{"to":"a21fbe2b-f6e5-48c0-8f63-aab786d0ca65","type":"convenor"},"fdf80c24-1796-4eec-b8f2-9b0b7112052e":{"to":"3952b150-3334-47e3-a61f-d069228f4a17","type":"specification-of-group"}}
-tmap.id:b267f7da-1c9d-4552-a5aa-c3e7fa69579a
+tmap.edges:{"90dfcbe5-36be-4408-92ee-19d7df20e5a9":{"to":"6f1950c5-997f-4623-afa9-bf33e25a5181","type":"convenor"},"121dafc1-549f-4b67-a0d0-cf421522666f":{"to":"b0f0405d-6ade-4ebd-bbb9-3b8d5451565f","type":"specification-of-group"}}
+tmap.id:140d81e7-44f6-445b-83e2-7dc5d9d80c52
 url:
 
 

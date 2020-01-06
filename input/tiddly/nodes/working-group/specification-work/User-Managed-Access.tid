@@ -1,5 +1,5 @@
-created:1578267624928
-modified:1578267624928
+created:1578297314220
+modified:1578297314220
 title:User Managed Access
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:User Managed Access
-parent.org:kantara
+parent.org:Kantara
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"eb5f5aed-d69d-4cc9-b1e3-855fd35644e6":{"to":"a22de904-db63-43c6-867f-b7e06d59f0bf","type":"organization-for-group"}}
-tmap.id:bf7e2d22-c42d-43ea-84c6-625b544df4ff
+tmap.edges:{"851ef5fe-7886-4b0a-b0a3-d3b5cb2bc484":{"to":"077cd5fe-19c3-49ef-9766-6762eb0f1fbd","type":"organization-for-group"}}
+tmap.id:da2a34be-a43f-4a07-b706-c9c8c93808c0
 url:https://kantarainitiative.org/confluence/display/uma/home
 
 User-Managed Access (UMA) is an award-winning OAuth-based protocol designed to give a web user a unified control point for authorizing who and what can get access to their online personal data, content, and services, no matter where all those things live on the web.

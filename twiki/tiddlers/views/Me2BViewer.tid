@@ -1,7 +1,7 @@
 title: $:/core/ui/ViewTemplate/me2b
 tags: $:/tags/ViewTemplate
 
-
+{{||$:/core/ui/ViewTemplate/enhancedTags/hold}}
 <$reveal type="match" default={{!!element.type}} text="">
   {{||$:/core/ui/ViewTemplate/body}}
 </$reveal>

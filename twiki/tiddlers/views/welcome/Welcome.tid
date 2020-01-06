@@ -1,7 +1,7 @@
 created: 20191201134710530
-editing.title: 
+editing.title:
 modified: 20200106002402893
-tags: 
+tags:
 title: Welcome
 tmap.id: 670904c8-0239-4459-a2dc-e5ce7823e439
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 <u>Master Lists By Category</u><br />
 <ul>
 <li> [[Event List]] </li>
-<li> [[Publications List]] </li>
+<li> [[Publication List]] </li>
 <li> [[Working Group List]] </li>
 <li> [[People List]] </li>
 <li> [[Product and Project List]] </li>

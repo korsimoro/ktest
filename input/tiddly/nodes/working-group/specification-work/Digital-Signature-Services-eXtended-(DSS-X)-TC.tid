@@ -1,5 +1,5 @@
-created:1578267625047
-modified:1578267625047
+created:1578297314373
+modified:1578297314373
 title:Digital Signature Services eXtended (DSS-X) TC
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Digital Signature Services eXtended (DSS-X) TC
-parent.org:oasis
+parent.org:OASIS
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"77867c47-5369-4e99-9f65-c9c4f245e0a9":{"to":"6619db48-636e-4771-8475-d5e19135dd0a","type":"organization-for-group"}}
-tmap.id:1b5ff4e0-1584-4eec-a23a-1f3b7fef4542
+tmap.edges:{"619fdfd1-0796-4e5b-a8ea-cfef90b3c48b":{"to":"337dc180-8f2a-4bbc-8757-89dc6fb98bb4","type":"organization-for-group"}}
+tmap.id:94727f1f-bdc3-4d57-9820-fd71d679f751
 url:
 
 

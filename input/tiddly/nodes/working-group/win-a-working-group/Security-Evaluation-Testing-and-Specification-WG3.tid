@@ -1,5 +1,5 @@
-created:1578267625220
-modified:1578267625220
+created:1578297314586
+modified:1578297314586
 title:Security Evaluation, Testing and Specification WG3
 type:text/vnd.tiddlywiki
 activities:
@@ -12,14 +12,14 @@ github.profile:
 ipr:
 meeting.frequency:
 name:Security Evaluation, Testing and Specification WG3
-parent.org:iso/iec jtc1/sc17
+parent.org:ISO/IEC JTC1/SC17
 people:
 purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"0dbacada-ff50-4bf1-946b-6234dc39e87b":{"to":"6ac061fb-b1e9-4323-9a33-f600e0b41254","type":"organization-for-group"}}
-tmap.id:d36ecf17-9904-41a1-9eac-d0c14b3d79f7
+tmap.edges:{"03d5bbb1-b9e8-4f72-b061-60604f5e2f57":{"to":"f69420c6-0bfd-499f-8299-4dd3c5f565dc","type":"organization-for-group"}}
+tmap.id:2e1fb951-bdb4-4143-8c24-a21b8fc6bdbd
 url:
 
 The terms of reference of this working group are:
