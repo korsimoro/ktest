@@ -24,6 +24,19 @@ Publication of changes to GitHub triggers a regeneration of the site, which
 automatically updates all reports, search indices, and content using
 [GitHub Actions](https://github.com/features/actions).
 
+# Examples for Call
+
+* Looking at Activities and Organizations working on Compliance
+* Exploring Digital Harms
+  * tagging a product with a specific digital harm
+  * tagging an organization working on a specific digital harm
+  * viewing the changes
+* Brief exploration of wiki-structure
+  * General Purpose Graphs
+  * Master Lists
+  * Tag Navigation / Finder
+  * Entry specific graphs
+
 # Narratives in the process of being built.
 
 These are topics we will be addressing through a combination of prose,
