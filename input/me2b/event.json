@@ -78,5 +78,17 @@
         "Name": "Tech Equity Book Club",
         "Speakers": "Chair: David Snelling",
         "Website": "https://techequitycollaborative.org/events/book-club/"
+    },
+    {
+        "Name": "International Conference on Web and Social Media",
+        "Tags": "ICWSM",
+        "Website": "https://icwsm.org/"
+    },
+    {
+        "Name": "Data Governance Design Conference",
+        "Website": "https://www.governingdata.org/"
+    },
+    {
+        "Website": "\n"
     }
 ]

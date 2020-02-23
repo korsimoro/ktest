@@ -58,5 +58,11 @@
         "Parent Org": "GSMA",
         "URL": "https://www.gsma.com/aboutus/workinggroups/working-groups/sim-working-group/embedded-sim",
         "field8": "GSMA Working Groups"
+    },
+    {
+        "Description": "The mission of the W3C Credentials Community Group is to explore the creation, storage, presentation, verification, and user control of credentials. We focus on a verifiable credential (a set of claims) created by an issuer about a subject\u2014a person, group, or thing\u2014and seek solutions inclusive of approaches such as: self-sovereign identity; presentation of proofs by the bearer; data minimization; and centralized, federated, and decentralized registry and identity systems. Our tasks include drafting and incubating Internet specifications for further standardization and prototyping and testing reference implementations.",
+        "Label": "Credentials Community Group",
+        "Parent Org": "W3C",
+        "URL": "https://www.w3.org/community/credentials/"
     }
 ]

@@ -812,7 +812,6 @@
         "Github Profile": "https://github.com/privacypatterns",
         "Location(s)": "San Francisco Bay Area",
         "Org Name": "Privacy Patterns.org",
-        "Purpose": "enterprise support",
         "Sector": "academic",
         "Tags": "privacy",
         "Website": "https://privacypatterns.org/about/"
@@ -1157,7 +1156,7 @@
         "Location(s)": "European Union",
         "Org Name": "Next Generation Internet",
         "Org Type": "Government Department",
-        "Purpose": "tech interoperability: transparency",
+        "Purpose": "tech interoperability: transparency and accountability",
         "Scope": "regional",
         "Sector": "government",
         "Twitter Profile": "https://twitter.com/NGI4eu",
@@ -1606,6 +1605,7 @@
         "Website": "https://www.ieee.org/"
     },
     {
+        "About": "The Berkman Klein Center's mission is to explore and understand cyberspace; to study its development, dynamics, norms, and standards; and to assess the need or lack thereof for laws and sanctions.\n\nWe are a research center, premised on the observation that what we seek to learn is not already recorded. Our method is to build out into cyberspace, record data as we go, self-study, and share. Our mode is entrepreneurial nonprofit.",
         "Org Name": "Berkman Klein Center for Internet and Society at Harvard University",
         "Website": "https://cyber.harvard.edu/"
     },
@@ -1641,6 +1641,7 @@
         "Website": "https://metamatrix.se/"
     },
     {
+        "About": "MIT Computational Law",
         "Org Name": "MIT/Law",
         "Website": "http://web.mit.edu/law/"
     },
@@ -1656,6 +1657,7 @@
         "Website": "https://web.archive.org/web/20190214082741/http://privacycommons.org/"
     },
     {
+        "About": "Since its founding in 1701, Yale has been dedicated to expanding and sharing knowledge, inspiring innovation, and preserving cultural and scientific information for future generations.\n\nYale\u2019s reach is both local and international. It partners with its hometown of New Haven, Connecticut to strengthen the city\u2019s community and economy. And it engages with people and institutions across the globe in the quest to promote cultural understanding, improve the human condition, delve more deeply into the secrets of the universe, and train the next generation of world leaders.",
         "Org Name": "Yale",
         "Website": "https://www.yale.edu/"
     },
@@ -1887,18 +1889,249 @@
         "Website": "https://www.law.nyu.edu/"
     },
     {
-        "Org Name": "International Conference on Web and Social Media",
-        "Tags": "ICWSM",
-        "Website": "https://icwsm.org/"
-    },
-    {
-        "Org Name": "Data Governance Design Conference",
-        "Website": "https://www.governingdata.org/"
-    },
-    {
         "About": "Advancing Computing as a Science & Profession\n\nWe see a world where computing helps solve tomorrow\u2019s problems \u2013 where we use our knowledge and skills to advance the profession and make a positive impact.",
         "Org Name": "Association for Computing Machinery",
         "Tags": "ACM",
         "Website": "https://www.acm.org/"
+    },
+    {
+        "About": "It\u2019s time your data worked for you\n\n... as an individual, group or organization - and not solely for the profit of others. With Solid you have unprecedented control of your data. Create, manage and secure your own personal online data store (POD). You decide who accesses it. We call this \u201cpersonal empowerment through data\" and it\u2019s one of inrupt\u2019s founding principles.\nWhat if your apps all talked to each other?\n\nThat\u2019s what it\u2019ll feel like using apps built on Solid. Instead of relying on many discrete apps to run your life and business, use inrupt to find new customized, enriching and intelligent apps. Enhance your personal and business productivity in ways that today\u2019s web simply cannot handle.\nThe power of \u201cuniversal\u201d data\n\nSolid works across all data formats neutralizing data silos and incompatibility issues that limit innovation. The result? Find insights that previously were hidden, inaccessible or unimaginable - particularly valuable for enterprises.\nA world of new business opportunities\n\nInrupt creates a new ecosystem for commerce, a place where entrepreneurial developers can innovate and generate revenue, and trusted businesses provide ancillary products and services.",
+        "Org Name": "Inrupt",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://inrupt.com/"
+    },
+    {
+        "About": "We strive to facilitate transparency between the data owner and those that wish to use it, for whatever purpose. We deliver world class analytics and insights with actionable data, ensuring the best results for everyone at all times.",
+        "Org Name": "Mylife Digital",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://mylifedigital.co.uk/"
+    },
+    {
+        "About": "Before Vastuu Group was established, we were known as Suomen Tilaajavastuu. At that time, our operations focused especially on assisting companies in the construction sector to manage their social and statutory obligations. Therefore, responsibility and trust have, from the very beginning, been at the core of what we do.\n\nAlong the way we have grown into an operator that still offers these familiar services to companies in various fields, but that is also very much involved in the promotion of the digitalisation of the built-up environment. We want to make the data we have collected through our services available to everyone in order to enable easier development of the sector. We want to help our customers and cooperation partners become better decision-makers, constructors, residents, and consumers of the built-up environment, as well as to develop into a more responsible operator together with them.\n\nImagine a future where statutory requirements can be managed by a single click, building projects are completed on time, and no money is wasted on unnecessary work. We make this dream come true!\n\nWe believe that a more sustainable built-up environment means better living conditions for us all.\n\nAre you interested in creating a better future? Contact us, so we can do this together!",
+        "Org Name": "Vastuu Group",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://www.vastuugroup.fi/fi-fi/"
+    },
+    {
+        "About": "Platform of Trust harmonizes incompatible data coming from various sources, enabling it to be merged and utilized. Our platform reduces the need for integration significantly which does not only save time and money but reduces time-to-market span for services built on our platform.\n\nThe harmonized data can be used to create smarter services and more comprehensive analyses that lead to better decision-making and new business opportunities. We have built-in trust capabilities and We don\u2019t collect the data. Customer decides where the data is stored, who can use it, and for what purpose.",
+        "Org Name": "Platform of Trust",
+        "Parent Org": "Vastuu Group",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://www.platformoftrust.net/"
+    },
+    {
+        "About": "More and more people want to better understand their health status. MedMij ensures that anyone who so wishes has access to their health data in a personal health environment of their choice. This could be an app or a website, for example. To do this, such an app or site must be able to communicate securely with all the locations where the information is stored. These could be the healthcare information system of a hospital, the physician, the well-baby clinic or the pharmacy.\n\nMedMij is the standard in the Netherlands for the secure exchange of health data between care users and care providers. Anyone that meets MedMij\u2019s criteria may use the MedMij label below.\n\nThe MedMij label stands for the secure and reliable exchange of health data within MedMij\u2019s stringent parameters.\nThis label is available for apps, websites or personal health environments (PHE) that demonstrably meet MedMij\u2019s criteria. The label is also visible to health care providers or other healthcare professionals who exchange details through MedMij.",
+        "Org Name": "Medmij",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://www.medmij.nl/en/"
+    },
+    {
+        "About": "Powr of You\u00ae is a disruptive startup building your personal data marketplace. We have built an analytics platform that allows people to understand their online footprint and help them earn rewards from their data, all the while staying anonymous.\n\nSay what? Simply put: we believe in the power of one. We believe big data business isn't just for the big guys, it's for everyone. We want to create a transparent partnership with our fellow web junkies. All the hours you surf the web add up to create a huge emerging market, and that business is based on you!\n\nAs you browse the web, you're leaving a trail of cookie crumbs for business to find, and that's exactly what they do. This data market is valued at over 150 billion dollars annually, with strong forecasted growth in the future as more of our lives are connected through smart devices and wearable tech. We know that you, the individual user, should benefit from what you create and play an active role in your data. Our platform democratizes that data, allowing people, every single one, to join in on the big data bandwagon in all its glory.\n\nWith insights and cash incentives, we give you a new dialogue with your info and optimize your online experience. Our kickass dashboard helps you customize and centralize your online lifestyle; it's full of insightful, fun things you didn't know about your favorite social networks and apps! Log in, take a look around, and see for yourself. If you don't love it, tell us why and we'll work to make your experience the best it can be.",
+        "Org Name": "Powr of you",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://www.powrofyou.com/"
+    },
+    {
+        "About": "We do not think current form of computing, data-data flow is optimal for human society. It should be a common interest for all the human society to create an existence using the power of IT to support individual human information processing ability, that is, reception, recognition, memory, integration, analysis and expression of the information. Among the technical metabolism, that is, new divices, new representation techniques arising every year based on that interest, we strongly recognize the importance of a persistence layer mainly responsible for memory, in other words, an IT that keeps stablly existing throught individual human lifecycle. What is called PDS today is very close to this. And it had better be implemented in the abstracted layer 'Cloud' or Web API (as opposed to 'Client'), which is relatively free from the metabolism. Such IT for the human society, should not be put under the control of single corporate or individual, but be shared and co-created using the knowledge of many individual or corporate entities. For that to happen, that cloud technology should be open to all the corporates, organizations and individulals over the world. Our mission is to develop and keep evolving such software and grow and nourish the application ecosystem based on it.",
+        "Org Name": "Personium",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://personium.io/en/index.html"
+    },
+    {
+        "About": "Cozy is the first digital home on the market. It gives users an intelligent, decentralized and secure storage space that allows them to retrieve information via its connectors (photos, bank statements, operator invoices, e-merchants, etc.). This private and customizable environment is accessible from any device. In addition to storage, users have access to easy-to-use applications to automatically manage and organize their data. Cozy Cloud mission is part of the vision of an ethical digital.\n\nWhile the major platforms collect more and more personal data, a Cozy is a solution allowing the individual to take control: free software, self-hosting and protecting his data. The European economy needs a new paradigm to thrive. A platform like Cozy offers 'pre-digital' companies a new field of expression, beyond the reach of GAFA, for relevant interactions. This re-invents the customer relationship in the era of the RGPD with innovative and privacy-friendly services.",
+        "Org Name": "Cozy cloud",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://cozy.io/en/"
+    },
+    {
+        "About": "Realizing a world where consumers and businesses can use personal data fairly and with peace of mind\n\nToday, personal data is being collected and used to create new business opportunities one after another and generate significant profits.\nHowever, most of the activities are carried out by companies, and consumers who are supposed to own personal data can understand when their personal data is collected and how it is used. It's a difficult situation and you can't enjoy the benefits that you should have.\n\nDataSign has revolutionized this imbalance and launched to create a world where consumers and businesses alike can use personal data with peace of mind.\n\nOf course, it is not easy. It is a big challenge. However, DataSign members have outstanding achievements, experience, and skills in this field, and are steadily realizing their ideals with solid abilities and straightforward passion.",
+        "Org Name": "Datasign",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://datasign.jp/"
+    },
+    {
+        "About": "IRMA is produced and run by the Privacy by Design Foundation. In 2016 this foundation grew out of the Digital Security research group from Radboud University at Nijmegen, The Netherlands. It is an independent non-profit foundation. Since 2019 it has a strategic cooperation with (SIDN), the foundation that runs the .nl domain. This cooperation contributes to IRMA's stability and continuity.\n\nWith IRMA it is easy to log in and make yourself known, by disclosing only relevant attributes of yourself. For instance, in order to watch a certain movie online, you prove that you are older than 16, and nothing else.\n\nWith IRMA you can also sign documents digitally. You use only relevant attributes of yourselves in a digital stamp. In this way you can sign with IRMA as a medical doctor, or as citizen, or in some other role.\n\nData in IRMA come from trusted sources and are cryptographically protected. Thus, the attributes that you disclose to make yourself known are genuine and are really about you.",
+        "Org Name": "Irma",
+        "Parent Org": "Privacy By Design",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://irma.app/"
+    },
+    {
+        "About": "We help companies become customer centric\n\n \n\n \n\nWhat we do for Business : improve Marketing ROI, innovate fast and build GDPR Ready trust relations with consumers by leveraging personal data.\n\n#LeanEnterprise #growthhacking #personaldata #privacy #happystartup\n\n \n\n \n\nfor Consumers : We believe that consumer data is the property of the consumer and should be treated that way, with respect and for the benefit of the consumer, helping them pursue and achieve their own goals. By turning consumer data into a service it\u2019s possible to get better deals based on your data, while building trust \u2013 because now the consumer is in control.\n\n#Personalcloud#TrustFramework#lifemanagement",
+        "Org Name": "Datamixer",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "http://www.datamixer.be/"
+    },
+    {
+        "About": "We offer innovative and effective services that increase mutual trust between people and organisations, save costs, improve the quality of data and preserve privacy.\n\nThe operations of DigitalMe exists of agile teams of architects, developers, designers and engineers, headed by our CTO.\n\nA highly experienced team takes care of hosting and managing the Qiy Trust Network. Senior advisers can help you exploring the possibilities of 1-on-1 connections based on a trust network.\nContact maarten.louman[a]digital-me.nl or ad.vanloon[a]digital-me.nl to learn more.\n\nServices are built on the secure Qiy Trust Network infrastructure under a license to operate from the Qiy Foundation: cross sector solutions that are in line with the European General data Protection Regulation (GDPR).",
+        "Org Name": "Digital me",
+        "Parent Org": "Qiy Foundation",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://digital-me.nl/"
+    },
+    {
+        "About": "About the Qiy Foundation\nDedicated to put people back in control of their personal data while creating value for organisations\nVision\n\nThe vision of Qiy Foundation is that the position of man in the digital world should be equal to the position of man in the physical world. Human values and acting in accordance with the human dimensions are important principles.\nMission\n\nThe mission of the Qiy Foundation is to facilitate collaboration by public and private parties to a scheme in which the individual is part of a safe and reliable digital ecosystem. Market parties who adhere to the Qiy Scheme develop and / or use the solutions that give individuals control over their data.\nThe result\n\nThe vision and the mission are implemented in an open standard for the Qiy Trust Network and a set of rules and regulations under the guidance and supervision of an authority: the Qiy Foundation, which is governed independently.\n\nThe Qiy Trust Network is implemented by DigitalMe. More information on using the network can be found on the DigitalMe Infrastructure page.",
+        "Org Name": "Qiy Foundation",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://www.qiyfoundation.org/"
+    },
+    {
+        "About": "\"Personal data\" is the key.\nCreate a world where \"consumers\" and \"businesses\" grow together.\nWe challenge for the future.\nThat's the mission of My Data Intelligence.",
+        "Org Name": "MyData Intelligence",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://www.mydata-intelligence.co.jp/"
+    },
+    {
+        "About": "About Fair&Smart\n\nOur passionate team is dedicated to improving trust between individuals and businesses by making relationships more transparent.\nEveryone should be informed and decide at all times which organizations possess and process which personal data and for what purpose.\nRespect for privacy and the right to informative self-determination are not negotiable.\nA company that is not worthy of the trust of its customers dies, sooner or later.",
+        "Org Name": "fair&smart",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://www.fairandsmart.com/en/"
+    },
+    {
+        "About": "The Internet that we use today is really very much \u201cwork-in-progress\u201d, and the problems we face mostly revolve around what we call \"personal data.\"\nWhat is personal data?\n\nEverything on the Internet that is personal to you is your data: words, photos, music, locations, financial transactions - everything. You generate this data when you fill out forms, create user accounts on apps and websites, interact on them, or use social media or e-commerce websites.\nOwnership and control\n\nToday the companies that give us websites, mobile applications and more, store and protect our personal data for us (we call them \u201ccentralised\u201d systems). Our data sitting in these systems become stale, non-representative, more vulnerable to hacking and we can\u2019t even reuse it if we wanted to. We\u2019ve built a technology that can enable individuals to own our own data and yet be able to interact with all the websites and apps that we love. And because we can reuse and re-share this data whenever we wish, we have greater influence on the Internet, and the websites and applications we love get better personal data to give us recommendations and personalisation when we want it.",
+        "Org Name": "Hub of All Things (HAT)",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://www.hubofallthings.com/"
+    },
+    {
+        "About": "Findy stands for Finnish Indy network, a locally governed and run decentralised identity ledger. Its target is to enable pilot use cases and services with use of self-sovereign identifiers in Finland.\n\nA decentralised identity ledger consists of a limited set of public, permissioned nodes that when run together as a decentralised system are responsible for\n\n    running the cryptographic consensus algorithm that provides non-repudiation of public identifiers\n    catering the discovery of public decentralised identifiers (DIDs) and their related public statement documents (DID documents)\n    hosting the public credential definitions and schemas that are used by any of FIndy\u2019s overlaying pilot use cases\n    enabling privacy-preserving tools (revocation accumulators) for revocation checks\n\nThe Findy ledger, run first as a test network and sandbox for pilots will be operated and coordinated by local legal entities that i) commit to maintain the network and its nodes along the initial Findy governance rules under development during 2019-20, and ii) agree to work in good faith towards setting up a joint, long-term ledger infrastructure project that stands responsible for operating the distributed ledger. Entities are expected to cover their own operational and development related costs. Result of the first phase will mature eventually with a production ledger for commercial use, potentially with a different name.",
+        "Org Name": "Findy",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://www.findy.fi/"
+    },
+    {
+        "About": "We combine knowledge of business, IT and UX with the capacity for innovation and implementation\n\nFor more than 15 years, we have been designing, building and managing game-changing, digital and data-driven software solutions for the financial sector.  Our mission is to improve the quality of the financial life of consumers. Yellowtail\u2019s products and services help to activate consumers, give them the power to act and give them confidence in making (better) financial decisions. Our focus is on an ultimate customer experience. In addition, thanks to our domain focus, we also have in-depth expertise in underlying business processes, data and technology, such as robotics and machine learning. At the same time, we have a strong focus on STP processing and robotization of complex data streams to eliminate unnecessary steps and manual work. All this to simplify business processes in the interest of the customer.",
+        "Org Name": "Yellowtail",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://yellowtail.nl/en/"
+    },
+    {
+        "About": "EXPERTISE \u2013 IDEAS \u2013 ENTREPRENEURSHIP\n\ncomuny founders Beatrix Rei\u00df and Dominik Deimel seek to contribute to a digital world where people can benefit from exploiting the potential of data to its full.\n\nThey have recognized that the demand for simple, secure and valuable communication solutions will significantly increase; with comuny, they advance the digital transformation of services for people.",
+        "Org Name": "UComuny",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://www.comuny.de/en/"
+    },
+    {
+        "About": "With Schluss, you - and only you - decide who gets which information about you on the Internet\n\nHelp us to change the Internet.\nTo give the power back to the user.\nJoin us.",
+        "Org Name": "Schluss",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://www.schluss.org/"
+    },
+    {
+        "About": "We empower people across the globe to exchange their health data on our uniquely neutral and independent platform. healthbank drives innovation in health sciences, from prevention to cure, at a better price with better quality for the benefit of both the individual and society.",
+        "Org Name": "Healthbank",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://www.healthbank.coop/"
+    },
+    {
+        "About": "A human's fundamental right to privacy is increasingly at odds with the eroding status quo of how people's information is collected and used by companies, small and large.\n\nNew digital product and services require an ever increasing amount of data from across a person's life in order to keep pace with the demands of digitally savvy consumers.\n\nOften, these products and services require the collection and processing of highly personal data, driving individuals to fatigue in their attempts to control who has access to their data.\n\nSimilarly, given the complexity of data and new age intelligent systems, it is widely acknowledged that most consumers no longer have the ability to comprehend which of their data has been collected by a company, or how it could / will / has had a positive or negative impact on their life.\n\nThis diminishing level of control, increasing level of consumer fatigue and the abstraction of value have already manifested themselves through data leaks, instances of data misuse on a global scale and the rapid formation of a data oligopoly (Facebook, Apple, Amazon and Google).\n\nLaunched in 2017, people.io seeks to redress this balance and create a global ecosystem in which individuals regain control over the access, use and value of their personal data; whilst also enabling the creation of data-centric products and services that put control at their heart.\n\nWhilst not new in its mission, the approach taken by people.io follows a new direction and seeks to reward users for taking control through demonstrating the value and opportunity of control, not the fear and risk of lacking control; bucking the trend of companies that use a person's short term fear to drive the adoption of a specific technology or industry objective.\n\npeople.io launched a Beta app in February 2017, whereby users are rewarded for responding to questions, connecting data sources and engaging with branded content. After hitting the #1 spot on the iTunes UK trending chart, ranking #4 in Lifestyle (just behind Tinder) and launching a co-branded version of their app with Tel\u00e9fonica Deutschland, a waiting list was implemented and the team reverted back to stealth mode while focussing on Phase Two of their global vision.\n\nIn late 2018, a number of major announcements will be made that re-introduce people.io - as part of an ecosystem of data-centric products designed to empower people while solving some of the fundamental challenges faced by major corporates in their ability to compete with the major tech companies.\n\nTo-date, people.io has received investment from a number of Europe\u2019s most successful entrepreneurs, including Thomas H\u00f6egh (Founder of Lovefilm, Arts Alliance and Growth Street) and Nick Robertson (Founder of ASOS) in addition to the Founders Factory and Wayra Deutschland.",
+        "Org Name": "people.io",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://people.io"
+    },
+    {
+        "About": " Our world is getting more digital every day and Web giants technical feats raise awareness about the importance of our personal data.\n\nIn this context the European Union voted GDPR (General Data Protection Regulation) and put it into effect on may the 25th 2018. The regulation aims at better protecting individuals and increasing accountability of organizations regarding personal data.\n\nGDPR\u2019s best tool is the affirmation of the importance of individual\u2019s consent for the process of its data. Consent is the cornerstone of GDPR. In the meantime GDPR introduces the new right to Data Portability (Art. 20). This new right aims at allowing the individual to make its data circulate easily from one service to another.\n\nThe individual will be able to transfer its data from one service to a competitor service. This is what we call Competition Portability.\n\nThis individual will also be able to transfer its data from one service to a complementary service. This is the Cooperation Portability .\n\nData Portability fosters a digital world where there is no need for online forms anymore. Services can import and export data between each other on demand of the user. There is an infinite amount of innovative use cases that would provide a global seamless user experience of digital services. At Onecub we believe that the new right to Data Portability is the most disruptive element of GDPR and can give a central place to the individual if done properly. ",
+        "Org Name": "onecub",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://www.onecub.com/"
+    },
+    {
+        "About": "We believe that data should belong to individuals, not organizations. Individuals should have authority over the sharing of their data. Essentially, our vision is of an independent, data-driven society. We aim create an era of human-centered data sovereignty where data is used on an individual permission basis to best benefit the individual and society. In doing so, we strive to realize a society that surpasses the constraints of traditional capitalism.\n\nBackground: By 2020 there will be 50-100 billion devices connected to the internet and this amount will exceed 1 trillion by 2035. The IoT market is predicted to grow to incorporate hundreds of trillions of devices and be valued at thousands of trillions of Yen. Machine learning and neural networks development began in 2007, and now, the world is currently at a turning point with the third AI boom upon us. We are surrounded by advanced technologies and a diverse business environment, entering a turbulent era which will have a revolutionary impact in human history.\nHowever, many businesses still don\u2019t know how to harness and exploit major technology trends such as IoT and AI. We aim to coordinate new and existing technological trends and transform them into businesses. As a technology development company, we will provide original technology and our own platform to do business globally.",
+        "Org Name": "planetway",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://planetway.com/en/"
+    },
+    {
+        "About": "Security, transparency & control. The foundations of trust.\n\nWhen Mydex came into being in 2007, its founders made a number of important decisions \u2014 these decisions are what make Mydex remain unique even in today's blossoming personal data ecosystem. It had to be free to individuals for life, the data had to be under their control, and Mydex as a company had to be self-sustaining and protect its core values. These prerequisites guided the evolution of Mydex: a Community Interest Company, a Social Enterprise and zero-knowledge platform, working to improve outcomes for individuals and organisations alike.",
+        "Org Name": "^mydex",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://mydex.org/"
+    },
+    {
+        "About": "Our mission is to help people unlock the value of their personal data.\n\nAlmost every link in the economic chain has their hand in our collective data pocket. Data brokers in the US alone account for a $15bn industry, yet they have zero relationship with the consumers whose data they harvest and sell. They offer no discernible benefit back to the producers of this great data asset - you.\n\nDatacoup is changing this asymmetric dynamic that exists around our personal data. The first and most important step is getting people compensated for the asset that they produce. We are building for a future where individuals like you are in control of your data and are the chief beneficiaries of its value.",
+        "Org Name": "datacoup",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://datacoup.com"
+    },
+    {
+        "About": "Dataswift is a complete developers platform for personal data accounts and infrastructure\n\nWith Dataswift, you get a complete toolkit for managing user-owned personal data accounts out-of-the-box. One API interface. One conversation. One permission model. Dozens of features. You'll be amazed at everything you can do with personal data accounts. And we're just getting started.",
+        "Org Name": "Dataswift\n",
+        "Partners": "MyData",
+        "Tags": "MyData Operator",
+        "Website": "https://dataswift.io/"
+    },
+    {
+        "About": "Welcome to CitizenMe. Empowering you with your data.\nCitizenMe\u2019s mission is to bring people and companies together to share information for mutual benefit. It\u2019s a democracy in the truest sense; ethical because it\u2019s fully opted-in, powerful because we integrate data from multiple sources and effective because the insights we provide add tangible value. We believe it\u2019s the way human data should be done, and our clients agree.",
+        "Org Name": "CitizenMe",
+        "Website": "https://www.citizenme.com/"
+    },
+    {
+        "About": "Datawallet is a digital wallet for your data\nWith Datawallet, consumers have a simple, private and meaningful way to control their data, and in return, companies receive insights from the best quality, ethical, first-party data available. Datawallet enables companies to transform regulatory compliance into trusted relationships with consumers. When companies give their customers Datawallets, they show they\u2019re serious about data rights while boosting their operations on an unparalleled scale.\n\nDatawallet allows customers to visualize the data they create, set permissions for their data, and receive rewards for allowing companies to use their data. Through Datawallet\u2019s personal API, your customers can leverage additional data from Facebook, Google, and Amazon, enabling companies to deliver personalized experiences that are unmatched by their competition.\n\nDatawallet products are seamlessly implemented with efficient mapping of your current data environment for CCPA compliance. Uniquely adaptable, Datawallet generates the visuals, controls and structures that are most important to you. Gain trust with transparency and control, and provide customers a clear-cut guide about how you\u2019re using their data with fine-grained permissioning over its access. Powered by blockchain, every permissioning change is stored in an easily auditable blockchain record.",
+        "Org Name": "Datawallet",
+        "Website": "https://datawallet.com"
+    },
+    {
+        "About": "Abstract: The Datum network allows anyone to store structured data securely in\na decentralized way on a smart contract blockchain. The DAT smart token\nenables optional selling and buying of stored data while enforcing data usage\nrules as set by the data owner.\nEvery day we create 2.5 Quintillion bytes of data, and 90% of the world\u2019s data today\nhas been created in the last 2 years alone. Data stored grows 4x faster than the\nworld economy and contributes to a substantial shift in economic power and\nsource of economic value.\nA lot of this data is created by individuals or organizations; browsing the internet,\ninteracting on social networks, uploading personal files, syncing devices and\nshopping online. This data is owned and stored by large private organizations in\nhuge data silos where it is susceptible to selling, tampering, extraction and other\nexploitation. The originator of the data mostly loses control over its data when\nsigning up to various services such as Facebook, Google, Instagram, Snap, Twitter\netc., that offer \u2018free\u2019 services in exchange for exploitation of data, e.g. Google\u2019s\nGmail service reading emails and showing targeted ads as a result.\nDatum proposes a network run on a secure smart contract blockchain that allows\nall of its users to retake control of their data, not just the personal and habitual\ndata they produce every day, but also data from the (IoT) devices that they control.\n1\nDatum encompasses the following key elements:\nA fast decentralized data store allowing users to store structured data securely\nrunning on a smart contract blockchain\nThe DAT token enabling this data storage and sharing\nThe data marketplace, enabling individuals to monetize their data on their terms\nDatum leverages BigchainDB and IPFS to provide an infinitely scalable,\ndecentralized data storage backend.\nData storage and data sharing is paid for by the DAT token.",
+        "Org Name": "Datum",
+        "Relevant Publications": "https://datum.org/assets/Datum-WhitePaper.pdf",
+        "Website": "https://datum.org"
+    },
+    {
+        "About": " We're working to create a Common Datatrust.\n\nThe Common Data Project is committed to democratizing access to data through the creation of a \"datatrust,\" a new online service that allows sensitive data to be directly queried without compromising individual privacy. Through the datatrust, we hope to create a space for \"common data\" that allows sensitive data to be open and shared among researchers, policymakers, application developers, and the general public.\n\nSensitive Data: They have it, we don't.\n\nToday, sensitive personal information is being collected from us by almost every business, organization and institution we interact with. However, we as the public have very little access to it. While businesses use our data to figure out what we'll buy, what we'll eat, and how much debt we'll pay back, the public sector has yet to harness the power of such data for itself. LEARN MORE\n\nWhat should we do? Democratize access.\n\nSome people see this is a problem of privacy. They've advocated giving users more control over how their data is shared, or argued for barring reuses of data.\n\nBut we see this as a problem of power and access. Privacy is definitely a central issue, which is why we've worked hard on developing a measurable privacy guarantee. But we think that by focusing only on radio controls or restricting reuse, we are risking the loss of innovation. The solution is not to shut down data collection, but to democratize access to data in a way that is safe and responsible through the creation of a datatrust.LEARN MORE",
+        "Org Name": "The Common Data Project",
+        "Website": "http://www.commondataproject.org/"
+    },
+    {
+        "About": "What is the problem?\nDECODE is a response to people\u2019s concerns about a loss of control over their personal information on the internet. The ability to access, control and use personal data has become a means by which internet companies can drive profits. \n\nThe people who create much of this data have lost control over how it is used. This is a problem.\n\nPeople have lost control of their data. This does not just mean the erosion of privacy and autonomy, it\u2019s also bad for the security of people\u2019s online identity\nThe huge quantities of data produced every day offers the potential for insights which could benefit all of society. With the data controlled by a handful of monopolies, this data is inaccessible to people and organisations who want to create solutions and services for public benefit\nThe monopolisation of data creates economic inefficiencies and inequalities. This threatens to undermine trust between citizens, public institutions, and companies, which is essential for a stable, sustainable and collaborative economy\nThe current digital ecosystem and Internet of Things (IoT) landscape is highly fragmented, with a multitude of non-interoperable vertical solutions, all offering their own set of devices, gateways and platforms, and means of data handling in data \u201csilos\u201d. This fragmentation makes data unmanageable and end users ultimately lose control over it.\n\nHow do we solve it?\nWe believe that people should have a choice about what happens to their digital identity, who uses their data online, and for which purposes.\n\nDECODE is an experimental project to develop practical alternatives to how we use the internet today - four European pilots will show the wider social value that comes with individuals being given the power to take control of their personal data and given the means to share their data differently.\n\nDECODE will explore how to build a data-centric digital economy where data that is generated and gathered by citizens, the Internet of Things (IoT), and sensor networks is available for broader communal use, with appropriate privacy protections.\n\nAs a result, innovators, startups, NGOs, cooperatives, and local communities can take advantage of that data to build apps and services that respond to their needs and those of the wider community.",
+        "Org Name": "DECODE",
+        "Website": "https://decodeproject.eu"
+    },
+    {
+        "About": "Enigma was created\nto solve the privacy crisis.\nThe most difficult problems demand innovative solutions. Today, many of the world's biggest challenges arise from over-centralization. We believe that decentralized systems like Enigma can help us solve them.\n\nWhen too-big-to-fail banks nearly destroyed the global economy in 2008, a decentralized digital currency - Bitcoin - was born in response. Now, an over-centralized internet and large tech monopolies have put our privacy, our security, and our society at risk. Enigma's solutions are part of the foundation for a decentralized, more secure, more sustainable internet - and a better world.",
+        "Org Name": "Enigma",
+        "Parent Org": "MIT Media Lab",
+        "Website": "https://enigma.co/"
+    },
+    {
+        "About": "\"The combination of computing and communication, as we know it now and can expect it to evolve in the decades ahead, will vastly expand human creative capacity.\"\n\u2013Jerry Wiesner, Media Lab building dedication, 1986\nTrue to Jerry\u2019s vision, for over 30 years Media Lab researchers have anticipated and created technologies to make our lives safer, cleaner, healthier, fairer, and more productive. But along with benefits, technology\u2019s everyday efficiencies have also brought their share of issues: obesity, poverty, ethical implications, bullying, divergent politics. The Media Lab\u2019s interdisciplinary research community is uniquely equipped to address these concerns, leveraging the best that technology has to offer, and connecting technology back to the social and the human. Current Lab research examines the deeper implications of where technology creation and adoption has led us\u2014and where we want to go next.",
+        "Org Name": "MIT Media Lab",
+        "Website": "https://www.media.mit.edu"
+    },
+    {
+        "About": "Contact GiSC Today-A Partner For Your Data Needs\nWe work with Growers, COOPs, Crop Insurance, or any group that works in the Ag Space:\n\n    Get access to AgHub- GiSC\u2019s tool to collect and store data\n    Get discounted pricing for partner tools- Including Precision Ag tools and incredibly accurate Weather\n    Gain insights from information no one else has\n    Start putting your data to work\n    Develop your own unique tech solutions for use in your office",
+        "Org Name": "Growers Information Services Coop",
+        "Parent Org": "GiSC",
+        "Website": "https://www.gisc.coop/"
+    },
+    {
+        "About": "Consumer disaffection with irrelevant and obtrusive ads has resulted in the rapid growth of ad-blocker adoption.This fact is making data-tracking nearly useless and threatens the entire online advertising business model as a result. The industry\u2019s current solution is an arms race of anti-blockers versus anti-anti-blockers and in some cases alliances with the ad-blockers, themselves. This inefficient counter-productivity inevitably leads to a dead-end. To solve this problem, ad industry and Blockchain experts have combined efforts to create The Mass Network\u2014a Blockchain-based solution aimed at fixing the imbalance of power between the online advertising industry and internet users who unwittingly provide the ad machine its revenue source: data. The Mass proposition is to exchange this wasteful battle for a mutually beneficial, proactive commerce by creating a Blockchain-based marketplace for consumers, webmasters, and data management platforms. Here, the industry pays a fair, market-determined rate to users for their data and attention. This voluntarily provided user information exchanged for compensation presents truly valuable data to the industry when compared to the current ill-gotten and often misinterpreted data harvested at present. To power this network and to create a stable method of exchange Mass will release Mass Coin to the public via a one-time only offering. Once live, average internet users within the system will be paid Mass Coin in exchange for their attention. Mass Coin lives on the Blockchain. It has the same transparency, fluidity, and security of Bitcoin without the dramatic price volatility. Mass paves a way to the monetization of our everyday online experience while improving consumers\u2019 attitudes toward brands, publishers and making advertising more efficient to the benefit of all parties involved. In a world where people's lives are becoming more and more digitized Mass provides a safeguard from exploitation by improving access, integrity, and trust.",
+        "Org Name": "Mass Network",
+        "Website": "https://mass.network/"
     }
 ]

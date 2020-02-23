@@ -30,7 +30,7 @@
         "Digital Harms Addressed": "Breach of Confidentiality",
         "Name": "Meaningful Consent in the Digital Economy (MCDE)",
         "Parent Org": "South Hampton University",
-        "Purpose": "Consumer support: transparancy and accountability",
+        "Purpose": "Consumer support: transparency and accountability",
         "Status": "Inactive",
         "Twitter Profile": "https://mobile.twitter.com/consentfully",
         "URL": "http://www.meaningfulconsent.org"
@@ -41,7 +41,7 @@
         "Github Profile": "https://github.com/tosdr/browser-extensions",
         "Name": "TOSDR - Browser Extensions",
         "Parent Org": "Terms of Service Didn't Read",
-        "Purpose": "Consumer support: transparancy and accountability",
+        "Purpose": "Consumer support: transparency and accountability",
         "Tags": "browser extension",
         "Tech Focus": "Terms",
         "Twitter Profile": "https://twitter.com/tosdr",
@@ -52,7 +52,7 @@
         "Description": "TermSAFE\u2122 is here to help you and you can help others. If there is a popular website or app and you wish for us to review their Terms & Conditions, we are happy to do so at NO CHARGE. Simply fill out the request form below and click 'Submit'. Please check back within 48 hours for the Rating.",
         "Name": "TermSafe Reviews",
         "Parent Org": "TermSafe",
-        "Purpose": "Consumer support: transparancy and accountability: certification and compliance",
+        "Purpose": "Consumer support: transparency and accountability: certification and compliance",
         "Tech Focus": "Terms",
         "Twitter Profile": "http://www.twitter.com/term_SAFE",
         "URL": "http://termsafe.com/requestreview.aspx"
@@ -172,7 +172,7 @@
         "Github Profile": "https://github.com/osano",
         "Name": "PrivacyMonitor",
         "Parent Org": "Osano",
-        "Purpose": "transparancy and accountability: Consumer support",
+        "Purpose": "transparency and accountability: Consumer support",
         "Tags": "browser extension",
         "URL": "https://www.privacymonitor.com"
     },
@@ -258,7 +258,7 @@
         "Description": "The Trustable Technology Mark aims to highlight the work of those companies that put in the extra effort of building truly trustworthy devices.\nWho is behind this?\n\nThe Trustable Technology Mark is a ThingsCon initiative. It is developed with support from the Mozilla Foundation in the form of a Mozilla Fellowship for project lead and ThingsCon co-founder Peter Bihr.\n\nThingsCon is a global community & event platform for IoT practitioners. Our mission is to foster the creation of a human-centric & responsible Internet of Things (IoT).\n",
         "Name": "Trustable Technology Mark",
         "Parent Org": "Trustable Technology Mark",
-        "Purpose": "transparancy and accountability: education: Consumer Education",
+        "Purpose": "transparency and accountability: education: Consumer Education",
         "Tech Focus": "IOT\n",
         "URL": "https://trustabletech.org/products/"
     },
@@ -350,7 +350,7 @@
         "Description": "The CommonTerms project aims to reduce the need for consenting to online terms without good reasons. This could make the internet a much better place for all, and contribute to digital sustainability.",
         "Name": "Common Terms",
         "Parent Org": "Metamatrix AB",
-        "Purpose": "usability: Consumer Support: transparancy and accountability",
+        "Purpose": "usability: Consumer Support: transparency and accountability",
         "Relevant Publications": "https://web.archive.org/web/20161021120859/http://www.commonterms.net/",
         "URL": "http://commonterms.org/",
         "field25": "Internetfonden"
@@ -385,7 +385,7 @@
         "Me2B Participation": "UX reference",
         "Name": "Privacy Simplified",
         "Parent Org": "Yale",
-        "Purpose": "usability: Consumer Support: transparancy and accountability",
+        "Purpose": "usability: Consumer Support: transparency and accountability",
         "Relevant Publications": "https://www.macleans.ca/society/technology/privacy-simplified/",
         "Status": "defunct?",
         "Tags": "\n",
@@ -577,7 +577,7 @@
         "Me2B Participation": "Certification Candidate",
         "Name": "PrivacyMonitor",
         "Parent Org": "Osano",
-        "Purpose": "usability: transparancy and accountability",
+        "Purpose": "usability: transparency and accountability",
         "URL": "https://www.privacymonitor.com"
     },
     {
@@ -713,7 +713,7 @@
         "Name": "IoT Trust Framework",
         "Parent Org": "Internet Society: Online Trust Alliance",
         "People": "Steve Olshansky",
-        "Purpose": "certification and compliance: transparancy and accountability: governance",
+        "Purpose": "certification and compliance: transparency and accountability: governance",
         "Relevant Publications": "https://www.internetsociety.org/resources/doc/2018/iot-trust-by-design",
         "Tech Focus": "IOT",
         "URL": "https://www.internetsociety.org/iot/trust-framework/"
@@ -724,7 +724,7 @@
         "Github Profile": "https://github.com/mozilla/OpenWPM",
         "Name": "Open WPM (Web Privacy Measurement)",
         "Parent Org": "Mozilla Foundation",
-        "Purpose": "transparancy and accountability: Consumer support: certification and compliance",
+        "Purpose": "transparency and accountability: Consumer support: certification and compliance",
         "Relevant Publications": "https://webtap.princeton.edu/software/",
         "URL": "https://github.com/mozilla/OpenWPM"
     },
@@ -734,7 +734,7 @@
         "Github Profile": "https://github.com/citp/OpenWPM",
         "Name": "Open WPM Mobile",
         "Parent Org": "Mozilla Foundation",
-        "Purpose": "transparancy and accountability: Consumer support: certification and compliance",
+        "Purpose": "transparency and accountability: Consumer support: certification and compliance",
         "Relevant Publications": "https://sensor-js.xyz/",
         "URL": "https://github.com/sensor-js/OpenWPM-mobile"
     },
@@ -805,7 +805,7 @@
         "Description": "Rvoke is a cross-platform (iOS and Android) app for you to reduce your digital footprint and take control of your personal data.\n\nOur Ethos\n\nThe internet is broken. Data breaches and misuse of personal data are a weekly (if not daily) occurrence.\n\nWe care strongly about privacy, data protection and your rights.\n\nWe wanted to do something about it, so we created Rvoke, giving you the power to exercise your data protection rights.\n\nWe also wanted to help organisations, many of whom do not have the capability or capacity to efficiently and accurately identify subjects, nor to respond to subject access requests.\n\nBy integrating with Rvoke, organisations can fully automate any request, speeding up the process and providing consumers with their data whenever they might request it.",
         "Name": "Rvoke",
         "Parent Org": "ATAM ID",
-        "Purpose": "transparancy and accountability",
+        "Purpose": "transparency and accountability",
         "Tags": "Quickly and easily manage your data requests in bulk: saving you stress: time and money.",
         "URL": "https://rvoke.com/"
     },
@@ -822,7 +822,7 @@
         "Description": "Explore our Results\n\nThe Usable Privacy Policy Project develops techniques to semi-automatically analyze privacy policies with crowdsourcing, natural language processing, and machine learning. You can explore some of the project\u2019s privacy policy annotations which identify different data collection and use practices.\n\nData presented here are made available for research and teaching. Our results showcase both the power and limitations of human and machine annotation.",
         "Name": "Explore Usable Privacy",
         "Parent Org": "The Usable Privacy Policy Project",
-        "Purpose": "education: transparancy and accountability",
+        "Purpose": "education: transparency and accountability",
         "URL": "https://explore.usableprivacy.org/"
     },
     {
@@ -864,7 +864,7 @@
         "Location(s)": "Finland",
         "Name": "SITRA - Fair Data Economy",
         "Parent Org": "Sitra",
-        "Purpose": "Consumer support: transparancy and accountability",
+        "Purpose": "Consumer support: transparency and accountability",
         "Relevant Publications": "https://www.sitra.fi/en/publications/roadmap-fair-data-economy/",
         "Scope": "regional\n",
         "Tech Focus": "Information Sharing Control",
@@ -1231,14 +1231,17 @@
         "Parent Org": "Data & Society Research Institute",
         "People": "Jake Metcalf, Bonnie Tijerina, Sorelle Friedler, Suresh Venkatasubramanian, Andrew Selbst",
         "Tags": "Data & Society Research",
-        "Tech Focus": "analytics"
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/research/#law_ethics_in_comp"
     },
     {
         "Category": "research",
+        "Description": "Fairness in Algorithmic Machine Translation",
         "Name": "Fairness in Algorithmic Machine Translation",
         "Parent Org": "Data & Society Research Institute",
         "Tags": "Data & Society Research: Law & Ethics in Computational Social Science",
-        "Tech Focus": "analytics"
+        "Tech Focus": "analytics",
+        "URL": "https://datasociety.net/research/#law_ethics_in_comp"
     },
     {
         "Category": "research",
@@ -1311,5 +1314,16 @@
         "Parent Org": "GSMA",
         "Tags": "GSMA Working Groups: Publications, Parent",
         "URL": "https://www.gsma.com/services/gsma-imei/"
+    },
+    {
+        "Description": "Ockto collects relevant financial information about you and your household from the source.\n\nBuying online is becoming increasingly commonplace, even when it comes to financial products. As a consumer you expect that it can be done quickly, cheaply and efficiently. Paperwork, long waiting times and high costs are out of the question. Unfortunately, at least half of a financial advisory process currently involves searching, collecting, filling in and checking information about consumers and their households. Information that is largely already stored in government and financial institutions systems and could be made available more easily. That is why Ockto was founded.\n\nOckto is the online method for collecting data for consumers who want to take out a financial product. The solution ensures that consumers can quickly and easily collect financial information about their household and share it with their adviser, bank, mortgage provider or other financial service provider.",
+        "Name": "OCKTO",
+        "URL": "https://www.ockto.nl/"
+    },
+    {
+        "Description": "Fully scalable Governance Platform\n\nThe HATDeX Platform is a governance platform for data mobility. It comprises of a HAT Microserver in the cloud, a set of software services for data exchange, a dashboard HAT app as a viewer and controller of the HAT Microserver, and  the economic, legal, design and economic rules for the mobility of data between HAT owners and Websites/applications that are scalable, portable and yet preserve decentralised personal data rights for individuals. \n\n    Fully Private \u201cZero-Knowledge\u201d Solution for personal data ownership and with scalable data mobility\n\n    Is the first to fully resolve the technical, legal and commercial barriers in the ownership and transfer of personal data between individuals and organisations\n\n    Delivers standardisation and interoperability of personal data across all industry sectors\n\n    Is already referenced globally as a best-in-class solution in the emerging primary personal data exchange",
+        "Name": "HATDex",
+        "Parent Org": "Dataswift",
+        "URL": "https://hatdex.dataswift.io"
     }
 ]
