@@ -1,8 +1,0 @@
-created:1582361359150
-modified:1582361359150
-title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/working-group
-type:text/vnd.tiddlywiki
-scope: [field:element.type[working-group]]
-style: {"color":{"border":"rgba(105,90,186,153)","background":"rgba(123,217,149,92)"}}
-fa-icon: \xff0b1
-tw-icon: 

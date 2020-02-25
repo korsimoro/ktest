@@ -1,8 +1,0 @@
-created:1582361359150
-modified:1582361359150
-title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/publication
-type:text/vnd.tiddlywiki
-scope: [field:element.type[publication]]
-style: {"color":{"border":"rgba(3,6,34,159)","background":"rgba(120,124,8,232)"}}
-fa-icon: \xff026
-tw-icon: 

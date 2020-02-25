@@ -215,6 +215,7 @@
         "Working group": "Identifiers and Discovery: Storage and Compute: Authentication: Claims and Credentials"
     },
     {
+        "Category": "service: open source",
         "Description": "A Universal Resolver is an identifier resolver that works with any decentralized identifier system, including Decentralized Identifiers (DIDs)",
         "Github Profile": "https://github.com/decentralized-identity/universal-resolver",
         "Name": "Universal Resolver",
@@ -225,6 +226,7 @@
         "URL": "https://uniresolver.io/"
     },
     {
+        "Category": "open source",
         "Description": "Similar to the Universal Resolver, the Universal Registrar also makes use of \"drivers\" to allow registration of various types of identifiers (e.g. different DID methods, or naming systems such as BNS or ENS).",
         "Github Profile": "https://github.com/decentralized-identity/universal-registrar",
         "Name": "Universal Registrar",
@@ -233,12 +235,14 @@
         "URL": "https://uniregistrar.io/"
     },
     {
+        "Category": "open source",
         "Description": "Polyfills for proposed or emerging DID-centric Web APIs",
         "Name": "Web Polyfills",
         "Parent Org": "Decentralized Identity Foundation",
         "URL": "https://github.com/decentralized-identity/web-polyfills"
     },
     {
+        "Category": "open source",
         "Description": "This repo contains an open source implementation of a DIF identity hub for evaluation purposes. It is not intended for production use. The APIs and protocols used throughout are part of a proposed standard for decentralized data storage.\n\nIdentity hubs provide durable storage for information and data \"owned\" by a decentralized identity (DID). Hubs can run in multiple different enviornments - in the cloud, on a server, or on an edge device. All instances of identity hubs that are associated with a DID synchronize data between each other to ensure consistency. Currently, identity hubs support simple read and write of JSON data.",
         "Github Profile": "https://github.com/decentralized-identity/identity-hub",
         "Name": "Hub Reference",
@@ -247,6 +251,7 @@
         "Working group": "Storage & Compute Working Group"
     },
     {
+        "Category": "open source",
         "Description": "Attestation API implementations for various languages and platforms.",
         "Name": "Attestations",
         "Parent Org": "Decentralized Identity Foundation",
@@ -365,12 +370,6 @@
         "URL": "https://github.com/HumanDynamics/law.MIT.edu/tree/master/OpenNotice"
     },
     {
-        "Description": "The MIT Computational Law Report is an agile, new media online publication that explores the ways that law and legal processes can be reimagined and engineered as computational systems. The Report features:\n\nWritten content (such as peer-reviewed articles, essays, and posts);\n\nRich media content (such as videos, podcasts, visualizations, etc); and\n\nReproducible software and data projects (such as computational law apps, automated processes, data science projects, games, etc)\n\nThe Report is published and edited by law.mit.edu-affiliated academics, researchers, and practitioners. The Report fills a critical need for reputable, responsive, and neutral analysis of emerging computational law applications and thought leadership.",
-        "Name": "MIT Computational Law Report",
-        "Parent Org": "MIT/Law",
-        "URL": "https://law.mit.edu/"
-    },
-    {
         "Category": "Terms: proof of concept",
         "Description": "Gamification of Privacy Terms. Website privacy policies: like their terms of use agreements: are onerously long: bafflingly complex legal documents that hundreds of millions of people accept without ever reading. As social media sites accrue more and more of our personal information while always developing new ways to exploit our data: they are increasingly targeted by hackers and law enforcement. In short: those long privacy statements: which we never read and which get longer all the time: matter more and more.\n\nThat\u2019s why a trio of Yale students have developed a free service for websites called Privacy Simplified. Answer a few questions about your site and PS will generate a series of icons you can display to clearly explain the most important aspects of your privacy policy.",
         "Name": "Zynga's Privacyville",
@@ -419,7 +418,7 @@
     },
     {
         "Activities": "standard development",
-        "Category": "\n",
+        "Category": "service",
         "Description": "The Privacy Commons is a project that aims to do for Privacy what the Creative Commons. if you'd like to be involved please email hello at this domain.",
         "Name": "Privacy Commons",
         "Parent Org": "Privacy Commons",
@@ -771,6 +770,7 @@
     },
     {
         "Activities": "outreach",
+        "Category": "service",
         "Description": "From July: 2016 to January: 2018: we will work together to ensure that more Detroit residents have the ability to leverage digital technologies for social and economic development.\n\nThe goals of this initiative are to:\n\nincrease Internet access through the distribution of shared Gigabit Internet connections in three underserved neighborhoods;\nincrease Internet adoption through a Digital Stewards training program that prepares residents of those same neighborhoods with the skills necessary to bring their communities online; and\nincrease pathways for youth into the opportunities of Detroit's burgeoning Innovation District through intermediate and advanced digital literacy trainings.",
         "Name": "Equitable Internet Initiative",
         "Parent Org": "Allied Media Projects: Detroit Community Technology Project",
@@ -792,13 +792,6 @@
         "Parent Org": "EXPEDiTE",
         "Purpose": "education",
         "URL": "https://www.expedite-project.eu/"
-    },
-    {
-        "Description": "Since 2013, the Trustless Computing Association has been building a uniquely accountable, resilient and independent Trustless Computing Certification Body (\u201cTCCB\u201d) \u2013 and an initial compliant open ecosystem, computing base and 2mm-thin human computing device \u2013 aimed to achieve radically-unprecedented levels of trustworthiness for the confidentiality and integrity of the most critical IT systems, while concurrently ensuring legitimate lawful access, to prevent criminal abuse. \n\nInitially for the most sensitive human communications and transactions of tens of millions of World citizens, it will evolve to certify root-of-trust sub-systems of the most society-critical  IT systems in the areas of social media, autonomous, AI, 5G, IoT, cyber-physical, and public security systems.\n\nIt will be a private international standards setting and certification body that will issue a label that IT providers can apply for, in compliance with all current EU and Swiss laws, and downward compatibility with EU eIDAS Qualified and the future Swiss eID LoT3.",
-        "Name": "Trustless Computing Certification Body (TCCB)",
-        "Parent Org": "Trustless Computing Association",
-        "Purpose": "certification and compliance",
-        "URL": "https://www.trustlesscomputing.org/"
     },
     {
         "Category": "Software product (application): service",
