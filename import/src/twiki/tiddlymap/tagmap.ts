@@ -5,7 +5,7 @@ import uuid from 'uuid'
 import path from 'path'
 import cytoscape from 'cytoscape'
 
-export class NeighborMap implements TiddlyMap {
+export class TagMap implements TiddlyMap {
 	model:TiddlyModel
 	name:string
 	description:string
@@ -23,9 +23,7 @@ export class NeighborMap implements TiddlyMap {
 	edgeFilterFile:string
 	nodeFilterFile:string
 
-	central_topic:string
-
-	constructor(elt:NodeTiddler,base:TiddlyModel) {
+	constructor(elt:NodeTiddler,base:TiddlyModel,fields:string[]) {
 		this.model = base
 		this.name = elt.title
 		this.nodes = new Set<string>()
@@ -44,24 +42,12 @@ export class NeighborMap implements TiddlyMap {
 		const ld:any = {}
 		this.edgeFilter = ' -[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]'
 		this.nodeFilter = ''
+		for(let f of fields) {
+			this.nodeFilter = this.nodeFilter+'[['+elt.title+']listed['+f+']] '
+		}
 		this.layoutData = JSON.stringify(ld,null,3)
 
 		this.nodes.add(elt.guid)
-		this.central_topic=elt.guid
-		//console.log("NOTES:",elt.guid,elt.title)
-		this.useExplicitNodeFilter()
-	}
-
-	useExplicitNodeFilter() {
-		this.nodes.forEach((val:string) => {
-			this.nodeFilter += "[field:tmap.id["+val+"]] "
-		})
-	}
-
-	useExplicitEdgeFilter() {
-		for(let e in this.edges) {
-			this.edgeFilter += "[field:tmap.id["+e+"]]"
-		}
 	}
 
 	async layoutGraph() {
@@ -106,7 +92,7 @@ export class NeighborMap implements TiddlyMap {
 		//console.log("Writing Neighbor View Tiddler File:",this.edgeFilterFile)
 		await fs.writeFile(this.edgeFilterFile,this.edgedata())
 
-		//console.log("Writing Neighbor View Tiddler File:",this.nodeFilterFile)
+		console.log("Writing TagMap View Tiddler File:",this.nodeFilterFile)
 		await fs.writeFile(this.nodeFilterFile,this.nodedata())
 
 		//console.log("Writing Neighbor View Tiddler File:",this.layoutFile)
@@ -140,13 +126,12 @@ export class NeighborMap implements TiddlyMap {
 
 		return ""+
 			"id:" + this.guid + "\n" +
-			"config.central-topic: "+ this.central_topic + "\n" +
 			"config.vis: "+JSON.stringify(physics) + "\n" +
 			"config.neighbourhood_scope: 2\n"+
 			"config.show_inter_neighbour_edges: true\n"+
 			"isview:" + false + "\n" +
 			"title: $:/plugins/felixhayashi/tiddlymap/graph/views/" + this.name + "\n" +
-			"tmap.type: neighbor\n" +
+			"tmap.type: tag\n" +
 			"\n" + this.description + "\n";
 	}
 	edgedata():string {
@@ -156,6 +141,7 @@ export class NeighborMap implements TiddlyMap {
 			"\n";
 	}
 	nodedata():string {
+		console.log("TAGMAP:",this.nodeFilter)
 		return ""+
 			"type: text/vnd.tiddlywiki" + "\n" +
 			"filter:" + this.nodeFilter + "\n" +

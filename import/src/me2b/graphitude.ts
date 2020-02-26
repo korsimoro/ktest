@@ -7,20 +7,44 @@ function linkorg(type:string,field:string,relation:string,ctx:Context,mapnames:s
   for(let p of pap) {
     const org = p.fields[field]
     if(!org) {
-      console.log("ORG MISSING FROM",type,p.title)
+      //console.log(field+" empty in",type,p.title)
     }
     else {
       const elt = ctx.me2b.locateElementByLabel(org)
-      if(!elt)
-        console.log("ORG NOT FOUND",org)
+      if(!elt) {
+        //console.log("ORG NOT FOUND",org)
+      }
       else {
         new Me2BConnection(elt.title,p.title,relation,ctx.me2b)
-        console.log("LINKING",elt.title,relation,p.title)
+        //console.log("LINKING",elt.title,relation,p.title)
         for(let mapname of mapnames) {
           elt.addToListField('tmap.names',mapname)
           p.addToListField('tmap.names',mapname)
         }
        }
+    }
+  }
+
+}
+function linkpeople(type:string,field:string,relation:string,ctx:Context,mapnames:string[]) {
+  const pap = ctx.me2b.findElementsByType(type)
+  console.log("Linking People",pap)
+  for(let p of pap) {
+    const people = p.fields[field]
+    if(!people) {
+      console.log("PERSON MISSING FROM",type,p.title)
+    }
+    else {
+      console.log("PEOPLE",people)
+/*
+      const elt = ctx.me2b.locateElementByLabel(person)
+      if(!elt)
+        console.log("PERSON NOT FOUND",org)
+      else {
+        new Me2BConnection(elt.title,p.title,relation,ctx.me2b)
+        console.log("LINKING",elt.title,relation,p.title)
+       }
+*/
     }
   }
 
@@ -39,8 +63,10 @@ export function linkOrganizationsToOrganizations(ctx:Context) {
   linkorg("organization","parent.org","Sponsors",ctx,[])
 }
 export function linkOrganizationsToPeople(ctx:Context) {
+  linkpeople("person","key.people","Associate",ctx,[])
 }
 export function linkPublicationsToAuthors(ctx:Context) {
+  linkpeople("person","authors.editors","Author/Editor",ctx,[])
 }
 export function createMe2BStar(ctx:Context) {
   const M = ctx.me2b.locateElementByLabel("Me2B Alliance")
@@ -59,16 +85,16 @@ export function createMe2BStar(ctx:Context) {
       else {
         var rel:string = ""
         try {
-          for (rel of Array.from(relset.values())) {
-            const metaModelTypeElement = M.model.ensureElementWithLabel(rel,"Me2B Relationship")
-            //ctx.tiddly.registerNamedMap('me2bstar')
-            //ctx.tiddly.registerNamedMap('me2bstar-'+ctx.me2b.slugify(rel))
-            //new Me2BConnection(M.title,p.title,rel,ctx.me2b)
-            //M.addToListField('tmap.names','me2bstar')
-            //p.addToListField('tmap.names','me2bstar')
-            //M.addToListField('tmap.names','me2bstar-'+ctx.me2b.slugify(rel))
-            //p.addToListField('tmap.names','me2bstar-'+ctx.me2b.slugify(rel))
-            //console.log("MAP2:",'me2bstar-'+p.model.ctx.me2b.slugify(rel),p.title)
+          for (let part of Array.from(relset.values())) {
+            part = part.trim()
+            if(part.startsWith("[[")) {
+              const oldpart = part
+              part = part.slice(2,part.length-2)
+              //console.log("OLDNEW",oldpart,part)
+            }
+            if(part) {
+              const metaModelTypeElement = M.model.ensureMetamodelElementWithLabel(part,"metamodel","Me2B Relationship")
+            }
           }
         }
         catch(E) {

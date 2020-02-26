@@ -30,7 +30,7 @@ function getPublicationOrgs(elt:KumuElement) {
 export const mappers:any = {
   kumu_start_date(colName:string,dflt:string = '') {
     function mapper(elt:KumuElement,schema:SchemaPropertyDef):string {
-      console.log("ELT.fields",colName,elt.fields[colName],elt.fields)
+      //console.log("ELT.fields",colName,elt.fields[colName],elt.fields)
       return elt.fields[colName] || dflt
     }
     return mapper
@@ -84,7 +84,7 @@ export const mappers:any = {
         for(let a of t)
           tags.add("[["+trimit(a)+"]]")
       }
-      console.log("TAG-ARRAY",elt.type,"/",colname,":",tags)
+      //console.log("TAG-ARRAY",elt.type,"/",colname,":",tags)
       return tags
     }
     return mapper
@@ -134,12 +134,12 @@ export const mappers:any = {
   direct_csv_value(column_name:string) {
     function mapper(elt:Me2BElement,schema:SchemaPropertyDef):string|string[] {
       const colname = elt.model.slugify(column_name)
-      const val = elt.slugmap[colname] || ''
+      const val = (elt.slugmap[colname] || '').trim()
       //console.log("Running Mapper",me2b_slugify(column_name),val,Object.keys(elt.slugmap))
-      if(val)
-        console.log("CSV-VALUE",elt.type,elt.title,"/",colname,":",val)
-      else
-        console.log("CSV-EMPTY",colname)
+      //if(val)
+      //  console.log("CSV-VALUE",elt.type,elt.title,"/",colname,":",val)
+      //else
+      //  console.log("CSV-EMPTY",colname)
       return val
     }
     return mapper
@@ -147,12 +147,12 @@ export const mappers:any = {
   csv_value(column_name:string) {
     function mapper(elt:Me2BElement,schema:SchemaPropertyDef):string|string[] {
       const colname = elt.model.slugify(column_name)
-      const val = elt.slugmap[colname] || ''
+      const val = (elt.slugmap[colname] || '').trim()
       //console.log("Running Mapper",me2b_slugify(column_name),val,Object.keys(elt.slugmap))
-      if(val)
-        console.log("CSV-VALUE",elt.type,elt.title,"/",colname,":",val)
-      else
-        console.log("CSV-EMPTY",colname)
+      //if(val)
+      //  console.log("CSV-VALUE",elt.type,elt.title,"/",colname,":",val)
+      //else
+      //  console.log("CSV-EMPTY",colname)
       return val
     }
     return mapper
@@ -204,14 +204,14 @@ export const mappers:any = {
       const tags = new Set<string>()
       if(tagdata) {
         const t = tagdata.split("\n").join(":").split(",").join(":").split(":")
-        console.log("MAPPED CATEGORY",colName,tagdata,t,elt.fields)
+        //console.log("MAPPED CATEGORY",colName,tagdata,t,elt.fields)
         for(let a of t)
           tags.add("[["+trimit(a)+"]]")
       }
       else {
         tags.add("[[TO BE DETERMINED]]")
       }
-      console.log("ST TAG-ARRAY",elt.type,"/",colname,":",tags)
+      //console.log("ST TAG-ARRAY",elt.type,"/",colname,":",tags)
       const vals = [] as string[]
       tags.forEach((v) => { vals.push(v.trim()) })
       const tstr = vals.join(" ")

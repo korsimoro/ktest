@@ -76,7 +76,7 @@ export class Me2BConnection {
 		this.type = type
 		this.model.connectionTypes.add(type)
 		this.from.outbound[this.guid] = this
-		console.log("LINKED:",this.from.title,type,this.to.title,this.model.connectionTypes.size)
+		//console.log("CREATED CONNECTION:",this.from.title,type,this.to.title,this.model.connectionTypes.size)
 	}
 }
 
@@ -174,11 +174,20 @@ export class Me2BModel
 		return result
 	}
 
-	ensureElementWithLabel(label:string,type:string):Me2BElement {
+	ensureMetamodelElementWithLabel(label:string,type:string,subtype:string):Me2BElement {
 		const result = this.elementTitleSlugMap[this.slugify(label)]
 		if(result) {
 			if(result.type != type) {
-				console.log("Type Mismatch, ensureElementWithLabel" + label + ":" + result.type + ":" + type)
+				console.log("Type Mismatch, ensureElementWithLabel '" + label + "' :got " + result.type + ":expected " + type)
+			}
+			else {
+				if(result.subtype != subtype) {
+					console.log("Sub Type Mismatch, ensureElementWithLabel '" + label + "' :got " + result.subtype + ":expected " + subtype)
+				}
+				else {
+					console.log("Match")
+				}
+
 			}
 			return result
 		}
@@ -186,8 +195,9 @@ export class Me2BModel
 		const elt = new SimpleMe2BElement({
 			},"metamodel",this)
 		elt.title=label
-		elt.subtype=type
-		elt.fields['metamodel.subtype']=type
+		elt.subtype=subtype
+		elt.fields['element_classification']='metamodel'
+		elt.fields['metamodel.subtype']=subtype
 		elt.fields['tw-icon']=getIcon(type)
 		this.encounterElement(elt)
 		return elt

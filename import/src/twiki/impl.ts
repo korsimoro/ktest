@@ -6,7 +6,7 @@ import { subtypeFields } from '../mappers'
 import { TiddlyModel,tiddlydate  } from '.'
 import { TiddlerData  } from './tiddlers'
 import { NodeTiddler, SimpleNodeTiddler } from './node-tiddler'
-import { EdgeTypeTiddler,NodeTypeTiddler, SimpleEdgeTypeTiddler, SimpleNodeTypeTiddler, SimpleTiddlyMap, NeighborMap} from './tiddlymap'
+import { EdgeTypeTiddler,NodeTypeTiddler, SimpleEdgeTypeTiddler, SimpleNodeTypeTiddler, SimpleTiddlyMap, NeighborMap, TagMap} from './tiddlymap'
 
 
 export class TiddlyModelImpl implements TiddlyModel {
@@ -134,17 +134,41 @@ export class TiddlyModelImpl implements TiddlyModel {
 	}
 
 	async save():Promise<void> {
-		console.log("Writing Nodes");
+		console.log("Writing Non Metamodel Nodes");
 		for(let node of this.nodes()) {
-			const dir = node.tiddlerdir()
-			const path = node.tiddlerfile()
-			const data = node.tiddlerdata()
-			await this.ensurePath(dir)
-			//console.log("Writing Tiddler:",path)
-			await fs.writeFile(path,data)
+			if(node.type != 'metamodel') {
+				const dir = node.tiddlerdir()
+				const path = node.tiddlerfile()
+				const data = node.tiddlerdata()
+				await this.ensurePath(dir)
+				//console.log("Writing Tiddler:",path)
+				await fs.writeFile(path,data)
 
-			const map = new NeighborMap(node,this)
-			await map.save()
+				const map = new NeighborMap(node,this)
+				await map.save()
+			}
+
+		}
+		console.log("Writing Metamodel Nodes");
+		for(let node of this.nodes()) {
+			if(node.type == 'metamodel') {
+				const dir = node.tiddlerdir()
+				const path = node.tiddlerfile()
+				const data = node.tiddlerdata()
+				await this.ensurePath(dir)
+				console.log("Writing Tiddler:",path)
+				await fs.writeFile(path,data)
+
+				const map = new TagMap(node,this,[
+					"activities",
+					"purpose",
+					"digital.harms.addressed",
+					"tags",
+					"tech.focus"
+				])
+				await map.save()
+			}
+
 		}
 
 		console.log("Writing Edge Types");
@@ -153,7 +177,7 @@ export class TiddlyModelImpl implements TiddlyModel {
 			const path = type.tiddlerfile()
 			const data = type.tiddlerdata()
 			await this.ensurePath(dir)
-			console.log("Writing Edge Type:",path)
+			//console.log("Writing Edge Type:",path)
 			await fs.writeFile(path,data)
 		}
 
@@ -163,7 +187,7 @@ export class TiddlyModelImpl implements TiddlyModel {
 			const path = type.tiddlerfile()
 			const data = type.tiddlerdata()
 			await this.ensurePath(dir)
-			console.log("Writing Node Type:",path)
+			//console.log("Writing Node Type:",path)
 			await fs.writeFile(path,data)
 		}
 

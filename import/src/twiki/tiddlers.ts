@@ -57,7 +57,7 @@ export class SimpleTiddler implements Tiddler
 		this.guid = uuid.v4()
 		this.base = base
 
-		this.title = data.title || "untitled"
+		this.title = (data.title || "untitled").trim()
 		this.created = data.created || Date.now()
 		this.modified = data.modified || Date.now()
 		this.type = data.type || TIDDLERTYPE

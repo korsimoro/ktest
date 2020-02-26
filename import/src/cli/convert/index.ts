@@ -46,6 +46,8 @@ async function convert(inbase:string) {
 	console.log("Load Me2B");
   await ctx.me2b.load()
 	analyzeMe2BDataToCreateGraphs(ctx)
+
+/*
 	for(let elt of ctx.me2b.findElementsByType("organization")) {
 		createAndLinkNodesForListField(elt,"activities","Activity")
 		createAndLinkNodesForListField(elt,"purpose","Purpose")
@@ -54,6 +56,7 @@ async function convert(inbase:string) {
 		createAndLinkNodesForListField(elt,"tech.focus","Tech Focus")
 		//createAndLinkNodesForListField(elt,"People","Related Person")
 	}
+	*/
 	/*
 	for(let mapname of [
 		'pop-to-orgs','all-organizations','pubs-to-orgs','wg-to-orgs','orgs-to-orgs'

@@ -35,12 +35,12 @@ export function createAndLinkNodesForListField(elt:Me2BElement,field:string,type
     if(part.startsWith("[[")) {
       const oldpart = part
       part = part.slice(2,part.length-2)
-      console.log("OLDNEW",oldpart,part)
+      //console.log("OLDNEW",oldpart,part)
     }
     if(part) {
       //const label=part + "(" + type + ")"
-      const metaModelTypeElement = elt.model.ensureElementWithLabel(part,type)
-      new Me2BConnection(metaModelTypeElement.title,elt.title,type,elt.model)
+      const metaModelTypeElement = elt.model.ensureMetamodelElementWithLabel(part,'metamodel',type)
+      //new Me2BConnection(metaModelTypeElement.title,elt.title,type,elt.model)
       /*
       metaModelTypeElement.addToListField('tmap.names','me2bstar')
       metaModelTypeElement.addToListField('tmap.names','me2bstar-'+elt.model.ctx.me2b.slugify(type))

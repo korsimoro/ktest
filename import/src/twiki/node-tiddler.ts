@@ -30,10 +30,10 @@ export class SimpleNodeTiddler extends SimpleTiddler implements NodeTiddler
 		for(let k in this.fields)
 			this.sorted_keys.push(k)
 		this.sorted_keys.sort()
-		console.log("SET:",this.tmap_id,this.guid,this.title)
+		//console.log("SET:",this.tmap_id,this.guid,this.title)
 	}
 
-	tiddlerdir():string {
+	tiddlerbasedir():string {
 		if(!this.element_type)
 			return this.base.nodesPath
 		else
@@ -41,6 +41,12 @@ export class SimpleNodeTiddler extends SimpleTiddler implements NodeTiddler
 				return path.join(this.base.nodesPath,this.element_type)
 			else
 				return path.join(this.base.nodesPath,this.element_type,slugify(this.element_subtype,{lower:true}))
+	}
+	tiddlerdir():string {
+		return path.join(this.tiddlerbasedir(),slugify(this.title,{lower:false}))
+	}
+	tiddlerfile():string {
+		return path.join(this.tiddlerdir(),'wiki.tid')
 	}
 
 	tiddlerdata() {
